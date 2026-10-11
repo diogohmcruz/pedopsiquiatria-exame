@@ -1,0 +1,16 @@
+{
+  "name": "Estudo para o exame de pedopsiquiatria",
+  "short_name": "Pedopsiquiatria",
+  "description": "Quiz de escolha múltipla para estudar para o exame teórico de pedopsiquiatria.",
+  "lang": "pt-PT",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F9F9F7",
+  "theme_color": "#F9F9F7",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

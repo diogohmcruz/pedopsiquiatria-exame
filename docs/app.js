@@ -1,5 +1,6 @@
 (function () {
   'use strict';
+  const VERSION = '1.0.0';
   const QUIZ_SIZE = 10;
   const KEY = 'exame.v1';
   const BANK = window.BANK || [];
@@ -8,13 +9,27 @@
 
   // estado persistente: seen (nº de vezes vista), last (ok|ko), wrong (histórico de erradas), flags (sinalizações)
   // history: um registo por quiz terminado { at, score, total }
-  const fresh = () => ({ seen: {}, last: {}, wrong: {}, flags: {}, history: [], histMode: 'acc' });
+  const fresh = () => ({ seen: {}, last: {}, wrong: {}, flags: {}, history: [], histMode: 'acc', keys: {} });
   let S = load();
   function load() {
     try { return Object.assign(fresh(), JSON.parse(localStorage.getItem(KEY)) || {}); }
     catch (e) { return fresh(); }
   }
   function save() { localStorage.setItem(KEY, JSON.stringify(S)); }
+
+  // Se a resposta certa de uma pergunta mudar (correção do banco), o histórico dessa pergunta é reposto
+  // e a sinalização cai, para não contar como certa ou errada uma pergunta que já não é a mesma.
+  const sig = q => { let x = 5381; for (const c of q.options[q.correct]) x = ((x << 5) + x + c.charCodeAt(0)) | 0; return String(x); };
+  function reconcile() {
+    let n = 0;
+    for (const q of BANK) {
+      const k = sig(q), old = S.keys[q.id];
+      if (old !== undefined && old !== k) { delete S.seen[q.id]; delete S.last[q.id]; delete S.wrong[q.id]; delete S.flags[q.id]; n++; }
+      S.keys[q.id] = k;
+    }
+    save();
+    return n;
+  }
 
   function h(tag, attrs, ...kids) {
     const el = document.createElement(tag);
@@ -26,10 +41,10 @@
     for (const kid of kids.flat()) if (kid != null && kid !== false) el.append(kid.nodeType ? kid : document.createTextNode(kid));
     return el;
   }
-  function toast(msg) {
+  function toast(msg, ms) {
     const t = document.getElementById('toast');
     t.textContent = msg; t.hidden = false;
-    clearTimeout(toast.t); toast.t = setTimeout(() => { t.hidden = true; }, 2600);
+    clearTimeout(toast.t); toast.t = setTimeout(() => { t.hidden = true; }, ms || 2600);
   }
   function shuffle(a) {
     for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; }
@@ -181,11 +196,18 @@
         h('button', { class: 'primary', disabled: available === 0, onclick: start }, 'Começar quiz'),
         h('span', { class: 'spacer' }),
         h('button', { class: 'ghost', onclick: exportWrong }, 'Exportar erradas'),
-        h('button', { class: 'ghost', onclick: exportFlags }, 'Exportar sinalizadas'),
+        h('button', { class: 'ghost', onclick: exportFlags }, 'Exportar sinalizadas')),
+      h('div', { class: 'bar' },
+        h('button', { class: 'ghost', onclick: exportProgress }, 'Guardar progresso (ficheiro)'),
+        h('button', { class: 'ghost', onclick: () => importInput.click() }, 'Carregar progresso'),
+        h('span', { class: 'spacer' }),
         h('button', { class: 'ghost', onclick: reset }, 'Apagar progresso')),
       available === 0 ? h('p', { class: 'empty' }, 'O banco de perguntas está vazio. Corre scripts/build-bank.js.') : null,
       h('p', { class: 'sub', style: 'margin-top:28px' },
-        'Material de estudo gerado a partir de conteúdo ainda em rascunho. Em cada pergunta vês a fonte; se algo parecer errado, sinaliza. Os critérios dos domínios e das hipóteses diagnósticas foram revistos contra o DSM-5-TR e a CID-11; quando as duas classificações diferem, a pergunta diz qual segue.'));
+        'Material de estudo gerado a partir de conteúdo ainda em rascunho. Em cada pergunta vês a fonte; se algo parecer errado, sinaliza. Os critérios dos domínios e das hipóteses diagnósticas foram revistos contra o DSM-5-TR e a CID-11; quando as duas classificações diferem, a pergunta diz qual segue.'),
+      h('p', { class: 'sub', style: 'margin-top:10px' },
+        'Não substitui o julgamento clínico nem serve para prescrever: as doses são as das fontes citadas e podem estar desatualizadas. O progresso fica só neste browser; guarda-o num ficheiro para não o perder.'),
+      h('p', { class: 'sub', style: 'margin-top:10px;color:var(--faint)' }, 'v' + VERSION));
   }
   function stat(n, label) { return h('div', { class: 'stat' }, h('b', {}, String(n)), h('span', {}, label)); }
 
@@ -303,6 +325,23 @@
   }
 
   // ---------- exportações ----------
+  const importInput = h('input', { type: 'file', accept: 'application/json', hidden: true });
+  importInput.addEventListener('change', async () => {
+    const f = importInput.files[0]; importInput.value = '';
+    if (!f) return;
+    try {
+      const d = JSON.parse(await f.text()).data;
+      if (!d || typeof d.seen !== 'object' || typeof d.wrong !== 'object' || !Array.isArray(d.history)) throw new Error('formato');
+      if (!confirm('Substituir o progresso deste browser pelo do ficheiro?')) return;
+      S = Object.assign(fresh(), d); S.keys = S.keys || {};
+      const n = reconcile(); home();
+      toast('Progresso carregado' + (n ? '; ' + n + ' perguntas corrigidas tiveram o histórico reposto' : ''), 5000);
+    } catch (e) { toast('Ficheiro inválido: não é um progresso guardado por esta página', 5000); }
+  });
+  document.body.append(importInput);
+  function exportProgress() {
+    download('progresso-exame-' + new Date().toISOString().slice(0, 10) + '.json', { app: 'exame-pedopsiquiatria', versao: VERSION, guardado_em: new Date().toISOString(), data: S });
+  }
   function exportWrong() {
     const rows = Object.entries(S.wrong).filter(([id]) => byId[id]).map(([id, w]) => {
       const q = byId[id];
@@ -321,5 +360,8 @@
     download('sinalizadas-' + new Date().toISOString().slice(0, 10) + '.json', rows);
   }
 
+  const reset_n = reconcile();
   home();
+  if (reset_n) toast(reset_n + ' perguntas foram corrigidas e o seu histórico foi reposto', 6000);
+  window.addEventListener('app-update', () => toast('Há uma versão nova. Recarrega a página para a usar.', 8000));
 })();

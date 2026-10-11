@@ -2,7 +2,9 @@
 
 Site estático em `docs/` (publicado na GitHub Page). Abre `docs/index.html` no browser; o progresso fica no `localStorage`.
 
-Ver `CONTEXT.md` para o vocabulário.
+Ver `CONTEXT.md` para o vocabulário e `CHANGELOG.md` para as versões.
+
+Para publicar uma versão nova: corre `node scripts/build-bank.js`, muda `VERSION` em `docs/app.js` e `CACHE` em `docs/sw.js` (para os dispositivos instalados receberem o aviso de versão nova) e atualiza o `CHANGELOG.md`.
 
 ## Fluxo de dados
 

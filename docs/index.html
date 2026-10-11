@@ -4,6 +4,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Estudo para o exame · Pedopsiquiatria</title>
+<meta name="theme-color" content="#F9F9F7">
+<meta name="description" content="Quiz de escolha múltipla para estudar para o exame teórico de pedopsiquiatria.">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/svg+xml" href="icons/icon.svg">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Pedopsiquiatria">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -21,5 +28,13 @@
 </div>
 <script src="bank.js"></script>
 <script src="app.js"></script>
+<script>
+if ('serviceWorker' in navigator) window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').then(reg => {
+  reg.addEventListener('updatefound', () => {
+    const nw = reg.installing;
+    nw.addEventListener('statechange', () => { if (nw.state === 'installed' && navigator.serviceWorker.controller) window.dispatchEvent(new Event('app-update')); });
+  });
+}).catch(() => {}));
+</script>
 </body>
 </html>
