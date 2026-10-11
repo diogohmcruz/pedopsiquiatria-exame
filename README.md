@@ -17,5 +17,5 @@ No site, "Exportar sinalizadas" dá um JSON com o id e a nota de cada uma. Corri
 
 ## Lacunas
 
-- DSM-5-TR por analisar: os critérios seguem a CID-11 e as guidelines citadas.
+- Os critérios dos domínios e das hipóteses diagnósticas já foram revistos contra o DSM-5-TR e a CID-11.
 - Todo o conteúdo de origem é rascunho não validado.

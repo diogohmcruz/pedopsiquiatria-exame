@@ -131,7 +131,7 @@
    "Perturbação do desenvolvimento intelectual, com comportamento social em linha com o nível de desenvolvimento"
   ],
   "correct": 2,
-  "explanation": "A fonte exige história de cuidados gravemente insuficientes e comportamento persistente e pervasivo com pouca reserva perante desconhecidos, antes dos 5 anos, e frisa que a disposição para ir com desconhecidos é risco de segurança. O que distingue da extroversão é o carácter disfuncional e a história de cuidados insuficientes, e a PHDA ou a deficiência intelectual não explicam melhor este padrão nos dados da vinheta.",
+  "explanation": "Segundo a CID-11, exige história de cuidados gravemente insuficientes e comportamento persistente e pervasivo com pouca reserva perante desconhecidos, evidente antes dos 5 anos (o DSM-5-TR não exige esta idade, mas a vinheta cumpre ambos os critérios); a fonte frisa que a disposição para ir com desconhecidos é risco de segurança. O que distingue da extroversão é o carácter disfuncional e a história de cuidados insuficientes, e a PHDA ou a deficiência intelectual não explicam melhor este padrão nos dados da vinheta.",
   "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B45 (pp. 358-360); NICE NG26 (publicada 25/11/2015), https://www.nice.org.uk/guidance/ng26/chapter/Recommendations (1.3.2, 1.3.6). Divergência: o NG26 refere DSM-5 e CID-10; seguida a CID-11; DSM-5-TR fica para fase posterior. Sem tratamento nesta entrada.",
   "dose": false
  },
@@ -208,15 +208,15 @@
   "itemId": "h-ingestao-compulsiva",
   "category": "hipoteses",
   "type": "memoria",
-  "text": "Qual a divergência entre o DSM-5 (via AAP 2021) e a CID-11 quanto às características dos episódios de ingestão compulsiva, segundo a fonte citada?",
+  "text": "Qual a divergência entre o DSM-5-TR e a CID-11 quanto às características dos episódios de ingestão compulsiva, segundo a fonte citada?",
   "options": [
-   "A CID-11 exige 3 ou mais características dos episódios (por exemplo comer depressa, até desconforto); o DSM-5 apresenta-as como adicionais, não obrigatórias",
-   "O DSM-5 exige 3 ou mais características dos episódios (por exemplo comer depressa, até desconforto); a CID-11 apresenta-as como adicionais, não obrigatórias",
-   "O DSM-5 exige comportamentos compensatórios regulares na ingestão compulsiva, como vómitos ou laxantes; a CID-11 não os exige",
+   "A CID-11 exige 3 ou mais características dos episódios (por exemplo comer depressa, até desconforto); o DSM-5-TR apresenta-as como adicionais, não obrigatórias",
+   "O DSM-5-TR exige 3 ou mais características dos episódios (por exemplo comer depressa, até desconforto); a CID-11 apresenta-as como adicionais, não obrigatórias",
+   "O DSM-5-TR exige comportamentos compensatórios regulares na ingestão compulsiva, como vómitos ou laxantes; a CID-11 não os exige",
    "Ambos exigem as mesmas características obrigatórias, diferindo apenas no nome da perturbação e no limiar de frequência"
   ],
   "correct": 1,
-  "explanation": "A fonte refere que o DSM-5 (AAP 2021) exige 3 ou mais características dos episódios, enquanto a CID-11 as apresenta como características adicionais, não obrigatórias, e que se seguiu a CID-11. Atribuir a exigência das 3 ou mais características à CID-11 e não ao DSM-5 inverte o que a fonte diz. A compensação regular exclui a ingestão compulsiva e aponta para bulimia nervosa, e a fonte não atribui essa exigência ao DSM-5 nem diz que os dois sistemas exigem as mesmas características obrigatórias.",
+  "explanation": "A fonte refere que o DSM-5-TR (e a AAP 2021) exige 3 ou mais características dos episódios, enquanto a CID-11 as apresenta como características adicionais, não obrigatórias, e que se seguiu a CID-11. Atribuir a exigência das 3 ou mais características à CID-11 e não ao DSM-5-TR inverte o que a fonte diz. A compensação regular exclui a ingestão compulsiva e aponta para bulimia nervosa, e a fonte não atribui essa exigência ao DSM-5-TR nem diz que os dois sistemas exigem as mesmas características obrigatórias.",
   "source": "ICD-11 CDDR secção 6B82 Binge-eating disorder (pp. 407-410; texto lido na cópia do PDF) https://www.who.int/publications/i/item/9789240077263 (texto lido na cópia com o mesmo ISBN 978-92-4-007726-3, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf); AAP, Hornberger et al., Pediatrics 2021;147(1):e2020040279, https://publications.aap.org/pediatrics/article/147/1/e2020040279/33504/Identification-and-Management-of-Eating-Disorders (quadro DSM-5 e quadro 4). Divergência indicada em 'confirm'; seguiu-se a CID-11.",
   "dose": false
  },
@@ -242,7 +242,7 @@
   "itemId": "h-ruminacao-regurgitacao",
   "category": "hipoteses",
   "type": "memoria",
-  "text": "A partir de que idade de desenvolvimento se pode diagnosticar a perturbação de ruminação-regurgitação, segundo a fonte citada?",
+  "text": "A partir de que idade de desenvolvimento se pode diagnosticar a perturbação de ruminação-regurgitação, segundo a CID-11 (6B85)?",
   "options": [
    "Pelo menos 6 meses, incluindo lactentes, desde que a regurgitação seja persistente",
    "Pelo menos 1 ano, incluindo lactentes, com regurgitação persistente após as refeições",
@@ -250,7 +250,7 @@
    "Pelo menos 2 anos; em lactentes aplica-se a síndrome de ruminação do lactente"
   ],
   "correct": 3,
-  "explanation": "A fonte fixa a idade de desenvolvimento de pelo menos 2 anos e diz que em lactentes não se diagnostica esta perturbação, existindo a síndrome de ruminação do lactente no capítulo digestivo da CID-11. As outras idades não constam da fonte.",
+  "explanation": "A CID-11 fixa a idade de desenvolvimento de pelo menos 2 anos e diz que em lactentes não se diagnostica esta perturbação, existindo a síndrome de ruminação do lactente no capítulo digestivo da CID-11 (o DSM-5-TR não fixa idade mínima). As outras idades não constam da CID-11.",
   "source": "ICD-11 CDDR secção 6B85 Rumination-regurgitation disorder (pp. 416-418; texto lido na cópia do PDF) https://www.who.int/publications/i/item/9789240077263 (texto lido na cópia com o mesmo ISBN 978-92-4-007726-3, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf); AAP, Hornberger et al., Pediatrics 2021;147(1):e2020040279, https://publications.aap.org/pediatrics/article/147/1/e2020040279/33504/Identification-and-Management-of-Eating-Disorders (quadro 4). Duração segundo o CDDR ('várias semanas'), não 1 mês do DSM-5 (releitura dal-18).",
   "dose": false
  },
@@ -429,7 +429,7 @@
   "itemId": "h-perturbacao-sofrimento-corporal",
   "category": "hipoteses",
   "type": "caso",
-  "text": "Rapariga de 12 anos com dor abdominal quase todos os dias há 5 meses, várias consultas e exames normais, e uma mãe muito preocupada que a leva repetidamente aos serviços. A criança continua centrada na dor apesar do reasseguramento, falta à escola, e não tem alterações do humor nem preocupação generalizada. Qual a hipótese mais adequada segundo a fonte citada?",
+  "text": "Rapariga de 12 anos com dor abdominal quase todos os dias há 5 meses, várias consultas e exames normais, e uma mãe muito preocupada que a leva repetidamente aos serviços. A criança continua centrada na dor apesar do reasseguramento, falta à escola, e não tem alterações do humor nem preocupação generalizada. Qual a hipótese mais adequada segundo a CID-11?",
   "options": [
    "Perturbação de sofrimento corporal (6C20)",
    "Perturbação neurológica funcional (6B60)",
@@ -437,7 +437,7 @@
    "Perturbação de ansiedade generalizada"
   ],
   "correct": 0,
-  "explanation": "A fonte descreve sintomas corporais persistentes (em crianças, geralmente um só, como a dor abdominal) durante pelo menos vários meses, atenção excessiva mantida apesar de exame e reasseguramento, prejuízo significativo, e o agravamento por respostas dos pais. A vinheta não tem sintomas motores ou sensoriais funcionais, nem alterações do humor ou ansiedade generalizada que expliquem melhor o quadro.",
+  "explanation": "A CID-11 descreve sintomas corporais persistentes (em crianças, geralmente um só, como a dor abdominal) durante pelo menos vários meses, atenção excessiva mantida apesar de exame e reasseguramento, prejuízo significativo, e o agravamento por respostas dos pais. A vinheta não tem sintomas motores ou sensoriais funcionais, nem alterações do humor ou ansiedade generalizada que expliquem melhor o quadro.",
   "source": "ICD-11 CDDR secção 6C20 Bodily distress disorder (pp. 429-435; texto lido na cópia do PDF) https://www.who.int/publications/i/item/9789240077263 (texto lido na cópia com o mesmo ISBN 978-92-4-007726-3, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf). Sem guideline pediátrica lida: prática clínica (sem fonte) para a abordagem.",
   "dose": false
  },
@@ -446,7 +446,7 @@
   "itemId": "h-depressao-major",
   "category": "hipoteses",
   "type": "caso",
-  "text": "Rapariga de 13 anos cuja avó faleceu há 2 meses. Desde então tem sintomas depressivos contínuos, com culpa intensa que não tem relação com a avó (considera-se má pessoa) e ideação suicida. Segundo a fonte citada, como se interpreta?",
+  "text": "Rapariga de 13 anos cuja avó faleceu há 2 meses. Desde então tem sintomas depressivos contínuos, com culpa intensa que não tem relação com a avó (considera-se má pessoa) e ideação suicida. Segundo a CID-11, como se interpreta?",
   "options": [
    "Luto normal, porque a perda foi há menos de 6 meses, sem avaliar o risco",
    "Perturbação de luto prolongado, porque os sintomas são contínuos desde a perda",
@@ -454,7 +454,7 @@
    "Suspeitar de episódio depressivo e não de luto normal, avaliando o risco"
   ],
   "correct": 3,
-  "explanation": "A fonte manda excluir luto normal (morte há menos de 6 meses), mas suspeitar de episódio depressivo se houver sintomas contínuos 1 mês ou mais após a perda, culpa grave não ligada ao falecido, sintomas psicóticos, ideação suicida ou lentificação psicomotora, e perguntar sempre por ideias de suicídio. A vinheta tem sintomas contínuos há 2 meses, culpa não ligada à avó e ideação suicida, pelo que se suspeita de episódio depressivo e se avalia o risco. O luto prolongado e a perturbação de adaptação figuram na fonte apenas como diagnósticos diferenciais, sem nada que lhes dê prioridade sobre o episódio depressivo.",
+  "explanation": "A CID-11 manda excluir luto normal (morte há menos de 6 meses), mas suspeitar de episódio depressivo se houver sintomas contínuos 1 mês ou mais após a perda, culpa grave não ligada ao falecido, sintomas psicóticos, ideação suicida ou lentificação psicomotora, e perguntar sempre por ideias de suicídio. A vinheta tem sintomas contínuos há 2 meses, culpa não ligada à avó e ideação suicida, pelo que se suspeita de episódio depressivo e se avalia o risco. O luto prolongado e a perturbação de adaptação figuram na fonte apenas como diagnósticos diferenciais, sem nada que lhes dê prioridade sobre o episódio depressivo.",
   "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), secção Mood disorders: episódio depressivo (pp. 212-217), 6A70 (pp. 244-245), 6A71 (pp. 246-254); AACAP, Walter et al., JAACAP 2023;62(5):479-502, https://www.jaacap.org/article/S0890-8567(22)01852-4/fulltext (diferencial e comorbilidades); NICE NG134 (publicada 25/06/2019), https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (1.1.7, 1.1.11). Divergência: o NG134 não define critérios diagnósticos; os critérios seguidos são os da CID-11; DSM-5-TR fica para fase posterior (a AACAP 2023 descreve o DSM-5-TR: 2 semanas).",
   "dose": false
  },
@@ -514,15 +514,15 @@
   "itemId": "h-anorexia-nervosa",
   "category": "hipoteses",
   "type": "memoria",
-  "text": "Quanto ao medo de engordar na anorexia nervosa, qual a divergência entre a CID-11 e o DSM-5 (via AAP 2021), segundo a fonte citada?",
+  "text": "Quanto ao medo de engordar na anorexia nervosa, qual a divergência entre a CID-11 e o DSM-5-TR, segundo a fonte citada?",
   "options": [
-   "A CID-11 exige sempre medo explícito de engordar; o DSM-5 não o exige, aceitando só o baixo peso",
+   "A CID-11 exige sempre medo explícito de engordar; o DSM-5-TR não o exige, aceitando só o baixo peso",
    "Nenhum dos sistemas considera o medo de engordar nem os comportamentos que impedem o ganho de peso como parte do diagnóstico",
    "Ambos exigem sempre medo explícito de engordar e fixam percentis para definir o peso baixo",
-   "Na CID-11 o medo explícito de engordar não é obrigatório; o DSM-5 exige medo de engordar ou comportamentos que impedem o ganho"
+   "Na CID-11 o medo explícito de engordar não é obrigatório; o DSM-5-TR exige medo de engordar ou comportamentos que impedem o ganho"
   ],
   "correct": 3,
-  "explanation": "A fonte refere que a CID-11 não torna obrigatório o medo explícito de engordar, aceitando preocupação excessiva com peso ou forma, enquanto o DSM-5 (via AAP 2021) exige medo de engordar ou comportamentos que impedem o ganho de peso e não fixa percentis. A fonte segue a CID-11, que dá o limiar habitual de IMC abaixo do percentil 5 em crianças e adolescentes.",
+  "explanation": "A fonte refere que a CID-11 não torna obrigatório o medo explícito de engordar, aceitando preocupação excessiva com peso ou forma, enquanto o DSM-5-TR exige medo de engordar ou comportamentos que impedem o ganho de peso e não fixa percentis. A fonte segue a CID-11, que dá o limiar habitual de IMC abaixo do percentil 5 em crianças e adolescentes.",
   "source": "ICD-11 CDDR secção 6B80 Anorexia nervosa (pp. 398-404; texto lido na cópia do PDF) https://www.who.int/publications/i/item/9789240077263 (texto lido na cópia com o mesmo ISBN 978-92-4-007726-3, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf); NICE NG69, 2017 (atualizada em 2020), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations (rec. 1.2.5-1.2.9); AAP, Hornberger et al., Pediatrics 2021;147(1):e2020040279, https://publications.aap.org/pediatrics/article/147/1/e2020040279/33504/Identification-and-Management-of-Eating-Disorders (quadros DSM-5 e quadro 4). Divergência: o DSM-5 (via AAP 2021) não fixa percentis e exige medo de engordar ou comportamentos que impedem o ganho de peso; seguiu-se a CID-11.",
   "dose": false
  },

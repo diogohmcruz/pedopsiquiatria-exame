@@ -1,0 +1,393 @@
+[
+  {
+    "id": "h-depressao-major-q3",
+    "itemId": "h-depressao-major",
+    "category": "hipoteses",
+    "type": "memoria",
+    "text": "No DSM-5-TR, que intervalo mínimo sem critérios de episódio tem de separar dois episódios para a perturbação depressiva major ser classificada como recorrente?",
+    "options": [
+      "Pelo menos 2 semanas consecutivas sem qualquer sintoma depressivo",
+      "Pelo menos 2 meses consecutivos sem critérios de episódio depressivo major",
+      "Pelo menos 6 meses consecutivos sem critérios de episódio depressivo major",
+      "Pelo menos 12 meses consecutivos sem critérios de episódio depressivo major"
+    ],
+    "correct": 1,
+    "explanation": "No DSM-5-TR a forma recorrente exige pelo menos 2 meses seguidos sem critérios de episódio entre dois episódios; a CID-11 limita-se a falar em vários meses. Os intervalos de 6 e de 12 meses são mais longos do que o exigido, e 2 semanas é a duração mínima de um episódio, não do intervalo entre episódios.",
+    "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), secção Mood disorders: episódio depressivo (pp. 212-217), 6A70 (pp. 244-245), 6A71 (pp. 246-254); AACAP, Walter et al., JAACAP 2023;62(5):479-502, https://www.jaacap.org/article/S0890-8567(22)01852-4/fulltext (diferencial e comorbilidades); NICE NG134 (publicada 25/06/2019), https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (1.1.7, 1.1.11). DSM-5-TR (APA, 2022; índices de página do ficheiro dsm5tr__dsm5tr-completo.pdf.txt), Major Depressive Disorder: critérios e codificação (309-311), características (311-312), evolução e risco de bipolaridade (315-316), diagnóstico diferencial (318-320), comorbilidade (320); códigos DSM-5-TR (CID-10-CM) F32.x episódio único e F33.x recorrente (310-311). Nome, 5 sintomas em 2 semanas e exclusões confirmados no DSM-5-TR e na CID-11. Divergências mantidas: recorrência (DSM-5-TR pelo menos 2 meses consecutivos sem critérios; CID-11 vários meses) e luto (CID-11 até 6 meses; o DSM-5-TR não fixa prazo). O NG134 não define critérios diagnósticos. Índice de página do .txt do CDDR = página impressa + 18.",
+    "dose": false
+  },
+  {
+    "id": "h-distimia-q3",
+    "itemId": "h-distimia",
+    "category": "hipoteses",
+    "type": "memoria",
+    "text": "No DSM-5-TR, além do humor deprimido, quantos dos 6 sintomas adicionais (apetite, sono, energia, autoestima, concentração ou decisões, desesperança) são exigidos enquanto o humor está deprimido na perturbação depressiva persistente?",
+    "options": [
+      "Pelo menos 2 dos 6 sintomas adicionais, enquanto o humor está deprimido",
+      "Pelo menos 1 dos 6 sintomas adicionais, presente enquanto o humor está deprimido",
+      "Pelo menos 3 dos 6 sintomas adicionais, presentes enquanto o humor está deprimido",
+      "Pelo menos 4 dos 6 sintomas adicionais, presentes enquanto o humor está deprimido"
+    ],
+    "correct": 0,
+    "explanation": "O DSM-5-TR pede humor deprimido persistente mais pelo menos 2 dos 6 sintomas adicionais, ao passo que a CID-11 não fixa número mínimo de sintomas adicionais. Com 1 sintoma o limiar não é atingido, e 3 ou 4 seriam um limiar mais exigente do que o do manual.",
+    "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6A72 (pp. 255-258); AACAP, Walter et al., JAACAP 2023;62(5):479-502, https://www.jaacap.org/article/S0890-8567(22)01852-4/fulltext (duração de 1 ano em jovens, DSM-5-TR); NICE NG134 (publicada 25/06/2019), https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (cita a distimia só na categoria de depressão ligeira). DSM-5-TR (APA, 2022; índices de página do ficheiro dsm5tr__dsm5tr-completo.pdf.txt), Persistent Depressive Disorder: critérios (320-322), evolução e fatores de risco (322-323), diagnóstico diferencial (324-325), comorbilidade (325); código DSM-5-TR (CID-10-CM) F34.1 (320). Divergências mantidas: duração (CID-11 2 anos com possibilidade de cerca de 1 ano na criança; DSM-5-TR 1 ano em crianças e adolescentes); número de sintomas adicionais (CID-11 sem mínimo; DSM-5-TR 2 de 6); episódio depressivo nos primeiros 2 anos (CID-11 exclui; DSM-5-TR admite e diagnostica também depressão major). Índice de página do .txt do CDDR = página impressa + 18.",
+    "dose": false
+  },
+  {
+    "id": "h-ddm-q3",
+    "itemId": "h-ddm",
+    "category": "hipoteses",
+    "type": "memoria",
+    "text": "No DSM-5-TR, que limites de idade se aplicam ao diagnóstico de perturbação de desregulação disruptiva do humor?",
+    "options": [
+      "Primeiro diagnóstico entre os 3 e os 12 anos, com início dos sintomas antes dos 6",
+      "Primeiro diagnóstico entre os 6 e os 21 anos, com início dos sintomas antes dos 12",
+      "Primeiro diagnóstico entre os 4 e os 18 anos, com início dos sintomas antes dos 8",
+      "Primeiro diagnóstico entre os 6 e os 18 anos, com início antes dos 10"
+    ],
+    "correct": 3,
+    "explanation": "Os critérios do DSM-5-TR não permitem o primeiro diagnóstico antes dos 6 nem depois dos 18 anos e exigem início antes dos 10. A introdução do capítulo fala em crianças até aos 12 anos, mas a fonte segue os critérios, que são incoerentes com essa frase; as outras faixas não correspondem a nenhum limite referido.",
+    "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6C90 e especificadores (pp. 537-543); NIMH, Disruptive Mood Dysregulation Disorder: The Basics (revisto em 2023), https://www.nimh.nih.gov/health/publications/disruptive-mood-dysregulation-disorder; Rao U, DSM-5: Disruptive Mood Dysregulation Disorder, Asian J Psychiatr 2014, https://pmc.ncbi.nlm.nih.gov/articles/PMC4254488/ (fonte secundária do DSM-5); AACAP, Walter et al., JAACAP 2023;62(5):479-502, https://www.jaacap.org/article/S0890-8567(22)01852-4/fulltext (lista a DMDD como perturbação depressiva do DSM-5-TR, F34.81, sem critérios). DSM-5-TR (APA, 2022; índices de página do ficheiro dsm5tr__dsm5tr-completo.pdf.txt), Disruptive Mood Dysregulation Disorder: critérios (303-304), evolução e idades (305), diagnóstico diferencial (307-308), comorbilidade (308); código F34.81 (303). Critérios agora confirmados no DSM-5-TR (primária) em vez de só Rao 2014. Divergência mantida: CID-11 sem a categoria (6C90.0 ou 6A8Y), DSM-5-TR com ela e sem coexistência com oposição e desafio; discrepância interna de idade no DSM-5-TR (12 anos na introdução, 6 a 18 nos critérios) e no NIMH. NICE sem guideline lida. Índice de página do .txt do CDDR = página impressa + 18.",
+    "dose": false
+  },
+  {
+    "id": "h-bipolar-1-q3",
+    "itemId": "h-bipolar-1",
+    "category": "hipoteses",
+    "type": "caso",
+    "text": "Rapaz de 15 anos, internado por necessidade de o proteger de dano, que há 4 dias tem humor expansivo e aumento nítido de energia, diferentes do habitual, com grandiosidade, fala acelerada e 3 horas de sono por noite sem cansaço. Segundo o DSM-5-TR, como se interpreta a duração do quadro?",
+    "options": [
+      "Não cumpre critérios de mania: a duração mínima de 1 semana exige-se mesmo com internamento",
+      "É hipomania: 4 dias de humor elevado bastam, independentemente do internamento",
+      "Pode ser mania: com internamento, a duração mínima de 1 semana não se aplica",
+      "Só cumpre critérios se houver sintomas psicóticos, que substituem a exigência de duração"
+    ],
+    "correct": 2,
+    "explanation": "No DSM-5-TR a mania exige humor elevado, expansivo ou irritável com aumento de energia durante pelo menos 1 semana, ou qualquer duração se houver internamento, com 3 de 7 sintomas; aqui há 3 (grandiosidade, loquacidade, menor necessidade de sono). A hipomania, pelo contrário, define-se sem internamento, e a fonte não troca a duração pelos sintomas psicóticos.",
+    "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), episódios maníaco, misto e hipomaníaco (pp. 217-224), 6A60 (pp. 225-229) e secção das perturbações bipolares (pp. 236-240); NICE CG185 (publicada 24/09/2014, atualizada 02/09/2025), https://www.nice.org.uk/guidance/cg185/chapter/Recommendations (1.1.2, 1.3.2, 1.3.3, 1.11.1 a 1.11.7); drafts/humor.json (dh-7, dh-23, dh-24, dh-27, dh-34, campo changed). DSM-5-TR (APA, 2022; índices de página do ficheiro dsm5tr__dsm5tr-completo.pdf.txt), Bipolar I Disorder: critérios de mania e hipomania (256-259), características e idade na criança (260-261), evolução (263), diagnóstico diferencial (266-267), comorbilidade (268); códigos F31.x (259). Divergências mantidas: mania com humor irritável (NICE euforia pelo menos 7 dias e irritabilidade não central; CID-11 euforia, irritabilidade ou expansividade sem número mínimo; DSM-5-TR 3 de 7 sintomas, 4 se só irritável, pelo menos 1 semana). Ramo apenas adolescente é decisão do redator: o DSM-5-TR não fixa idade mínima e a CID-11 diz mania rara na infância. Índice de página do .txt do CDDR = página impressa + 18.",
+    "dose": false
+  },
+  {
+    "id": "h-bipolar-2-q3",
+    "itemId": "h-bipolar-2",
+    "category": "hipoteses",
+    "type": "caso",
+    "text": "Rapariga de 16 anos com 2 episódios depressivos major anteriores e, agora, 5 dias seguidos de humor elevado com mais energia, menor necessidade de sono, fala e pensamentos acelerados, mudança observável por outros, sem prejuízo marcado, sem internamento nem sintomas psicóticos e sem história de mania. Segundo o DSM-5-TR, qual o diagnóstico?",
+    "options": [
+      "Perturbação bipolar tipo I: qualquer período de humor elevado com 3 sintomas chega para mania",
+      "Perturbação bipolar tipo II: hipomania de pelo menos 4 dias mais episódio depressivo, sem mania",
+      "Perturbação depressiva major recorrente: a hipomania sem prejuízo marcado não altera o diagnóstico",
+      "Ainda não é diagnóstico bipolar: a hipomania exige pelo menos 2 semanas de duração"
+    ],
+    "correct": 1,
+    "explanation": "No DSM-5-TR o tipo II exige pelo menos um episódio hipomaníaco, com pelo menos 4 dias consecutivos, 3 de 7 sintomas, mudança observável e sem prejuízo marcado nem internamento, mais um episódio depressivo major, e nunca mania. Havendo hipomania, a depressão major deixa de ser o diagnóstico, e o tipo I exigiria um episódio maníaco que não existe.",
+    "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), episódio hipomaníaco (pp. 222-224), 6A61 (pp. 230-233) e perturbações bipolares (pp. 236-240); NICE CG185 (publicada 24/09/2014, atualizada 02/09/2025), https://www.nice.org.uk/guidance/cg185/chapter/Recommendations (1.11.2 a 1.11.5); drafts/humor.json (campo changed de dh-24 e dh-34). DSM-5-TR (APA, 2022; índices de página do ficheiro dsm5tr__dsm5tr-completo.pdf.txt), Bipolar II Disorder: critérios (268-270), prevalência e evolução na criança (274-275), diagnóstico diferencial (276-278), comorbilidade (278); código F31.81 (268). Divergência mantida: o DSM-5-TR define o tipo II (hipomania de pelo menos 4 dias) também na criança, o NICE só reconhece mania com euforia de 7 dias, e a CID-11 pede hipomania de pelo menos vários dias. Ramo apenas adolescente é decisão do redator. Índice de página do .txt do CDDR = página impressa + 18.",
+    "dose": false
+  },
+  {
+    "id": "h-pag-q3",
+    "itemId": "h-pag",
+    "category": "hipoteses",
+    "type": "caso",
+    "text": "Rapaz de 10 anos com preocupação excessiva e difícil de controlar, mais dias do que não, há 7 meses, sobre a escola, a saúde e o desempenho desportivo. Tem apenas um sintoma associado, tensão muscular, com sofrimento significativo, e as preocupações não se explicam por outra perturbação. Segundo o DSM-5-TR, o que se conclui?",
+    "options": [
+      "Cumpre: tem 6 meses de duração e, na criança, basta 1 dos 6 sintomas associados",
+      "Não cumpre: são precisos 3 dos 6 sintomas associados, mesmo na criança, para o diagnóstico",
+      "Não cumpre: a preocupação tem de durar pelo menos 12 meses, nas crianças e nos adultos",
+      "Não cumpre: o limiar de 1 sintoma só se aplica a crianças com menos de 6 anos"
+    ],
+    "correct": 0,
+    "explanation": "O DSM-5-TR exige ansiedade e preocupação excessivas, mais dias do que não, durante pelo menos 6 meses, com 3 de 6 sintomas associados no adulto e apenas 1 na criança. O rapaz tem 7 meses e 1 sintoma associado, pelo que cumpre; exigir 3 sintomas também na criança, 12 meses de duração ou limitar o limiar de 1 sintoma a menores de 6 anos não corresponde à fonte.",
+    "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B00 (pp. 266-270); AACAP, Walter et al., JAACAP 2020;59(10):1107-1124, doi 10.1016/j.jaac.2020.05.005 (diferencial e comorbilidades). Sem guideline NICE para esta perturbação na criança lida nesta tarefa. DSM-5-TR (APA, 2022; índices de página do ficheiro dsm5tr__dsm5tr-completo.pdf.txt), Generalized Anxiety Disorder: critérios (393), características e idade na criança (394-395), diagnóstico diferencial (397-398), comorbilidade (398); código F41.1 (393). Divergências mantidas: duração (CID-11 vários meses; DSM-5-TR 6 meses), número de sintomas (DSM-5-TR 3 de 6, 1 na criança; CID-11 sem mínimo), início (CID-11 pouco comum antes dos 5 anos; DSM-5-TR raro antes da adolescência) e coexistência com depressão (CID-11 só antes ou depois do episódio; DSM-5-TR admite). Sem guideline NICE para esta perturbação na criança lida nesta tarefa. Índice de página do .txt do CDDR = página impressa + 18.",
+    "dose": false
+  },
+  {
+    "id": "h-ansiedade-separacao-q3",
+    "itemId": "h-ansiedade-separacao",
+    "category": "hipoteses",
+    "type": "caso",
+    "text": "Rapaz de 9 anos que há 6 semanas tem medo marcado e excessivo de se separar da mãe: recusa ir à escola, recusa dormir sem a mãe e tem pesadelos sobre separação. Há sofrimento significativo e os sintomas não se explicam por outra perturbação. Segundo o DSM-5-TR, o que se conclui?",
+    "options": [
+      "Não cumpre: a duração mínima exigida em crianças e adolescentes é de 6 meses",
+      "Não cumpre: são precisas pelo menos 5 das 8 manifestações em crianças e adolescentes",
+      "Não cumpre: são precisas pelo menos 4 das 8 manifestações, seja qual for a idade",
+      "Cumpre: tem 3 manifestações e a duração mínima em crianças é de 4 semanas"
+    ],
+    "correct": 3,
+    "explanation": "O DSM-5-TR exige pelo menos 3 de 8 manifestações e uma duração de pelo menos 4 semanas em crianças e adolescentes, tipicamente 6 meses ou mais em adultos. O rapaz tem 3 manifestações durante 6 semanas, pelo que cumpre; a CID-11, por seu lado, fala em vários meses e não fixa número mínimo.",
+    "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B05 (pp. 289-293); AACAP, Walter et al., JAACAP 2020;59(10):1107-1124, doi 10.1016/j.jaac.2020.05.005. Sem guideline NICE para esta perturbação na criança lida nesta tarefa. DSM-5-TR (APA, 2022; índices de página do ficheiro dsm5tr__dsm5tr-completo.pdf.txt), Separation Anxiety Disorder: critérios (352-353), prevalência e evolução (354-355), diagnóstico diferencial (356-357), comorbilidade (357-358); código F93.0 (352). Divergência mantida: duração (CID-11 vários meses; DSM-5-TR pelo menos 4 semanas em crianças e adolescentes) e número de manifestações (DSM-5-TR 3 de 8). Ramo: acrescentado o adolescente (DSM-5-TR, índices 354-355). Sem guideline NICE para esta perturbação na criança lida nesta tarefa. Índice de página do .txt do CDDR = página impressa + 18.",
+    "dose": false
+  },
+  {
+    "id": "h-ansiedade-social-q3",
+    "itemId": "h-ansiedade-social",
+    "category": "hipoteses",
+    "type": "memoria",
+    "text": "No DSM-5-TR, o que se exige quanto aos contextos em que a criança sente ansiedade social?",
+    "options": [
+      "Tem de ocorrer apenas perante adultos desconhecidos, mas não perante colegas",
+      "Tem de ocorrer em todos os contextos sociais, incluindo em casa com a família",
+      "Tem de ocorrer com os pares e não apenas em interações com adultos",
+      "Tem de ocorrer exclusivamente na escola, perante professores e colegas"
+    ],
+    "correct": 2,
+    "explanation": "No critério A do DSM-5-TR, na criança a ansiedade tem de surgir também com pares, e não só em interações com adultos. Não se exige que ocorra em todos os contextos nem que se limite à escola, e o medo restrito a adultos desconhecidos não chega.",
+    "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B04 (pp. 284-288); NICE CG159 (publicada 22/05/2013), https://www.nice.org.uk/guidance/cg159/chapter/Recommendations (1.4.1 a 1.4.12); AACAP, Walter et al., JAACAP 2020;59(10):1107-1124, doi 10.1016/j.jaac.2020.05.005. DSM-5-TR (APA, 2022; índices de página do ficheiro dsm5tr__dsm5tr-completo.pdf.txt), Social Anxiety Disorder (Social Phobia): critérios (367-368), evolução (370), diagnóstico diferencial (372-374), comorbilidade (374); código F40.10 (367). Divergência mantida: duração (CID-11 vários meses; DSM-5-TR tipicamente 6 meses ou mais). Índice de página do .txt do CDDR = página impressa + 18.",
+    "dose": false
+  },
+  {
+    "id": "h-mutismo-seletivo-q3",
+    "itemId": "h-mutismo-seletivo",
+    "category": "hipoteses",
+    "type": "caso",
+    "text": "Rapaz de 4 anos que, nas 3 semanas desde que começou o jardim de infância, não fala com educadoras nem colegas, embora fale normalmente em casa e compreenda o que lhe dizem. Segundo o DSM-5-TR, o que se conclui quanto ao mutismo seletivo?",
+    "options": [
+      "Diagnostica-se já: basta falar em casa e falhar de forma consistente noutra situação",
+      "Ainda não: exige pelo menos 1 mês, não limitado ao primeiro mês de escola",
+      "Ainda não se diagnostica: exige pelo menos 6 meses de duração, em qualquer contexto",
+      "Ainda não se diagnostica: só se faz a partir dos 5 anos, a idade de início habitual"
+    ],
+    "correct": 1,
+    "explanation": "No DSM-5-TR a falha de fala tem de durar pelo menos 1 mês e não pode limitar-se ao primeiro mês de escola, o que não se verifica ao fim de 3 semanas. O início é, em regra, antes dos 5 anos, pelo que a idade não impede o diagnóstico, e a fonte não pede 6 meses.",
+    "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B06 (pp. 293-295); AACAP, Walter et al., JAACAP 2020;59(10):1107-1124, doi 10.1016/j.jaac.2020.05.005 (comorbilidade com perturbações do desenvolvimento e da comunicação); NICE CG159 (publicada 22/05/2013), https://www.nice.org.uk/guidance/cg159/chapter/Recommendations (1.4.12, mutismo seletivo como dificuldade associada). DSM-5-TR (APA, 2022; índices de página do ficheiro dsm5tr__dsm5tr-completo.pdf.txt), Selective Mutism: critérios (358), evolução (359), diagnóstico diferencial (360), comorbilidade (360-361); código F94.0 (358). Critérios e duração coincidem com a CID-11. Índice de página do .txt do CDDR = página impressa + 18.",
+    "dose": false
+  },
+  {
+    "id": "h-fobia-especifica-q3",
+    "itemId": "h-fobia-especifica",
+    "category": "hipoteses",
+    "type": "memoria",
+    "text": "No DSM-5-TR, em que faixa de idades se situa a idade mediana de início da fobia específica?",
+    "options": [
+      "Entre os 7 e os 11 anos",
+      "Entre os 2 e os 4 anos",
+      "Entre os 13 e os 16 anos",
+      "Entre os 18 e os 24 anos"
+    ],
+    "correct": 0,
+    "explanation": "O DSM-5-TR descreve início habitual antes dos 10 anos, com idade mediana entre os 7 e os 11 anos. A faixa de 2 a 4 anos fica abaixo desse intervalo, as de 13 a 16 e de 18 a 24 anos ficam acima, e a prevalência de cerca de 16% aos 13 a 17 anos não é uma idade de início.",
+    "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B03 (pp. 280-283); AACAP, Walter et al., JAACAP 2020;59(10):1107-1124, doi 10.1016/j.jaac.2020.05.005. Sem guideline NICE para esta perturbação na criança lida nesta tarefa. DSM-5-TR (APA, 2022; índices de página do ficheiro dsm5tr__dsm5tr-completo.pdf.txt), Specific Phobia: critérios (361), características e evolução (362-364), diagnóstico diferencial (366-367), comorbilidade (367); códigos F40.218, F40.228, F40.23x, F40.248 e F40.298 conforme o subtipo (362). Divergência mantida: duração (CID-11 vários meses; DSM-5-TR tipicamente 6 meses ou mais). Ramo: acrescentado o adolescente (DSM-5-TR, índices 363-364). Sem guideline NICE para esta perturbação na criança lida nesta tarefa. Índice de página do .txt do CDDR = página impressa + 18.",
+    "dose": false
+  },
+  {
+    "id": "h-panico-q3",
+    "itemId": "h-panico",
+    "category": "hipoteses",
+    "type": "memoria",
+    "text": "No DSM-5-TR, qual o limiar de sintomas e o tempo até ao pico de um ataque de pânico?",
+    "options": [
+      "2 ou mais de 13 sintomas, com pico atingido em minutos",
+      "6 ou mais de 13 sintomas, com pico atingido em minutos",
+      "4 ou mais de 13 sintomas, com pico atingido em várias horas",
+      "4 ou mais de 13 sintomas, com pico atingido em minutos"
+    ],
+    "correct": 3,
+    "explanation": "O DSM-5-TR define o ataque de pânico como um episódio de medo intenso que atinge o pico em minutos, com 4 ou mais de 13 sintomas; os sintomas específicos de cultura não contam para os 4. Limiares de 2 ou de 6 sintomas não constam da fonte, e um pico ao fim de horas não é o início rápido descrito.",
+    "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B01 (pp. 271-275); AACAP, Walter et al., JAACAP 2020;59(10):1107-1124, doi 10.1016/j.jaac.2020.05.005. Sem guideline NICE para esta perturbação na criança lida nesta tarefa. DSM-5-TR (APA, 2022; índices de página do ficheiro dsm5tr__dsm5tr-completo.pdf.txt), Panic Disorder: critérios (374-375), prevalência e evolução (377-378), diagnóstico diferencial (381-382), comorbilidade (382); código F41.0 (lista de classificação do capítulo, índice 47). Divergência mantida: tempo de preocupação após o ataque (DSM-5-TR pelo menos 1 mês; CID-11 por exemplo várias semanas); número de sintomas (DSM-5-TR 4 de 13). Sem guideline NICE para esta perturbação na criança lida nesta tarefa. Índice de página do .txt do CDDR = página impressa + 18.",
+    "dose": false
+  },
+  {
+    "id": "h-toc-q3",
+    "itemId": "h-toc",
+    "category": "hipoteses",
+    "type": "caso",
+    "text": "Rapaz de 12 anos com obsessões de contaminação e rituais de lavagem que ocupam mais de 1 hora por dia. Reconhece que os receios são provavelmente exagerados e tem tiques motores atuais desde os 8 anos. Segundo o DSM-5-TR, que especificadores se registam?",
+    "options": [
+      "Insight pobre e especificador relacionado com tiques",
+      "Insight bom ou razoável, sem especificador de tiques, reservado à síndrome de Tourette",
+      "Insight bom ou razoável e especificador relacionado com tiques",
+      "Insight ausente ou delirante e especificador relacionado com tiques"
+    ],
+    "correct": 2,
+    "explanation": "O DSM-5-TR pede o nível de insight (bom ou razoável, pobre, ausente ou delirante) e o especificador relacionado com tiques quando há tiques atuais ou passados. Quem reconhece que os receios são provavelmente exagerados tem insight bom ou razoável, e os tiques atuais justificam o especificador; a fonte não o reserva ao Tourette.",
+    "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B20 (pp. 300-307); NICE CG31 (publicada 29/11/2005), https://www.nice.org.uk/guidance/cg31/chapter/Recommendations (1.1.4.1, 1.4.1.1 a 1.4.1.3; segundo releitura-ansiedade.md a atualização está em desenvolvimento, não reverificado aqui); AACAP, Walter et al., JAACAP 2020;59(10):1107-1124, doi 10.1016/j.jaac.2020.05.005 (OCD como diagnóstico diferencial e comorbilidade da ansiedade). DSM-5-TR (APA, 2022; índices de página do ficheiro dsm5tr__dsm5tr-completo.pdf.txt), Obsessive-Compulsive Disorder: critérios (410-411), características e evolução (412-414), diagnóstico diferencial (416-417), comorbilidade (417-418); código F42.2 (410). Critério de tempo (mais de 1 hora por dia, ou sofrimento ou prejuízo) e exclusões coincidem com a CID-11. Índice de página do .txt do CDDR = página impressa + 18.",
+    "dose": false
+  },
+  {
+    "id": "h-tricotilomania-q3",
+    "itemId": "h-tricotilomania",
+    "category": "hipoteses",
+    "type": "memoria",
+    "text": "No DSM-5-TR, o que se diz sobre a remoção de cabelo apenas por motivo estético, quanto ao diagnóstico de tricotilomania?",
+    "options": [
+      "Conta para o diagnóstico, desde que a remoção seja recorrente",
+      "Não conta para o diagnóstico, ainda que seja recorrente",
+      "Conta para o diagnóstico, se houver perda de cabelo visível",
+      "Conta para o diagnóstico, se a remoção incidir no couro cabeludo"
+    ],
+    "correct": 1,
+    "explanation": "Segundo o DSM-5-TR, a remoção de cabelo só por motivo estético não conta para a tricotilomania, que exige arrancar recorrente, tentativas sem êxito de parar e sofrimento ou prejuízo. A recorrência, a perda visível ou o local não bastam para transformar uma remoção estética em tricotilomania.",
+    "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B25 e 6B25.0 (pp. 327-330); DSM-5-TR (APA, 2022; índices de página do ficheiro dsm5tr__dsm5tr-completo.pdf.txt), Trichotillomania (Hair-Pulling Disorder): critérios (430), características e evolução (430-432), diagnóstico diferencial (433), comorbilidade (433; as mais comuns são depressão major e escoriação); código F63.3 (430). Critérios coincidem com a CID-11. Sem guideline lida para esta perturbação: prática clínica (sem fonte). Ver também item do-12 e do-21 (domínio Outros). Índice de página do .txt do CDDR = página impressa + 18.",
+    "dose": false
+  },
+  {
+    "id": "h-pstp-q3",
+    "itemId": "h-pstp",
+    "category": "hipoteses",
+    "type": "caso",
+    "text": "Rapaz de 12 anos que, há 3 semanas, sofreu um acidente de viação grave com risco de morte. Desde então tem memórias intrusivas, pesadelos, evitamento, alterações do humor e hipervigilância, num total de 10 dos 14 sintomas possíveis, com prejuízo. Segundo o DSM-5-TR, qual o diagnóstico mais adequado?",
+    "options": [
+      "Perturbação de stress agudo, porque os sintomas duram entre 3 dias e 1 mês",
+      "Perturbação de stress pós-traumático, porque a exposição e os sintomas bastam em qualquer momento",
+      "Perturbação de adaptação, porque há um stressor identificável de qualquer gravidade",
+      "PSPT com expressão retardada, porque os critérios completos surgiram mais tarde"
+    ],
+    "correct": 0,
+    "explanation": "No DSM-5-TR o PSPT exige mais de 1 mês de sintomas; entre 3 dias e 1 mês, com 9 de 14 sintomas, o diagnóstico é perturbação de stress agudo, que a CID-11 não considera perturbação. A expressão retardada exige critérios completos só 6 meses ou mais depois do acontecimento, e a perturbação de adaptação não se atribui quando outro quadro explica os sintomas.",
+    "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B40 (pp. 339-344); NICE NG116 (publicada 05/12/2018), https://www.nice.org.uk/guidance/ng116/chapter/Recommendations (1.1.1 a 1.1.6). AACAP 2010 não citada: a cópia lida tem rodapé de 1998 'not for distribution or citation'. DSM-5-TR (APA, 2022; índices de página do ficheiro dsm5tr__dsm5tr-completo.pdf.txt), Posttraumatic Stress Disorder: critérios para mais de 6 anos (455-458) e até 6 anos (458-459), características e evolução (463-465), diagnóstico diferencial (468-470), comorbilidade (470); código F43.10 (455). Divergências mantidas: duração (CID-11 pelo menos várias semanas; DSM-5-TR mais de 1 mês) e estrutura (CID-11 3 elementos; DSM-5-TR 4 grupos). O NG116 não distingue critérios CID-11 ou DSM. Índice de página do .txt do CDDR = página impressa + 18.",
+    "dose": false
+  },
+  {
+    "id": "h-pstp-complexo-q3",
+    "itemId": "h-pstp-complexo",
+    "category": "hipoteses",
+    "type": "caso",
+    "text": "Adolescente de 15 anos, vítima de abuso físico repetido durante anos pelo padrasto, que cumpre os critérios de PSPT e tem ainda explosões de raiva, autolesão sob stress, sentimentos de vergonha e dificuldade em manter amizades. Qual o diagnóstico segundo o DSM-5-TR?",
+    "options": [
+      "PSPT complexo, categoria própria do DSM-5-TR para o trauma prolongado e repetido",
+      "Perturbação de adaptação persistente, porque o stressor foi crónico",
+      "Perturbação reativa da vinculação, porque o cuidador foi a fonte do trauma",
+      "PSPT, porque o DSM-5-TR não tem a categoria de PSPT complexo"
+    ],
+    "correct": 3,
+    "explanation": "O DSM-5-TR não tem PSPT complexo: refere só, como características associadas ao trauma prolongado, dificuldades de regulação emocional e de relações e sintomas dissociativos, pelo que um quadro destes se diagnostica como PSPT. A perturbação de adaptação não se atribui quando se cumprem critérios de PSPT, e a perturbação reativa da vinculação exige sintomas evidentes antes dos 5 anos.",
+    "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B41 (pp. 344-348, mais PSPT pp. 339-344); NICE NG116 (publicada 05/12/2018), https://www.nice.org.uk/guidance/ng116/chapter/Recommendations (1.1.1 a 1.1.4, 1.2.4). AACAP 2010 não citada (cópia lida é de 1998, não citável). DSM-5-TR (APA, 2022; índices de página do ficheiro dsm5tr__dsm5tr-completo.pdf.txt), Posttraumatic Stress Disorder (455-470): confirmado que não há PSPT complexo; ver características associadas (464) e fatores de gravidade (460). Categoria só da CID-11 (6B41); o resto dos critérios desta entrada vem do CDDR. Índice de página do .txt do CDDR = página impressa + 18.",
+    "dose": false
+  },
+  {
+    "id": "h-adaptacao-q3",
+    "itemId": "h-adaptacao",
+    "category": "hipoteses",
+    "type": "memoria",
+    "text": "No DSM-5-TR, em que prazo após o stressor tem de iniciar-se a reação para se considerar perturbação de adaptação?",
+    "options": [
+      "Nas 2 semanas seguintes ao início do stressor",
+      "Nos 6 meses seguintes ao início do stressor",
+      "Nos 3 meses seguintes ao início do stressor",
+      "Nos 12 meses seguintes ao início do stressor"
+    ],
+    "correct": 2,
+    "explanation": "O critério A do DSM-5-TR pede início da reação até 3 meses após o stressor, enquanto a CID-11 fala habitualmente em cerca de 1 mês. O prazo de 6 meses é o da resolução dos sintomas depois de terminado o stressor, e os de 2 semanas e de 12 meses não constam da fonte.",
+    "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B43 (pp. 352-354); NICE NG134 (publicada 25/06/2019), https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (1.3.7 a 1.3.10). Sem guideline NICE para esta perturbação na criança lida nesta tarefa. DSM-5-TR (APA, 2022; índices de página do ficheiro dsm5tr__dsm5tr-completo.pdf.txt), Adjustment Disorders: critérios e subtipos (477-479), diagnóstico diferencial (480-481), comorbilidade (481); códigos F43.20 a F43.25 (478). Divergência mantida: início (CID-11 habitualmente cerca de 1 mês; DSM-5-TR até 3 meses). Sem guideline NICE para esta perturbação na criança lida nesta tarefa. Índice de página do .txt do CDDR = página impressa + 18.",
+    "dose": false
+  },
+  {
+    "id": "h-luto-prolongado-q3",
+    "itemId": "h-luto-prolongado",
+    "category": "hipoteses",
+    "type": "memoria",
+    "text": "No DSM-5-TR, além da saudade intensa ou da preocupação com o falecido, que combinação de sintomas e de frequência é exigida na perturbação de luto prolongado?",
+    "options": [
+      "Pelo menos 5 de 8 sintomas, quase todos os dias durante o último mês",
+      "Pelo menos 3 de 8 sintomas, quase todos os dias durante o último mês",
+      "Pelo menos 3 de 8 sintomas, quase todos os dias durante os últimos 6 meses",
+      "Pelo menos 2 de 8 sintomas, em metade dos dias durante o último mês"
+    ],
+    "correct": 1,
+    "explanation": "O DSM-5-TR exige a saudade ou preocupação com o falecido mais pelo menos 3 de 8 sintomas (por exemplo rutura da identidade, descrença, dor intensa, entorpecimento, solidão), quase todos os dias no último mês. Os outros números de sintomas, a janela de 6 meses e a frequência de metade dos dias não constam da fonte.",
+    "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B42 (pp. 348-351); NICE NG134 (publicada 25/06/2019), https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (1.3.7 a 1.3.10). Sem guideline lida específica de luto prolongado na criança. DSM-5-TR (APA, 2022; índices de página do ficheiro dsm5tr__dsm5tr-completo.pdf.txt), Prolonged Grief Disorder: critérios (481-482), características e evolução na criança (483-485), diagnóstico diferencial (486-487), comorbilidade (487); código F43.8 (lista de classificação do capítulo, índice 49). Divergência mantida: duração (DSM-5-TR 12 meses em adultos e 6 em crianças e adolescentes, mais 3 de 8 sintomas; CID-11 6 meses em todas as idades, sem número de sintomas). Sem guideline lida específica de luto prolongado na criança. Índice de página do .txt do CDDR = página impressa + 18.",
+    "dose": false
+  },
+  {
+    "id": "h-vinculacao-reativa-q3",
+    "itemId": "h-vinculacao-reativa",
+    "category": "hipoteses",
+    "type": "memoria",
+    "text": "No DSM-5-TR, quando se aplica o especificador persistente da perturbação reativa da vinculação?",
+    "options": [
+      "Quando a perturbação está presente há mais de 12 meses",
+      "Quando os sintomas continuam depois de a criança fazer 5 anos",
+      "Quando houve mais de 3 mudanças do cuidador principal",
+      "Quando o padrão se mantém com todos os cuidadores, e não só com um"
+    ],
+    "correct": 0,
+    "explanation": "No DSM-5-TR o especificador persistente indica uma perturbação presente há mais de 12 meses. A idade de 5 anos refere-se ao início dos sintomas e à cautela diagnóstica, e o número de mudanças de cuidador e a extensão a todos os cuidadores não definem esse especificador.",
+    "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B44 (pp. 355-357); NICE NG26 (publicada 25/11/2015), https://www.nice.org.uk/guidance/ng26/chapter/Recommendations (1.3.2, 1.3.6). DSM-5-TR (APA, 2022; índices de página do ficheiro dsm5tr__dsm5tr-completo.pdf.txt), Reactive Attachment Disorder: critérios (448-449), evolução e fatores de risco (450), diagnóstico diferencial (450-451), comorbilidade (452); código F94.1 (448). Critérios coincidem com a CID-11 (o DSM-5-TR acrescenta o critério B de perturbação social e emocional e o especificador \"persistente\"; a CID-11 acrescenta que não se confina a uma relação diádica). O NG26 refere DSM-5 e CID-10 (1.3.6). Sem tratamento nesta entrada. Índice de página do .txt do CDDR = página impressa + 18.",
+    "dose": false
+  },
+  {
+    "id": "h-relacao-social-desinibida-q3",
+    "itemId": "h-relacao-social-desinibida",
+    "category": "hipoteses",
+    "type": "memoria",
+    "text": "No DSM-5-TR, quantos dos 4 comportamentos de envolvimento social desinibido tem a criança de apresentar?",
+    "options": [
+      "Pelo menos 1 dos 4, num padrão que não se limita à impulsividade",
+      "Pelo menos 3 dos 4, num padrão que não se limita à impulsividade",
+      "Os 4 comportamentos, num padrão que não se limita à impulsividade",
+      "Pelo menos 2 dos 4, num padrão que não se limita à impulsividade"
+    ],
+    "correct": 3,
+    "explanation": "O DSM-5-TR exige pelo menos 2 de 4 comportamentos (reticência reduzida ou ausente com adultos desconhecidos, comportamento demasiado familiar, não verificar o cuidador, disponibilidade para ir com um desconhecido) que não se limitem à impulsividade. Exigir só 1, 3 ou os 4 não corresponde ao limiar da fonte.",
+    "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B45 (pp. 358-360); NICE NG26 (publicada 25/11/2015), https://www.nice.org.uk/guidance/ng26/chapter/Recommendations (1.3.2, 1.3.6). DSM-5-TR (APA, 2022; índices de página do ficheiro dsm5tr__dsm5tr-completo.pdf.txt), Disinhibited Social Engagement Disorder: critérios (452-453), evolução (454), diagnóstico diferencial e comorbilidade (455); código F94.2 (452). Divergências mantidas: número de comportamentos (DSM-5-TR 2 de 4; CID-11 reticência reduzida mais 1 dos 3 restantes) e idade de início (CID-11 antes dos 5 anos; DSM-5-TR sem esse critério). O NG26 refere DSM-5 e CID-10 (1.3.6). Sem tratamento nesta entrada. Índice de página do .txt do CDDR = página impressa + 18.",
+    "dose": false
+  },
+  {
+    "id": "h-phda-q3",
+    "itemId": "h-phda",
+    "category": "hipoteses",
+    "type": "caso",
+    "text": "Rapaz de 9 anos que há 8 meses, em casa e na escola, tem 5 dos 9 sintomas de desatenção e 4 dos 9 de hiperatividade-impulsividade, inconsistentes com o desenvolvimento, com início antes dos 12 anos, prejuízo escolar e sem melhor explicação por outra perturbação. Segundo o critério A do DSM-5-TR, o que se conclui?",
+    "options": [
+      "Cumpre: somando os dois grupos há 9 sintomas, acima do mínimo de 6",
+      "Cumpre: abaixo dos 17 anos bastam 5 sintomas num dos grupos",
+      "Não cumpre: nenhum grupo atinge o mínimo de 6 dos 9 sintomas",
+      "Não cumpre: a duração mínima dos sintomas é de 12 meses"
+    ],
+    "correct": 2,
+    "explanation": "O DSM-5-TR exige pelo menos 6 de 9 sintomas de desatenção e/ou 6 de 9 de hiperatividade-impulsividade durante pelo menos 6 meses, descendo para 5 só a partir dos 17 anos. Aqui nenhum grupo chega a 6, pelo que o critério A não é cumprido, embora a duração de 8 meses seja suficiente; a CID-11 não fixa número de sintomas.",
+    "source": "ICD-11 CDDR, OMS, 2024 (ISBN 978-92-4-007726-3), https://www.who.int/publications/i/item/9789240077263 (texto lido numa cópia com o mesmo ISBN, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), secção 6A05, pp. 142-149 (essential features, additional clinical features, boundaries); NICE NG87, 2018 (atualizada 13/09/2019), https://www.nice.org.uk/guidance/ng87, rec. 1.2.7, 1.3.1 a 1.3.6; AAP (Wolraich et al.), Pediatrics 2019;144(4):e20192528, https://doi.org/10.1542/peds.2019-2528 (KAS 1 a 3 e texto de apoio). Critérios seguidos: CID-11 (limiar 'fora dos limites normais para a idade e nível intelectual', sem número mínimo de sintomas). DSM-5-TR (APA, 2022), secção Attention-Deficit/Hyperactivity Disorder, F90.2 apresentação combinada, F90.0 predominantemente desatenta, F90.1 predominantemente hiperativa-impulsiva (F90.8 e F90.9 para outra especificada e não especificada): critérios págs. 167-169, Diagnostic Features 169-170, Development and Course 171, Differential Diagnosis 173-175, Comorbidity 175-176 (ficheiro dsm5tr__dsm5tr-completo.pdf.txt, índice de página base 0). Verificado contra o texto do DSM-5-TR; continua rascunho, por validar pelo médico. Divergências DSM-5-TR contra CID-11, mantidas as duas: (1) o DSM-5-TR exige pelo menos 6 sintomas de desatenção e/ou 6 de hiperatividade-impulsividade (5 a partir dos 17 anos) durante pelo menos 6 meses, a CID-11 não fixa número; (2) o DSM-5-TR dá apresentações, gravidade e remissão parcial, a CID-11 dá 6A05.0 a 6A05.2; (3) correção: a AAP 2019 indica que o DSM-5 não exige explicitamente comparação com a idade de desenvolvimento, mas o critério A do DSM-5-TR (pág. 167) diz 'inconsistente com o nível de desenvolvimento', pelo que as duas fontes comparam com o desenvolvimento. O NICE NG87 1.3.3 aceita DSM-5 ou CID-11 e não recomenda excluir PHDA por autismo ou por início incerto.",
+    "dose": false
+  },
+  {
+    "id": "h-autismo-q3",
+    "itemId": "h-autismo",
+    "category": "hipoteses",
+    "type": "memoria",
+    "text": "No DSM-5-TR, como se especifica a gravidade do autismo?",
+    "options": [
+      "Num único nível global de 1 a 3, que resume a comunicação social e os comportamentos restritos",
+      "Níveis de apoio de 1 a 3, em separado para a comunicação social e os comportamentos restritos",
+      "Em três níveis de apoio, atribuídos segundo a idade em que os sintomas foram reconhecidos",
+      "Em ligeira, moderada ou grave, segundo o número de comportamentos restritos e repetitivos"
+    ],
+    "correct": 1,
+    "explanation": "O DSM-5-TR especifica o nível de apoio, de 1 a 3, em separado para a comunicação social e para os comportamentos restritos e repetitivos. Não há um nível único, nem a gravidade depende da idade de reconhecimento ou da contagem de comportamentos; a CID-11 usa outros especificadores, de desenvolvimento intelectual e de linguagem funcional.",
+    "source": "ICD-11 CDDR, OMS, 2024 (ISBN 978-92-4-007726-3), https://www.who.int/publications/i/item/9789240077263 (texto lido numa cópia com o mesmo ISBN, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), secção 6A02, pp. 124-133; NICE CG128, 2011 (atualizada 20/12/2017; revista 14/06/2021), https://www.nice.org.uk/guidance/cg128, rec. 1.2, 1.3, 1.5, 1.7; AAP (Hyman et al.), Pediatrics 2020;145(1):e20193447, https://doi.org/10.1542/peds.2019-3447 (texto integral). Critérios seguidos: CID-11 (sem duração mínima nem número de sintomas; dois eixos obrigatórios). DSM-5-TR (APA, 2022), secção Autism Spectrum Disorder, F84.0: critérios e especificadores págs. 153-157 (níveis de gravidade 155-156), Diagnostic Features 157-160, Development and Course 161-162, Differential Diagnosis 164-166, Comorbidity 166-167 (ficheiro dsm5tr__dsm5tr-completo.pdf.txt, índice de página base 0). Verificado contra o texto do DSM-5-TR; continua rascunho, por validar pelo médico. Divergências DSM-5-TR contra CID-11, mantidas as duas: (1) o DSM-5-TR exige os 3 défices de comunicação e interação social (A1 a A3) e pelo menos 2 de 4 comportamentos restritos e repetitivos (B1 a B4), atuais ou por história; a CID-11 exige as duas componentes sem número de sintomas nem duração; (2) o DSM-5-TR especifica níveis de apoio 1 a 3 (comunicação social e comportamentos restritos em separado), com ou sem défice intelectual e de linguagem, condição genética ou médica associada, problema associado e catatonia, enquanto a CID-11 especifica desenvolvimento intelectual, linguagem funcional e perda de competências; (3) a CID-11 não tem perturbação da comunicação social (pragmática) autónoma, só o especificador pragmático da perturbação do desenvolvimento da linguagem (ver h-linguagem); o DSM-5-TR tem-na como diagnóstico próprio (F80.82, págs. 150-152, AAP 2020) e o autismo prevalece sempre que os critérios estão cumpridos (pág. 165).",
+    "dose": false
+  },
+  {
+    "id": "h-linguagem-q3",
+    "itemId": "h-linguagem",
+    "category": "hipoteses",
+    "type": "memoria",
+    "text": "No DSM-5-TR, é necessária uma discrepância entre as capacidades verbais e as não verbais para diagnosticar a perturbação da linguagem?",
+    "options": [
+      "Não: exige-se linguagem substancial e quantificavelmente abaixo do esperado para a idade",
+      "Sim: a capacidade verbal tem de ficar pelo menos 1 desvio-padrão abaixo da não verbal",
+      "Sim, mas só em crianças com mais de 5 anos, para as distinguir das que têm deficiência intelectual",
+      "Sim, mas só quando existe um défice auditivo associado à dificuldade de linguagem"
+    ],
+    "correct": 0,
+    "explanation": "O DSM-5-TR indica que não é necessária discrepância entre capacidade verbal e não verbal: o que conta são capacidades de linguagem substancial e quantificavelmente abaixo do esperado para a idade, com limitação funcional. A fonte também admite o diagnóstico em deficiência intelectual se o défice de linguagem exceder o habitual, pelo que as exigências de discrepância não correspondem ao manual.",
+    "source": "ICD-11 CDDR, OMS, 2024 (ISBN 978-92-4-007726-3), https://www.who.int/publications/i/item/9789240077263 (texto lido numa cópia com o mesmo ISBN, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), secção 6A01.2 (e introdução 6A01, p. 112), pp. 118-123; Bishop et al. (CATALISE-2), J Child Psychol Psychiatry 2017;58(10):1068-1080, https://doi.org/10.1111/jcpp.12721 (texto integral, declarações 3, 4 e comentário sobre pragmática); AAP (Hyman et al.), Pediatrics 2020;145(1):e20193447, https://doi.org/10.1542/peds.2019-3447 (apenas a passagem sobre perturbação da comunicação social e a audição). Não encontrei guideline NICE ou AAP específica de perturbação da linguagem. Critérios seguidos: CID-11, que trata a pragmática como especificador da perturbação do desenvolvimento da linguagem e não como diagnóstico autónomo. DSM-5-TR (APA, 2022): Language Disorder F80.2 (critérios págs. 142-143, Diagnostic Features 143, Development and Course 144, Differential Diagnosis 144-145, Comorbidity 145) e Social (Pragmatic) Communication Disorder F80.82 (critérios págs. 150-151, Diagnostic Features 151, Development and Course 152, Differential Diagnosis 152-153) (ficheiro dsm5tr__dsm5tr-completo.pdf.txt, índice de página base 0). Verificado contra o texto do DSM-5-TR; continua rascunho, por validar pelo médico. Divergências DSM-5-TR contra CID-11, mantidas as duas: (1) o DSM-5-TR tem a perturbação da comunicação social (pragmática) como categoria própria, que exclui o autismo e as baixas capacidades de gramática e estrutura de palavras, e a CID-11 só tem o especificador 6A01.22; a CATALISE-2 segue a CID-11 e descreve a razão (pragmática como parte da linguagem); (2) o DSM-5-TR não dá limiares numéricos de idade nem número de palavras (os marcos de 2 e 3 anos vêm da CID-11 e da CATALISE-2); diz que antes dos 4 anos é difícil distinguir da variação normal (pág. 144).",
+    "dose": false
+  },
+  {
+    "id": "h-ddi-q3",
+    "itemId": "h-ddi",
+    "category": "hipoteses",
+    "type": "memoria",
+    "text": "No DSM-5-TR, o que define a gravidade da perturbação do desenvolvimento intelectual?",
+    "options": [
+      "O valor do QI, com limiares fixos para cada nível de gravidade",
+      "A média entre o QI verbal e o QI não verbal",
+      "A idade em que os défices foram reconhecidos pela primeira vez",
+      "O funcionamento adaptativo, e não o valor do QI"
+    ],
+    "correct": 3,
+    "explanation": "No DSM-5-TR a gravidade define-se pelo funcionamento adaptativo, nos domínios conceptual, social e prático, e não pelo QI, que sozinho também não chega para o diagnóstico. A CID-11 atribui a gravidade segundo o nível em que se situa a maioria das capacidades intelectuais e adaptativas nos três domínios, e não pela idade de reconhecimento.",
+    "source": "ICD-11 CDDR, OMS, 2024 (ISBN 978-92-4-007726-3), https://www.who.int/publications/i/item/9789240077263 (texto lido numa cópia com o mesmo ISBN, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), secção 6A00, pp. 92-100 (tabelas 6.1 a 6.4, pp. 101-111); AAP (Rodan et al., Council on Genetics), Genetic Evaluation of the Child With Intellectual Disability or Global Developmental Delay, Pediatrics 2025;156(1):e2025072219, https://doi.org/10.1542/peds.2025-072219 (só resumo lido; mesmo tema da AAP 2014 de Moeschler e Shevell, https://doi.org/10.1542/peds.2014-1839; não li se a substitui formalmente). Critérios seguidos: CID-11 (desvios-padrão no funcionamento intelectual e no comportamento adaptativo, categoria provisória abaixo dos 4 anos). DSM-5-TR (APA, 2022), Intellectual Developmental Disorder (Intellectual Disability), F70 ligeira, F71 moderada, F72 grave, F73 profunda: critérios pág. 133, gravidade 133-135, Diagnostic Features 135-137, Development and Course 138, Differential Diagnosis 139-140, Comorbidity 140; Global Developmental Delay F88 e Unspecified Intellectual Developmental Disorder F79, pág. 141 (ficheiro dsm5tr__dsm5tr-completo.pdf.txt, índice de página base 0). Verificado contra o texto do DSM-5-TR; continua rascunho, por validar pelo médico. Divergências DSM-5-TR contra CID-11, mantidas as duas: (1) atraso global: o DSM-5-TR reserva F88 a menores de 5 anos quando a gravidade não pode ser avaliada de forma fiável, e F79 a maiores de 5 anos com avaliação difícil ou impossível; a CID-11 usa a categoria provisória 6A00.4 abaixo dos 4 anos ou, em qualquer idade, sem avaliação válida possível; (2) o DSM-5-TR indica cerca de 2 desvios-padrão abaixo da média (QI de 65 a 75, 70 ± 5), não aceita só o QI e define a gravidade pelo funcionamento adaptativo e não pelo QI; a CID-11 usa cerca de 2 ou mais desvios-padrão (percentil 2,3) no funcionamento intelectual e no comportamento adaptativo. Não encontrei guideline NICE de diagnóstico de deficiência intelectual (o NICE NG11 trata comportamento desafiante e não foi lido).",
+    "dose": false
+  }
+]

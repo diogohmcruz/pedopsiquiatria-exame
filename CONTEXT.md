@@ -41,4 +41,4 @@ Ecrã no fim do quiz com todas as perguntas: primeiro as erradas, abertas com a 
 Marca "isto parece errado" posta pelo estudante numa pergunta, com nota opcional. Fica guardada e exportável para corrigir o banco, e a pergunta deixa de sair nos quizzes até ser corrigida.
 
 **Lacuna**
-Parte do conteúdo conhecida como em falta ou por confirmar. Hoje: o DSM-5-TR não foi analisado, por isso os critérios que dele dependem ficam por melhorar.
+Parte do conteúdo conhecida como em falta ou por confirmar. Hoje: o conteúdo de origem ainda não foi validado item a item pelo médico (continua em rascunho), embora os critérios dos domínios e das hipóteses diagnósticas já tenham sido revistos contra o DSM-5-TR e a CID-11.

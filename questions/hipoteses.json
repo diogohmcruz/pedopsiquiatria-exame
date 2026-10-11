@@ -21,7 +21,7 @@
   "itemId": "h-ddm",
   "category": "hipoteses",
   "type": "memoria",
-  "text": "No construto DSM-5 seguido na fonte (a CID-11 não tem a categoria), qual a combinação correta de frequência das explosões, duração e contextos na perturbação de desregulação disruptiva do humor?",
+  "text": "No DSM-5-TR (a CID-11 não tem a categoria), qual a combinação correta de frequência das explosões, duração e contextos na perturbação de desregulação disruptiva do humor?",
   "options": [
    "Em média 3 ou mais explosões por semana, há 12 meses ou mais, em pelo menos 2 de 3 contextos",
    "Em média 1 ou mais explosões por semana, há 6 meses ou mais, em pelo menos 2 de 3 contextos, graves em pelo menos 1",
@@ -29,7 +29,7 @@
    "Em média 3 ou mais explosões por semana, há 3 meses ou mais, em pelo menos 2 de 3 contextos, graves em pelo menos 1"
   ],
   "correct": 0,
-  "explanation": "Segundo a fonte citada (Rao 2014), as explosões graves ocorrem em média 3 ou mais vezes por semana, o quadro está presente há 12 meses ou mais (sem mais de 3 meses seguidos sem sintomas) e em pelo menos 2 de 3 contextos (casa, escola, pares), graves em pelo menos 1. As restantes opções trocam a frequência, a duração ou o número de contextos.",
+  "explanation": "No DSM-5-TR, as explosões graves ocorrem em média 3 ou mais vezes por semana, o quadro está presente há 12 meses ou mais (sem mais de 3 meses seguidos sem sintomas) e em pelo menos 2 de 3 contextos (casa, escola, pares), graves em pelo menos 1. As restantes opções trocam a frequência, a duração ou o número de contextos.",
   "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6C90 e especificadores (pp. 537-543); NIMH, Disruptive Mood Dysregulation Disorder: The Basics (revisto em 2023), https://www.nimh.nih.gov/health/publications/disruptive-mood-dysregulation-disorder; Rao U, DSM-5: Disruptive Mood Dysregulation Disorder, Asian J Psychiatr 2014, https://pmc.ncbi.nlm.nih.gov/articles/PMC4254488/ (fonte secundária do DSM-5); AACAP, Walter et al., JAACAP 2023;62(5):479-502, https://www.jaacap.org/article/S0890-8567(22)01852-4/fulltext (lista a DMDD como perturbação depressiva do DSM-5-TR, F34.81, sem critérios). Divergência: CID-11 sem a categoria, DSM com ela; DSM-5-TR fica para fase posterior; NICE sem guideline lida.",
   "dose": false
  },
@@ -72,7 +72,7 @@
   "itemId": "h-luto-prolongado",
   "category": "hipoteses",
   "type": "memoria",
-  "text": "Quanto à duração da resposta de luto na perturbação de luto prolongado, qual a afirmação sustentada pela fonte?",
+  "text": "Segundo a CID-11, quanto à duração da resposta de luto na perturbação de luto prolongado, qual a afirmação sustentada pela fonte?",
   "options": [
    "Basta 1 mês de sintomas após a perda, independentemente da cultura ou da religião da família",
    "Tem de exceder claramente as normas culturais ou religiosas; respostas com menos de 6 meses não contam",
@@ -80,7 +80,7 @@
    "Exige pelo menos 12 meses de sintomas, sem ter em conta as normas culturais nem religiosas"
   ],
   "correct": 1,
-  "explanation": "A fonte pede uma duração atipicamente longa, que exceda claramente as normas sociais, culturais ou religiosas, e exclui respostas com menos de 6 meses (ou mais tempo em certas culturas). As outras opções fixam limiares que a fonte não indica ou ignoram o contexto cultural.",
+  "explanation": "Na CID-11 a duração tem de ser atipicamente longa, a exceder claramente as normas sociais, culturais ou religiosas, e respostas com menos de 6 meses (ou mais tempo em certas culturas) não contam, em qualquer idade. O DSM-5-TR pede 12 meses em adultos e 6 em crianças e adolescentes, mas também exige que a duração exceda as normas culturais. As outras opções fixam limiares que a fonte não indica ou ignoram o contexto cultural.",
   "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B42 (pp. 348-351); NICE NG134 (publicada 25/06/2019), https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (1.3.7 a 1.3.10). Sem guideline lida específica de luto prolongado na criança. DSM-5-TR (luto prolongado, versão distinta) fica para fase posterior.",
   "dose": false
  },
@@ -114,7 +114,7 @@
    "Cerca de 1 vez por semana ou mais, durante pelo menos 1 mês"
   ],
   "correct": 3,
-  "explanation": "A CID-11, seguida na fonte, pede cerca de 1 vez por semana ou mais durante pelo menos 1 mês. A opção de 1 vez por semana durante 3 meses é a do DSM-5 (AAP 2021), que a fonte refere mas não segue. As restantes opções não constam da fonte.",
+  "explanation": "A CID-11, seguida na fonte, pede cerca de 1 vez por semana ou mais durante pelo menos 1 mês. A opção de 1 vez por semana durante 3 meses é a do DSM-5-TR (a AAP 2021 coincide), que a fonte refere mas não segue. As restantes opções não constam da fonte.",
   "source": "ICD-11 CDDR secção 6B81 Bulimia nervosa (pp. 404-407; texto lido na cópia do PDF) https://www.who.int/publications/i/item/9789240077263 (texto lido na cópia com o mesmo ISBN 978-92-4-007726-3, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf); NICE NG69, 2017 (atualizada em 2020), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations (rec. 1.2.6, 1.2.9); AAP, Hornberger et al., Pediatrics 2021;147(1):e2020040279, https://publications.aap.org/pediatrics/article/147/1/e2020040279/33504/Identification-and-Management-of-Eating-Disorders (quadros DSM-5 e quadro 4).",
   "dose": false
  },
@@ -233,7 +233,7 @@
    "Perturbação de oposição e desafio"
   ],
   "correct": 0,
-  "explanation": "Os dados do caso (cuidados gravemente insuficientes com mudanças de cuidador, comportamento inibido e retraído com todos os adultos, procura mínima de conforto e resposta mínima ao conforto oferecido) correspondem aos critérios da fonte; no autismo falta a capacidade de iniciar e manter reciprocidade social, aqui preservada.",
+  "explanation": "Os dados do caso (cuidados gravemente insuficientes com mudanças de cuidador, comportamento inibido e retraído com todos os adultos, procura mínima de conforto e resposta mínima ao conforto oferecido) correspondem aos critérios da CID-11; no autismo falta a capacidade de iniciar e manter reciprocidade social, aqui preservada.",
   "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B44 (pp. 355-357); NICE NG26 (publicada 25/11/2015), https://www.nice.org.uk/guidance/ng26/chapter/Recommendations (1.3.2, 1.3.6). Divergência: o NG26 refere DSM-5 e CID-10; seguida a CID-11; DSM-5-TR fica para fase posterior. Sem tratamento nesta entrada.",
   "dose": false
  },
@@ -293,7 +293,7 @@
   "itemId": "h-pstp",
   "category": "hipoteses",
   "type": "caso",
-  "text": "Rapariga de 15 anos, há 3 meses vítima de agressão violenta por desconhecidos na rua. Desde então tem imagens intrusivas e flashbacks, pesadelos sobre o ataque, evita a zona onde ocorreu, está hipervigilante, assusta-se com facilidade e o rendimento escolar piorou. Durante os flashbacks diz ouvir a voz do agressor e desconfia de quem passa na rua; não tem outros sintomas psicóticos nem sintomas dissociativos fora destes episódios. Qual a interpretação mais adequada?",
+  "text": "Rapariga de 15 anos, há 3 meses vítima de agressão violenta por desconhecidos na rua. Desde então tem imagens intrusivas e flashbacks, pesadelos sobre o ataque, evita a zona onde ocorreu, está hipervigilante, assusta-se com facilidade e o rendimento escolar piorou. Durante os flashbacks diz ouvir a voz do agressor e desconfia de quem passa na rua; não tem outros sintomas psicóticos nem sintomas dissociativos fora destes episódios. Segundo a CID-11, qual a interpretação mais adequada?",
   "options": [
    "Psicose de início precoce, pela qualidade alucinatória dos flashbacks e pela desconfiança perante quem passa na rua",
    "Reação aguda ao stress, pela gravidade do acontecimento e pela reação intensa que se seguiu",
@@ -301,7 +301,7 @@
    "Perturbação de stress pós-traumático: flashbacks com qualidade alucinatória e hipervigilância não indicam psicose"
   ],
   "correct": 3,
-  "explanation": "Há exposição a acontecimento extremamente ameaçador e os 3 elementos (re-experienciar, evitamento e perceção persistente de ameaça) durante semanas, com prejuízo funcional: perturbação de stress pós-traumático. A fonte diz que flashbacks com qualidade alucinatória e hipervigilância que parece paranoide não são evidência de psicose. A reação aguda ao stress começa a diminuir em dias, e a perturbação dissociativa só se atribui se os sintomas dissociativos ocorrerem fora dos episódios de re-experienciação.",
+  "explanation": "Na CID-11 há exposição a acontecimento extremamente ameaçador e os 3 elementos nucleares (re-experienciar, evitamento e perceção persistente de ameaça) durante pelo menos várias semanas, com prejuízo funcional: perturbação de stress pós-traumático. A fonte diz que flashbacks com qualidade alucinatória e hipervigilância que parece paranoide não são evidência de psicose. A reação aguda ao stress começa a diminuir em dias e não é perturbação, e a perturbação dissociativa só se atribui se os sintomas dissociativos ocorrerem fora dos episódios de re-experienciação.",
   "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B40 (pp. 339-344); NICE NG116 (publicada 05/12/2018), https://www.nice.org.uk/guidance/ng116/chapter/Recommendations (1.1.1 a 1.1.6). AACAP 2010 não citada: a cópia lida tem rodapé de 1998 'not for distribution or citation'. Divergência: o NG116 não distingue critérios CID-11 ou DSM; seguida a CID-11; DSM-5-TR fica para fase posterior.",
   "dose": false
  },

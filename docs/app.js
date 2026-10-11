@@ -185,7 +185,7 @@
         h('button', { class: 'ghost', onclick: reset }, 'Apagar progresso')),
       available === 0 ? h('p', { class: 'empty' }, 'O banco de perguntas está vazio. Corre scripts/build-bank.js.') : null,
       h('p', { class: 'sub', style: 'margin-top:28px' },
-        'Material de estudo gerado a partir de conteúdo ainda em rascunho. Em cada pergunta vês a fonte; se algo parecer errado, sinaliza. Lacuna conhecida: o DSM-5-TR ainda não foi analisado, por isso os critérios seguem a CID-11 e as guidelines citadas.'));
+        'Material de estudo gerado a partir de conteúdo ainda em rascunho. Em cada pergunta vês a fonte; se algo parecer errado, sinaliza. Os critérios dos domínios e das hipóteses diagnósticas foram revistos contra o DSM-5-TR e a CID-11; quando as duas classificações diferem, a pergunta diz qual segue.'));
   }
   function stat(n, label) { return h('div', { class: 'stat' }, h('b', {}, String(n)), h('span', {}, label)); }
 
