@@ -24,9 +24,9 @@
     "text": "Segundo a RCM do Haldol, num adolescente de 15 anos com esquizofrenia (13 a 17 anos), qual é o intervalo de dose diária oral de haloperidol?",
     "options": [
       "0,5 a 3 mg/dia, de preferência em 2 a 3 tomas",
-      "1 a 6 mg/dia, de preferência numa só toma",
+      "1 a 6 mg/dia, de preferência numa só toma diária",
       "5 a 10 mg/dia, de preferência em 2 a 3 tomas",
-      "0,1 a 0,5 mg/dia, de preferência numa só toma"
+      "0,1 a 0,5 mg/dia, de preferência numa só toma diária"
     ],
     "correct": 0,
     "explanation": "A RCM do Haldol (tabela 3), para esquizofrenia dos 13 aos 17 anos, indica 0,5 a 3 mg/dia por via oral, de preferência em 2 a 3 tomas; acima de 3 mg/dia avalia-se o risco-benefício individual e o máximo recomendado é 5 mg/dia. As outras faixas ou ficam acima do máximo recomendado ou ficam abaixo do intervalo indicado.",
@@ -143,7 +143,7 @@
     "text": "Segundo a RCM da guanfacina de libertação prolongada, numa criança de 9 anos com PHDA que vai suspender o fármaco, como deve ser feita a descida?",
     "options": [
       "Decréscimos de no máximo 1 mg a cada 3 a 7 dias, com tensão arterial e pulso monitorizados",
-      "Decréscimos de até 2 mg a cada 3 a 7 dias, com tensão arterial e pulso monitorizados",
+      "Decréscimos de até 2 mg a cada 3 a 7 dias, com tensão arterial e pulso sempre monitorizados",
       "Decréscimos de no máximo 1 mg a cada 1 a 2 dias, com tensão arterial e pulso monitorizados",
       "Decréscimos de até 2 mg a cada 1 a 2 dias, com tensão arterial e pulso monitorizados"
     ],
@@ -177,12 +177,12 @@
     "text": "Rapaz de 8 anos com enurese noturna, com 4 noites molhadas por semana. Os conselhos sobre líquidos, idas à casa de banho e recompensas não resultaram. Os pais estão motivados e sem raiva ou culpabilização. Segundo o NICE CG111, qual é a abordagem de 1.ª linha?",
     "options": [
       "Anticolinérgico isolado, como a oxibutinina",
-      "Alarme de enurese",
+      "Oferecer o alarme de enurese e rever às 4 semanas",
       "Aguardar mais 6 meses sem tratamento",
       "Desmopressina obrigatória antes de qualquer alarme"
     ],
     "correct": 1,
-    "explanation": "Segundo o NICE CG111, quando os conselhos não bastam deve oferecer-se o alarme de enurese, salvo se for indesejado ou inapropriado (por exemplo, muito poucas camas molhadas por semana ou pais com raiva ou culpabilização), o que não é o caso. O item não prevê anticolinérgico isolado como 1.ª linha, e a desmopressina é alternativa e não passo obrigatório prévio.",
+    "explanation": "Segundo o NICE CG111, quando os conselhos não bastam deve oferecer-se o alarme de enurese, salvo se for indesejado ou inapropriado (por exemplo, muito poucas camas molhadas por semana ou pais com raiva ou culpabilização), o que não é o caso. A desmopressina é uma alternativa de 1.ª linha conforme a preferência e o contexto, não um passo obrigatório antes do alarme; esperar sem tratamento ou usar um anticolinérgico isolado não é a abordagem descrita.",
     "source": "NICE CG111, Bedwetting in under 19s (publicada 27/10/2010; 'Last reviewed 21/11/2018': sem nova evidência que altere as recomendações), https://www.nice.org.uk/guidance/cg111/chapter/Recommendations; ICCS, Neveus et al., J Pediatr Urol 2020;16(1):10-19 (só li o resumo no PubMed; texto integral pago, não acedido), https://pubmed.ncbi.nlm.nih.gov/32278657/",
     "dose": false
   },
@@ -193,13 +193,13 @@
     "type": "caso",
     "text": "Rapariga de 14 anos com TOC, incapacidade moderada a grave e sem resposta adequada à TCC com exposição e prevenção de resposta, sem depressão comórbida significativa. Segundo o NICE CG31, após revisão multidisciplinar e mantendo a TCC, qual é a conduta farmacológica?",
     "options": [
-      "Oferecer fluoxetina, mesmo sem depressão comórbida",
-      "Oferecer um antipsicótico isolado",
-      "Adiar qualquer ISRS até aos 18 anos",
-      "Oferecer um ISRS licenciado, como a sertralina ou a fluvoxamina"
+      "Oferecer fluoxetina como ISRS, mesmo sem depressão comórbida",
+      "Oferecer um antipsicótico isolado, sem manter a TCC",
+      "Adiar qualquer ISRS até aos 18 anos, mantendo só a TCC",
+      "Oferecer sertralina ou fluvoxamina, mantendo a TCC"
     ],
     "correct": 3,
-    "explanation": "Aos 12 a 18 anos o NICE CG31 diz que a adição de ISRS deve ser oferecida, com medicamento licenciado (sertralina ou fluvoxamina), em combinação com TCC concomitante. A fluoxetina reserva-se para depressão comórbida significativa, o item só prevê ISRS licenciado em combinação com TCC e não prevê antipsicótico isolado, e não há razão para esperar pelos 18 anos.",
+    "explanation": "Aos 12 a 18 anos o NICE CG31 diz que a adição de ISRS deve ser oferecida, com medicamento licenciado (sertralina ou fluvoxamina), em combinação com TCC concomitante. A fluoxetina reserva-se para depressão comórbida significativa, a fonte só prevê ISRS licenciado em combinação com TCC e não prevê antipsicótico isolado, e não há razão para esperar pelos 18 anos.",
     "source": "NICE CG31 (TOC e BDD), 2005, https://www.nice.org.uk/guidance/cg31/chapter/Recommendations (página consultada em 10/10/2026: 'Last reviewed: 11 July 2024', 'Update in progress'; atualização parcial GID-NG10435 por publicar, prevista 16/02/2027, consulta pública do projeto 17/09/2026 a 21/10/2026, texto do projeto NÃO lido, https://www.nice.org.uk/guidance/indevelopment/gid-ng10435) (rec. 1.5.5.2, 1.5.5.3, 1.5.6.1, 1.5.6.2, 1.5.6.4, 1.5.6.6)",
     "dose": false
   },
@@ -227,10 +227,10 @@
     "type": "caso",
     "text": "Rapaz de 11 anos com tiques motores e vocais crónicos que o incomodam, já com psicoeducação feita, e com terapia comportamental acessível. Segundo a AAN, qual é a opção a oferecer antes da medicação?",
     "options": [
-      "Aripiprazol em dose de início baixa",
-      "Haloperidol em dose de início baixa",
-      "CBIT (treino de reversão de hábito com relaxamento e intervenção funcional)",
-      "Topiramato em dose de início baixa"
+      "Aripiprazol em dose de início baixa, como 1.ª opção",
+      "Haloperidol em dose de início baixa, como 1.ª opção",
+      "CBIT (treino de reversão de hábito e relaxamento)",
+      "Topiramato em dose de início baixa, como 1.ª opção"
     ],
     "correct": 2,
     "explanation": "A AAN manda oferecer CBIT antes da medicação quando acessível; é a 1.ª linha comportamental, com protocolo de 8 sessões nos ensaios, e a manutenção dos ganhos está documentada a partir dos 9 anos, idade que este doente cumpre. Os fármacos citados ficam para quando a abordagem comportamental não for acessível ou não bastar.",
@@ -245,9 +245,9 @@
     "text": "Rapariga de 15 anos com depressão moderada a grave que acabou de iniciar um ISRS. Segundo o NICE NG134, que monitorização é exigida sobretudo no início do tratamento?",
     "options": [
       "Monitorização mensal do ECG e das provas hepáticas, sem foco em sintomas psíquicos",
-      "Monitorização apertada de ideação suicida, autolesão, hostilidade e ativação, pelo prescritor e pelo psicoterapeuta",
-      "Vigilância só do apetite e do sono, sem foco no risco suicida",
-      "Sem monitorização especial se não houver ideação suicida prévia"
+      "Monitorização apertada de ideação suicida, autolesão, hostilidade e ativação",
+      "Vigilância apenas do apetite, do sono e do peso, sem foco no risco suicida",
+      "Sem monitorização especial se não houver ideação suicida nem autolesão prévia"
     ],
     "correct": 1,
     "explanation": "O NICE NG134 exige monitorização apertada de ideação suicida, autolesão, hostilidade e ativação, sobretudo no início, pelo médico prescritor e pelo profissional que faz a psicoterapia, informando o jovem e os pais de que devem contactar urgentemente o prescritor perante sintomas novos. A AACAP 2023 refere o aviso em caixa para pensamento e comportamento suicida até aos 24 anos. A monitorização é exigida mesmo sem ideação prévia.",
@@ -262,9 +262,9 @@
     "text": "Rapariga de 15 anos, já com menarca, com perturbação bipolar sem resposta a outras opções, em que se pondera valproato. Segundo a RCM do Diplexil-R e a circular do Infarmed de 2018, qual é a cautela essencial?",
     "options": [
       "Uso sem restrições adicionais, desde que a idade seja superior a 12 anos",
-      "Contraindicação absoluta, sem exceção em nenhuma circunstância",
-      "Um único teste de gravidez antes de iniciar, sem seguimento posterior",
-      "Só com programa de prevenção da gravidez: teste de gravidez, contraceção eficaz e revisão especializada anual"
+      "Contraindicação absoluta em raparigas, sem exceção em nenhuma circunstância",
+      "Um único teste de gravidez antes de iniciar, sem seguimento nem revisão posterior",
+      "Só com programa de prevenção da gravidez (testes, contraceção, revisão anual)"
     ],
     "correct": 3,
     "explanation": "A RCM contraindica o valproato na bipolar em mulheres em idade fértil, a não ser que as condições do programa de prevenção da gravidez sejam cumpridas: teste de gravidez antes e durante o tratamento, aconselhamento sobre contraceção eficaz, revisão por especialista pelo menos anual e formulário de reconhecimento de riscos. Não é uma contraindicação sem exceções, mas também não se usa sem restrições. Em menores de 18 anos o uso na bipolar é off-label em Portugal.",
@@ -278,10 +278,10 @@
     "type": "caso",
     "text": "Rapaz de 16 anos com esquizofrenia resistente ao tratamento vai iniciar clozapina. Segundo a RCM do Leponex, qual é a monitorização hematológica no início?",
     "options": [
-      "CAN basal igual ou superior a 1500/mm3 e controlo semanal nas primeiras 18 semanas",
-      "CAN basal igual ou superior a 1500/mm3 e controlo anual desde o início",
-      "CAN só se surgir febre, sem controlos programados",
-      "CAN mensal desde o início e semanal só após 12 meses"
+      "CAN basal de pelo menos 1500/mm3 e controlo semanal durante 18 semanas",
+      "CAN basal de pelo menos 1500/mm3 e controlo anual desde o início do tratamento",
+      "CAN apenas se surgir febre ou infeção, sem controlos programados",
+      "CAN mensal desde o início do tratamento e semanal só após 12 meses"
     ],
     "correct": 0,
     "explanation": "A RCM do Leponex pede contagem absoluta de neutrófilos basal igual ou superior a 1500/mm3 e controlo semanal nas primeiras 18 semanas, depois mensal nas 34 semanas seguintes. Faz-se também CAN de imediato se surgirem sinais de infeção, mas não só nessa circunstância. A AACAP 2013 propõe um calendário diferente (semanal nos primeiros 6 meses), pelo que a pergunta usa a RCM.",
@@ -297,7 +297,7 @@
     "options": [
       "Oferecer sertralina como 1.ª linha em todos os casos",
       "Oferecer venlafaxina se o jovem preferir medicação",
-      "Não oferecer tratamentos farmacológicos para prevenção ou tratamento",
+      "Não oferecer fármacos para prevenção ou tratamento",
       "Oferecer um ISRS após duas sessões de TCC sem resposta"
     ],
     "correct": 2,
@@ -318,7 +318,7 @@
       "Fluoxetina e sertralina"
     ],
     "correct": 1,
-    "explanation": "O NICE NG134 (rec. 1.6.26) diz que a paroxetina e a venlafaxina não devem ser usadas na depressão pediátrica; a AACAP 2023 exclui a paroxetina por maior ideação suicida e abandono, e as RCM portuguesas vão no mesmo sentido. Fluoxetina, sertralina e citalopram não são citados neste item como fármacos a evitar, logo não estão nesta proibição.",
+    "explanation": "O NICE NG134 (rec. 1.6.26) diz que a paroxetina e a venlafaxina não devem ser usadas na depressão pediátrica; a AACAP 2023 exclui a paroxetina por maior ideação suicida e abandono, e as RCM portuguesas vão no mesmo sentido. Fluoxetina, sertralina e citalopram não são citados pelo NICE como fármacos a evitar, logo não estão nesta proibição.",
     "source": "NICE NG134 (depressão em crianças e jovens), 2019, última revisão 07/05/2024 (só simplificação, sem mudança de prática), https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.6.26); AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Major and Persistent Depressive Disorders, JAACAP 2023;62(5):479-502, https://pubmed.ncbi.nlm.nih.gov/36273673/ (texto integral lido numa cópia PDF alojada em hscsnhealthplan.org; o site da JAACAP devolve 403) (Treatment Statement 2, Benefits and Harms: 'Insufficient rigorous evidence of benefit for other classes (SNRIs...)'; paroxetina; Implementation: 'Paroxetine has been associated with increased risk of suicidal thinking or behavior compared to other SSRIs'); RCM Paroxetina Farmoz aprovado pelo Infarmed em 03-12-2021, https://www.tecnimede.com/sites/default/files/portfolio/dosages/PAROXETINA%20FARMOZ_RCM.pdf (secções 4.2 e 4.4); RCM Venlafaxina Desinax aprovado pelo Infarmed em 15-12-2020, https://www.tecnimede.com/sites/default/files/portfolio/dosages/VENLAFAXINA%20DESINAX_RCM.pdf (secções 4.2 e 4.4); RCM Duloxetina Farmoz 60 mg aprovado pelo Infarmed em 10-12-2021, https://www.tecnimede.com/sites/default/files/portfolio/dosages/DULOXETINA%20FARMOZ%2060MG_RCM.pdf (extração do PDF degradada; confirmei a frase sobre menores de 18 anos)",
     "dose": false
   },
@@ -330,12 +330,12 @@
     "text": "Segundo a RCM do metilfenidato, qual das seguintes situações é uma contraindicação?",
     "options": [
       "Epilepsia",
-      "Idade de 6 anos, já autorizada",
+      "Ter 6 anos de idade",
       "PHDA com comorbilidade de ansiedade",
       "Glaucoma"
     ],
     "correct": 3,
-    "explanation": "A RCM contraindica o metilfenidato, entre outros, em glaucoma, feocromocitoma, hipertiroidismo, uso de IMAO não seletivos, depressão grave, anorexia nervosa, psicose, mania e doença cardiovascular grave preexistente. A partir dos 6 anos está autorizado em Portugal, e epilepsia e ansiedade não constam da lista de contraindicações do item.",
+    "explanation": "A RCM contraindica o metilfenidato, entre outros, em glaucoma, feocromocitoma, hipertiroidismo, uso de IMAO não seletivos, depressão grave, anorexia nervosa, psicose, mania e doença cardiovascular grave preexistente. A partir dos 6 anos está autorizado em Portugal, e epilepsia e ansiedade não constam da lista de contraindicações da RCM.",
     "source": "RCM metilfenidato de libertação prolongada (INFOMED/Infarmed, med_id 34285), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=34285&tipo_doc=rcm, secção 4.3, consultado em 10/10/2026",
     "dose": false
   },
@@ -363,10 +363,10 @@
     "type": "memoria",
     "text": "Segundo a RCM da desmopressina para enurese noturna, que restrição de líquidos se deve aplicar para prevenir a hiponatremia?",
     "options": [
-      "Restringir apenas durante 1 hora depois da toma",
-      "Aumentar a ingestão à noite para proteger os rins",
-      "Restringir desde 1 hora antes da toma ao deitar até à manhã seguinte, e pelo menos 8 horas depois",
-      "Restringir só se surgirem sinais de retenção de líquidos"
+      "Restringir apenas durante 1 hora depois da toma, sem restrição prévia",
+      "Aumentar a ingestão de líquidos à noite para proteger os rins",
+      "Restringir desde 1 hora antes até pelo menos 8 horas depois da toma",
+      "Restringir só se surgirem sinais de retenção de líquidos ou edema"
     ],
     "correct": 2,
     "explanation": "A RCM manda restringir os líquidos tanto quanto possível desde 1 hora antes da toma ao deitar até à manhã seguinte, e em qualquer caso pelo menos 8 horas depois, porque sem restrição pode haver retenção de líquidos e hiponatremia, com raros casos de edema cerebral em crianças e adolescentes. A restrição é preventiva e deve ser explicada aos pais e à criança, não reativa.",

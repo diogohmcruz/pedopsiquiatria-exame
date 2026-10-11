@@ -1,0 +1,325 @@
+[
+  {
+    "id": "da-19-q1",
+    "itemId": "da-19",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Na avaliação da PHDA, o que estabelece o critério de exclusão de outra causa (critério E do DSM-5-TR)?",
+    "options": [
+      "Uma perturbação de ansiedade coexistente exclui sempre a PHDA, porque explica a desatenção",
+      "Uma pontuação elevada numa escala como o SDQ ou o SNAP-IV basta para confirmar o diagnóstico",
+      "Os sintomas não surgem só numa psicose nem são melhor explicados por outra perturbação mental",
+      "O autismo continua na lista de exclusões, pelo que a sua presença impede o diagnóstico de PHDA"
+    ],
+    "correct": 2,
+    "explanation": "O critério pede que os sintomas não surjam só durante uma psicose nem sejam melhor explicados por outra perturbação mental, mas a coexistência com outra perturbação não exclui a PHDA. As escalas ajudam e nunca bastam para o diagnóstico, e o autismo já não consta da lista de exclusões do DSM-5-TR.",
+    "source": "NICE NG87, 2018, https://www.nice.org.uk/guidance/ng87 (rec. 1.3.2); AAP (Wolraich et al.), Pediatrics 2019;144(4):e20192528, https://doi.org/10.1542/peds.2019-2528 (KAS 2); NICE NG87 rec. 1.3.3 (não excluir por perturbação global do desenvolvimento; critérios do DSM-5 ou da CID-11; pág. 11 do PDF); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Attention-Deficit/Hyperactivity Disorder, critério E; o autismo já não consta da lista de exclusões; .txt pág. 169); OMS, CDDR da CID-11 (Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders, https://www.who.int/publications/i/item/9789240077263), 6A05 Attention deficit hyperactivity disorder, confirmado no texto do manual (sintomas não melhor explicados por outra perturbação mental, não devidos a substância ou medicação (incluindo abstinência) nem a doença do sistema nervoso; pág. 143 do manual, .txt pág. 160)",
+    "dose": false
+  },
+  {
+    "id": "da-25-q1",
+    "itemId": "da-25",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 9 anos referenciado por desatenção e inquietação na escola. Antes de atribuir os sintomas a PHDA, que revisão está indicada?",
+    "options": [
+      "Visão e audição, saúde física e medicação em curso, por poderem causar desatenção",
+      "Rendimento escolar e escala preenchida pelo professor, para confirmar a PHDA",
+      "História familiar de PHDA e marcos do desenvolvimento, antes de qualquer outra revisão",
+      "Dinâmica familiar e estilo educativo dos pais, antes de qualquer outra revisão"
+    ],
+    "correct": 0,
+    "explanation": "A fonte manda rever visão, audição, saúde física e medicação, porque défices sensoriais, certos fármacos e condições médicas (tiroide, hipoglicemia, toxinas) podem causar desatenção ou inquietação. As outras opções não incluem essas causas médicas e medicamentosas.",
+    "source": "Cabral et al., Transl Pediatr 2020, https://doi.org/10.21037/tp.2019.09.08 (história médica, visão e audição); medicação: ver DSM-5-TR abaixo; NICE NG87, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.3.4: avaliação da saúde física e das condições coexistentes); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Attention-Deficit/Hyperactivity Disorder, Risk and Prognostic Factors: défices visuais e auditivos, anomalias metabólicas e carências nutricionais como possíveis influências; Differential Diagnosis: sintomas atribuíveis a medicação, p. ex. broncodilatadores, isoniazida, neurolépticos por acatisia e hormona tiroideia; .txt págs. 171 e 175); OMS, CDDR da CID-11 (Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders, https://www.who.int/publications/i/item/9789240077263), 6A05 Attention deficit hyperactivity disorder, confirmado no texto do manual (fármacos que se associam a desatenção, hiperatividade ou impulsividade (p. ex. carbamazepina, valproato, risperidona, broncodilatadores, hormona tiroideia); outras condições médicas (hipoglicemia, tiroide, toxinas, perturbações do sono-vigília); pág. 149 do manual, .txt pág. 166)",
+    "dose": false
+  },
+  {
+    "id": "da-27-q1",
+    "itemId": "da-27",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo a AAP, que condições emocionais e comportamentais se devem rastrear numa criança ou adolescente com PHDA?",
+    "options": [
+      "Perturbações psicóticas, perturbações alimentares, perturbações do luto e dissociativas",
+      "Perturbações do sono, da eliminação, da coordenação motora e de aprendizagem escolar",
+      "Apenas ansiedade e depressão, dispensando o rastreio de oposição, conduta e substâncias",
+      "Ansiedade, depressão, perturbação de oposição, de conduta e consumo de substâncias"
+    ],
+    "correct": 3,
+    "explanation": "A fonte manda rastrear ansiedade, depressão, perturbação de oposição, perturbação de conduta e consumo de substâncias (AAP, KAS 3). As outras opções trocam o grupo por perturbações que a fonte não indica para este rastreio ou deixam de fora condições que a fonte inclui.",
+    "source": "AAP (Wolraich et al.), Pediatrics 2019;144(4):e20192528, https://doi.org/10.1542/peds.2019-2528 (KAS 3: rastrear ansiedade, depressão, oposição, conduta e consumo de substâncias); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Attention-Deficit/Hyperactivity Disorder, Comorbidity: oposição em cerca de metade da apresentação combinada e um quarto da desatenta, conduta em cerca de um quarto, DMDD, ansiedade, depressão, TOC e perturbação explosiva intermitente numa minoria mas acima da população geral, substâncias; .txt págs. 175-176); OMS, CDDR da CID-11 (Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders, https://www.who.int/publications/i/item/9789240077263), 6A05 Attention deficit hyperactivity disorder, confirmado no texto do manual (coexistência frequente com oposição e conduta; pode coexistir com perturbações de humor e de ansiedade; risco aumentado de perturbação obsessivo-compulsiva; págs. 145 e 148 do manual, .txt págs. 162 e 165)",
+    "dose": false
+  },
+  {
+    "id": "da-28-q1",
+    "itemId": "da-28",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo a AAP, além das comorbilidades emocionais e comportamentais, que condições de aprendizagem e neurodesenvolvimento se devem rastrear na PHDA?",
+    "options": [
+      "Perturbações psicóticas, perturbação bipolar, perturbações alimentares, da personalidade e do luto",
+      "Aprendizagem e linguagem, défice intelectual, coordenação motora, autismo, tiques e sono/apneia",
+      "Perturbações dissociativas, da personalidade, psicóticas e intoxicação aguda por substâncias",
+      "Perturbações do comportamento alimentar, da eliminação, do luto e da personalidade"
+    ],
+    "correct": 1,
+    "explanation": "A fonte indica rastrear perturbações de aprendizagem e de linguagem, défice intelectual, perturbação da coordenação motora, autismo, tiques e perturbação do sono ou apneia. As restantes opções listam perturbações que a fonte não associa a este rastreio.",
+    "source": "AAP (Wolraich et al.), Pediatrics 2019;144(4):e20192528, https://doi.org/10.1542/peds.2019-2528 (KAS 3: aprendizagem, linguagem, autismo, tiques, apneia do sono, perturbação da coordenação motora); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Attention-Deficit/Hyperactivity Disorder, Comorbidity: aprendizagem, autismo, défice intelectual, linguagem, coordenação motora, tiques e sono; .txt pág. 176); StatPearls, Tourette Syndrome and Other Tic Disorders (NBK499958): a PHDA é a comorbilidade mais comum nos tiques (.txt págs. 3 e 5); OMS, CDDR da CID-11 (Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders, https://www.who.int/publications/i/item/9789240077263), 6A05 Attention deficit hyperactivity disorder, confirmado no texto do manual (coocorre com perturbações da fala e da linguagem, tiques, deficiência intelectual, perturbação da coordenação motora e autismo; págs. 145, 147 e 148 do manual, .txt págs. 162, 164 e 165)",
+    "dose": false
+  },
+  {
+    "id": "da-31-q1",
+    "itemId": "da-31",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Adolescente de 16 anos com PHDA, medicado com estimulante, pede receitas com mais frequência do que o esperado. Que preocupação específica da adolescência deve o médico considerar?",
+    "options": [
+      "Sinal de que a dose é insuficiente e de que convém aumentá-la na próxima consulta",
+      "Possível desvio ou uso indevido da medicação estimulante, a vigiar pelos pedidos de receitas",
+      "Sinal de ansiedade de antecipação, por receio de ficar sem o fármaco antes de um exame escolar",
+      "Falta de adesão ao tratamento, por esquecimentos ou recusa de tomar o fármaco"
+    ],
+    "correct": 1,
+    "explanation": "Segundo a AAP, na adolescência o desvio de medicação para PHDA é uma preocupação especial, a vigiar pelos pedidos de receitas, e há maior risco de consumo e de tentativa de obter estimulante simulando sintomas. As outras opções não consideram o desvio de medicação nem o risco de consumo que a fonte destaca.",
+    "source": "AAP (Wolraich et al.), Pediatrics 2019;144(4):e20192528, https://doi.org/10.1542/peds.2019-2528 (Special Circumstances: Adolescents, KAS 2: risco maior de consumo e possibilidade de tentarem obter estimulante simulando sintomas; secção de tratamento, Special Circumstances: Adolescents: o desvio de medicação para PHDA é uma preocupação especial, a vigiar pelos pedidos de receitas); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Attention-Deficit/Hyperactivity Disorder, Comorbidity e Functional Consequences: risco de perturbações por uso de substâncias elevado; .txt págs. 173 e 176)",
+    "dose": false
+  },
+  {
+    "id": "dh-28-q1",
+    "itemId": "dh-28",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Adolescente de 14 anos com humor deprimido há dois meses, que deixou de ir à escola, se isolou dos pares e refere ouvir vozes que o criticam. Como se interpretam estes achados?",
+    "options": [
+      "Indicam gravidade ligeira, porque o prejuízo escolar e o isolamento são inespecíficos nesta idade",
+      "Indicam sobretudo perturbação de adaptação, o que afasta a leitura de maior gravidade",
+      "Só indicam maior gravidade se houver também ideação suicida associada",
+      "Indicam maior gravidade, pelo prejuízo funcional marcado e pelos sintomas psicóticos"
+    ],
+    "correct": 3,
+    "explanation": "Prejuízo funcional marcado em casa, na escola ou com os pares, ou sintomas psicóticos, apontam para maior gravidade. Para a NICE NG134, a depressão moderada ou grave, incluindo psicótica, é critério de referenciação a CAMHS. As outras opções minimizam a gravidade ou acrescentam uma condição que a fonte não exige.",
+    "source": "GLAD-PC Part I (Zuckerbrot et al.), Pediatrics 2018;141(3):e20174081, https://publications.aap.org/pediatrics/article/141/3/e20174081/37626/Guidelines-for-Adolescent-Depression-in-Primary; AACAP, Clinical Practice Guideline for Major and Persistent Depressive Disorders (Walter et al.), JAACAP 2023;62(5):479-502, https://www.jaacap.org/article/S0890-8567(22)01852-4/fulltext; NICE NG134, rec. 1.3.14 e 1.6.1 (depressão moderada ou grave, incluindo psicótica: critério de referenciação a CAMHS e revisão por equipa de CAMHS), https://www.nice.org.uk/guidance/ng134/chapter/Recommendations; NICE NG134 rec. 1.3.14 (depressão moderada ou grave, incluindo psicótica, e ideias ou planos suicidas ativos como critérios de referenciação a CAMHS) e 1.6.1 (revisão por equipa CAMHS) confirmadas no texto; OMS, CID-11 CDDR (Clinical Descriptions and Diagnostic Requirements for ICD-11 Mental, Behavioural or Neurodevelopmental Disorders), p. 217 (f. 235): episódio grave = dificuldade séria de funcionamento na maioria dos domínios, com ou sem delírios ou alucinações",
+    "dose": false
+  },
+  {
+    "id": "dh-30-q1",
+    "itemId": "dh-30",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR, a partir de quanto tempo após a morte se pode considerar perturbação de luto prolongado em crianças e adolescentes?",
+    "options": [
+      "6 meses",
+      "3 meses",
+      "12 meses",
+      "24 meses"
+    ],
+    "correct": 0,
+    "explanation": "No DSM-5-TR o limiar é de pelo menos 6 meses em crianças e adolescentes, contra pelo menos 12 meses nos adultos. A CID-11 (6B42) usa outra formulação: uma resposta de luto com menos de 6 meses não cumpre o critério, sem distinguir por idade. Por isso 12 meses não é o limiar pediátrico do DSM-5-TR.",
+    "source": "AACAP, Clinical Practice Guideline for Major and Persistent Depressive Disorders (Walter et al.), JAACAP 2023;62(5):479-502, https://www.jaacap.org/article/S0890-8567(22)01852-4/fulltext, p. 484 (lista de condições com sintomas semelhantes: confirmado no texto); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Major Depressive Disorder, Differential Diagnosis; Adjustment Disorders; Prolonged Grief Disorder, critério A); OMS, CID-11 CDDR (Clinical Descriptions and Diagnostic Requirements for ICD-11 Mental, Behavioural or Neurodevelopmental Disorders), Prolonged grief disorder (6B42), p. 348-349 (f. 366-367); Depressive episode, p. 214 (f. 232) e Boundaries, p. 215 (f. 233: TDAH, luto prolongado), p. 254 (f. 272: perturbação de adaptação, oposição e desafio e insónia) (confirmado no texto)",
+    "dose": false
+  },
+  {
+    "id": "dh-31-q1",
+    "itemId": "dh-31",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Adolescente de 15 anos com hipotiroidismo e um episódio depressivo que se considera consequência direta dessa condição médica. Como o classifica a CID-11?",
+    "options": [
+      "Perturbação do humor induzida por substância",
+      "Perturbação de adaptação com humor depressivo",
+      "Síndrome secundária do humor (6E62)",
+      "Perturbação depressiva persistente"
+    ],
+    "correct": 2,
+    "explanation": "A CID-11 classifica a depressão consequência direta de uma condição médica como síndrome secundária do humor (6E62), mais provável se a idade de início ou o curso forem atípicos ou não houver história familiar. A perturbação do humor induzida por substância aplica-se a substâncias ou medicamentos, não a condições médicas.",
+    "source": "AACAP, Clinical Practice Guideline for Major and Persistent Depressive Disorders (Walter et al.), JAACAP 2023;62(5):479-502, https://www.jaacap.org/article/S0890-8567(22)01852-4/fulltext, p. 484 (listas de condições, fármacos e substâncias: confirmado no texto); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Major Depressive Disorder, critério C, e Differential Diagnosis: perturbação depressiva devida a outra condição médica e induzida por substância/medicamento); OMS, CID-11 CDDR (Clinical Descriptions and Diagnostic Requirements for ICD-11 Mental, Behavioural or Neurodevelopmental Disorders), Secondary mood syndrome (6E62), p. 659-661 (f. 677-679) e Boundary with substance-induced mood disorder, p. 254 (f. 272) (confirmado no texto); DSM-5-TR f. 333: lista de fármacos incluindo derivados do ácido retinoico (isotretinoína)",
+    "dose": false
+  },
+  {
+    "id": "dh-18-q1",
+    "itemId": "dh-18",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Qual é o papel do PHQ-A (PHQ-9 adaptado a adolescentes) na avaliação da depressão?",
+    "options": [
+      "Apoia o rastreio e a avaliação da gravidade, mas não substitui a entrevista clínica",
+      "Estabelece o diagnóstico de perturbação depressiva sempre que o ponto de corte é ultrapassado",
+      "Substitui a entrevista ao adolescente quando os pais confirmam os sintomas descritos",
+      "É o questionário de autorrelato que a NICE NG134 recomenda de forma expressa para adolescentes"
+    ],
+    "correct": 0,
+    "explanation": "O PHQ-A apoia o rastreio e a avaliação da gravidade, mas não substitui a entrevista clínica. Nas fontes citadas, a NICE NG134 refere o MFQ e não o PHQ-A. Uma escala sozinha não estabelece o diagnóstico.",
+    "source": "AACAP, Clinical Practice Guideline for Major and Persistent Depressive Disorders (Walter et al.), JAACAP 2023;62(5):479-502, https://www.jaacap.org/article/S0890-8567(22)01852-4/fulltext; GLAD-PC Part I (Zuckerbrot et al.), Pediatrics 2018;141(3):e20174081, https://publications.aap.org/pediatrics/article/141/3/e20174081/37626/Guidelines-for-Adolescent-Depression-in-Primary; NICE NG134, rec. 1.1.13 e 1.4.1 (questionário de autorrelato como complemento do juízo clínico; a NG134 refere o MFQ, não o PHQ-A), https://www.nice.org.uk/guidance/ng134/chapter/Recommendations; AACAP 2023, p. 482 e p. 485: refere o PHQ-9 modificado para adolescentes e o rastreio com PHQ-2 seguido de PHQ-9 (confirmado no texto); a USPSTF recomenda rastreio entre os 12 e os 18 anos; NICE NG134 rec. 1.1.13 (MFQ como complemento do juízo clínico) e rec. 1.4.1 (rastreio com questionário de autorrelato a partir dos 11 anos em referenciados à CAMHS sem diagnóstico) confirmadas no texto; a NG134 não nomeia o PHQ-A nem dá pontos de corte",
+    "dose": false
+  },
+  {
+    "id": "dan-16-q1",
+    "itemId": "dan-16",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapariga de 15 anos que falta à escola, está retraída, leva sempre o telemóvel e uma amiga para os eventos sociais e rumina durante dias sobre o que os outros pensaram dela. Qual é a hipótese mais adequada?",
+    "options": [
+      "Perturbação de ansiedade de separação",
+      "Fobia específica (tipo situacional)",
+      "Perturbação de pânico com agorafobia",
+      "Perturbação de ansiedade social"
+    ],
+    "correct": 3,
+    "explanation": "No adolescente a ansiedade social é frequente e mostra evitamento escolar, retraimento, preocupação com a avaliação dos outros, estratégias de segurança (telemóvel, acompanhante) e ruminação antes e depois do evento social, como na vinheta. Não se descrevem ataques de pânico nem receio da separação.",
+    "source": "NICE CG159 (ansiedade social), 2013, https://www.nice.org.uk/guidance/cg159/chapter/Recommendations (rec. 1.4.6, lida e confirmada: evitamento, estratégias de segurança, processamento antes e depois do evento, sobretudo em mais velhos; formulado para ansiedade social); ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6B04, p. 285-286, lido e confirmado: a ansiedade social aumenta na adolescência, com retraimento social e recusa escolar, e a grande maioria dos casos surge entre os 8 e os 15 anos; 6B00, p. 267-268: preocupação com o desempenho nos adolescentes; 6B01, p. 273: perturbação de pânico muito rara nas crianças mais novas, a prevalência aumenta na adolescência e o início típico é por volta dos 20 anos); AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (Introduction: ansiedade social com início no fim da idade escolar e início da adolescência, pânico e ansiedade generalizada no fim da adolescência e início da idade adulta); DSM-5-TR (APA, 2022), confirmado no texto do manual (Social Anxiety Disorder, Development and Course, p. 232: idade mediana de início 13 anos, 75% entre 8 e 15 anos; Panic Disorder, Development and Course, p. 238: taxas aumentam gradualmente na adolescência e atingem o pico na idade adulta, com idade mediana de início 20-24 anos nos EUA)",
+    "dose": false
+  },
+  {
+    "id": "dan-21-q1",
+    "itemId": "dan-21",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo a fonte citada, o que distingue a ansiedade clinicamente significativa dos medos esperados para a idade?",
+    "options": [
+      "A existência de um acontecimento desencadeante identificável, que torna o medo patológico",
+      "O conteúdo do medo, sendo clínicos apenas os medos sem qualquer objeto real",
+      "A intensidade, a persistência, o evitamento e o impacto no dia a dia (escola, amizades)",
+      "A idade de início, sendo clínica toda a ansiedade que surge antes dos 6 anos"
+    ],
+    "correct": 2,
+    "explanation": "Distingue-se pela intensidade, persistência, evitamento e impacto no dia a dia, com avaliação da gravidade e do prejuízo funcional. O conteúdo do medo, um desencadeante identificável ou a idade de início não aparecem como critério de distinção.",
+    "source": "AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (secção Assessment, Evaluation: a ansiedade clinicamente significativa distingue-se de preocupações e medos quotidianos, normativos em determinadas fases do desenvolvimento, pela frequência, duração, gravidade, sofrimento e prejuízo funcional); ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6B03 p. 281, 6B04 p. 285 e 6B05 p. 290, Boundary with normality, lido e confirmado: persistência, intensidade excessiva e interferência no funcionamento; medos próprios do desenvolvimento não são perturbação); DSM-5-TR (APA, 2022), confirmado no texto do manual (Specific Phobia, p. 228: nas crianças pequenas os medos excessivos são comuns e transitórios; avaliar prejuízo, duração e se são típicos da fase de desenvolvimento; Anxiety Disorders, visão geral, p. 217: a duração de 6 meses é um guia geral, por vezes mais curta nas crianças, como na ansiedade de separação e no mutismo seletivo)",
+    "dose": false
+  },
+  {
+    "id": "dan-24-q1",
+    "itemId": "dan-24",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Que instrumento é indicado para avaliar a ansiedade em pré-escolares, preenchido pelos pais?",
+    "options": [
+      "PHQ-A (PHQ-9 adaptado a adolescentes)",
+      "Preschool Anxiety Scale (PAS)",
+      "ECBI (Eyberg Child Behavior Inventory)",
+      "Escala de Conners (avaliação de PHDA)"
+    ],
+    "correct": 1,
+    "explanation": "Para pré-escolares a fonte citada indica a Preschool Anxiety Scale (Spence et al., 2001), preenchida pelos pais. As restantes escalas não são as indicadas para a ansiedade em pré-escolares.",
+    "source": "Spence, Rapee, McDonald, Ingram, 2001, Behav Res Ther 39:1293-1316 (citação confirmada só em fonte secundária; sem URL verificado); AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (Assessment, rating scales, p. 4 do PDF, lida: lista a Preschool Anxiety Scale, versão pais; não indica ponto de corte nem versão portuguesa)",
+    "dose": false
+  },
+  {
+    "id": "dan-28-q1",
+    "itemId": "dan-28",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Perante uma criança com ansiedade, que fatores devem ser explorados como possíveis causas ou mantenedores da ansiedade?",
+    "options": [
+      "Acontecimentos assustadores, perdas, violência e vitimização por pares (bullying)",
+      "Apenas a história familiar de ansiedade e o temperamento da criança desde a infância",
+      "Apenas o rendimento escolar e o desempenho nas provas de avaliação da escola",
+      "Apenas o uso de ecrãs, o horário de sono e a alimentação da criança"
+    ],
+    "correct": 0,
+    "explanation": "A fonte manda explorar trauma, maus-tratos e bullying: acontecimentos assustadores, perdas, violência e vitimização por pares, como fatores que causam ou mantêm a ansiedade. As outras opções limitam a exploração a fatores que a fonte não apresenta como exclusivos.",
+    "source": "AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (secção Assessment, Clinical Formulation: acontecimentos de vida stressantes ou traumáticos e rejeição pelos pares como vulnerabilidades; Safety: a ansiedade em geral, e a de separação em particular, justifica explorar exposição a acontecimentos traumáticos e a abuso ou negligência); ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6B04, p. 284, lido e confirmado: o medo de interagir com pares pode ser adequado se houver bullying; 6B05, p. 290: recusa escolar na adolescência pode dever-se a rejeição pelos pares ou bullying); NICE CG159, 2013, https://www.nice.org.uk/guidance/cg159/chapter/Recommendations (rec. 1.4.7, lida e confirmada: vitimização por pares; rec. 1.4.11, lida e confirmada: risco de abuso ou negligência; formulado para ansiedade social); DSM-5-TR (APA, 2022), confirmado no texto do manual (Social Anxiety Disorder, Development and Course, p. 232: o início pode seguir-se a uma experiência humilhante, por exemplo ser vítima de bullying)",
+    "dose": false
+  },
+  {
+    "id": "dan-30-q1",
+    "itemId": "dan-30",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo a NICE, que condições acrescem como comorbilidades na ansiedade social?",
+    "options": [
+      "Perturbação de tiques e epilepsia",
+      "Défice intelectual e paralisia cerebral",
+      "Autismo e problemas de fala",
+      "Perturbação de stresse pós-traumático e perturbação da personalidade"
+    ],
+    "correct": 2,
+    "explanation": "Na ansiedade social, o NICE acrescenta o autismo e os problemas de fala às comorbilidades frequentes da ansiedade, que podem aumentar o sofrimento e o prejuízo e piorar os resultados do tratamento. As outras opções não são referidas pela fonte.",
+    "source": "AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (secção Assessment, Psychiatric Comorbidities e Introduction); NICE CG159 (ansiedade social), 2013, https://www.nice.org.uk/guidance/cg159/chapter/Recommendations (rec. 1.4.8, lida e confirmada: comorbilidades na ansiedade social, incluindo autismo e problemas de fala e linguagem); CID-11 (6B05, p. 289-290, lido e confirmado: na ansiedade de separação em crianças coocorrem ansiedade generalizada e fobia específica, com risco aumentado de perturbações depressivas, bipolares, de ansiedade, do comportamento e PHDA; 6B06, p. 294: coocorrência muito frequente de mutismo com outras perturbações de ansiedade)",
+    "dose": false
+  },
+  {
+    "id": "dc-14-q1",
+    "itemId": "dc-14",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Menino de 5 anos, com bom funcionamento prévio, com birras e desafio desde que entrou numa escola nova há três semanas. Como se interpreta?",
+    "options": [
+      "Perturbação de oposição, porque o desafio já é clinicamente significativo e interfere com a escola",
+      "Desobediência transitória esperada face à escola nova; só preocupa se for persistente e atípica",
+      "Perturbação de conduta, por haver desafio repetido às regras da escola e dos adultos",
+      "Sinal de perturbação grave do humor, a tratar de imediato como episódio depressivo ou maníaco"
+    ],
+    "correct": 1,
+    "explanation": "Birras e desafio ocasionais fazem parte do desenvolvimento normal ou surgem com mudanças como escola nova ou separação. Só se valorizam se o padrão for persistente e atípico para a idade, o género e a cultura. Três semanas com bom funcionamento prévio não sustentam um diagnóstico.",
+    "source": "ICD-11 CDDR, OMS, https://www.who.int/publications/i/item/9789240077263 (6C90, limiar com a normalidade, p. 541: desobediência transitória é normal no desenvolvimento ou face a mais exigências ou mudanças, por exemplo escola ou cidade nova, ou ansiedade normativa; p. 542: avaliar face às normas socioculturais; confirmado no texto); AACAP Practice Parameter ODD, 2007 (série descontinuada, só histórico), https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/odd_practice_parameter.pdf (rec. 3, p. 132: distinguir da oposição normativa; ocorrências isoladas com bom funcionamento prévio têm melhor prognóstico); NICE CG158, 2013 (atualizada 2017; revista em 17/04/2025), https://www.nice.org.uk/guidance/cg158/chapter/Recommendations (lida a 10/10/2026: rec. 1.3.2: avaliação inicial quando há preocupação com comportamento antissocial persistente; rec. 1.1.5: variações na apresentação consoante género, idade e cultura. O limiar com a normalidade está confirmado no DSM-5-TR e na CID-11); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Oppositional Defiant Disorder, nota do critério A e Development and Course: frequência e persistência avaliadas face ao normativo para idade, género e cultura; birras e oposição aumentam no pré-escolar e na adolescência)",
+    "dose": false
+  },
+  {
+    "id": "dc-18-q1",
+    "itemId": "dc-18",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Qual das descrições do ECBI está correta?",
+    "options": [
+      "Preenchido pelo professor, com 18 itens, dos 6 aos 12 anos, para confirmar o diagnóstico",
+      "Preenchido pelo próprio adolescente, com 72 itens, a partir dos 12 anos, para rastreio",
+      "Preenchido pelos pais, com 36 itens, dos 2 aos 16 anos, e suficiente para diagnosticar perturbação de oposição",
+      "Preenchido pelos pais, com 36 itens, dos 2 aos 16 anos, para medir e seguir a evolução"
+    ],
+    "correct": 3,
+    "explanation": "O ECBI é preenchido pelos pais, tem 36 itens, aplica-se dos 2 aos 16 anos e tem escalas de intensidade e de problema, servindo para medir e seguir a evolução. As escalas de comportamento são de apoio e nunca diagnósticas.",
+    "source": "NICE CG158, 2013 (atualizada 2017), https://www.nice.org.uk/guidance/cg158/chapter/Recommendations (rec. 1.3.4: SDQ preenchido por progenitor, cuidador ou professor na avaliação inicial; rec. 1.3.12: CBCL, SDQ e Conners-revisto na suspeita de PHDA, como apoio ao diagnóstico de condições coexistentes; lidas no texto); ECBI: NCTSN, https://www.nctsn.org/measures/eyberg-child-behavior-inventory (lido: 36 itens, não é ferramenta diagnóstica); NICE NG87 (PHDA), rec. 1.3.2, lida no texto (índice 11): as escalas de Conners e o SDQ são ferramentas auxiliares, nunca únicas para o diagnóstico; a CBCL e as escalas de Conners constam também do AACAP ODD 2007 (Tabela 2, pp. 134-135, rec. 6, p. 133); o ECBI não consta de nenhum dos documentos lidos",
+    "dose": false
+  },
+  {
+    "id": "dc-25-q1",
+    "itemId": "dc-25",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Num rapaz de 13 anos com irritabilidade e falta de colaboração, o que perguntar para avaliar se estes sinais fazem parte de um episódio de humor?",
+    "options": [
+      "Tristeza, perda de interesse, sono, energia e períodos de humor elevado",
+      "Dificuldades de linguagem, de leitura, de cálculo e rendimento escolar",
+      "Reação a mudanças de rotina, interesses restritos e sensibilidade sensorial",
+      "Epilepsia, lesão cerebral, doença crónica, medicação e exposição a tóxicos"
+    ],
+    "correct": 0,
+    "explanation": "A irritabilidade e a falta de colaboração podem fazer parte de um episódio depressivo ou maníaco, pelo que se pergunta por tristeza, perda de interesse, sono, energia e períodos de humor muito elevado. As outras opções não são o que a fonte indica para este diferencial.",
+    "source": "ICD-11 CDDR, OMS, https://www.who.int/publications/i/item/9789240077263 (6C90 e 6C91, limite com perturbações do humor, p. 543 e p. 547: a desobediência e a irritabilidade fazem parte de episódios depressivos, maníacos, mistos ou hipomaníacos, e nas crianças e adolescentes a irritabilidade pode ser a expressão do humor; se os problemas ocorrem só nesses episódios não se atribui diagnóstico separado; confirmado no texto); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Oppositional Defiant Disorder, Differential Diagnosis: não se diagnostica oposição se os sintomas ocorrem só durante uma perturbação depressiva ou bipolar); AACAP depressão 2023 (índice 1: irritabilidade e birras podem predominar em idade escolar)",
+    "dose": false
+  },
+  {
+    "id": "dc-26-q1",
+    "itemId": "dc-26",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Menino de 7 anos com autismo, com recusas e explosões quando a rotina da manhã muda e no refeitório barulhento. Como se interpreta, segundo a CID-11?",
+    "options": [
+      "Indicam sobretudo perturbação de oposição, porque a intenção de provocar é o elemento central",
+      "Indicam perturbação de conduta, por violarem repetidamente as regras da escola",
+      "Podem decorrer de mudança de rotina ou sensibilidade sensorial, e não da intenção de provocar",
+      "Fazem parte do autismo e dispensam qualquer avaliação do contexto ou da comunicação"
+    ],
+    "correct": 2,
+    "explanation": "Segundo a CID-11 (6C90), no autismo os comportamentos disruptivos associam-se a fatores ambientais, como mudança de rotina ou estimulação sensorial aversiva, ou resultam dos sintomas nucleares, sem intenção de provocar. As outras opções atribuem intenção ou dispensam avaliar o contexto.",
+    "source": "ICD-11 CDDR, OMS, https://www.who.int/publications/i/item/9789240077263 (6C90, limite com PEA, p. 543: no autismo os comportamentos disruptivos associam-se a fatores ambientais, como mudança de rotina ou estimulação sensorial aversiva, ou resultam dos sintomas nucleares, sem intenção de provocar; confirmado no texto); NICE CG158, 2013 (atualizada 2017), https://www.nice.org.uk/guidance/cg158/chapter/Recommendations (rec. 1.3.11); autismo não consta do diagnóstico diferencial da oposição no DSM-5-TR (consta no da DMDD, critério J); o limite com o autismo está confirmado na CID-11 e o NICE CG158 (rec. 1.3.5 e 1.3.11, lidas) refere o autismo como condição coexistente a avaliar, não como diagnóstico diferencial; AACAP ODD 2007, p. 129 (descontinuado): as perturbações globais do desenvolvimento acompanham-se muitas vezes de oposição aparente",
+    "dose": false
+  },
+  {
+    "id": "dc-30-q1",
+    "itemId": "dc-30",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 12 anos com comportamento disruptivo persistente, dificuldade de leitura e consumo de canábis. Qual a conduta indicada pela fonte citada?",
+    "options": [
+      "Tratar apenas o comportamento disruptivo, porque as comorbilidades são secundárias ao quadro",
+      "Avaliação abrangente e plano mais estruturado, por haver comorbilidades a considerar",
+      "Manter vigilância, porque a dificuldade de leitura e o consumo são variação normal desta idade",
+      "Basear a decisão numa única escala de comportamento preenchida apenas pelos pais"
+    ],
+    "correct": 1,
+    "explanation": "Perturbação mental associada, PHDA, autismo, dificuldade de aprendizagem, doença neurológica e consumo de substâncias justificam avaliação abrangente e um plano mais estruturado (NICE CG158, rec. 1.3.5 e 1.3.6). As outras opções ignoram as comorbilidades ou dependem só de uma escala.",
+    "source": "NICE CG158, 2013 (atualizada 2017), https://www.nice.org.uk/guidance/cg158/chapter/Recommendations (rec. 1.3.5: fatores complicadores (problema de saúde mental coexistente, PHDA e autismo, dificuldade de aprendizagem, consumo de substâncias); rec. 1.3.6: se presentes, referenciar para CAMHS especializado para avaliação abrangente; lidas no texto); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Conduct Disorder, Comorbidity: PHDA, oposição, perturbação específica da aprendizagem, ansiedade, perturbações depressivas e bipolares, consumo de substâncias); DGS/Coordenação Nacional para a Saúde Mental, Recomendações para a Prática Clínica da Saúde Mental Infantil e Juvenil nos CSP, 2009, https://www.pgdlisboa.pt/docpgd/files/cnsm.pdf (lido no texto, p. 22: epilepsia e lesão cerebral, dificuldades de aprendizagem); ICD-11 CDDR, OMS, https://www.who.int/publications/i/item/9789240077263 (6C91, p. 545: coocorrência com PHDA, perturbação do desenvolvimento da aprendizagem, ansiedade, humor e consumo de substâncias; confirmado no texto)",
+    "dose": false
+  }
+]

@@ -1,0 +1,478 @@
+[
+  {
+    "id": "dal-13-q1",
+    "itemId": "dal-13",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Uma rapariga de 15 anos perdeu muito peso em 5 meses por restrição alimentar e tem medo intenso de engordar, sem compulsões nem purgas. O IMC mantém-se acima da mediana para a idade. Segundo o DSM-5-TR, que diagnóstico se deve considerar?",
+    "options": [
+      "Anorexia nervosa atípica (outra perturbação alimentar especificada)",
+      "Anorexia nervosa de tipo restritivo, com especificador de gravidade ligeira",
+      "Perturbação evitante/restritiva da ingestão alimentar (ARFID)",
+      "Bulimia nervosa sem comportamentos compensatórios regulares"
+    ],
+    "correct": 0,
+    "explanation": "No DSM-5-TR, se o IMC do jovem se mantém acima da mediana para a idade, o diagnóstico a considerar é anorexia nervosa atípica, classificada como outra perturbação alimentar especificada, e não anorexia nervosa. A ARFID exige que não haja perturbação na vivência do peso e da forma, o que aqui não se verifica (há medo de engordar). A bulimia exige compulsões e compensações.",
+    "source": "AAP, Hornberger et al., 2021, Pediatrics 147(1):e2020040279, https://publications.aap.org/pediatrics/article/147/1/e2020040279/33504/Identification-and-Management-of-Eating-Disorders (quadro de critérios DSM-5); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Anorexia Nervosa: critérios A-C, subtipos, especificadores de gravidade e peso significativamente baixo em crianças e adolescentes); OMS, Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR), 8 de março de 2024, https://www.who.int/publications/i/item/9789240077263 (6B80, lido nas pp. 398-404, índice 415-421 do ficheiro de texto: limiares de IMC, perda rápida, especificadores 6B80.0/6B80.1, padrões e medo de engordar não obrigatório; p. 766, índice 783, correspondência com a CID-10: 6B80.Y e F50.1)",
+    "dose": false
+  },
+  {
+    "id": "dal-14-q1",
+    "itemId": "dal-14",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR, qual é a frequência e a duração mínimas das compulsões e dos comportamentos compensatórios na bulimia nervosa?",
+    "options": [
+      "Em média pelo menos 2 vezes por semana durante 3 meses",
+      "Em média pelo menos 1 vez por semana durante 3 meses",
+      "Em média pelo menos 1 vez por semana durante 1 mês",
+      "Em média pelo menos 2 vezes por semana durante 6 meses"
+    ],
+    "correct": 1,
+    "explanation": "O DSM-5-TR exige, em média, pelo menos 1 vez por semana durante 3 meses. As 2 vezes por semana durante 3 meses vêm da CNSM (2009), seguindo o DSM-IV, e 1 vez por semana durante 1 mês é o limiar da CID-11, não do DSM-5-TR.",
+    "source": "AAP, Hornberger et al., 2021, Pediatrics 147(1):e2020040279, https://publications.aap.org/pediatrics/article/147/1/e2020040279/33504/Identification-and-Management-of-Eating-Disorders (quadro de critérios DSM-5); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Bulimia Nervosa: critérios A-E, especificadores de gravidade); Coordenação Nacional para a Saúde Mental, 2009 (secção 9.2, 2.ª infância e adolescência: mínimo de 2 vezes por semana durante 3 meses, divergente do DSM-5-TR); OMS, Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR), 8 de março de 2024, https://www.who.int/publications/i/item/9789240077263 (6B81 Bulimia nervosa, pp. 404-407, índice 421-424: pelo menos 1 vez por semana durante pelo menos 1 mês, preocupação com peso ou forma, distinção da anorexia por baixo peso, exercício compensatório)",
+    "dose": false
+  },
+  {
+    "id": "dal-15-q1",
+    "itemId": "dal-15",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Na ingestão alimentar compulsiva, qual é uma diferença da CID-11 (6B82) face ao DSM-5-TR quanto aos critérios?",
+    "options": [
+      "A CID-11 exige comportamentos compensatórios regulares após os episódios de compulsão",
+      "A CID-11 exige um peso abaixo do mínimo normal para a idade e o sexo da criança",
+      "A CID-11 não exige 3 ou mais características associadas, nem preocupação com o peso",
+      "A CID-11 exige duração mínima dos episódios de compulsão de 6 meses consecutivos"
+    ],
+    "correct": 2,
+    "explanation": "A CID-11 não exige 3 ou mais das 5 características nem a preocupação com o peso, que são frequentes mas não obrigatórias, ao contrário do DSM-5-TR. Em ambas as classificações não há compensações regulares, e a CID-11 pede cerca de 3 meses de episódios semanais (podendo admitir 1 mês se forem vários por semana), não 6 meses.",
+    "source": "AAP, Hornberger et al., 2021, Pediatrics 147(1):e2020040279, https://publications.aap.org/pediatrics/article/147/1/e2020040279/33504/Identification-and-Management-of-Eating-Disorders (quadro de critérios DSM-5); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Binge-Eating Disorder: critérios A-E e especificadores de gravidade); OMS, Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR), 8 de março de 2024, https://www.who.int/publications/i/item/9789240077263 (6B82 Perturbação de ingestão alimentar compulsiva, pp. 407-410, índice 424-427: frequência, duração, exclusões, características não obrigatórias, diagnóstico em 1 mês, diferencial com a bulimia)",
+    "dose": false
+  },
+  {
+    "id": "dal-16-q1",
+    "itemId": "dal-16",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Um menino de 8 anos recusa quase todos os alimentos sólidos desde que se engasgou, tem perda de peso significativa e depende de suplementos orais. Não demonstra qualquer preocupação com o peso ou a forma do corpo. Que diagnóstico é mais adequado?",
+    "options": [
+      "Anorexia nervosa de tipo restritivo, com medo de engordar",
+      "Perturbação de ruminação-regurgitação, com regurgitação após as refeições",
+      "Pica, com ingestão persistente de substâncias não nutritivas",
+      "Perturbação evitante/restritiva da ingestão alimentar (ARFID)"
+    ],
+    "correct": 3,
+    "explanation": "A ARFID inclui o evitamento alimentar por receio de consequências, como engasgar, com perda de peso significativa ou dependência de suplementos, sem perturbação da vivência do peso ou da forma. A anorexia implica essa perturbação, a ruminação envolve regurgitação e a pica o consumo de substâncias não nutritivas.",
+    "source": "AAP, Hornberger et al., 2021, Pediatrics 147(1):e2020040279, https://publications.aap.org/pediatrics/article/147/1/e2020040279/33504/Identification-and-Management-of-Eating-Disorders (quadro de critérios DSM-5, Table 1); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Avoidant/Restrictive Food Intake Disorder: o critério A tem 4 alternativas e não inclui a cláusula de falha persistente em satisfazer as necessidades nutricionais ou energéticas; critérios B-D e diagnóstico diferencial); OMS, Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR), 8 de março de 2024, https://www.who.int/publications/i/item/9789240077263 (6B83 ARFID, pp. 410-414, índice 427-431: critérios essenciais, limiar com a normalidade, diferencial; p. 766, índice 783, correspondência com a CID-10)",
+    "dose": false
+  },
+  {
+    "id": "dal-17-q1",
+    "itemId": "dal-17",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR, qual é a duração mínima do consumo persistente de substâncias não nutritivas para o diagnóstico de pica?",
+    "options": [
+      "Pelo menos 1 mês",
+      "Pelo menos 1 semana",
+      "Pelo menos 3 meses",
+      "Pelo menos 6 meses"
+    ],
+    "correct": 0,
+    "explanation": "O DSM-5-TR exige pelo menos 1 mês, tal como a DGS de 2019. A CID-11 não fixa duração mínima. Os outros valores não constam da fonte.",
+    "source": "OMS, Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR), 8 de março de 2024, https://www.who.int/publications/i/item/9789240077263 (6B84 Pica, pp. 414-416, índice 431-433: critérios essenciais, idade de cerca de 2 anos, exclusão por carência nutricional, prática cultural, diferencial com autismo, anorexia e tricotilomania; texto lido na cópia do PDF em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf (mesmo ISBN 978-92-4-007726-3), porque o PDF no servidor da OMS não carregou); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Pica: critérios A-D, idade mínima sugerida de 2 anos, códigos); DGS, Alimentação Saudável dos 0 aos 6 Anos: Linhas de Orientação para Profissionais, 1.ª edição, outubro de 2019, https://www.dgs.pt/documentos-e-publicacoes/alimentacao-saudavel-dos-0-aos-6-anos-linhas-de-orientacao-para-profissionais-e-educadores-pdf.aspx (cap. 4, pica: \"período mínimo de um mês\", citando o DSM-5 de 2013)",
+    "dose": false
+  },
+  {
+    "id": "dal-18-q1",
+    "itemId": "dal-18",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Quanto à idade mínima na perturbação de ruminação-regurgitação, o que distingue a CID-11 do DSM-5-TR?",
+    "options": [
+      "O DSM-5-TR só diagnostica a partir dos 2 anos de idade e a CID-11 não fixa idade mínima",
+      "A CID-11 só diagnostica a partir dos 2 anos e o DSM-5-TR não fixa idade mínima",
+      "As duas classificações só diagnosticam a partir dos 5 anos de idade cronológica",
+      "A CID-11 exige 12 meses de idade de desenvolvimento e o DSM-5-TR exige 6 meses"
+    ],
+    "correct": 1,
+    "explanation": "A CID-11 só diagnostica a partir dos 2 anos de idade de desenvolvimento e, nos lactentes, remete para a síndrome de ruminação do lactente. O DSM-5-TR não fixa idade mínima e descreve início habitual em lactentes dos 3 aos 12 meses. As outras opções invertem ou inventam limiares.",
+    "source": "OMS, Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR), 8 de março de 2024, https://www.who.int/publications/i/item/9789240077263 (6B85 Perturbação de ruminação-regurgitação, pp. 416-418, índice 433-435: regurgitação intencional várias vezes por semana durante pelo menos várias semanas, idade de desenvolvimento mínima de 2 anos, exclusões médicas, lactentes remetidos para a síndrome de ruminação do lactente do capítulo digestivo; texto lido na cópia do PDF em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf (mesmo ISBN 978-92-4-007726-3), porque o PDF no servidor da OMS não carregou); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Rumination Disorder: critérios A-D, frequência, idade de início)",
+    "dose": false
+  },
+  {
+    "id": "dal-19-q1",
+    "itemId": "dal-19",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Uma adolescente tem peso normal e, há 2 meses, 1 episódio de compulsão alimentar por semana seguido de vómito autoinduzido, com autoestima muito dependente do peso. Segundo o DSM-5-TR, como se classifica?",
+    "options": [
+      "Bulimia nervosa, porque cumpre a frequência de 1 vez por semana e a purga",
+      "Ingestão alimentar compulsiva, por haver compulsões alimentares repetidas",
+      "Outra perturbação alimentar especificada (bulimia de baixa frequência)",
+      "Anorexia nervosa de tipo compulsão/purga, por haver compulsão e purga"
+    ],
+    "correct": 2,
+    "explanation": "No DSM-5-TR é preciso 1 vez por semana em média durante 3 meses; com menos de 3 meses trata-se de uma apresentação de baixa frequência, classificada como outra perturbação alimentar especificada. A CID-11 já aceitaria 6B81 com 1 mês. A ingestão compulsiva exclui compensações regulares e a anorexia exige baixo peso.",
+    "source": "AAP, Hornberger et al., 2021, Pediatrics 147(1):e2020040279, https://publications.aap.org/pediatrics/article/147/1/e2020040279/33504/Identification-and-Management-of-Eating-Disorders (quadro DSM-5 (OSFED) e texto sobre atípica e tamanho corporal); DSM-5-TR (APA, 2022), confirmado no texto do manual (secções Other Specified Feeding or Eating Disorder, exemplos 1-5, e Anorexia Nervosa, peso significativamente baixo); OMS, Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR), 8 de março de 2024, https://www.who.int/publications/i/item/9789240077263 (6B80 pp. 398-404; 6B8Y pp. 418-419, índice 435-436; correspondência com a CID-10 pp. 766-767, índice 783-784, onde 6B80.Y corresponde a F50.1)",
+    "dose": false
+  },
+  {
+    "id": "dal-20-q1",
+    "itemId": "dal-20",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Um menino de 3 anos recusa muitos alimentos há algumas semanas e os pais estão muito preocupados, mas o peso e o crescimento mantêm-se e não há prejuízo funcional. Segundo a CID-11, como se interpreta?",
+    "options": [
+      "Cumpre ARFID, porque a preocupação dos pais é base suficiente para o diagnóstico nesta idade",
+      "Cumpre ARFID, desde que a recusa de alimentos dure pelo menos 6 meses seguidos",
+      "Cumpre ARFID, porque a recusa de vários alimentos é critério suficiente por si",
+      "Não cumpre ARFID: a mera seletividade, sem perda de peso nem prejuízo, não basta"
+    ],
+    "correct": 3,
+    "explanation": "A CID-11 não diagnostica ARFID em quem é só muito seletivo sem perda de peso significativa, consequência para a saúde ou prejuízo funcional, e a preocupação dos pais isolada não basta. A CID-11 não fixa duração para este diagnóstico.",
+    "source": "Coordenação Nacional para a Saúde Mental, Recomendações para a Prática Clínica da Saúde Mental Infantil e Juvenil nos CSP, 2009, https://www.pgdlisboa.pt/docpgd/files/cnsm.pdf (secção 9.2, perturbações alimentares precoces, referenciação: sintomas frequentes, graves e persistentes (mais de 3 meses); cruzamento de percentis sem causa orgânica aparente; lida no texto); DSM-5-TR (APA, 2022), secção ARFID, diagnóstico diferencial: comportamento normal do desenvolvimento (picky eating), lida no manual; OMS, Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR), 8 de março de 2024, https://www.who.int/publications/i/item/9789240077263 (6B83, limiar com a normalidade, p. 411, índice 428: \"picky eaters\" sem perda de peso, consequência para a saúde ou prejuízo funcional não se diagnosticam; a preocupação dos pais não basta; sem duração mínima); DGS, Alimentação Saudável dos 0 aos 6 Anos: Linhas de Orientação para Profissionais, 1.ª edição, outubro de 2019, https://www.dgs.pt/documentos-e-publicacoes/alimentacao-saudavel-dos-0-aos-6-anos-linhas-de-orientacao-para-profissionais-e-educadores-pdf.aspx (cap. 4: neofobia e picky eating frequentes e não necessariamente patológicos; a persistência deve ser partilhada com o pediatra); Sá e Tomada, Dificuldades alimentares de causa não orgânica na infância, Acta Portuguesa de Nutrição 41 (2025) 30-34, https://actaportuguesadenutricao.pt/wp-content/uploads/2025/09/06_AR.pdf (revisão da literatura, não é norma) (a maioria das dificuldades alimentares manifesta-se até aos 6 anos e é leve e transitória)",
+    "dose": false
+  },
+  {
+    "id": "dal-22-q1",
+    "itemId": "dal-22",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo a NICE (NG69), o exercício excessivo numa pessoa com perturbação alimentar é fator de risco para avaliar a necessidade de qual exame?",
+    "options": [
+      "Eletrocardiograma",
+      "Densitometria óssea",
+      "Ecografia da tiroide",
+      "Eletroencefalograma"
+    ],
+    "correct": 0,
+    "explanation": "A fonte refere o exercício excessivo como fator de risco cardíaco e, segundo a NG69 (1.10.2), como razão para avaliar a necessidade de ECG. Os outros exames não são referidos na fonte.",
+    "source": "NICE NG69, 2017 (atualizada em 2020), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations (rec. 1.10.2 e 1.10.8; 1.2.6 comportamentos compensatórios incluindo exercício excessivo); DSM-5-TR (APA, 2022), secção Bulimia Nervosa, características diagnósticas (definição de exercício excessivo), lida no manual; AAP, Hornberger et al., 2021, Pediatrics 147(1):e2020040279, https://publications.aap.org/pediatrics/article/147/1/e2020040279/33504/Identification-and-Management-of-Eating-Disorders (quadro de exemplos de perguntas, história de exercício); OMS, Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR), 8 de março de 2024, https://www.who.int/publications/i/item/9789240077263 (6B81, p. 405, índice 422: o exercício é compensação inapropriada só se invulgarmente intenso ou prolongado, à custa de outras atividades ou apesar de fadiga, dor ou lesão)",
+    "dose": false
+  },
+  {
+    "id": "dal-24-q1",
+    "itemId": "dal-24",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "No diagnóstico diferencial de uma perturbação alimentar, qual das seguintes doenças endócrinas pode explicar ganho de peso inexplicado ou compulsão alimentar?",
+    "options": [
+      "Hipertiroidismo",
+      "Hipercortisolismo",
+      "Diabetes mellitus tipo 1",
+      "Insuficiência suprarrenal"
+    ],
+    "correct": 1,
+    "explanation": "O hipotiroidismo ou o hipercortisolismo podem explicar ganho de peso inexplicado ou compulsão. O hipertiroidismo, a diabetes tipo 1 e a insuficiência suprarrenal são citados como causas de perda de peso.",
+    "source": "AAP, Hornberger et al., 2021, Pediatrics 147(1):e2020040279, https://publications.aap.org/pediatrics/article/147/1/e2020040279/33504/Identification-and-Management-of-Eating-Disorders (Table 4, lida: perda de peso, hipertiroidismo, diabetes mellitus e insuficiência suprarrenal; compulsão alimentar ou ganho de peso inexplicado, hipotiroidismo e hipercortisolismo)",
+    "dose": false
+  },
+  {
+    "id": "dal-26-q1",
+    "itemId": "dal-26",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Um rapaz de 10 anos com autismo diagnosticado só come alimentos de determinada textura e cheiro e, por isso, perdeu peso de forma significativa. Segundo a CID-11, o que se faz quanto à alimentação?",
+    "options": [
+      "Não se acrescenta nada, porque a seletividade alimentar faz sempre parte do autismo",
+      "Acrescenta-se ARFID apenas se houver preocupação com o peso ou a forma",
+      "Acrescenta-se ARFID ao autismo, porque houve perda de peso significativa",
+      "Substitui-se o diagnóstico de autismo por ARFID, que explica o quadro"
+    ],
+    "correct": 2,
+    "explanation": "Na CID-11 acrescenta-se ARFID ao autismo se a restrição tiver causado perda de peso significativa ou outras consequências para a saúde, ou prejuízo funcional significativo. A ARFID não se baseia em preocupação com o peso ou a forma, e os dois diagnósticos podem coexistir.",
+    "source": "Coordenação Nacional para a Saúde Mental, Recomendações para a Prática Clínica da Saúde Mental Infantil e Juvenil nos CSP, 2009, https://www.pgdlisboa.pt/docpgd/files/cnsm.pdf (fator de risco: dificuldades regulatórias do processamento sensorial); Sá e Tomada, Dificuldades alimentares de causa não orgânica na infância, Acta Portuguesa de Nutrição 41 (2025) 30-34, https://actaportuguesadenutricao.pt/wp-content/uploads/2025/09/06_AR.pdf (revisão da literatura, não é norma) (seletividade e hipersensibilidade sensorial frequentemente associadas a perturbações do espetro do autismo e a ansiedade, depressão e TOC); OMS, Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR), 8 de março de 2024, https://www.who.int/publications/i/item/9789240077263 (6B83 ARFID, pp. 410-414, índice 427-431: evitamento por características sensoriais ou rotinas rígidas, sem preocupação com o peso ou a forma do corpo; fronteira com o autismo na p. 413, índice 430: o autismo tem défices persistentes de comunicação social e padrões restritos e repetitivos sem relação com a comida; texto lido na cópia do PDF em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf (mesmo ISBN 978-92-4-007726-3), porque o PDF no servidor da OMS não carregou); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção ARFID, diagnóstico diferencial: perturbação do espetro do autismo, rigidez alimentar e hipersensibilidade sensorial)",
+    "dose": false
+  },
+  {
+    "id": "dal-29-q1",
+    "itemId": "dal-29",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Entre as doenças crónicas com controlo alimentar, qual das seguintes aumenta o risco de alimentação perturbada?",
+    "options": [
+      "Asma ligeira",
+      "Eczema atópico",
+      "Escoliose idiopática",
+      "Fibrose quística"
+    ],
+    "correct": 3,
+    "explanation": "A fonte cita diabetes tipo 1, doença celíaca, doença inflamatória intestinal e fibrose quística como doenças crónicas com controlo alimentar que aumentam o risco de alimentação perturbada. As outras três não constam da fonte.",
+    "source": "AAP, Hornberger et al., 2021, Pediatrics 147(1):e2020040279, https://publications.aap.org/pediatrics/article/147/1/e2020040279/33504/Identification-and-Management-of-Eating-Disorders (secção de fatores de risco, lida: diabetes, fibrose quística, doença inflamatória intestinal e doença celíaca; na diabetes tipo 1 pelo menos um terço pode ter compulsão, vómitos autoinduzidos, omissão de insulina e exercício excessivo); DSM-5-TR (APA, 2022), secções Anorexia Nervosa e Bulimia Nervosa (omissão ou redução de insulina na diabetes), lidas no manual; NICE NG69, 2017 (atualizada em 2020), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations (rec. 1.8.3-1.8.6)",
+    "dose": false
+  },
+  {
+    "id": "dal-31-q1",
+    "itemId": "dal-31",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Uma adolescente de 15 anos com subnutrição tem frequência cardíaca de 46 bpm acordada. Segundo o MEED (RCPsych, 2022), como se classifica este achado?",
+    "options": [
+      "Alerta (entre 40 e 50 bpm)",
+      "Risco elevado (abaixo de 40 bpm)",
+      "Baixo risco (acima de 50 bpm)",
+      "Sem relevância, se estiver assintomática"
+    ],
+    "correct": 0,
+    "explanation": "No MEED, a frequência cardíaca acordado abaixo de 40 bpm é risco elevado, 40-50 bpm é alerta e acima de 50 bpm é baixo risco. A fonte nota que, abaixo dos 18 anos, valores abaixo de 50 bpm merecem atenção (AAP e SAHM), pelo que não se desvaloriza.",
+    "source": "RCPsych, MEED, CR233, 2022, https://www.rcpsych.ac.uk/improving-care/campaigning-for-better-mental-health-policy/college-reports/2022-college-reports/cr233 (PDF do relatório lido a partir da ligação nessa página, Table 1, FC acordado, peso, tensão arterial e bioquímica; as colunas de risco foram confirmadas pela posição no PDF); NICE NG69, 2017 (atualizada em 2020), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations (rec. 1.11.2 e 1.11.3, lidas: sem limiar absoluto de peso ou IMC; bradicardia abaixo de 40 bpm e QT prolongado como exemplos; rec. 1.10.3, cuidados médicos agudos, incluindo admissão urgente, por desequilíbrio eletrolítico grave); AAP, Hornberger et al., 2021, Pediatrics 147(1):e2020040279, https://publications.aap.org/pediatrics/article/147/1/e2020040279/33504/Identification-and-Management-of-Eating-Disorders (Table 6, indicações de hospitalização, lida: FC abaixo de 50 bpm de dia e abaixo de 45 bpm à noite, 75% ou menos do IMC mediano, tensão 90/45 mm Hg); SAHM, Medical Management of Restrictive Eating Disorders in Adolescents and Young Adults, J Adolesc Health 2022;71(5):648-654, https://pmc.ncbi.nlm.nih.gov/articles/PMC10864000/ (PubMed 36058805, texto integral lido: quadro 4, fatores que justificam hospitalização)",
+    "dose": false
+  },
+  {
+    "id": "dal-34-q1",
+    "itemId": "dal-34",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Um adolescente de 16 anos com peso normal faz vómitos autoinduzidos diários e tem fraqueza muscular. O potássio é 2,8 mmol/L. Segundo o MEED, qual a atitude?",
+    "options": [
+      "Tratar como emergência com ECG imediato, pois está abaixo de 2,5 mmol/L",
+      "Discutir urgentemente com médico ou pediatra, por estar abaixo de 3 mmol/L",
+      "Vigiar em ambulatório, pois o peso normal exclui qualquer instabilidade clínica",
+      "Repetir a análise apenas na consulta de seguimento, sem outra medida"
+    ],
+    "correct": 1,
+    "explanation": "Potássio abaixo de 3 mmol/L deve ser discutido urgentemente com médico ou pediatra; abaixo de 2,5 mmol/L é emergência, o que não é o caso de 2,8. A fonte sublinha que, mesmo com peso normal, pode haver instabilidade.",
+    "source": "NICE NG69, 2017 (atualizada em 2020), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations (rec. 1.10.1-1.10.3); RCPsych, MEED, CR233, 2022, https://www.rcpsych.ac.uk/improving-care/campaigning-for-better-mental-health-policy/college-reports/2022-college-reports/cr233 (Table 1, ECG e bioquímica; texto sobre bulimia sem baixo peso); AAP, Hornberger et al., 2021, Pediatrics 147(1):e2020040279 (Table 6, lida: distúrbio eletrolítico, com hipocaliemia, hiponatremia e hipofosfatemia, e alterações do ECG como QTc longo, sem valores numéricos)",
+    "dose": false
+  },
+  {
+    "id": "dt-13-q1",
+    "itemId": "dt-13",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Na primeira consulta com uma criança exposta a possível trauma, qual é a abordagem recomendada?",
+    "options": [
+      "Pedir logo o relato pormenorizado do acontecimento, para o documentar bem desde o início",
+      "Repetir perguntas específicas até a criança dar uma versão consistente e completa",
+      "Rastrear exposição e sintomas com perguntas abertas, sem exigir já o relato detalhado",
+      "Não perguntar por exposição ao trauma, para evitar qualquer risco de retraumatização"
+    ],
+    "correct": 2,
+    "explanation": "Basta rastrear a exposição e os sintomas, começando por perguntas abertas e passando a mais específicas só se necessário, sem pressionar nem repetir. O relato detalhado fica para a terapia focada no trauma. Evitar totalmente a pergunta também falha o rastreio.",
+    "source": "AAP, Pediatrics 2021;148(2):e2021052580, https://publications.aap.org/pediatrics/article/148/2/e2021052580/179745/Trauma-Informed-Care (perguntas abertas antes das específicas; evitar retraumatização); NICE NG116, 2018, https://www.nice.org.uk/guidance/ng116/chapter/Recommendations (rec. 1.6.2: vergonha e dificuldade de confiança; 1.4.2: evitar gatilhos; 1.6.12: a terapia focada no trauma inclui a elaboração e o processamento das memórias do trauma, confirmado no texto); AAP, Forkey et al., Pediatrics 2021;148(2):e2021052580, lido no texto integral (índice 8: começar por perguntas abertas, seguidas de mais específicas; índice 9: perguntas menos ameaçadoras primeiro); AACAP, Practice Parameter PTSD, JAACAP 2010;49(4):414-430, lido no texto integral (baseado no DSM-IV-TR) (índice 6: nas perguntas de reexperiência e evitamento, as perguntas genéricas subestimam; são precisos exemplos específicos, o que sustenta passar a perguntas específicas quando necessário)",
+    "dose": false
+  },
+  {
+    "id": "dt-15-q1",
+    "itemId": "dt-15",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Quanto à duração mínima da síndrome de stress pós-traumático, o que distingue a CID-11 do DSM-5-TR?",
+    "options": [
+      "A CID-11 pede pelo menos 3 meses e o DSM-5-TR pede pelo menos 1 semana de sintomas",
+      "A CID-11 pede mais de 1 mês e o DSM-5-TR pede pelo menos 3 dias de sintomas",
+      "As duas classificações pedem pelo menos 3 meses de sintomas após a exposição",
+      "A CID-11 pede várias semanas, sem número de dias, e o DSM-5-TR mais de 1 mês"
+    ],
+    "correct": 3,
+    "explanation": "A CID-11 fala em pelo menos várias semanas sem indicar número de dias, enquanto o DSM-5-TR exige duração superior a 1 mês. O limiar de 3 meses aparece na AAP, mas não coincide com o DSM-5-TR e a fonte não o segue.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263, lido no texto integral (p. = página impressa; índice = página do ficheiro .txt, p. + 18): 6B40, p. 339 (índice 357): exposição a acontecimento ou situação extremamente ameaçador ou horrível; síndrome com duração de pelo menos várias semanas e os três elementos (reexperiência no presente, evitamento deliberado, perceção persistente de ameaça atual), com prejuízo significativo; p. 340 (índice 358): início habitual nos 3 meses seguintes, expressão tardia possível; cerca de metade recupera em 3 meses; confirmado; DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Trauma- and Stressor-Related Disorders, PTSD, critérios acima de 6 anos e em ≤6 anos, índices 455-460; duração superior a 1 mês, critério F ou E). Divergência (ambas mantidas): CID-11 («pelo menos várias semanas», sem número, p. 339) versus DSM-5-TR (mais de 1 mês); exposição CID-11 mais ampla do que a do DSM-5-TR (morte, lesão grave, violência sexual); a AAP, Tabela 3, índice 5, dá «≥3 meses» para o PTSD, o que não coincide com o DSM-5-TR e não foi seguido",
+    "dose": false
+  },
+  {
+    "id": "dt-16-q1",
+    "itemId": "dt-16",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR, em que janela temporal após a exposição se diagnostica a perturbação de stress agudo?",
+    "options": [
+      "Entre 3 dias e 1 mês",
+      "Entre 1 dia e 1 semana",
+      "Entre 1 semana e 3 meses",
+      "Entre 1 mês e 6 meses"
+    ],
+    "correct": 0,
+    "explanation": "O DSM-5-TR exige sintomas entre 3 dias e 1 mês após a exposição (pelo menos 9 de 14 sintomas). Na CID-11 esta perturbação não existe, pois a reação aguda ao stress não é perturbação mental.",
+    "source": "DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Trauma- and Stressor-Related Disorders, perturbação de stress agudo, critérios B e C, índices 471-472: nove ou mais de 14 sintomas, 3 dias a 1 mês; índice 473-474: não se diagnostica antes de 3 dias); AAP, Forkey et al., Pediatrics 2021;148(2):e2021052580, lido no texto integral (Tabela 3, índice 5: stress agudo, 3 dias a 1 mês); ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263, lido no texto integral (p. = página impressa; índice = página do ficheiro .txt, p. + 18): reação aguda ao stress QE84, pp. 361-362 (índices 379-380) e p. 343 (índice 361): não é perturbação mental (capítulo 24); sintomas em horas a dias, a diminuir em poucos dias; com stressor contínuo muito reduzidos em cerca de 1 mês; se não diminuírem em cerca de 1 semana após o fim do stressor (ou cerca de 1 mês se continua), considerar adaptação ou PTSD; na criança, sintomas somáticos, oposição, regressão, birras, enurese, sono; confirmado, código QE84 confirmado",
+    "dose": false
+  },
+  {
+    "id": "dt-17-q1",
+    "itemId": "dt-17",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Uma menina de 4 anos, após um acidente grave, reproduz a cena repetidamente a brincar, tem terrores noturnos, ansiedade de separação e voltou a urinar na cama. Não parece aflita ao brincar. Qual a interpretação mais adequada?",
+    "options": [
+      "Exclui-se trauma, porque a criança não parece aflita ao reproduzir a cena a brincar",
+      "Pode ser stress pós-traumático: a ausência de aflição ao brincar não o exclui",
+      "Trata-se de birra normal da idade, sem necessidade de avaliação clínica adicional",
+      "Só se pode considerar trauma se a criança relatar o acidente com palavras"
+    ],
+    "correct": 1,
+    "explanation": "No pré-escolar o stress pós-traumático vê-se sobretudo no comportamento (reenactment, terrores noturnos, ansiedade de separação, regressão), a criança pode não parecer aflita ao brincar a cena e o relato dos cuidadores deve ser valorizado.",
+    "source": "NICE NG116, 2018, https://www.nice.org.uk/guidance/ng116/chapter/Recommendations (rec. 1.1.6: pesadelos, jogo repetitivo relacionado com o trauma, aumento de dificuldades comportamentais, hipervigilância, problemas de sono; lida em 10/10/2026; sustenta só parte da lista; o resto está agora confirmado no DSM-5-TR e no AACAP 2010); ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263, lido no texto integral (p. = página impressa; índice = página do ficheiro .txt, p. + 18): 6B40, p. 341 (índice 359): reenactment em brincadeira repetitiva ou desenhos, sonhos assustadores ou terrores noturnos, birras, ansiedade de separação, regressão (fala, esfíncteres), medos exagerados, choro excessivo, pedidos de reasseguramento; a criança pode não parecer aflita; avaliação deve incluir o relato dos cuidadores; confirmado; DSM-5-TR (APA, 2022), confirmado no texto do manual (PTSD, índices 458-459 e 465: nos ≤6 anos, reenactment em jogo, sonhos assustadores, birras extremas, brincadeira restrita, retraimento; regressão como característica associada, índice 464); AACAP, Practice Parameter PTSD, JAACAP 2010;49(4):414-430, lido no texto integral (baseado no DSM-IV-TR) (índice 3: oposição, regressão de toilet e fala, ansiedade de separação e novos medos como sintomas associados)",
+    "dose": false
+  },
+  {
+    "id": "dt-19-q1",
+    "itemId": "dt-19",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo a CID-11, o que se acrescenta aos critérios de stress pós-traumático no stress pós-traumático complexo?",
+    "options": [
+      "Sintomas psicóticos persistentes, mesmo fora dos episódios de reexperiência traumática",
+      "Desregulação emocional grave, crenças de desvalor com culpa e dificuldade nas relações",
+      "Um único acontecimento breve, mas de intensidade muito superior à do trauma habitual",
+      "Défice cognitivo global, com atraso de linguagem como critério obrigatório do diagnóstico"
+    ],
+    "correct": 1,
+    "explanation": "A CID-11 exige os critérios de stress pós-traumático após trauma prolongado ou repetido de que é difícil escapar, mais as perturbações da regulação emocional, as crenças negativas sobre si com vergonha ou culpa e a dificuldade nas relações. O DSM-5-TR não tem este diagnóstico.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263, lido no texto integral (p. = página impressa; índice = página do ficheiro .txt, p. + 18): 6B41, pp. 344-348 (índices 362-366): exposição prolongada ou repetida de que é difícil escapar (por exemplo abuso sexual ou físico repetido na infância, violência doméstica prolongada); os três elementos do PTSD com duração de pelo menos várias semanas mais problemas graves e pervasivos de regulação emocional, crenças persistentes de ser diminuído, derrotado ou sem valor com vergonha ou culpa, e dificuldade em manter relações e sentir-se próximo dos outros, com prejuízo; p. 346 (índice 364): crianças e adolescentes mais vulneráveis do que os adultos perante trauma grave e prolongado, e vários traumas aumentam o risco; p. 347 (índice 365): na criança regressão, comportamento imprudente ou agressivo, dificuldades com pares, desorganização da vinculação; confirmado, código 6B41 confirmado; DSM-5-TR (APA, 2022), confirmado no texto do manual (PTSD, índice 460: perturbação mais grave ou duradoura se o stressor for interpessoal e intencional; índice 464: dificuldades de regulação emocional e de relações após trauma prolongado e repetido; sem diagnóstico de PTSD complexo); AACAP, Practice Parameter PTSD, JAACAP 2010;49(4):414-430, lido no texto integral (baseado no DSM-IV-TR) (índice 2-3: debate sobre PTSD complexo ou perturbação do trauma do desenvolvimento; se as crianças mais pequenas são mais vulneráveis a efeitos permanentes é referido como questão em aberto, índice 4). Divergência: a CID-11 tem PTSD complexo (6B41), o DSM-5-TR não",
+    "dose": false
+  },
+  {
+    "id": "dt-20-q1",
+    "itemId": "dt-20",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Um menino de 8 anos, desde o divórcio dos pais há 3 semanas, tem dores de barriga, cefaleias, birras e agarra-se aos cuidadores, com sofrimento desproporcionado ao acontecimento. Segundo a CID-11, qual é a hipótese mais adequada?",
+    "options": [
+      "Stress pós-traumático",
+      "Perturbação de luto prolongado",
+      "Perturbação de adaptação",
+      "Perturbação reativa da vinculação"
+    ],
+    "correct": 2,
+    "explanation": "O divórcio é um stressor identificável de qualquer gravidade, e na criança a preocupação com ele manifesta-se por queixas somáticas, birras e agarrar-se, o que se enquadra na perturbação de adaptação. O stress pós-traumático exige acontecimento extremamente ameaçador ou horrível, e o luto implica morte.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263, lido no texto integral (p. = página impressa; índice = página do ficheiro .txt, p. + 18): 6B43, pp. 352-354 (índices 370-372): reação a stressor identificável que surge habitualmente no primeiro mês (início mais tardio possível, por exemplo 3 meses); preocupação com o stressor; não explicada por outra perturbação; resolução em 6 meses após o fim do stressor e das consequências; prejuízo significativo; respostas transitórias de poucos dias não justificam o diagnóstico; na criança sintomas somáticos, oposição, hiperatividade, birras, concentração, irritabilidade, agarrar-se, e regressão, enurese e sono se persistentes (cerca de 1 mês); se persistir mais de 6 meses após o stressor, mudar para outro diagnóstico; confirmado, código 6B43 confirmado; DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Adjustment Disorders, critérios A-E e especificadores, índices 477-479: início até 3 meses, não mais de 6 meses após o fim do stressor; subtipos F43.21 a F43.25 e F43.20; agudo versus persistente; índice 480-481: sintomas abaixo do limiar de PTSD que persistam mais de 6 meses classificam-se como outra perturbação especificada relacionada com trauma e stressor). Divergência (ambas mantidas): início até 3 meses (DSM-5-TR) versus habitualmente no primeiro mês, podendo ser mais tardio (CID-11, p. 353)",
+    "dose": false
+  },
+  {
+    "id": "dt-21-q1",
+    "itemId": "dt-21",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR, quanto tempo deve ter passado desde a morte, no mínimo, para diagnosticar luto prolongado em crianças e adolescentes?",
+    "options": [
+      "Pelo menos 1 mês",
+      "Pelo menos 3 meses",
+      "Pelo menos 12 meses",
+      "Pelo menos 6 meses"
+    ],
+    "correct": 3,
+    "explanation": "No DSM-5-TR a morte tem de ter ocorrido há pelo menos 12 meses em adultos e há pelo menos 6 meses em crianças e adolescentes. Os 12 meses são o limiar dos adultos.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263, lido no texto integral (p. = página impressa; índice = página do ficheiro .txt, p. + 18): 6B42, pp. 348-349 (índices 366-367): perda de pessoa próxima; saudade ou preocupação persistente com o falecido com dor emocional intensa; resposta que excede claramente as normas sociais, culturais ou religiosas; respostas com menos de 6 meses (e mais tempo em alguns contextos culturais) não cumprem; prejuízo significativo; p. 349: perda do cuidador na criança, diagnóstico com cautela; confirmado, código 6B42 confirmado; DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Prolonged Grief Disorder, critérios A-F, índices 481-483: 12 meses em adultos, 6 meses em crianças e adolescentes; critério B um sintoma, critério C pelo menos 3 de 8, quase todos os dias durante pelo menos 1 mês; índice 484: apresentações em crianças). Divergência (ambas mantidas): CID-11 mínimo de 6 meses sem distinguir idades (p. 349) versus DSM-5-TR 12 meses em adultos e 6 meses em crianças",
+    "dose": false
+  },
+  {
+    "id": "dt-22-q1",
+    "itemId": "dt-22",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Na perturbação de interação social desinibida, o que distingue a CID-11 do DSM-5-TR quanto aos comportamentos com desconhecidos?",
+    "options": [
+      "Na CID-11 basta um dos comportamentos; o DSM-5-TR pede pelo menos 2 de 4",
+      "Na CID-11 pedem-se pelo menos 2 de 4 comportamentos; no DSM-5-TR basta um",
+      "As duas pedem pelo menos 3 comportamentos de entre os 4 descritos",
+      "A CID-11 pede os 4 comportamentos e o DSM-5-TR pede pelo menos 2"
+    ],
+    "correct": 0,
+    "explanation": "Na CID-11 basta um destes comportamentos (por exemplo não verificar o cuidador, ir com estranhos), enquanto o DSM-5-TR pede pelo menos 2 de 4. As outras opções invertem ou alteram os limiares.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263, lido no texto integral (p. = página impressa; índice = página do ficheiro .txt, p. + 18): 6B44, pp. 355-357 (índices 373-375): história de cuidados gravemente insuficientes; procura e resposta mínimas ao conforto; antes dos 5 anos; idade de desenvolvimento de pelo menos 9 meses; não explicada por autismo; não limitada a uma relação; diferencial com autismo («quase-autismo»), défice intelectual, ansiedade social e depressão; 6B45, pp. 358-360 (índices 376-378): um ou mais de três comportamentos com desconhecidos, antes dos 5 anos, idade de desenvolvimento de pelo menos 9 meses, não explicada por outra perturbação (por exemplo PHDA); diferencial com PHDA, défice intelectual e condições neurológicas; confirmado, códigos 6B44 e 6B45 confirmados. DSM-5-TR DSED (índices 452-453): pelo menos 2 de 4 comportamentos no critério A, sem critério de idade inferior a 5 anos; NICE NG26, 2015, https://www.nice.org.uk/guidance/ng26/chapter/Recommendations (rec. 1.3.6: só diagnosticar perturbação de vinculação se cumprir critérios DSM-5 ou CID); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Reactive Attachment Disorder, critérios A-G e diagnóstico diferencial, índices 448-452: antes dos 5 anos, idade de desenvolvimento ≥9 meses, exclusão de autismo, distinção de défice intelectual e depressão; secção Disinhibited Social Engagement Disorder, critérios A-E e comorbilidade, índices 452-455: sem critério de exclusão de autismo, distinção da PHDA, autismo pode coexistir, idade de desenvolvimento ≥9 meses)",
+    "dose": false
+  },
+  {
+    "id": "dt-23-q1",
+    "itemId": "dt-23",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo a CID-11, como se procede quando os sintomas dissociativos de um jovem com stress pós-traumático ocorrem apenas durante os episódios de reexperiência?",
+    "options": [
+      "Acrescenta-se sempre um diagnóstico de amnésia dissociativa",
+      "Não se acrescenta um diagnóstico dissociativo adicional",
+      "Muda-se o diagnóstico para perturbação psicótica",
+      "Acrescenta-se o diagnóstico de stress pós-traumático complexo"
+    ],
+    "correct": 1,
+    "explanation": "Na CID-11, se os sintomas dissociativos se limitam aos episódios de reexperiência não se acrescenta diagnóstico dissociativo; só se justifica se forem marcados fora desses episódios. O DSM-5-TR usa o especificador com sintomas dissociativos.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263, lido no texto integral (p. = página impressa; índice = página do ficheiro .txt, p. + 18): 6B40, p. 344 (índice 362): se os sintomas dissociativos se limitam aos episódios de reexperiência no PTSD ou PTSD complexo, não se acrescenta diagnóstico dissociativo; se são significativos fora desses episódios e cumprem critérios completos, pode acrescentar-se; confirmado; DSM-5-TR (APA, 2022), confirmado no texto do manual (PTSD, especificador «com sintomas dissociativos», índices 457-458 e 460; diagnóstico diferencial com perturbações dissociativas, índices 469-470: se critérios completos de PTSD, considerar o especificador; perturbações dissociativas graves podem justificar diagnóstico adicional). Divergência (ambas mantidas): a limitação «só durante a reexperiência» é da CID-11 (CDDR p. 344, confirmada); o DSM-5-TR não a formula nestes termos",
+    "dose": false
+  },
+  {
+    "id": "dt-27-q1",
+    "itemId": "dt-27",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Um rapaz de 9 anos, 3 meses depois de um acidente, está inquieto, distraído e impulsivo, sintomas que os pais dizem não ter existido antes. Qual é o passo mais útil no diferencial com PHDA?",
+    "options": [
+      "Diagnosticar PHDA de imediato, pois inquietação e distração são sintomas típicos da PHDA",
+      "Excluir stress pós-traumático, porque o trauma não causa inquietação nem impulsividade",
+      "Situar o início: na PHDA, antes dos 12 anos; no stress pós-traumático, após o acontecimento",
+      "Atribuir o quadro a perturbação de oposição, por haver impulsividade e inquietação"
+    ],
+    "correct": 2,
+    "explanation": "A ansiedade e o trauma podem causar inquietação, distração e impulsividade, e crianças traumatizadas podem parecer ter PHDA, por isso se pergunta se os sintomas existiam antes do acontecimento. Na PHDA os problemas de atenção começam antes dos 12 anos; no stress pós-traumático, após o acontecimento.",
+    "source": "NICE NG116, 2018, https://www.nice.org.uk/guidance/ng116/chapter/Recommendations (rec. 1.1.6: problemas de concentração e aumento de dificuldades comportamentais entre os sintomas de trauma em crianças; 1.1.1: hiperativação, irritabilidade; lidas em 10/10/2026); AAP, Pediatrics 2021;148(2):e2021052580 (sobreposição de PHDA e perturbação de adaptação com sintomas funcionais do trauma; agora relido, índice 11); DSM-5-TR (APA, 2022), confirmado no texto do manual (PTSD, diagnóstico diferencial com PHDA, índice 469: início antes dos 12 anos na PHDA versus após o acontecimento no PTSD; fatores de risco pré-traumáticos, índice 466: problemas emocionais aos 6 anos, externalizantes ou de ansiedade, e perturbações mentais prévias); AACAP, Practice Parameter PTSD, JAACAP 2010;49(4):414-430, lido no texto integral (baseado no DSM-IV-TR) (índice 7: hiperatividade e hiperativação podem ser confundidas com PHDA, atender ao momento de início; índice 4: perturbação psiquiátrica prévia, sobretudo ansiedade, como fator de risco); AAP, Forkey et al., Pediatrics 2021;148(2):e2021052580, lido no texto integral (índice 11: o trauma pode ser confundido com PHDA); ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263, lido no texto integral (p. = página impressa; índice = p. + 18): 6B41, pp. 346-347 (índices 364-365): crianças com PTSD complexo têm mais dificuldades cognitivas (atenção, planeamento) e referem sintomas de PHDA, oposição e conduta; a relação temporal entre o trauma e o início dos sintomas ajuda no diagnóstico diferencial; confirmado. AAP, Wolraich et al., PHDA 2019, texto integral (secção adolescentes, 12 a 18 anos): exige manifestações antes dos 12 anos e considerar condições que simulam ou coexistem; trauma, PTSD e toxic stress como comorbilidades e fatores de risco de preocupação; confirmado",
+    "dose": false
+  },
+  {
+    "id": "dt-28-q1",
+    "itemId": "dt-28",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Uma adolescente com stress pós-traumático após um acidente tem ataques de pânico que surgem apenas quando recorda o acontecimento. Segundo a CID-11, o que se faz?",
+    "options": [
+      "Acrescenta-se sempre o diagnóstico adicional de perturbação de pânico",
+      "Muda-se o diagnóstico para fobia específica, por haver um estímulo evocador",
+      "Muda-se o diagnóstico para TOC, por haver pensamentos intrusivos recorrentes",
+      "Usa-se o especificador com ataques de pânico, sem diagnóstico adicional"
+    ],
+    "correct": 3,
+    "explanation": "Na CID-11, os ataques de pânico associados às lembranças ou à reexperiência registam-se pelo especificador com ataques de pânico; só ataques inesperados, fora destas situações, justificam diagnóstico adicional de pânico. A fobia distingue-se por não haver reexperiência no presente.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263, lido no texto integral (p. = página impressa; índice = página do ficheiro .txt, p. + 18): 6B40, p. 344 (índice 362): ataques de pânico só em lembranças ou reexperiência não justificam pânico à parte (especificador «com ataques de pânico», MB23.H), pânico inesperado justifica diagnóstico adicional; fobia específica pós-trauma distingue-se pela ausência de reexperiência no presente, memórias vividas como passadas; p. 340 (índice 358): obsessões ou compulsões em resposta a lembranças do trauma podem fazer parte do quadro; confirmado; DSM-5-TR (APA, 2022), confirmado no texto do manual (PTSD, diagnóstico diferencial com ansiedade e TOC, índice 469: obsessões não ligadas ao acontecimento, compulsões habituais, pânico só após lembranças do trauma, ansiedade de separação ligada à separação); AACAP, Practice Parameter PTSD, JAACAP 2010;49(4):414-430, lido no texto integral (baseado no DSM-IV-TR) (índice 7: o PTSD pode ser confundido com TOC, pânico, fobia e outras perturbações de ansiedade)",
+    "dose": false
+  },
+  {
+    "id": "dt-30-q1",
+    "itemId": "dt-30",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Um adolescente de 15 anos com stress pós-traumático refere ouvir os seus próprios pensamentos como vozes, que reconhece como seus, além de hipervigilância. Qual a atitude mais adequada?",
+    "options": [
+      "Não o tomar como prova de psicose, mas avaliar sintomas psicóticos",
+      "Diagnosticar esquizofrenia de imediato, porque há alucinações auditivas",
+      "Ignorar o sintoma, porque é sempre parte normal da resposta ao trauma",
+      "Atribuir o sintoma a epilepsia e pedir apenas avaliação neurológica urgente"
+    ],
+    "correct": 0,
+    "explanation": "Pseudoalucinações auditivas reconhecidas como pensamentos próprios podem ocorrer no stress pós-traumático e não indicam por si psicose, mas justificam avaliar sintomas psicóticos; se persistirem fora da reexperiência ou com perda de insight, avaliar psicose.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263, lido no texto integral (p. = página impressa; índice = página do ficheiro .txt, p. + 18): 6B40, p. 343 (índice 361): flashbacks graves com qualidade alucinatória e hipervigilância que parece paranoia; pseudoalucinações auditivas reconhecidas como pensamentos próprios podem ocorrer e não devem ser consideradas prova de perturbação psicótica; p. 338 (índice 356): saber as normas culturais para avaliar se os sintomas psicóticos são expressão cultural; esquizofrenia, p. 167 (índice 185): na criança, difícil distinguir alucinações de fenómenos próprios do desenvolvimento (monstro debaixo da cama, amigo imaginário); confirmado; DSM-5-TR (APA, 2022), confirmado no texto do manual (PTSD, características associadas, índice 464: pseudoalucinações auditivas, isto é, ouvir os próprios pensamentos como vozes, e ideação paranoide podem estar presentes; diagnóstico diferencial com psicose, índice 470: os flashbacks distinguem-se por estarem diretamente ligados à experiência traumática e por ocorrerem sem outras características psicóticas); AACAP, Practice Parameter PTSD, JAACAP 2010;49(4):414-430, lido no texto integral (baseado no DSM-IV-TR) (índice 7: agitação, hipervigilância e flashbacks graves podem simular psicose; percepções invulgares devem ser distinguidas de alucinações psicóticas)",
+    "dose": false
+  },
+  {
+    "id": "dt-32-q1",
+    "itemId": "dt-32",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Entre as comorbilidades do trauma, que perturbação de ansiedade é destacada nos pré-escolares?",
+    "options": [
+      "Ansiedade de separação",
+      "Perturbação de ansiedade social",
+      "Ansiedade generalizada",
+      "Perturbação de pânico com agorafobia"
+    ],
+    "correct": 0,
+    "explanation": "A fonte destaca, nos pré-escolares, sobretudo a ansiedade de separação; as restantes opções não são destacadas para essa idade. Nos adolescentes salientam-se autolesão e comportamento suicida.",
+    "source": "NICE NG116, 2018, https://www.nice.org.uk/guidance/ng116/chapter/Recommendations (rec. 1.7.1: depressão com PTSD; 1.7.2: consumo de drogas ou álcool; 1.1.1: dissociação; lidas em 10/10/2026); ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263, lido no texto integral (p. = página impressa; índice = página do ficheiro .txt, p. + 18): 6B40, pp. 340 e 344 (índices 358 e 362): dissociação, queixas somáticas, ideação e comportamento suicida, retraimento, álcool e drogas, ansiedade incluindo pânico; perturbações depressivas, de ansiedade e medo, por uso de substâncias e dissociativas depois de acontecimentos traumáticos; 6B41, pp. 346-347 (índices 364-365): crianças e adolescentes com PTSD complexo referem sintomas depressivos, alimentares, do sono, PHDA, oposição, conduta (dissocial) e ansiedade de separação; adolescentes com autolesão não suicida, consumo de substâncias, comportamentos de risco; confirmado; DSM-5-TR (APA, 2022), confirmado no texto do manual (PTSD, comorbilidade, índice 470: perturbações depressivas, bipolares, de ansiedade e de uso de substâncias; em crianças pequenas predominam oposição e ansiedade de separação; índice 468: PTSD associado a ideação e comportamento suicida, também em adolescentes; índices 469-470: perturbações dissociativas); AACAP, Practice Parameter PTSD, JAACAP 2010;49(4):414-430, lido no texto integral (baseado no DSM-IV-TR) (índice 8: depressão, PHDA, abuso de substâncias e outras perturbações de ansiedade; índice 3: o abuso sexual na infância prediz abuso de substâncias, perturbação do comportamento e depressão)",
+    "dose": false
+  },
+  {
+    "id": "dt-34-q1",
+    "itemId": "dt-34",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Uma criança de 6 anos mostra comportamento sexualizado na consulta. Qual é a abordagem adequada?",
+    "options": [
+      "Concluir que houve abuso, por ser um indicador específico de trauma sexual",
+      "Avaliar sem presumir trauma e, se houver suspeita, abrir a triagem de risco",
+      "Desvalorizar o achado, por ter sempre causas benignas e sem relevância clínica",
+      "Fazer uma entrevista forense detalhada na própria consulta, antes de qualquer triagem"
+    ],
+    "correct": 1,
+    "explanation": "O comportamento sexualizado pode sugerir abuso mas tem outras causas, por isso não permite presumir trauma: avalia-se, e perante suspeita abre-se a triagem de risco e segue-se o procedimento local. A fonte prevê avaliar e, perante suspeita do médico, abrir a triagem de risco e seguir o procedimento local; não prevê entrevista forense na consulta.",
+    "source": "AAP, Forkey et al., Pediatrics 2021;148(2):e2021052580, lido no texto integral (índice 7: suspeita de maus-tratos exige referenciação aos serviços de proteção da criança); DGS, Maus tratos em crianças e jovens: guia prático, 2011, lido no texto integral (índice 28: serviços de saúde como entidades de primeiro nível, CPCJ no segundo, denúncia escrita ao Ministério Público por ser crime público, Lei 147/99; índice 38: «condutas erotizadas» entre os indicadores de abuso sexual; índice 45: nenhum indicador isolado estabelece o diagnóstico de maus-tratos); AACAP, Practice Parameter PTSD, JAACAP 2010;49(4):414-430, lido no texto integral (baseado no DSM-IV-TR) (índice 2: perante sintomas sugestivos, incluindo comportamento sexualizado indiscriminado, sem revelação, não presumir trauma; índice 7: o reenactment traumático pode simular comportamento hipersexual)",
+    "dose": false
+  }
+]

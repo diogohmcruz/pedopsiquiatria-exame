@@ -1,0 +1,291 @@
+[
+  {
+    "id": "tx-nao-recomendadas-dcd-q1",
+    "itemId": "tx-nao-recomendadas-dcd",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a EACD 2019, qual das seguintes abordagens na perturbação do desenvolvimento da coordenação (DCD) não é recomendada, por evidência inconclusiva?",
+    "options": [
+      "Intervenção na escrita orientada para a atividade e a participação",
+      "Ensino precoce de teclado quando a escrita é problemática",
+      "Treino de sensibilidade cinestésica como intervenção isolada",
+      "Aconselhamento a pais e professores sobre as dificuldades da criança"
+    ],
+    "correct": 2,
+    "explanation": "A EACD não recomenda a terapia de integração sensorial nem o treino de sensibilidade cinestésica, porque a evidência é inconclusiva. As restantes opções não são indicadas pela fonte como abordagens não recomendadas.",
+    "source": "EACD, Blank et al., Dev Med Child Neurol 2019;61:242-285, doi 10.1111/dmcn.14132, https://pmc.ncbi.nlm.nih.gov/articles/PMC6850610/ (statements 2 e 3)",
+    "dose": false
+  },
+  {
+    "id": "tx-cbt-ed-an-jovens-q1",
+    "itemId": "tx-cbt-ed-an-jovens",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a NICE NG69, qual é o esquema típico da TCC focada nas perturbações alimentares (CBT-ED) individual na anorexia nervosa de crianças e jovens?",
+    "options": [
+      "Até 40 sessões ao longo de 40 semanas, mais 8 a 12 sessões familiares",
+      "Até 20 sessões ao longo de 20 semanas, mais 2 a 4 sessões familiares breves",
+      "Até 18 sessões ao longo de 6 meses, mais até 4 sessões com os pais",
+      "Até 80 sessões ao longo de 18 meses, sem sessões familiares"
+    ],
+    "correct": 0,
+    "explanation": "A NICE NG69 indica tipicamente até 40 sessões em 40 semanas, com sessões mais frequentes nas primeiras 2 ou 3 semanas, e 8 a 12 sessões familiares breves. O esquema de 18 sessões em 6 meses com até 4 sessões com os pais pertence à bulimia nervosa. As restantes opções não correspondem a nenhum esquema da fonte.",
+    "source": "NICE, Eating disorders: recognition and treatment (NG69), publicada em 23/05/2017, atualizada em 16/12/2020 (datas do cabeçalho da página), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations, secção 1.3.15 e 1.3.16; Couturier et al., Canadian practice guidelines for the treatment of children and adolescents with eating disorders, J Eat Disord 2020, https://pmc.ncbi.nlm.nih.gov/articles/PMC6995106/ (texto integral lido via Europe PMC), resumo das recomendações",
+    "dose": false
+  },
+  {
+    "id": "tx-afp-an-q1",
+    "itemId": "tx-afp-an",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a NICE NG69, qual é o esquema típico da psicoterapia focada no adolescente para a anorexia nervosa (AFP-AN)?",
+    "options": [
+      "60 a 80 sessões individuais ao longo de 24 meses, mais sessões de família mensais",
+      "8 a 12 sessões individuais ao longo de 3 meses, sem sessões de família",
+      "16 a 20 sessões individuais ao longo de 6 meses, mais 2 a 4 sessões de família",
+      "32 a 40 sessões individuais em 12 a 18 meses, mais 8 a 12 sessões de família"
+    ],
+    "correct": 3,
+    "explanation": "A NICE NG69 refere tipicamente 32 a 40 sessões individuais em 12 a 18 meses, com sessões mais regulares no início e 8 a 12 sessões de família. Os outros esquemas têm menos ou mais sessões e outras durações do que a guideline indica. As necessidades devem ser revistas às 4 semanas e depois de 3 em 3 meses.",
+    "source": "NICE, Eating disorders: recognition and treatment (NG69), publicada em 23/05/2017, atualizada em 16/12/2020 (datas do cabeçalho da página), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations, secção 1.3.15 e 1.3.17; Couturier et al., Canadian practice guidelines for the treatment of children and adolescents with eating disorders, J Eat Disord 2020, https://pmc.ncbi.nlm.nih.gov/articles/PMC6995106/ (texto integral lido via Europe PMC), resumo das recomendações",
+    "dose": false
+  },
+  {
+    "id": "tx-cbt-ed-bn-jovens-q1",
+    "itemId": "tx-cbt-ed-bn-jovens",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a NICE NG69, qual é o esquema típico da TCC focada nas perturbações alimentares (CBT-ED) individual na bulimia nervosa de crianças e jovens?",
+    "options": [
+      "8 sessões ao longo de 2 meses, mais 1 sessão com os pais ou cuidadores",
+      "18 sessões ao longo de 6 meses, mais até 4 sessões com os cuidadores",
+      "36 sessões ao longo de 12 meses, mais 8 a 12 sessões de família breves",
+      "40 sessões ao longo de 40 semanas, mais 8 a 12 sessões familiares breves"
+    ],
+    "correct": 1,
+    "explanation": "A NICE NG69 indica tipicamente 18 sessões ao longo de 6 meses, mais frequentes no início, e até 4 sessões com os pais ou cuidadores. O esquema de 40 sessões em 40 semanas com sessões familiares breves é o da anorexia nervosa. As outras opções não constam da guideline.",
+    "source": "NICE, Eating disorders: recognition and treatment (NG69), publicada em 23/05/2017, atualizada em 16/12/2020 (datas do cabeçalho da página), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations, secção 1.5.9 e 1.5.10; Couturier et al., Canadian practice guidelines for the treatment of children and adolescents with eating disorders, J Eat Disord 2020, https://pmc.ncbi.nlm.nih.gov/articles/PMC6995106/ (texto integral lido via Europe PMC), resumo das recomendações",
+    "dose": false
+  },
+  {
+    "id": "tx-cbt-ed-grupo-ingestao-compulsiva-q1",
+    "itemId": "tx-cbt-ed-grupo-ingestao-compulsiva",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a NICE NG69, qual é o esquema típico da TCC focada nas perturbações alimentares em grupo na ingestão compulsiva?",
+    "options": [
+      "8 sessões semanais de grupo de 60 minutos ao longo de 2 meses",
+      "4 a 9 sessões de 20 minutos ao longo de 16 semanas",
+      "16 sessões semanais de grupo de 90 minutos em 4 meses",
+      "32 sessões semanais de grupo de 90 minutos ao longo de 8 meses"
+    ],
+    "correct": 2,
+    "explanation": "A NICE NG69 indica tipicamente 16 sessões semanais de grupo de 90 minutos ao longo de 4 meses (recomendação para adultos, aplicada aos jovens). O esquema de 4 a 9 sessões de 20 minutos é o exemplo dado para a autoajuda guiada, não para o grupo. As outras opções não constam da fonte.",
+    "source": "NICE, Eating disorders: recognition and treatment (NG69), publicada em 23/05/2017, atualizada em 16/12/2020 (datas do cabeçalho da página), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations, secção 1.4.4, 1.4.5 e 1.4.8",
+    "dose": false
+  },
+  {
+    "id": "tx-tcc-psicose-q1",
+    "itemId": "tx-tcc-psicose",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a NICE CG155, quantas sessões planeadas deve ter, no mínimo, a TCC individual manualizada na psicose de início precoce?",
+    "options": [
+      "Pelo menos 4 sessões",
+      "Pelo menos 16 sessões",
+      "Pelo menos 32 sessões",
+      "Pelo menos 48 sessões"
+    ],
+    "correct": 1,
+    "explanation": "A NICE CG155 (1.3.31) pede pelo menos 16 sessões planeadas, seguindo um manual, podendo ser necessário mais. A guideline exige pelo menos um dos componentes listados, como ligar pensamentos e ações aos sintomas ou reavaliar crenças. Os restantes valores não correspondem ao mínimo indicado.",
+    "source": "NICE CG155, https://www.nice.org.uk/guidance/cg155/chapter/Recommendations, secções 1.2.5, 1.3.12, 1.3.31, 1.4.5 e 1.8.4",
+    "dose": false
+  },
+  {
+    "id": "tx-entrevista-motivacional-substancias-q1",
+    "itemId": "tx-entrevista-motivacional-substancias",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a AACAP 2026, quantas sessões define a entrevista motivacional (EM) breve, sugerida no consumo de álcool em adolescentes e jovens adultos?",
+    "options": [
+      "1 a 2 sessões",
+      "3 a 4 sessões",
+      "5 a 8 sessões",
+      "Mais de 2 sessões"
+    ],
+    "correct": 0,
+    "explanation": "A AACAP 2026 define EM breve como 1 a 2 sessões. A EM não breve é a de mais de 2 sessões e é sugerida no consumo ou perturbação por álcool, com ou sem outras drogas. Os intervalos de 3 a 4 e de 5 a 8 sessões não correspondem à definição de breve.",
+    "source": "AACAP, Clinical practice guideline: assessment and treatment of adolescents and young adults with substance use disorders and problematic substance use (excluding tobacco), J Am Acad Child Adolesc Psychiatry 2026, doi 10.1016/j.jaac.2025.08.006, https://pubmed.ncbi.nlm.nih.gov/40819708/ (só li o resumo; o texto integral deu 403); Budney, Roffman, Stephens e Walker, Marijuana dependence and its treatment, Addict Sci Clin Pract 2007, https://pmc.ncbi.nlm.nih.gov/articles/PMC2797098/ (texto integral lido via Europe PMC; revisão sobretudo em adultos), secção de MET",
+    "dose": false
+  },
+  {
+    "id": "tx-met-tcc-cannabis-jovens-q1",
+    "itemId": "tx-met-tcc-cannabis-jovens",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo o formato testado em adolescentes com consumo de cannabis (Dennis 2004, citado em Budney 2007), como é composta a MET/TCC5?",
+    "options": [
+      "3 sessões individuais e 2 de grupo",
+      "5 sessões de grupo, sem sessões individuais",
+      "5 sessões individuais, sem componente de grupo",
+      "2 sessões individuais e 3 de grupo"
+    ],
+    "correct": 3,
+    "explanation": "A MET/TCC5 tem 2 sessões individuais e 3 de grupo. A MET/TCC12 mantém as 2 individuais mas tem 10 de grupo. As outras composições alteram a distribuição descrita na fonte.",
+    "source": "AACAP, Clinical practice guideline: assessment and treatment of adolescents and young adults with substance use disorders and problematic substance use (excluding tobacco), J Am Acad Child Adolesc Psychiatry 2026, doi 10.1016/j.jaac.2025.08.006, https://pubmed.ncbi.nlm.nih.gov/40819708/ (só li o resumo; o texto integral deu 403); Budney, Roffman, Stephens e Walker, Marijuana dependence and its treatment, Addict Sci Clin Pract 2007, https://pmc.ncbi.nlm.nih.gov/articles/PMC2797098/ (texto integral lido via Europe PMC; revisão sobretudo em adultos), secções de MET, CBT e tratamento de adolescentes",
+    "dose": false
+  },
+  {
+    "id": "tx-treino-competencias-prevencao-drogas-q1",
+    "itemId": "tx-treino-competencias-prevencao-drogas",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a NICE NG64, qual é o número mínimo de sessões a oferecer no treino de competências pessoais e sociais para crianças e jovens avaliados como vulneráveis ao consumo de drogas?",
+    "options": [
+      "4 sessões",
+      "8 sessões",
+      "2 sessões",
+      "12 sessões"
+    ],
+    "correct": 2,
+    "explanation": "A NICE NG64 (1.3.5) manda oferecer no mínimo 2 sessões, e o número, a duração e o local dependem do jovem. Trata-se de prevenção seletiva, não de tratamento de perturbação já estabelecida. Os valores mais altos não são o mínimo indicado.",
+    "source": "NICE, Drug misuse prevention: targeted interventions (NG64), publicada em 22/02/2017, https://www.nice.org.uk/guidance/ng64/chapter/Recommendations, secção 1.3",
+    "dose": false
+  },
+  {
+    "id": "tx-formacao-parental-perturbacao-jogo-q1",
+    "itemId": "tx-formacao-parental-perturbacao-jogo",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Na revisão sistemática de 2025 sobre a perturbação do jogo em crianças e adolescentes, como se posiciona a formação de pais?",
+    "options": [
+      "Tratamento isolado de primeira linha, com resultados consistentes em todos os estudos e em todas as idades",
+      "Complemento e não tratamento isolado, por evidência inconsistente entre o piloto e o ensaio aleatorizado",
+      "Substituto da TCC nos casos com comorbilidade, por ter melhor evidência nos ensaios aleatorizados",
+      "Abordagem contraindicada, porque aumenta o tempo de jogo e os conflitos entre pais e adolescentes"
+    ],
+    "correct": 1,
+    "explanation": "A revisão descreve um programa de 8 semanas com resultados inconsistentes: o piloto reduziu a gravidade, mas o ensaio aleatorizado não mostrou diferença face à lista de espera. Por isso considera-se um complemento, não um tratamento isolado. As outras opções não são sustentadas por esta evidência.",
+    "source": "Park et al., Treatment of gaming disorder in children and adolescents: a systematic review, J Korean Acad Child Adolesc Psychiatry 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC12223676/ (texto integral lido via Europe PMC; 30 estudos, metade ensaios aleatorizados)",
+    "dose": false
+  },
+  {
+    "id": "tx-fatores-agravantes-spi-q1",
+    "itemId": "tx-fatores-agravantes-spi",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Uma criança tem síndrome das pernas inquietas clinicamente significativa. Bebe várias bebidas com cafeína por dia e tem apneia obstrutiva do sono não tratada. Segundo a declaração de boa prática da AASM 2025, qual é o primeiro passo?",
+    "options": [
+      "Corrigir fatores agravantes (cafeína, apneia não tratada) e pedir estudos do ferro",
+      "Iniciar de imediato suplemento de ferro, sem avaliar a ferritina nem os fatores agravantes",
+      "Manter a cafeína e não tratar a apneia, por não influenciarem os sintomas da criança",
+      "Adiar a correção dos fatores agravantes e começar pelo tratamento farmacológico"
+    ],
+    "correct": 0,
+    "explanation": "O primeiro passo é identificar e corrigir fatores que agravam os sintomas, como álcool, cafeína, alguns fármacos e apneia obstrutiva não tratada, incluindo os estudos do ferro. A decisão de suplementar ferro é uma questão de tratamento farmacológico e não faz parte deste primeiro passo.",
+    "source": "Winkelman et al., Treatment of RLS and PLMD: an AASM clinical practice guideline, J Clin Sleep Med 2025;21(1):137-152, https://pubmed.ncbi.nlm.nih.gov/39324694/ (só li o resumo, que inclui as declarações de boa prática)",
+    "dose": false
+  },
+  {
+    "id": "tx-autoajuda-guiada-ingestao-compulsiva-q1",
+    "itemId": "tx-autoajuda-guiada-ingestao-compulsiva",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Um jovem com ingestão compulsiva faz autoajuda guiada cognitivo-comportamental. Passadas 4 semanas, a equipa conclui que o programa está a ser ineficaz. Segundo a NICE NG69, qual é o passo seguinte?",
+    "options": [
+      "Manter a autoajuda guiada por mais 16 semanas, sem alterar o plano",
+      "Suspender qualquer tratamento psicológico",
+      "Iniciar terapia familiar para bulimia nervosa",
+      "Passar a TCC focada nas perturbações alimentares em grupo"
+    ],
+    "correct": 3,
+    "explanation": "Se a autoajuda guiada for inaceitável, contraindicada ou ineficaz após 4 semanas, a NICE NG69 indica oferecer TCC focada nas perturbações alimentares em grupo (aplicada aos jovens como aos adultos). A terapia familiar para bulimia nervosa não é a opção descrita para a ingestão compulsiva.",
+    "source": "NICE, Eating disorders: recognition and treatment (NG69), publicada em 23/05/2017, atualizada em 16/12/2020 (datas do cabeçalho da página), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations, secção 1.4.1 a 1.4.8",
+    "dose": false
+  },
+  {
+    "id": "tx-cpap-osa-persistente-q1",
+    "itemId": "tx-cpap-osa-persistente",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Uma criança mantém apneia obstrutiva do sono depois da adenotonsilectomia e não é candidata a tratamento específico da via aérea superior. Segundo a ATS 2024, que opção se sugere considerar?",
+    "options": [
+      "Cirurgia de perda de peso como primeira opção terapêutica",
+      "Observação sem tratamento, por não haver opção sugerida",
+      "CPAP, com educação e seguimento intensivo no início",
+      "Programa de perda de peso, mesmo sem excesso de peso"
+    ],
+    "correct": 2,
+    "explanation": "A ATS 2024 sugere considerar CPAP (recomendação condicional, certeza muito baixa) em crianças com apneia obstrutiva persistente que não são candidatas a tratamento específico da via aérea superior. A adesão é o ponto crítico: educação e seguimento intensivo nas primeiras semanas, primeira consulta 30 a 90 dias após o início. A perda de peso é sugerida em crianças com excesso de peso ou obesidade, e a cirurgia bariátrica só se a perda de peso não for conseguida.",
+    "source": "Ehsan et al., Management of persistent, post-adenotonsillectomy obstructive sleep apnea in children: an official American Thoracic Society clinical practice guideline, Am J Respir Crit Care Med 2024, https://pmc.ncbi.nlm.nih.gov/articles/PMC10840779/ (texto integral lido via Europe PMC; recomendações e discussão da questão 1)",
+    "dose": false
+  },
+  {
+    "id": "tx-perda-peso-osa-persistente-q1",
+    "itemId": "tx-perda-peso-osa-persistente",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Uma criança com apneia obstrutiva do sono persistente tem obesidade. Segundo a ATS 2024, qual é a abordagem sugerida?",
+    "options": [
+      "Aconselhamento verbal pontual sobre alimentação, sem programa estruturado",
+      "Programa de perda de peso com dieta, exercício e modificação comportamental",
+      "Cirurgia de perda de peso como primeira abordagem, antes de qualquer programa",
+      "Apenas dieta restritiva, sem exercício nem modificação comportamental"
+    ],
+    "correct": 1,
+    "explanation": "A ATS 2024 sugere (recomendação condicional, certeza muito baixa) intervenção de perda de peso em crianças com apneia obstrutiva persistente e excesso de peso ou obesidade, por dieta, exercício e modificação comportamental, idealmente num programa multidisciplinar. A cirurgia bariátrica só se considera se a perda de peso não for conseguida. As outras opções omitem componentes do programa ou invertem a ordem.",
+    "source": "Ehsan et al., ATS 2024, https://pmc.ncbi.nlm.nih.gov/articles/PMC10840779/, recomendação 3 e discussão da questão 3 (texto integral lido via Europe PMC)",
+    "dose": false
+  },
+  {
+    "id": "tx-estrategias-comportamentais-sono-pea-q1",
+    "itemId": "tx-estrategias-comportamentais-sono-pea",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Os pais de um adolescente com perturbação do espetro do autismo queixam-se de que ele dorme mal. Segundo a guideline da AAN 2020, o que se faz primeiro?",
+    "options": [
+      "Rever medicação e comorbilidades e aconselhar os pais sobre estratégias de sono",
+      "Recomendar cobertor pesado como medida de rotina, antes de qualquer outra estratégia",
+      "Recomendar colchão especial como medida de rotina, antes de qualquer outra estratégia",
+      "Iniciar de imediato um fármaco para o sono, dispensando as estratégias comportamentais"
+    ],
+    "correct": 0,
+    "explanation": "A AAN 2020 indica rever primeiro medicamentos e condições coexistentes que possam contribuir para o problema e aconselhar os pais sobre hábitos de sono, com estratégias comportamentais como abordagem de primeira linha. Não há evidência para o uso rotineiro de cobertores pesados ou colchões especiais. Por isso não se inicia de imediato um fármaco, dispensando as estratégias comportamentais.",
+    "source": "Practice guideline: treatment for insomnia and disrupted sleep behavior in children and adolescents with ASD, AAN, Neurology 2020, https://pubmed.ncbi.nlm.nih.gov/32051244/ (só li o resumo)",
+    "dose": false
+  },
+  {
+    "id": "tx-medidas-comportamentais-encoprese-q1",
+    "itemId": "tx-medidas-comportamentais-encoprese",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Uma criança com obstipação idiopática e escape fecal já fez desimpactação e está em manutenção com laxantes. Segundo a NICE CG99, que intervenção comportamental se associa?",
+    "options": [
+      "Biofeedback de rotina, associado aos laxantes, à dieta e à atividade física",
+      "Encaminhamento rotineiro para psicologia ou CAMHS, em paralelo com os laxantes",
+      "Dieta isolada, sem intervenções comportamentais, mantendo apenas os laxantes",
+      "Idas programadas à casa de banho, diário intestinal e recompensas negociadas"
+    ],
+    "correct": 3,
+    "explanation": "A NICE CG99 associa aos laxantes intervenções comportamentais negociadas e sem punição: idas programadas à casa de banho, diário intestinal e sistemas de recompensa, com dieta, líquidos e atividade física. A guideline recomenda não usar biofeedback e não encaminhar rotineiramente para psicologia ou CAMHS. A dieta isolada também não é a primeira linha.",
+    "source": "NICE, Constipation in children and young people: diagnosis and management (CG99), publicada em 26/05/2010, atualizada em 13/07/2017 (datas do cabeçalho), https://www.nice.org.uk/guidance/cg99/chapter/Recommendations, secções 1.4 a 1.8",
+    "dose": false
+  },
+  {
+    "id": "tx-cuidados-escalonados-fnd-q1",
+    "itemId": "tx-cuidados-escalonados-fnd",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Uma criança acaba de receber o diagnóstico de crises funcionais. No modelo de cuidados escalonados descrito por Kozlowska e colaboradores (2022), o que recebem todos os doentes, independentemente da resposta posterior?",
+    "options": [
+      "Internamento multidisciplinar, logo após o diagnóstico",
+      "TCC padronizada com biofeedback, logo após o diagnóstico",
+      "Educação sobre o diagnóstico e recomendações de gestão",
+      "Intervenção multidisciplinar de ambulatório, logo após o diagnóstico"
+    ],
+    "correct": 2,
+    "explanation": "No nível 1 do modelo, todos os doentes recebem educação sobre o diagnóstico e recomendações de gestão. A TCC com biofeedback é o nível 2, a intervenção multidisciplinar de ambulatório o nível 3 e o internamento multidisciplinar o nível 4, para os casos mais graves. A intensidade sobe se não houver resposta.",
+    "source": "Kozlowska, Vassilopoulos e Fobian, Treatment approaches for functional neurological disorders in children, Curr Treat Options Neurol 2022, https://pmc.ncbi.nlm.nih.gov/articles/PMC8958484/ (texto integral lido via Europe PMC), secção de TCC em cuidados escalonados e Tabela 1 (coortes de Sawchuk)",
+    "dose": false
+  }
+]

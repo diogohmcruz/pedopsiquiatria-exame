@@ -1,0 +1,580 @@
+[
+ {
+  "id": "h-distimia-q1",
+  "itemId": "h-distimia",
+  "category": "hipoteses",
+  "type": "memoria",
+  "text": "Segundo a CID-11 (6A72), qual a duração mínima do humor deprimido persistente na perturbação distímica e o que se admite na criança?",
+  "options": [
+   "Pelo menos 6 meses, tanto na criança como no adulto, sem diferenças entre idades",
+   "Pelo menos 2 anos, admitindo-se o diagnóstico após cerca de 1 ano na criança",
+   "Pelo menos 2 anos, sem qualquer exceção para a criança, em qualquer idade",
+   "Pelo menos 2 semanas, tal como no episódio depressivo, em qualquer idade"
+  ],
+  "correct": 1,
+  "explanation": "A CID-11 pede humor deprimido (ou irritabilidade pervasiva na criança e no adolescente) durante pelo menos 2 anos, mas admite diagnosticar após cerca de 1 ano na criança. A AACAP 2023 refere 1 ano para jovens, o que coincide com esse limiar. Os outros prazos não correspondem à fonte: 2 semanas é o limiar do episódio depressivo e não há exceção nula para a criança.",
+  "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6A72 (pp. 255-258); AACAP, Walter et al., JAACAP 2023;62(5):479-502, https://www.jaacap.org/article/S0890-8567(22)01852-4/fulltext (duração de 1 ano em jovens, DSM-5-TR); NICE NG134 (publicada 25/06/2019), https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (cita a distimia só na categoria de depressão ligeira). Divergência CID-11 versus DSM: 2 anos na CID-11 com possibilidade de 1 ano na criança; seguida a CID-11; DSM-5-TR fica para fase posterior.",
+  "dose": false
+ },
+ {
+  "id": "h-bipolar-1-q1",
+  "itemId": "h-bipolar-1",
+  "category": "hipoteses",
+  "type": "caso",
+  "text": "Rapaz de 11 anos com irritabilidade e acessos de raiva quase diários desde os 6 anos, sem períodos distintos de euforia, de aumento de energia ou de menor necessidade de sono, e sem mudança nítida face ao habitual. Segundo a fonte, que segue o NICE na divergência com a CID-11 sobre a irritabilidade, como se interpreta este quadro?",
+  "options": [
+   "A irritabilidade crónica e os acessos de raiva não bastam para mania: só a sugerem se forem episódicos, prolongados e diferentes do habitual",
+   "Perturbação bipolar tipo I, porque a irritabilidade crónica é o critério diagnóstico central da mania na criança e no jovem",
+   "Perturbação bipolar tipo I, desde que um questionário de rastreio aplicado em cuidados primários seja positivo para sintomas de mania",
+   "Perturbação bipolar tipo I, se existir história familiar de bipolaridade em familiares de primeiro grau e queixas de irritabilidade"
+  ],
+  "correct": 0,
+  "explanation": "A fonte segue o NICE: na criança e no jovem a mania exige euforia e a irritabilidade não é critério central. Na leitura da fonte, a irritabilidade crónica ou os acessos de raiva só apontam para mania se forem episódicos, prolongados, diferentes do habitual e acompanhados de outros sintomas e mudança de funcionamento. Os questionários em cuidados primários não se usam para identificar e a história familiar isolada não chega para diagnosticar.",
+  "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), episódios maníaco, misto e hipomaníaco (pp. 217-224), 6A60 (pp. 225-229) e secção das perturbações bipolares (pp. 236-240); NICE CG185 (publicada 24/09/2014, atualizada 02/09/2025), https://www.nice.org.uk/guidance/cg185/chapter/Recommendations (1.1.2, 1.3.2, 1.3.3, 1.11.1 a 1.11.7); drafts/humor.json (dh-7, dh-23, dh-24, dh-27, dh-34, campo changed). Divergência CID-11 versus NICE na irritabilidade: seguido o NICE; DSM-5-TR fica para fase posterior.",
+  "dose": false
+ },
+ {
+  "id": "h-ansiedade-social-q1",
+  "itemId": "h-ansiedade-social",
+  "category": "hipoteses",
+  "type": "memoria",
+  "text": "Segundo a CID-11 (6B04), qual a persistência exigida na perturbação de ansiedade social e o que se refere quanto à idade de início?",
+  "options": [
+   "Pelo menos 1 semana; pouco habitual antes dos 5 anos",
+   "Pelo menos 2 anos de persistência; pouco habitual depois dos 10 anos",
+   "Pelo menos 2 semanas; frequente desde os 3 anos",
+   "Pelo menos vários meses; pouco habitual antes dos 10 anos"
+  ],
+  "correct": 3,
+  "explanation": "A fonte pede que o medo seja persistente durante pelo menos vários meses, distinguindo-o da timidez e da ansiedade face a estranhos normais para a idade, e refere que é pouco habitual antes dos 10 anos. Os restantes prazos e idades não constam da fonte.",
+  "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B04 (pp. 284-288); NICE CG159 (publicada 22/05/2013), https://www.nice.org.uk/guidance/cg159/chapter/Recommendations (1.4.1 a 1.4.12); AACAP, Walter et al., JAACAP 2020;59(10):1107-1124, doi 10.1016/j.jaac.2020.05.005. Divergência: o CDDR dá 'pelo menos vários meses'; DSM-5-TR fica para fase posterior.",
+  "dose": false
+ },
+ {
+  "id": "h-fobia-especifica-q1",
+  "itemId": "h-fobia-especifica",
+  "category": "hipoteses",
+  "type": "caso",
+  "text": "Rapariga de 4 anos que, há cerca de 8 meses, paralisa e chora com birra sempre que vê um cão, mesmo ao longe, e por isso recusa ir ao parque e a passeios, com sofrimento marcado para a criança e a família. Qual a hipótese mais adequada segundo a fonte citada?",
+  "options": [
+   "Perturbação de oposição e desafio",
+   "Perturbação de ansiedade social",
+   "Fobia específica",
+   "Perturbação de pânico"
+  ],
+  "correct": 2,
+  "explanation": "No pré-escolar a resposta ao objeto temido pode ser paralisar, birra ou choro, e o medo é persistente (vários meses), desproporcionado, evitado e causa sofrimento ou prejuízo, o que configura fobia específica. A recusa limitada ao estímulo temido não indica oposição e desafio, e não há medo de avaliação social nem ataques inesperados que sustentem as outras opções.",
+  "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B03 (pp. 280-283); AACAP, Walter et al., JAACAP 2020;59(10):1107-1124, doi 10.1016/j.jaac.2020.05.005. Sem guideline NICE para esta perturbação na criança lida nesta tarefa. Divergência: 'vários meses' na CID-11; DSM-5-TR fica para fase posterior.",
+  "dose": false
+ },
+ {
+  "id": "h-tricotilomania-q1",
+  "itemId": "h-tricotilomania",
+  "category": "hipoteses",
+  "type": "memoria",
+  "text": "Segundo a fonte citada, como se distingue o modo de arrancar o cabelo nas crianças e nos adolescentes com tricotilomania?",
+  "options": [
+   "Nas crianças é mais frequentemente focado, precedido de impulso; na adolescência é sobretudo automático, fora da consciência e sem impulso prévio",
+   "Nas crianças é mais frequentemente automático, fora da consciência; na adolescência é mais frequente o arrancar focado, com impulso e alívio",
+   "Em ambas as idades é sempre focado, precedido de impulso e seguido de alívio, sem formas automáticas",
+   "Em ambas as idades é sempre automático, fora da consciência, sem impulso nem alívio em qualquer fase"
+  ],
+  "correct": 1,
+  "explanation": "A fonte descreve que, nas crianças e adolescentes, o arrancar é mais frequentemente automático, fora da consciência, e que na adolescência é mais frequente o arrancar focado, com impulso prévio e alívio posterior. As outras opções invertem esta relação ou tornam-na absoluta, o que a fonte não afirma.",
+  "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B25 e 6B25.0 (pp. 327-330); sem guideline lida para esta perturbação: prática clínica (sem fonte). Ver também item do-12 e do-21 (domínio Outros).",
+  "dose": false
+ },
+ {
+  "id": "h-pstp-complexo-q1",
+  "itemId": "h-pstp-complexo",
+  "category": "hipoteses",
+  "type": "caso",
+  "text": "Rapariga de 14 anos, vítima de abuso físico repetido pelo padrasto durante vários anos, de que não conseguia escapar. Há meses tem flashbacks, evita lembranças e está em alerta constante. Tem ainda explosões de raiva e autolesão sob stress, sente-se sem valor e com vergonha ligada ao abuso, e não consegue manter amizades. Qual o diagnóstico que melhor a descreve segundo a CID-11?",
+  "options": [
+   "Perturbação de stress pós-traumático complexo",
+   "Perturbação de stress pós-traumático, sendo os restantes problemas apenas comorbilidades",
+   "Perturbação de adaptação com sintomas ligados ao abuso",
+   "Perturbação depressiva major com sentimentos de desvalorização"
+  ],
+  "correct": 0,
+  "explanation": "A CID-11 (6B41) exige exposição prolongada ou repetida de que escapar é difícil, todos os elementos do PSPT e mais 3: grave desregulação afetiva, crenças de ser diminuída ou sem valor com vergonha ou culpa, e dificuldade em manter relações. A vinheta cumpre tudo isto. Os diagnósticos adicionais só se atribuem se os sintomas não forem totalmente explicados pelo PSPT complexo, pelo que o PSPT simples com comorbilidades e a depressão major não descrevem melhor o quadro.",
+  "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B41 (pp. 344-348, mais PSPT pp. 339-344); NICE NG116 (publicada 05/12/2018), https://www.nice.org.uk/guidance/ng116/chapter/Recommendations (1.1.1 a 1.1.4, 1.2.4). AACAP 2010 não citada (cópia lida é de 1998, não citável). DSM-5-TR não tem o PSPT complexo; fica para fase posterior.",
+  "dose": false
+ },
+ {
+  "id": "h-adaptacao-q1",
+  "itemId": "h-adaptacao",
+  "category": "hipoteses",
+  "type": "memoria",
+  "text": "Segundo a CID-11 (6B43), em que prazo os sintomas da perturbação de adaptação resolvem, e o que se faz se persistirem além disso?",
+  "options": [
+   "Resolvem em 1 semana depois do início do stressor; se persistirem, mantém-se o diagnóstico sem outra avaliação clínica",
+   "Resolvem em 12 meses depois de terminado o stressor; se persistirem, mantém-se o diagnóstico de adaptação",
+   "Resolvem em 2 anos depois de terminado o stressor; se persistirem, considerar o diagnóstico de luto prolongado",
+   "Resolvem em 6 meses depois do fim do stressor e das suas consequências; se persistirem, considerar outro diagnóstico"
+  ],
+  "correct": 3,
+  "explanation": "A fonte indica que os sintomas resolvem em 6 meses após o fim do stressor e das suas consequências, e que se persistirem além disso se deve considerar outro diagnóstico. Os outros prazos não estão na fonte, nem a manutenção do diagnóstico além do limite.",
+  "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B43 (pp. 352-354); NICE NG134 (publicada 25/06/2019), https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (1.3.7 a 1.3.10). Sem guideline NICE para esta perturbação na criança lida nesta tarefa. Divergência: a CID-11 usa o limiar de 6 meses após o fim do stressor; DSM-5-TR fica para fase posterior.",
+  "dose": false
+ },
+ {
+  "id": "h-relacao-social-desinibida-q1",
+  "itemId": "h-relacao-social-desinibida",
+  "category": "hipoteses",
+  "type": "caso",
+  "text": "Rapariga de 4 anos, institucionalizada desde bebé com várias mudanças de cuidador. Aborda adultos desconhecidos sem reserva, senta-se-lhes ao colo, não verifica onde está a cuidadora quando se afasta em locais novos e vai com um desconhecido sem hesitar. Qual a hipótese mais adequada segundo a fonte citada?",
+  "options": [
+   "Extroversão própria do temperamento, sem perturbação nem risco de segurança para a criança",
+   "PHDA como explicação melhor do comportamento social, sem relação com a história de cuidados",
+   "Perturbação da relação social desinibida, com risco de segurança por ir com desconhecidos",
+   "Perturbação do desenvolvimento intelectual, com comportamento social em linha com o nível de desenvolvimento"
+  ],
+  "correct": 2,
+  "explanation": "A fonte exige história de cuidados gravemente insuficientes e comportamento persistente e pervasivo com pouca reserva perante desconhecidos, antes dos 5 anos, e frisa que a disposição para ir com desconhecidos é risco de segurança. O que distingue da extroversão é o carácter disfuncional e a história de cuidados insuficientes, e a PHDA ou a deficiência intelectual não explicam melhor este padrão nos dados da vinheta.",
+  "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B45 (pp. 358-360); NICE NG26 (publicada 25/11/2015), https://www.nice.org.uk/guidance/ng26/chapter/Recommendations (1.3.2, 1.3.6). Divergência: o NG26 refere DSM-5 e CID-10; seguida a CID-11; DSM-5-TR fica para fase posterior. Sem tratamento nesta entrada.",
+  "dose": false
+ },
+ {
+  "id": "h-ddi-q1",
+  "itemId": "h-ddi",
+  "category": "hipoteses",
+  "type": "memoria",
+  "text": "Segundo a CID-11 (6A00), que categoria se usa abaixo dos 4 anos, ou em qualquer idade quando não é possível uma avaliação válida?",
+  "options": [
+   "Perturbação do desenvolvimento intelectual ligeira (6A00.0), com reavaliação mais tarde pelo mesmo profissional",
+   "A categoria provisória 6A00.4 (atraso global do desenvolvimento), com reavaliação mais tarde",
+   "Perturbação do desenvolvimento intelectual moderada (6A00.1), com reavaliação mais tarde pelo mesmo profissional",
+   "Funcionamento intelectual limite, que não exige reavaliação posterior nem apoios"
+  ],
+  "correct": 1,
+  "explanation": "A fonte reserva a categoria provisória 6A00.4 (atraso global do desenvolvimento) para menores de 4 anos ou para casos sem avaliação válida possível, devendo reavaliar-se mais tarde. As categorias de gravidade exigem avaliação do funcionamento intelectual e do comportamento adaptativo, e o funcionamento limite não é perturbação, mas pode exigir apoios.",
+  "source": "ICD-11 CDDR, OMS, 2024 (ISBN 978-92-4-007726-3), https://www.who.int/publications/i/item/9789240077263 (texto lido numa cópia com o mesmo ISBN, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), secção 6A00, pp. 92-100 (tabelas 6.1 a 6.4, pp. 101-111); AAP (Rodan et al., Council on Genetics), Genetic Evaluation of the Child With Intellectual Disability or Global Developmental Delay, Pediatrics 2025;156(1):e2025072219, https://doi.org/10.1542/peds.2025-072219 (só resumo lido; mesmo tema da AAP 2014 de Moeschler e Shevell, https://doi.org/10.1542/peds.2014-1839; não li se a substitui formalmente). Critérios seguidos: CID-11 (desvios-padrão no funcionamento intelectual e no comportamento adaptativo, categoria provisória abaixo dos 4 anos). O DSM-5 não foi lido. Não encontrei guideline NICE de diagnóstico de deficiência intelectual (o NICE NG11 trata comportamento desafiante e não foi lido).",
+  "dose": false
+ },
+ {
+  "id": "h-aprendizagem-q1",
+  "itemId": "h-aprendizagem",
+  "category": "hipoteses",
+  "type": "caso",
+  "text": "Rapaz de 9 anos, a meio do 3.º ano, com leitura muito lenta e com muitos erros de decodificação desde o início da escolaridade, apesar de instrução adequada e de oportunidades educativas. Os pais temem problemas de visão. Qual a abordagem coerente com a fonte?",
+  "options": [
+   "Aplicar um teste de leitura validado e rever visão e audição, sabendo que não há evidência de que problemas visuais subtis causem estas dificuldades",
+   "Diagnosticar com base numa única pontuação num teste de leitura, sem outras fontes de evidência sobre a escolaridade",
+   "Atribuir as dificuldades a problemas visuais subtis e tratá-los como causa principal, antes de qualquer teste de leitura ou de rever a audição",
+   "Excluir o diagnóstico porque as dificuldades só se manifestam em contexto escolar e não noutros contextos da vida"
+  ],
+  "correct": 0,
+  "explanation": "O NICE CG158 (1.3.12) recomenda um teste de leitura validado se houver suspeita, e a fonte manda rever visão e audição, citando a AAP 2011: não há evidência adequada de que problemas visuais subtis causem ou agravem as dificuldades. Uma só pontuação não distingue perturbação de normalidade, e o início nos primeiros anos de escola é o habitual.",
+  "source": "ICD-11 CDDR, OMS, 2024 (ISBN 978-92-4-007726-3), https://www.who.int/publications/i/item/9789240077263 (texto lido numa cópia com o mesmo ISBN, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), secção 6A03, pp. 134-138; AAP (Handler, Fierson et al.), Learning disabilities, dyslexia, and vision, Pediatrics 2011;127(3):e818-56, https://doi.org/10.1542/peds.2010-3670 (só resumo lido; não verifiquei se foi reafirmada ou substituída); NICE CG158, 2013 (atualizada 19/04/2017; revista 17/04/2025), https://www.nice.org.uk/guidance/cg158, rec. 1.3.12 (teste de leitura validado). Critérios seguidos: CID-11. Não encontrei guideline NICE de diagnóstico de perturbação específica da aprendizagem; o DSM-5-TR fica para a fase seguinte.",
+  "dose": false
+ },
+ {
+  "id": "h-dcd-q1",
+  "itemId": "h-dcd",
+  "category": "hipoteses",
+  "type": "memoria",
+  "text": "Segundo a EACD 2019 (rec. 4), citada na fonte, em que condições se admite diagnosticar a perturbação do desenvolvimento da coordenação motora abaixo dos 5 anos?",
+  "options": [
+   "Em qualquer défice, mesmo ligeiro, com uma única avaliação motora normalizada",
+   "Em défice grave, com pelo menos duas avaliações motoras com intervalo mínimo de 12 meses",
+   "Em nenhuma circunstância, o diagnóstico é sempre proibido abaixo dos 5 anos",
+   "Em défice grave, com pelo menos duas avaliações motoras com intervalo mínimo de 3 meses"
+  ],
+  "correct": 3,
+  "explanation": "A CID-11 diz que o diagnóstico habitualmente não se faz antes dos 5 anos, e a EACD 2019 (rec. 4) só admite diagnóstico formal abaixo dessa idade em défice grave, com pelo menos duas avaliações motoras separadas por pelo menos 3 meses. As outras opções alteram a gravidade, o número de avaliações ou o intervalo, ou negam qualquer exceção.",
+  "source": "ICD-11 CDDR, OMS, 2024 (ISBN 978-92-4-007726-3), https://www.who.int/publications/i/item/9789240077263 (texto lido numa cópia com o mesmo ISBN, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), secção 6A04, pp. 139-142; Blank et al. (EACD), International clinical practice recommendations on DCD, Dev Med Child Neurol 2019;61(3):242-285, https://doi.org/10.1111/dmcn.14132 (texto integral; rec. 2, 3, 4 e 14; o texto indica validade até 31/12/2022 e não encontrei a revisão seguinte; as recomendações seguem os critérios do DSM-5 com pequenas alterações). Não encontrei guideline NICE nem AAP de diagnóstico. Critérios seguidos: CID-11 6A04 (descrição sem limiar quantitativo); a EACD acrescenta a prudência abaixo dos 5 anos. Nota: este quadro só tem um sinal de domínio (d-outros) e nenhum sinal de apoio nos dados disponíveis.",
+  "dose": false
+ },
+ {
+  "id": "h-conduta-q1",
+  "itemId": "h-conduta",
+  "category": "hipoteses",
+  "type": "caso",
+  "text": "Rapaz de 14 anos que, nos últimos 18 meses, faz fugas repetidas de casa e fica noites fora apesar da proibição, falta frequentemente à escola, furta e destrói bens. Pais e escola referem que não havia problemas de comportamento antes dos 12 anos. Não há consumo de substâncias, nem episódios de humor, nem contexto de perigo. Segundo a CID-11, qual a classificação mais adequada?",
+  "options": [
+   "Perturbação do comportamento de início na infância (6C91.0)",
+   "Perturbação de oposição e desafio sem irritabilidade-raiva crónica (6C90.1)",
+   "Perturbação do comportamento de início na adolescência (6C91.1)",
+   "Perturbação explosiva intermitente, com acessos de raiva"
+  ],
+  "correct": 2,
+  "explanation": "O padrão repetitivo e persistente de violação de regras (fugas, noites fora, faltas à escola), furto e destruição de bens, com mais de 1 ano (a CID-11 dá como exemplo pelo menos 1 ano) e sem qualquer aspeto claro antes da adolescência, corresponde ao subtipo de início na adolescência. O subtipo de início na infância exige aspetos claramente presentes antes da adolescência, e a perturbação explosiva intermitente é de acessos impulsivos sem padrão geral de violação de regras, mentira ou furto.",
+  "source": "ICD-11 CDDR, OMS, 2024 (ISBN 978-92-4-007726-3), https://www.who.int/publications/i/item/9789240077263 (texto lido numa cópia com o mesmo ISBN, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), secção 6C91, pp. 544-549 (especificadores de início e de emoções pró-sociais, pp. 544-545 e 548-549); NICE CG158, 2013 (atualizada 19/04/2017; revista 17/04/2025), https://www.nice.org.uk/guidance/cg158, rec. 1.3.1 a 1.3.16. Critérios seguidos: CID-11 (padrão 'por exemplo pelo menos 1 ano', sem número mínimo de comportamentos, sem divisão por idade). Divergência lida: o NICE CG158 1.3.10 divide os sintomas nucleares por idade (acima dos 11 anos: agressão, destruição de bens, fraude ou furto, violação de regras); a CID-11 não o faz. O DSM-5 não foi lido.",
+  "dose": false
+ },
+ {
+  "id": "h-ingestao-compulsiva-q1",
+  "itemId": "h-ingestao-compulsiva",
+  "category": "hipoteses",
+  "type": "memoria",
+  "text": "Qual a divergência entre o DSM-5 (via AAP 2021) e a CID-11 quanto às características dos episódios de ingestão compulsiva, segundo a fonte citada?",
+  "options": [
+   "A CID-11 exige 3 ou mais características dos episódios (por exemplo comer depressa, até desconforto); o DSM-5 apresenta-as como adicionais, não obrigatórias",
+   "O DSM-5 exige 3 ou mais características dos episódios (por exemplo comer depressa, até desconforto); a CID-11 apresenta-as como adicionais, não obrigatórias",
+   "O DSM-5 exige comportamentos compensatórios regulares na ingestão compulsiva, como vómitos ou laxantes; a CID-11 não os exige",
+   "Ambos exigem as mesmas características obrigatórias, diferindo apenas no nome da perturbação e no limiar de frequência"
+  ],
+  "correct": 1,
+  "explanation": "A fonte refere que o DSM-5 (AAP 2021) exige 3 ou mais características dos episódios, enquanto a CID-11 as apresenta como características adicionais, não obrigatórias, e que se seguiu a CID-11. Atribuir a exigência das 3 ou mais características à CID-11 e não ao DSM-5 inverte o que a fonte diz. A compensação regular exclui a ingestão compulsiva e aponta para bulimia nervosa, e a fonte não atribui essa exigência ao DSM-5 nem diz que os dois sistemas exigem as mesmas características obrigatórias.",
+  "source": "ICD-11 CDDR secção 6B82 Binge-eating disorder (pp. 407-410; texto lido na cópia do PDF) https://www.who.int/publications/i/item/9789240077263 (texto lido na cópia com o mesmo ISBN 978-92-4-007726-3, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf); AAP, Hornberger et al., Pediatrics 2021;147(1):e2020040279, https://publications.aap.org/pediatrics/article/147/1/e2020040279/33504/Identification-and-Management-of-Eating-Disorders (quadro DSM-5 e quadro 4). Divergência indicada em 'confirm'; seguiu-se a CID-11.",
+  "dose": false
+ },
+ {
+  "id": "h-pica-q1",
+  "itemId": "h-pica",
+  "category": "hipoteses",
+  "type": "memoria",
+  "text": "Segundo a CID-11 (6B84), que duração mínima de comportamento se exige para o diagnóstico de pica?",
+  "options": [
+   "Nenhuma duração mínima: o limite de 1 mês é do DSM-5",
+   "Pelo menos 1 mês de consumo persistente, como na CID-11 e no DSM-5",
+   "Pelo menos 3 meses de consumo regular de substâncias não nutritivas",
+   "Pelo menos 6 meses de consumo regular de substâncias não nutritivas"
+  ],
+  "correct": 0,
+  "explanation": "A fonte esclarece que a CID-11 não exige duração mínima e que o limite de 1 mês é do DSM-5. Exige-se que o comportamento seja persistente ou grave ao ponto de exigir atenção clínica, a partir de cerca de 2 anos de idade de desenvolvimento e sem carência nutricional por corrigir.",
+  "source": "ICD-11 CDDR secção 6B84 Pica (pp. 414-416; texto lido na cópia do PDF) https://www.who.int/publications/i/item/9789240077263 (texto lido na cópia com o mesmo ISBN 978-92-4-007726-3, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf). Sem guideline clínica pediátrica lida para esta hipótese: prática clínica (sem fonte) para além do CDDR.",
+  "dose": false
+ },
+ {
+  "id": "h-ruminacao-regurgitacao-q1",
+  "itemId": "h-ruminacao-regurgitacao",
+  "category": "hipoteses",
+  "type": "memoria",
+  "text": "A partir de que idade de desenvolvimento se pode diagnosticar a perturbação de ruminação-regurgitação, segundo a fonte citada?",
+  "options": [
+   "Pelo menos 6 meses, incluindo lactentes, desde que a regurgitação seja persistente",
+   "Pelo menos 1 ano, incluindo lactentes, com regurgitação persistente após as refeições",
+   "Pelo menos 5 anos, como na enurese, sem qualquer exceção em idades mais baixas",
+   "Pelo menos 2 anos; em lactentes aplica-se a síndrome de ruminação do lactente"
+  ],
+  "correct": 3,
+  "explanation": "A fonte fixa a idade de desenvolvimento de pelo menos 2 anos e diz que em lactentes não se diagnostica esta perturbação, existindo a síndrome de ruminação do lactente no capítulo digestivo da CID-11. As outras idades não constam da fonte.",
+  "source": "ICD-11 CDDR secção 6B85 Rumination-regurgitation disorder (pp. 416-418; texto lido na cópia do PDF) https://www.who.int/publications/i/item/9789240077263 (texto lido na cópia com o mesmo ISBN 978-92-4-007726-3, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf); AAP, Hornberger et al., Pediatrics 2021;147(1):e2020040279, https://publications.aap.org/pediatrics/article/147/1/e2020040279/33504/Identification-and-Management-of-Eating-Disorders (quadro 4). Duração segundo o CDDR ('várias semanas'), não 1 mês do DSM-5 (releitura dal-18).",
+  "dose": false
+ },
+ {
+  "id": "h-insonia-q1",
+  "itemId": "h-insonia",
+  "category": "hipoteses",
+  "type": "memoria",
+  "text": "Segundo a fonte citada (AFP 2014), que dois tipos de problema compõem a insónia comportamental da infância?",
+  "options": [
+   "Atraso de fase do sono e sono insuficiente por horário escolar, muitas vezes em simultâneo",
+   "Associação ao início do sono e parassónia com despertar parcial, muitas vezes em simultâneo",
+   "Associação ao início do sono (precisa de ser embalado) e falta de limites, muitas vezes ambos",
+   "Falta de limites (recusa ir para a cama) e síndrome das pernas inquietas, muitas vezes ambos"
+  ],
+  "correct": 2,
+  "explanation": "A fonte descreve a insónia comportamental como associação ao início do sono e falta de limites, frequentemente em conjunto. Atraso de fase, sono insuficiente, parassónias e pernas inquietas figuram na fonte como diagnósticos diferenciais ou causas a excluir, não como tipos de insónia comportamental.",
+  "source": "Capítulo 7 da CID-11: o CDDR da OMS só o refere (https://www.who.int/publications/i/item/9789240077263, pp. 27-28 do texto lido) e não dá critérios; Carter, Hathaway, Lettieri, Am Fam Physician 2014;89(5):368-377, https://www.aafp.org/pubs/afp/issues/2014/0301/p368.html (insónia comportamental da infância); AACAP, Facts for Families n.º 34 Sleep Problems (atualizado março 2023), https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Childrens-Sleep-Problems-034.aspx; Teresi et al., JAACAP Open 2024;3(3):589-600, https://pmc.ncbi.nlm.nih.gov/articles/PMC12414329/. Sem guideline de diagnóstico pediátrica mais recente lida; releitura em drafts/sono.json (dso-19).",
+  "dose": false
+ },
+ {
+  "id": "h-apneia-obstrutiva-sono-q1",
+  "itemId": "h-apneia-obstrutiva-sono",
+  "category": "hipoteses",
+  "type": "caso",
+  "text": "Rapaz de 6 anos que ronca 4 noites por semana, com pausas respiratórias observadas pelos pais, cefaleias ao acordar e dificuldades de atenção na escola. Que passo seguinte é coerente com a fonte?",
+  "options": [
+   "Diagnosticar apneia só com a história e o exame objetivo, sem estudo do sono",
+   "Polissonografia ou referenciação a especialista em sono ou otorrinolaringologia",
+   "Tranquilizar os pais, porque nem todos os que roncam têm apneia, e reavaliar mais tarde",
+   "Diagnosticar PHDA primária e tratar sem mais avaliação do sono"
+  ],
+  "correct": 1,
+  "explanation": "A fonte (AAP 2012; AFP 2014) refere que a história e o exame se correlacionam mal com o estudo do sono, pelo que o passo seguinte é a polissonografia ou a referenciação ao especialista. O ronco regular com sinais associados e problemas de atenção ou aprendizagem justifica avaliação, e a PHDA primária com sono insuficiente figura apenas como diferencial.",
+  "source": "CID-11 capítulo 7 (código não verificado). AAP, Marcus et al., Pediatrics 2012;130(3):576-584, https://publications.aap.org/pediatrics/article/130/3/576/30284/Diagnosis-and-Management-of-Childhood-Obstructive (quadro 2 e declarações de ação 1 e 2, lidos na página da AAP); Carter, Hathaway, Lettieri, Am Fam Physician 2014;89(5):368-377, https://www.aafp.org/pubs/afp/issues/2014/0301/p368.html (secção de apneia obstrutiva do sono e quadro 3).",
+  "dose": false
+ },
+ {
+  "id": "h-parassonias-q1",
+  "itemId": "h-parassonias",
+  "category": "hipoteses",
+  "type": "memoria",
+  "text": "Segundo a fonte citada (AFP 2014), como se distinguem os terrores noturnos e o sonambulismo dos pesadelos quanto ao momento da noite e à memória?",
+  "options": [
+   "Terrores e sonambulismo na primeira metade da noite, sem memória; pesadelos na segunda metade, com memória",
+   "Terrores e sonambulismo na segunda metade da noite, com memória; pesadelos na primeira metade, sem memória",
+   "Terrores e pesadelos na primeira metade da noite, ambos sem memória do episódio",
+   "Terrores e pesadelos na segunda metade da noite, ambos com memória do episódio"
+  ],
+  "correct": 0,
+  "explanation": "A fonte indica que terrores e sonambulismo ocorrem na primeira metade da noite, com dificuldade em acordar a criança e sem memória, enquanto os pesadelos ocorrem na segunda metade, com memória do sonho e receio de adormecer. As restantes opções invertem ou igualam estes dois padrões.",
+  "source": "CID-11 capítulo 7 (código não verificado; o CDDR refere pesadelos, sonambulismo e terrores como antigos diagnósticos do capítulo mental, p. 28). Carter, Hathaway, Lettieri, Am Fam Physician 2014;89(5):368-377, https://www.aafp.org/pubs/afp/issues/2014/0301/p368.html (parassónias e quadro 2).",
+  "dose": false
+ },
+ {
+  "id": "h-sindrome-pernas-inquietas-q1",
+  "itemId": "h-sindrome-pernas-inquietas",
+  "category": "hipoteses",
+  "type": "caso",
+  "text": "Rapariga de 11 anos que ao deitar sente uma vontade desagradável de mexer as pernas, que descreve como formigueiro. Piora quando está parada, alivia enquanto anda e é pior ao fim do dia e à noite. O exame não mostra edema, artrite nem cãibras, e um tio tem queixas semelhantes. Qual a hipótese mais adequada segundo a fonte citada?",
+  "options": [
+   "Dores de crescimento, com dor localizada nas pernas",
+   "Insónia comportamental por falta de limites ao deitar",
+   "Atraso de fase do sono, com adormecimento tardio",
+   "Síndrome das pernas inquietas (critérios IRLSSG)"
+  ],
+  "correct": 3,
+  "explanation": "A vinheta cumpre os cinco critérios IRLSSG citados na fonte: vontade de mexer as pernas com sensação desagradável, início ou agravamento em repouso, alívio com o movimento, predomínio ao fim do dia ou à noite e ausência de explicação por outra condição (o exame não mostra edema, artrite nem cãibras, que a fonte lista como imitadores). A história familiar é um dado que a fonte manda rever. A fonte avisa que pode confundir-se com dores de crescimento, mas os critérios IRLSSG só são cumpridos pela síndrome das pernas inquietas.",
+  "source": "CID-11 capítulo 7 (código não verificado). IRLSSG, Picchietti et al., Sleep Med 2013;14:1253-1259, https://www.irlssg.org/wp-content/uploads/2025/04/Ped-RLS-dx-crit-2013.pdf (critérios e notas, lidos); Carter, Hathaway, Lettieri, Am Fam Physician 2014;89(5):368-377, https://www.aafp.org/pubs/afp/issues/2014/0301/p368.html (síndrome das pernas inquietas). Sem atualização dos critérios pediátricos posterior a 2013 encontrada (releitura dso-13 e dso-23).",
+  "dose": false
+ },
+ {
+  "id": "h-atraso-fase-sono-q1",
+  "itemId": "h-atraso-fase-sono",
+  "category": "hipoteses",
+  "type": "memoria",
+  "text": "Segundo a fonte citada (AFP 2014), que atraso nas horas de dormir e acordar e que registo se exigem na avaliação do atraso de fase do sono?",
+  "options": [
+   "Atraso de pelo menos 30 minutos face ao socialmente aceitável, com diário do sono durante 1 noite",
+   "Atraso de pelo menos 4 horas face ao socialmente aceitável, com diário do sono durante 1 mês",
+   "Atraso de pelo menos 2 horas face ao socialmente aceitável, com diário do sono durante 1 semana ou mais",
+   "Atraso de pelo menos 2 horas face ao socialmente aceitável, confirmado por uma só noite de polissonografia"
+  ],
+  "correct": 2,
+  "explanation": "A fonte indica horas habituais atrasadas pelo menos 2 horas em relação ao socialmente aceitável e registo do sono em diário durante pelo menos 1 semana. As outras opções alteram o atraso mínimo ou o registo exigido.",
+  "source": "CID-11 capítulo 7 (código não verificado). Carter, Hathaway, Lettieri, Am Fam Physician 2014;89(5):368-377, https://www.aafp.org/pubs/afp/issues/2014/0301/p368.html (atraso de fase); AACAP, Facts for Families n.º 34 Sleep Problems (atualizado março 2023), https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Childrens-Sleep-Problems-034.aspx. Sem guideline pediátrica mais recente lida (releitura dso-14 e dso-20).",
+  "dose": false
+ },
+ {
+  "id": "h-encoprese-q1",
+  "itemId": "h-encoprese",
+  "category": "hipoteses",
+  "type": "memoria",
+  "text": "Qual dos seguintes é um sinal de alarme (NICE CG99, citado na fonte) que impede tratar a encoprese como obstipação simples e obriga a referenciação urgente?",
+  "options": [
+   "Fezes mal formadas com evitamento da casa de banho",
+   "Atraso na passagem do mecónio (mais de 48 horas)",
+   "Episódios com cerca de 1 vez por mês durante vários meses",
+   "Enurese noturna associada à encoprese"
+  ],
+  "correct": 1,
+  "explanation": "A fonte enumera como sinais de alarme o atraso na passagem do mecónio, as fezes em fita, a distensão abdominal com vómitos e a fraqueza nas pernas ou atraso locomotor. Fezes mal formadas com evitamento descrevem a forma mais comum, com retenção e impactação; a frequência de 1 episódio por mês é critério da CID-11 e a enurese pode coexistir.",
+  "source": "ICD-11 CDDR secção 6C01 Encopresis (pp. 424-427; texto lido na cópia do PDF) https://www.who.int/publications/i/item/9789240077263 (texto lido na cópia com o mesmo ISBN 978-92-4-007726-3, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf); NICE CG99, publicada 26/05/2010, última atualização 13/07/2017, https://www.nice.org.uk/guidance/cg99/chapter/Recommendations (rec. 1.1.1-1.1.5, quadros 1 e 2). Releitura do-18: sem limite fixo de 3 meses.",
+  "dose": false
+ },
+ {
+  "id": "h-psicose-inicio-precoce-q1",
+  "itemId": "h-psicose-inicio-precoce",
+  "category": "hipoteses",
+  "type": "caso",
+  "text": "Rapaz de 15 anos com vozes que comentam o que faz, ideias bizarras e isolamento crescente, com queda do rendimento escolar, sustentados há 6 semanas. Segundo o NICE CG155, citado na fonte, qual a conduta?",
+  "options": [
+   "Referenciar com urgência para avaliação especializada, dada a duração de 4 semanas ou mais",
+   "Aguardar e reavaliar em 3 meses antes de referenciar, por os sintomas serem recentes",
+   "Atribuir as vozes a pensamento mágico próprio da idade e tranquilizar a família sem mais avaliação",
+   "Excluir psicose por os sintomas não terem 6 meses de duração, sem referenciar"
+  ],
+  "correct": 0,
+  "explanation": "O NICE CG155 (1.3.1) manda referenciar com urgência quando os sintomas estão sustentados há 4 semanas ou mais; a CID-11 pede pelo menos 1 mês de sintomas. A fonte distingue este quadro de fenómenos próprios da idade e de experiências fugazes sem deterioração do funcionamento, o que não é o caso aqui.",
+  "source": "ICD-11 CDDR secção 6A20 Schizophrenia (pp. 162-170; texto lido na cópia do PDF) https://www.who.int/publications/i/item/9789240077263 (texto lido na cópia com o mesmo ISBN 978-92-4-007726-3, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf); NICE CG155, publicada 23/01/2013, última atualização 26/10/2016, https://www.nice.org.uk/guidance/cg155/chapter/Recommendations (rec. 1.2.1, 1.3.1, 1.3.4, 1.3.6). Parâmetro AACAP 2013 de esquizofrenia não lido nesta tarefa (descontinuado segundo a auditoria).",
+  "dose": false
+ },
+ {
+  "id": "h-perturbacao-uso-substancias-q1",
+  "itemId": "h-perturbacao-uso-substancias",
+  "category": "hipoteses",
+  "type": "memoria",
+  "text": "Segundo o CDDR da CID-11, qual a duração exigida para o padrão de uso nocivo de uma substância?",
+  "options": [
+   "Pelo menos 3 meses se o consumo é episódico, ou pelo menos 12 meses se é contínuo (diário ou quase)",
+   "Pelo menos 6 meses se o consumo é episódico, ou pelo menos 1 semana se é contínuo",
+   "Pelo menos 12 meses se o consumo é contínuo, e não se aplica ao consumo episódico",
+   "Pelo menos 12 meses se o consumo é episódico, ou pelo menos 1 mês se é contínuo (diário ou quase)"
+  ],
+  "correct": 3,
+  "explanation": "A fonte descreve o padrão de uso nocivo como dano clinicamente significativo com relação causal clara e duração de pelo menos 12 meses se episódico ou pelo menos 1 mês se contínuo. Para a dependência os limiares são outros (cerca de 12 meses, ou 3 meses se contínuo), e consumo sem dano é apenas uso de risco.",
+  "source": "ICD-11 CDDR secção disorders due to substance use: padrão de uso nocivo (p. 459), dependência (pp. 463-464) e quadro de categorias por classe; texto lido na cópia do PDF https://www.who.int/publications/i/item/9789240077263 (texto lido na cópia com o mesmo ISBN 978-92-4-007726-3, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf); AACAP, Facts for Families n.º 34 Sleep Problems (atualizado março 2023), https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Childrens-Sleep-Problems-034.aspx (sono). Guidelines clínicas de perturbação por uso de substâncias (AACAP 2026, NICE, NIDA, CRAFFT) não lidas nesta tarefa: prática clínica (sem fonte) para o que não consta do CDDR.",
+  "dose": false
+ },
+ {
+  "id": "h-perturbacao-jogo-videojogos-q1",
+  "itemId": "h-perturbacao-jogo-videojogos",
+  "category": "hipoteses",
+  "type": "caso",
+  "text": "Rapaz de 15 anos que, nas férias, joga várias horas por dia em equipa com os amigos. Mantém as notas, o treino desportivo e as restantes atividades, controla o início e o fim das sessões e não há conflito familiar relevante. Qual a leitura coerente com a fonte?",
+  "options": [
+   "Perturbação de jogo (6C51), porque o número de horas por dia é elevado, mesmo sem outras consequências",
+   "Perturbação de jogo de apostas (6C50), por se tratar de jogo em equipa e com muitas horas por dia",
+   "Não é perturbação de jogo (6C51): horas elevadas nas férias, para socializar e sem controlo diminuído, não bastam",
+   "Episódio maníaco, por o jogo ser prolongado e social e por ocupar grande parte das férias"
+  ],
+  "correct": 2,
+  "explanation": "A fonte exige controlo diminuído, prioridade crescente e continuação apesar de consequências, com sofrimento ou prejuízo; horas elevadas em adolescentes do sexo masculino, nas férias ou em atividades organizadas, ou jogar para socializar, sem esses critérios, não indicam perturbação. A perturbação de jogo de apostas implica apostas com dinheiro e a mania não tem qualquer sustentação na vinheta.",
+  "source": "ICD-11 CDDR secção 6C51 Gaming disorder (pp. 511-515; texto lido na cópia do PDF) https://www.who.int/publications/i/item/9789240077263 (texto lido na cópia com o mesmo ISBN 978-92-4-007726-3, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf).",
+  "dose": false
+ },
+ {
+  "id": "h-perturbacao-neurologica-funcional-q1",
+  "itemId": "h-perturbacao-neurologica-funcional",
+  "category": "hipoteses",
+  "type": "memoria",
+  "text": "Segundo a fonte citada, que tipos de sintomas predominam na criança e no adolescente com perturbação neurológica funcional (6B60)?",
+  "options": [
+   "Alterações visuais e da fala, isoladas ou combinadas",
+   "Alterações da marcha e crises não epiléticas",
+   "Alterações sensoriais isoladas e défices cognitivos",
+   "Fraqueza dos membros superiores e movimentos coreiformes"
+  ],
+  "correct": 1,
+  "explanation": "A fonte indica que na criança e no adolescente predominam as alterações da marcha e as crises não epiléticas, e que é preciso avaliação médica, por exemplo neuropediatria, para confirmar a incompatibilidade com doença neurológica. A fonte lista como especificadores a marcha, a fraqueza, o movimento, as crises não epiléticas e as alterações visuais, da fala e sensoriais, mas só aponta como predominantes na criança e no adolescente a marcha e as crises não epiléticas.",
+  "source": "ICD-11 CDDR secção 6B60 Dissociative neurological symptom disorder (pp. 366-372; texto lido na cópia do PDF) https://www.who.int/publications/i/item/9789240077263 (texto lido na cópia com o mesmo ISBN 978-92-4-007726-3, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf). A releitura do-11 e do-20 cita Kozlowska et al., Harv Rev Psychiatry 2023 (PMC9997641), que não li nesta tarefa.",
+  "dose": false
+ },
+ {
+  "id": "h-perturbacao-sofrimento-corporal-q1",
+  "itemId": "h-perturbacao-sofrimento-corporal",
+  "category": "hipoteses",
+  "type": "caso",
+  "text": "Rapariga de 12 anos com dor abdominal quase todos os dias há 5 meses, várias consultas e exames normais, e uma mãe muito preocupada que a leva repetidamente aos serviços. A criança continua centrada na dor apesar do reasseguramento, falta à escola, e não tem alterações do humor nem preocupação generalizada. Qual a hipótese mais adequada segundo a fonte citada?",
+  "options": [
+   "Perturbação de sofrimento corporal (6C20)",
+   "Perturbação neurológica funcional (6B60)",
+   "Perturbação depressiva com sintomas somáticos",
+   "Perturbação de ansiedade generalizada"
+  ],
+  "correct": 0,
+  "explanation": "A fonte descreve sintomas corporais persistentes (em crianças, geralmente um só, como a dor abdominal) durante pelo menos vários meses, atenção excessiva mantida apesar de exame e reasseguramento, prejuízo significativo, e o agravamento por respostas dos pais. A vinheta não tem sintomas motores ou sensoriais funcionais, nem alterações do humor ou ansiedade generalizada que expliquem melhor o quadro.",
+  "source": "ICD-11 CDDR secção 6C20 Bodily distress disorder (pp. 429-435; texto lido na cópia do PDF) https://www.who.int/publications/i/item/9789240077263 (texto lido na cópia com o mesmo ISBN 978-92-4-007726-3, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf). Sem guideline pediátrica lida: prática clínica (sem fonte) para a abordagem.",
+  "dose": false
+ },
+ {
+  "id": "h-depressao-major-q2",
+  "itemId": "h-depressao-major",
+  "category": "hipoteses",
+  "type": "caso",
+  "text": "Rapariga de 13 anos cuja avó faleceu há 2 meses. Desde então tem sintomas depressivos contínuos, com culpa intensa que não tem relação com a avó (considera-se má pessoa) e ideação suicida. Segundo a fonte citada, como se interpreta?",
+  "options": [
+   "Luto normal, porque a perda foi há menos de 6 meses, sem avaliar o risco",
+   "Perturbação de luto prolongado, porque os sintomas são contínuos desde a perda",
+   "Perturbação de adaptação, que tem prioridade sobre o episódio depressivo",
+   "Suspeitar de episódio depressivo e não de luto normal, avaliando o risco"
+  ],
+  "correct": 3,
+  "explanation": "A fonte manda excluir luto normal (morte há menos de 6 meses), mas suspeitar de episódio depressivo se houver sintomas contínuos 1 mês ou mais após a perda, culpa grave não ligada ao falecido, sintomas psicóticos, ideação suicida ou lentificação psicomotora, e perguntar sempre por ideias de suicídio. A vinheta tem sintomas contínuos há 2 meses, culpa não ligada à avó e ideação suicida, pelo que se suspeita de episódio depressivo e se avalia o risco. O luto prolongado e a perturbação de adaptação figuram na fonte apenas como diagnósticos diferenciais, sem nada que lhes dê prioridade sobre o episódio depressivo.",
+  "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), secção Mood disorders: episódio depressivo (pp. 212-217), 6A70 (pp. 244-245), 6A71 (pp. 246-254); AACAP, Walter et al., JAACAP 2023;62(5):479-502, https://www.jaacap.org/article/S0890-8567(22)01852-4/fulltext (diferencial e comorbilidades); NICE NG134 (publicada 25/06/2019), https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (1.1.7, 1.1.11). Divergência: o NG134 não define critérios diagnósticos; os critérios seguidos são os da CID-11; DSM-5-TR fica para fase posterior (a AACAP 2023 descreve o DSM-5-TR: 2 semanas).",
+  "dose": false
+ },
+ {
+  "id": "h-toc-q2",
+  "itemId": "h-toc",
+  "category": "hipoteses",
+  "type": "memoria",
+  "text": "Segundo o CDDR, citado na fonte, o que distingue os comportamentos repetitivos do autismo dos do TOC?",
+  "options": [
+   "No autismo são sempre rituais para neutralizar obsessões, tal como no TOC, sem diferença clínica",
+   "No autismo reduzem a ansiedade, mas não há défices de comunicação social associados",
+   "No autismo não respondem a obsessões nem reduzem a ansiedade, e há défices de comunicação social",
+   "No autismo surgem sempre de forma súbita, justificando sempre a procura de causa médica"
+  ],
+  "correct": 2,
+  "explanation": "A fonte indica que no autismo os comportamentos repetitivos não correspondem a obsessões nem reduzem a ansiedade, e há défices de comunicação social. O início súbito de TOC é que justifica avaliação de causa médica (por exemplo PANDAS), o que é outra questão.",
+  "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B20 (pp. 300-307); NICE CG31 (publicada 29/11/2005), https://www.nice.org.uk/guidance/cg31/chapter/Recommendations (1.1.4.1, 1.4.1.1 a 1.4.1.3; segundo releitura-ansiedade.md a atualização está em desenvolvimento, não reverificado aqui); AACAP, Walter et al., JAACAP 2020;59(10):1107-1124, doi 10.1016/j.jaac.2020.05.005 (OCD como diagnóstico diferencial e comorbilidade da ansiedade). Divergência: a CID-11 aceita 'mais de 1 hora por dia' ou sofrimento ou prejuízo; DSM-5-TR fica para fase posterior.",
+  "dose": false
+ },
+ {
+  "id": "h-pstp-q2",
+  "itemId": "h-pstp",
+  "category": "hipoteses",
+  "type": "memoria",
+  "text": "Segundo a fonte citada (CDDR), quando começa a diminuir uma reação aguda normal ao stress, que não é perturbação de stress pós-traumático?",
+  "options": [
+   "Cerca de 1 mês após o fim do acontecimento (cerca de 1 semana se o stressor continua)",
+   "Cerca de 1 semana após o fim do acontecimento (cerca de 1 mês se o stressor continua)",
+   "Cerca de 6 meses após o fim do acontecimento (cerca de 1 ano se o stressor continua)",
+   "Cerca de 24 horas após o fim do acontecimento (cerca de 1 semana se o stressor continua)"
+  ],
+  "correct": 1,
+  "explanation": "A fonte diz que a reação aguda normal começa a diminuir em cerca de 1 semana após o fim do acontecimento, ou em cerca de 1 mês se o stressor continua, e por isso não é perturbação. O NICE NG116 aconselha os pais a contactar o médico se os sintomas persistirem além de 1 mês.",
+  "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B40 (pp. 339-344); NICE NG116 (publicada 05/12/2018), https://www.nice.org.uk/guidance/ng116/chapter/Recommendations (1.1.1 a 1.1.6). AACAP 2010 não citada: a cópia lida tem rodapé de 1998 'not for distribution or citation'. Divergência: o NG116 não distingue critérios CID-11 ou DSM; seguida a CID-11; DSM-5-TR fica para fase posterior.",
+  "dose": false
+ },
+ {
+  "id": "h-enurese-q2",
+  "itemId": "h-enurese",
+  "category": "hipoteses",
+  "type": "memoria",
+  "text": "Perante enurese de início recente (dias ou semanas) numa criança que já estava seca, o que sugere a fonte (NICE CG111 1.3.1)?",
+  "options": [
+   "Pode ser doença sistémica, pelo que se deve excluir causa médica (por exemplo infeção urinária ou diabetes)",
+   "É o padrão habitual da enurese primária e não requer qualquer avaliação médica adicional",
+   "Indica sempre perturbação de oposição, que deve ser tratada primeiro, antes de outras causas",
+   "Indica obrigatoriamente apneia obstrutiva do sono, sem que outras causas médicas tenham de ser excluídas"
+  ],
+  "correct": 0,
+  "explanation": "A fonte manda perguntar pelo início recente, que pode ser doença sistémica, e excluir causas médicas como infeção urinária, diabetes, bexiga neurogénica e anomalias urinárias. A apneia obstrutiva figura como diferencial da enurese secundária, mas não como causa obrigatória, e a oposição é apenas uma comorbilidade possível.",
+  "source": "ICD-11 CDDR secção 6C00 Enuresis (pp. 421-424; texto lido na cópia do PDF) https://www.who.int/publications/i/item/9789240077263 (texto lido na cópia com o mesmo ISBN 978-92-4-007726-3, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf); NICE CG111, publicada 27/10/2010, https://www.nice.org.uk/guidance/cg111/chapter/Recommendations (rec. 1.3.1-1.3.15); AAP, Marcus et al., Pediatrics 2012;130(3):576-584, https://publications.aap.org/pediatrics/article/130/3/576/30284/Diagnosis-and-Management-of-Childhood-Obstructive (quadro 2). DSM-5-TR não consultado (releitura do-17 manteve a CID-11 sem limite de 3 meses).",
+  "dose": false
+ },
+ {
+  "id": "h-anorexia-nervosa-q2",
+  "itemId": "h-anorexia-nervosa",
+  "category": "hipoteses",
+  "type": "memoria",
+  "text": "Quanto ao medo de engordar na anorexia nervosa, qual a divergência entre a CID-11 e o DSM-5 (via AAP 2021), segundo a fonte citada?",
+  "options": [
+   "A CID-11 exige sempre medo explícito de engordar; o DSM-5 não o exige, aceitando só o baixo peso",
+   "Nenhum dos sistemas considera o medo de engordar nem os comportamentos que impedem o ganho de peso como parte do diagnóstico",
+   "Ambos exigem sempre medo explícito de engordar e fixam percentis para definir o peso baixo",
+   "Na CID-11 o medo explícito de engordar não é obrigatório; o DSM-5 exige medo de engordar ou comportamentos que impedem o ganho"
+  ],
+  "correct": 3,
+  "explanation": "A fonte refere que a CID-11 não torna obrigatório o medo explícito de engordar, aceitando preocupação excessiva com peso ou forma, enquanto o DSM-5 (via AAP 2021) exige medo de engordar ou comportamentos que impedem o ganho de peso e não fixa percentis. A fonte segue a CID-11, que dá o limiar habitual de IMC abaixo do percentil 5 em crianças e adolescentes.",
+  "source": "ICD-11 CDDR secção 6B80 Anorexia nervosa (pp. 398-404; texto lido na cópia do PDF) https://www.who.int/publications/i/item/9789240077263 (texto lido na cópia com o mesmo ISBN 978-92-4-007726-3, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf); NICE NG69, 2017 (atualizada em 2020), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations (rec. 1.2.5-1.2.9); AAP, Hornberger et al., Pediatrics 2021;147(1):e2020040279, https://publications.aap.org/pediatrics/article/147/1/e2020040279/33504/Identification-and-Management-of-Eating-Disorders (quadros DSM-5 e quadro 4). Divergência: o DSM-5 (via AAP 2021) não fixa percentis e exige medo de engordar ou comportamentos que impedem o ganho de peso; seguiu-se a CID-11.",
+  "dose": false
+ },
+ {
+  "id": "h-oposicao-q2",
+  "itemId": "h-oposicao",
+  "category": "hipoteses",
+  "type": "memoria",
+  "text": "Segundo o NICE CG158 1.3.10, tal como descrito na fonte, que sintomas nucleares se consideram abaixo dos 11 anos?",
+  "options": [
+   "Agressão, destruição de bens, fraude ou furto e violação de regras",
+   "Irritabilidade-raiva crónica quase todos os dias com emoções pró-sociais limitadas",
+   "Comportamento negativista, hostil ou desafiador",
+   "Fugas de casa, noites fora e faltas frequentes à escola"
+  ],
+  "correct": 2,
+  "explanation": "A fonte refere que o NICE separa os sintomas nucleares por idade: negativista, hostil ou desafiador abaixo dos 11 anos, e agressão, destruição, fraude ou furto e violação de regras acima dos 11. A CID-11, ao contrário, não divide por idade e distingue a oposição da perturbação do comportamento pela gravidade e pela violação dos direitos dos outros.",
+  "source": "ICD-11 CDDR, OMS, 2024 (ISBN 978-92-4-007726-3), https://www.who.int/publications/i/item/9789240077263 (texto lido numa cópia com o mesmo ISBN, https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), secção 6C90, pp. 538-543, e especificador de emoções pró-sociais, pp. 548-549; NICE CG158, 2013 (atualizada 19/04/2017; revista 17/04/2025), https://www.nice.org.uk/guidance/cg158, rec. 1.3.1 a 1.3.16. Critérios seguidos: CID-11 (padrão 'por exemplo 6 meses ou mais', sem número mínimo de sintomas nem divisão por idade). Divergência lida: o NICE CG158 1.3.10 separa os sintomas nucleares por idade (comportamento negativista, hostil ou desafiador abaixo dos 11 anos; agressão, destruição, fraude ou furto e violação de regras acima dos 11); a CID-11 não divide por idade e distingue a oposição da perturbação do comportamento pela gravidade e pela violação dos direitos dos outros. A série de parâmetros AACAP sobre oposição (2007) não é usada: foi descontinuada.",
+  "dose": false
+ },
+ {
+  "id": "h-luto-prolongado-q2",
+  "itemId": "h-luto-prolongado",
+  "category": "hipoteses",
+  "type": "memoria",
+  "text": "Quanto às crianças e adolescentes, o que diz a fonte sobre a resposta intensa e prolongada após a perda de uma figura de vinculação?",
+  "options": [
+   "Indica sempre perturbação de luto prolongado quando excede 6 meses, qualquer que seja o contexto",
+   "Pode ser normal, pelo que o diagnóstico de luto prolongado deve ser feito com cautela",
+   "Só se diagnostica depois de 2 anos, qualquer que seja o contexto familiar",
+   "Segue exatamente os mesmos critérios do adulto, sem ressalvas para a idade"
+  ],
+  "correct": 1,
+  "explanation": "A fonte aponta que nas crianças e adolescentes a perda de uma figura de vinculação pode provocar resposta intensa e prolongada que deve ser considerada normal, pelo que se diagnostica com cautela, tendo em conta a expressão no jogo, o contexto e a forma como a família comunica sobre a perda. O limiar de 6 meses não basta por si e a fonte não fixa 2 anos.",
+  "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B42 (pp. 348-351); NICE NG134 (publicada 25/06/2019), https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (1.3.7 a 1.3.10). Sem guideline lida específica de luto prolongado na criança. DSM-5-TR (luto prolongado, versão distinta) fica para fase posterior.",
+  "dose": false
+ },
+ {
+  "id": "h-panico-q2",
+  "itemId": "h-panico",
+  "category": "hipoteses",
+  "type": "caso",
+  "text": "Rapariga de 15 anos com diagnóstico prévio de perturbação de ansiedade social. Tem episódios de medo intenso, palpitações, suor e falta de ar, de início rápido, que surgem apenas quando tem de falar perante a turma. Segundo a fonte citada da perturbação de pânico, o que se conclui?",
+  "options": [
+   "Os ataques limitam-se ao foco de outra perturbação, pelo que não justificam o diagnóstico de pânico",
+   "Perturbação de pânico, porque tem palpitações, suor e falta de ar intensos",
+   "Perturbação de pânico, porque o prejuízo funcional na escola é significativo e persistente",
+   "Perturbação de pânico, porque o ataque tem início rápido com vários sintomas simultâneos e intensos"
+  ],
+  "correct": 0,
+  "explanation": "A fonte diz que ataques só perante o foco de outra perturbação não justificam o diagnóstico de pânico, e exige preocupação persistente ou evitamento a seguir a ataques em parte inesperados. Aqui os ataques surgem apenas ao falar perante a turma, no contexto da ansiedade social já diagnosticada. O início rápido com vários sintomas físicos define o ataque de pânico, e o prejuízo funcional é só um dos critérios, por isso nenhum dos dois basta.",
+  "source": "ICD-11 CDDR (OMS, 2024, ISBN 978-92-4-007726-3, https://www.who.int/publications/i/item/9789240077263; texto lido na cópia com o mesmo ISBN em https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf), 6B01 (pp. 271-275); AACAP, Walter et al., JAACAP 2020;59(10):1107-1124, doi 10.1016/j.jaac.2020.05.005. Sem guideline NICE para esta perturbação na criança lida nesta tarefa. DSM-5-TR fica para fase posterior.",
+  "dose": false
+ }
+]

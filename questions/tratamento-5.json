@@ -1,0 +1,291 @@
+[
+ {
+  "id": "tx-video-feedback-parental-vinculacao-q1",
+  "itemId": "tx-video-feedback-parental-vinculacao",
+  "category": "tratamento",
+  "type": "memoria",
+  "text": "Segundo a NICE NG26, o programa de vídeo-feedback para pais ou cuidadores de crianças pré-escolares tem quantas sessões, depois das quais, se houver pouca melhoria, se faz revisão multiagência?",
+  "options": [
+   "6 sessões",
+   "10 sessões",
+   "15 sessões",
+   "20 sessões"
+  ],
+  "correct": 1,
+  "explanation": "A NG26 indica 10 sessões no domicílio, de pelo menos 60 minutos, ao longo de 3 a 4 meses. Se após essas 10 sessões houver pouca melhoria da sensibilidade parental ou da vinculação, faz-se revisão multiagência antes de mais sessões ou outras intervenções. Os outros números não correspondem ao programa descrito.",
+  "source": "NICE NG26 (vinculação em crianças e jovens adotados, em acolhimento ou em risco de acolhimento), publicada 25/11/2015, https://www.nice.org.uk/guidance/ng26/chapter/Recommendations (rec. 1.4.1 a 1.4.3, 1.5.1, 1.5.2)",
+  "dose": false
+ },
+ {
+  "id": "tx-programa-visitas-domiciliarias-vinculacao-q1",
+  "itemId": "tx-programa-visitas-domiciliarias-vinculacao",
+  "category": "tratamento",
+  "type": "memoria",
+  "text": "Segundo a NICE NG26, em que situação se considera o programa de visitas domiciliárias para melhorar competências parentais na idade pré-escolar?",
+  "options": [
+   "Como primeira escolha para todas as famílias com crianças pré-escolares, antes do vídeo-feedback",
+   "Quando a criança é colocada em acolhimento residencial, independentemente das outras opções",
+   "Quando as opções anteriores foram recusadas ou falharam e a revisão multiagência o aconselha",
+   "Apenas quando existe diagnóstico confirmado de perturbação de vinculação reativa na criança"
+  ],
+  "correct": 2,
+  "explanation": "As visitas domiciliárias são um passo posterior: surgem se os pais não querem o vídeo-feedback nem o treino de sensibilidade parental, ou se não há melhoria e persistem preocupações, e a revisão multiagência considera apropriada mais intervenção. Não são primeira escolha, e a fonte não as limita a acolhimento residencial nem a diagnóstico confirmado.",
+  "source": "NICE NG26 (vinculação em crianças e jovens adotados, em acolhimento ou em risco de acolhimento), publicada 25/11/2015, https://www.nice.org.uk/guidance/ng26/chapter/Recommendations (rec. 1.4.6, 1.4.7, 1.4.8)",
+  "dose": false
+ },
+ {
+  "id": "tx-psicoterapia-pais-crianca-maus-tratos-q1",
+  "itemId": "tx-psicoterapia-pais-crianca-maus-tratos",
+  "category": "tratamento",
+  "type": "memoria",
+  "text": "Segundo a NICE NG26, qual é o formato da psicoterapia pais-criança do modelo de Cicchetti e Toth, para famílias com maus-tratos ou risco de maus-tratos na idade pré-escolar?",
+  "options": [
+   "Sessões mensais no domicílio durante 18 meses",
+   "Sessões semanais no domicílio durante 3 a 4 meses",
+   "Sessões quinzenais no consultório durante 6 meses",
+   "Sessões semanais no domicílio durante 1 ano"
+  ],
+  "correct": 3,
+  "explanation": "O modelo prevê sessões semanais no domicílio, de 45 a 60 minutos, durante 1 ano, com observação direta da criança e da interação pais-criança. As alternativas misturam durações e locais de outras intervenções da mesma guideline, como o vídeo-feedback (3 a 4 meses) e as visitas domiciliárias (18 meses).",
+  "source": "NICE NG26 (vinculação em crianças e jovens adotados, em acolhimento ou em risco de acolhimento), publicada 25/11/2015, https://www.nice.org.uk/guidance/ng26/chapter/Recommendations (rec. 1.4.9, 1.4.10)",
+  "dose": false
+ },
+ {
+  "id": "tx-figura-vinculacao-estavel-q1",
+  "itemId": "tx-figura-vinculacao-estavel",
+  "category": "tratamento",
+  "type": "memoria",
+  "text": "Segundo a NICE NG26, qual é a posição sobre o uso de fármacos para tratar as dificuldades de vinculação?",
+  "options": [
+   "Não usar fármacos na vinculação, só em problemas de saúde mental coexistentes",
+   "Usar fármacos como primeira linha quando a criança não tem cuidador discriminado",
+   "Usar fármacos para estabilizar o comportamento quando a colocação da criança é instável",
+   "Associar fármacos à psicoterapia diádica em todos os casos de perturbação de vinculação"
+  ],
+  "correct": 0,
+  "explanation": "A NICE não recomenda tratar as dificuldades de vinculação com fármacos; estes ficam reservados para problemas de saúde mental coexistentes, segundo as respetivas guidelines. A intervenção mais importante é assegurar uma figura de vinculação emocionalmente disponível e processos estáveis, e não um tratamento farmacológico.",
+  "source": "AACAP, Boris NW, Zeanah CH et al., Practice Parameter for the Assessment and Treatment of Children and Adolescents With Reactive Attachment Disorder of Infancy and Early Childhood, JAACAP 2005;44(11):1206-1219, https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/reactive_attachment_practice_parameter.pdf (texto lido; é a versão de 2005, substituída pela de 2016 de Zeanah, Chesher e Boris, que não consegui abrir) (recomendação 5); NICE NG26 (vinculação em crianças e jovens adotados, em acolhimento ou em risco de acolhimento), publicada 25/11/2015, https://www.nice.org.uk/guidance/ng26/chapter/Recommendations (secção 1.1; rec. sobre estabilidade e sobre fármacos)",
+  "dose": false
+ },
+ {
+  "id": "tx-psicoeducacao-phda-q1",
+  "itemId": "tx-psicoeducacao-phda",
+  "category": "tratamento",
+  "type": "memoria",
+  "text": "Na conversa estruturada após o diagnóstico de PHDA, como se deve explicar a recomendação de treino parental à família, segundo a NICE?",
+  "options": [
+   "Como sinal de que os pais falharam no passado e precisam de corrigir a sua forma de educar os filhos",
+   "Como otimizar competências parentais face a necessidades acima da média, sem implicar mau desempenho",
+   "Como medida só necessária se a medicação não resultar ou não for tolerada, e não no plano inicial",
+   "Como substituto do apoio da escola, que passa a ser dispensável no plano de tratamento da criança"
+  ],
+  "correct": 1,
+  "explanation": "A fonte indica que o treino parental não significa mau desempenho parental, mas sim otimizar competências face às necessidades acima da média das crianças com PHDA. Esta explicação ajuda a família a compreender o diagnóstico e a planear o tratamento em conjunto. As outras opções culpabilizam os pais ou contradizem o plano partilhado.",
+  "source": "NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.4.3 a 1.4.11)",
+  "dose": false
+ },
+ {
+  "id": "tx-apoio-parental-phda-q1",
+  "itemId": "tx-apoio-parental-phda",
+  "category": "tratamento",
+  "type": "memoria",
+  "text": "Segundo a NICE, a quem e em que momento se oferece o apoio parental focado na PHDA?",
+  "options": [
+   "Aos pais de crianças pré-escolares com PHDA, depois de falhar a medicação e a intervenção escolar",
+   "Aos pais de crianças com sintomas de oposição ou conduta, depois de iniciada a medicação para a PHDA",
+   "Aos pais ou cuidadores de todas as crianças com 5 anos ou mais e jovens com PHDA, antes da medicação",
+   "Apenas aos pais que o solicitem, depois de uma resposta parcial à medicação para a PHDA"
+  ],
+  "correct": 2,
+  "explanation": "A NICE recomenda oferecer este apoio aos pais ou cuidadores de todas as crianças com 5 anos ou mais e jovens com PHDA, antes de considerar medicação, e pode ter tão poucas quanto 1 ou 2 sessões. As outras opções restringem o grupo ou colocam o apoio depois da medicação, o que contraria a fonte.",
+  "source": "NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.5.10; ligação com a escola na rec. 1.4.12)",
+  "dose": false
+ },
+ {
+  "id": "tx-estilo-vida-phda-q1",
+  "itemId": "tx-estilo-vida-phda",
+  "category": "tratamento",
+  "type": "memoria",
+  "text": "Em relação ao aconselhamento sobre alimentação na PHDA, qual das seguintes medidas a NICE não aconselha?",
+  "options": [
+   "Dieta equilibrada e exercício regular",
+   "Diário de alimentos e comportamento quando há ligação clara com a hiperatividade",
+   "Referenciar a dietista se o diário apoiar a ligação alimento-comportamento",
+   "Suplementação dietética com ácidos gordos"
+  ],
+  "correct": 3,
+  "explanation": "A NICE aconselha alimentação equilibrada e exercício regular a todos, e só investiga alimentos específicos se houver ligação clara, com diário e referenciação a dietista. Não aconselha a suplementação com ácidos gordos nem a eliminação de corantes e aditivos como tratamento geral.",
+  "source": "NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.6.1 a 1.6.4)",
+  "dose": false
+ },
+ {
+  "id": "tx-nao-recomendadas-phda-q1",
+  "itemId": "tx-nao-recomendadas-phda",
+  "category": "tratamento",
+  "type": "memoria",
+  "text": "Segundo a AAP 2019, qual das seguintes abordagens tem evidência insuficiente ou benefício nulo no tratamento da PHDA?",
+  "options": [
+   "Biofeedback por EEG como tratamento",
+   "Modificações ambientais na sala de aula",
+   "Intervenção comportamental na sala de aula",
+   "Apoios educativos individualizados"
+  ],
+  "correct": 0,
+  "explanation": "A AAP 2019 aponta evidência insuficiente ou benefício nulo para mindfulness, treino cognitivo, modificação da dieta, biofeedback por EEG e aconselhamento de apoio. As modificações ambientais e a intervenção comportamental na sala de aula fazem parte das intervenções escolares, e os apoios educativos individualizados são parte necessária de qualquer plano.",
+  "source": "AAP, Wolraich et al., Pediatrics 2019;144(4):e20192528, https://pmc.ncbi.nlm.nih.gov/articles/PMC7067282/ (secção de tratamento psicossocial); NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.6.2 e 1.6.4)",
+  "dose": false
+ },
+ {
+  "id": "tx-treino-parental-grupo-conduta-q1",
+  "itemId": "tx-treino-parental-grupo-conduta",
+  "category": "tratamento",
+  "type": "memoria",
+  "text": "Segundo a NICE, o treino parental de grupo é oferecido a pais de crianças com perturbação de oposição ou de conduta de que faixa etária?",
+  "options": [
+   "0 a 5 anos",
+   "3 a 11 anos",
+   "6 a 14 anos",
+   "12 a 18 anos"
+  ],
+  "correct": 1,
+  "explanation": "A NICE recomenda este programa de grupo para pais de crianças dos 3 aos 11 anos com perturbação de oposição ou de conduta, de alto risco ou em contacto com a justiça por comportamento antissocial. As outras faixas não correspondem à recomendação descrita na fonte.",
+  "source": "NICE CG158, publicada 27/03/2013, última atualização 19/04/2017, https://www.nice.org.uk/guidance/cg158/chapter/Recommendations (rec. 1.5.1 e 1.5.2); NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.5.11)",
+  "dose": false
+ },
+ {
+  "id": "tx-comunicacao-social-autismo-q1",
+  "itemId": "tx-comunicacao-social-autismo",
+  "category": "tratamento",
+  "type": "memoria",
+  "text": "Na intervenção de comunicação social com estratégias de jogo para crianças autistas, a NICE considera mediação por quem na idade escolar?",
+  "options": [
+   "Pais e cuidadores, como no pré-escolar",
+   "Professores, em exclusivo, em toda a escola",
+   "Pares, outras crianças em contexto escolar",
+   "Irmãos e outros familiares da criança"
+  ],
+  "correct": 2,
+  "explanation": "A NICE considera, no pré-escolar, a mediação por pais, cuidadores ou professores e, na idade escolar, a mediação por pares. As restantes opções não correspondem à recomendação para a idade escolar.",
+  "source": "NICE CG170, publicada 28/08/2013, última atualização 14/06/2021, https://www.nice.org.uk/guidance/cg170/chapter/recommendations (rec. 1.3.1); página de visão geral https://www.nice.org.uk/guidance/cg170 (consultada em 10/10/2026)",
+  "dose": false
+ },
+ {
+  "id": "tx-tcc-ansiedade-autismo-q1",
+  "itemId": "tx-tcc-ansiedade-autismo",
+  "category": "tratamento",
+  "type": "caso",
+  "text": "Rapaz autista em idade escolar, com boa capacidade verbal e cognitiva, apresenta ansiedade coexistente. Segundo a NICE, qual a abordagem a considerar?",
+  "options": [
+   "TCC de grupo adaptada, ou individual se o grupo for difícil, com apoios visuais e escritos e um pai ou cuidador",
+   "TCC padrão, sem adaptações ao autismo, sem apoios visuais nem escritos e sem envolver o cuidador nas sessões",
+   "Intervenção de comunicação social com mediação por pares, por ser a recomendada para tratar a ansiedade em autistas",
+   "Adiar qualquer intervenção psicológica até a ansiedade diminuir por si, mantendo apenas vigilância clínica"
+  ],
+  "correct": 0,
+  "explanation": "A NICE considera a TCC em autistas com ansiedade e capacidade verbal e cognitiva suficiente, em grupo adaptado ou individual, com treino de reconhecimento de emoções, mais apoio escrito e visual, pausas, interesses especiais e um pai ou cuidador nas sessões. A intervenção de comunicação social dirige-se às características nucleares, não à ansiedade, e a TCC sem adaptações ou o adiamento contrariam a fonte.",
+  "source": "NICE CG170, publicada 28/08/2013, última atualização 14/06/2021, https://www.nice.org.uk/guidance/cg170/chapter/recommendations (rec. 1.7.2 e 1.7.3)",
+  "dose": false
+ },
+ {
+  "id": "tx-tcc-phda-adolescente-q1",
+  "itemId": "tx-tcc-phda-adolescente",
+  "category": "tratamento",
+  "type": "caso",
+  "text": "Adolescente com PHDA beneficiou da medicação, mas mantém sintomas que causam incapacidade significativa na escola. Segundo a NICE, o que se deve considerar?",
+  "options": [
+   "Eliminar corantes e aditivos da dieta como tratamento da PHDA e dos sintomas residuais",
+   "Suplementar com ácidos gordos para melhorar os sintomas residuais da PHDA na escola",
+   "Não oferecer intervenção psicológica, porque a medicação já foi benéfica para o jovem",
+   "TCC centrada em competências sociais, resolução de problemas e autocontrolo"
+  ],
+  "correct": 3,
+  "explanation": "A NICE sugere considerar TCC em jovens que beneficiaram da medicação mas mantêm sintomas com incapacidade significativa em pelo menos um domínio, trabalhando competências sociais com pares, resolução de problemas, autocontrolo, escuta ativa e expressão de emoções. A eliminação de corantes e a suplementação com ácidos gordos não são aconselhadas. Nota: a AAP diz que não foram reportadas melhorias de funcionamento significativas com abordagens cognitivo-comportamentais nos adolescentes.",
+  "source": "NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.5.14); AAP, Wolraich et al., Pediatrics 2019;144(4):e20192528, https://pmc.ncbi.nlm.nih.gov/articles/PMC7067282/ (secção de tratamento psicossocial em adolescentes)",
+  "dose": false
+ },
+ {
+  "id": "tx-escola-phda-q1",
+  "itemId": "tx-escola-phda",
+  "category": "tratamento",
+  "type": "caso",
+  "text": "Rapariga em idade escolar, com PHDA diagnosticada e estável, vai mudar de escola. Segundo a NICE, qual a conduta quanto à escola?",
+  "options": [
+   "Contactar a escola apenas no momento do diagnóstico, nunca nas mudanças de escola ou de sintomas",
+   "Contactar a nova escola, com consentimento, para explicar o diagnóstico e o plano de tratamento",
+   "Contactar a escola só se for iniciada medicação para a PHDA e houver consentimento",
+   "Aguardar que a nova escola peça informação clínica sobre a criança aos pais ou ao clínico"
+  ],
+  "correct": 1,
+  "explanation": "A NICE indica contactar a escola, com consentimento, ao diagnóstico, quando os sintomas mudam e nas transições de escola. Esse contacto explica o diagnóstico, o plano de tratamento e as necessidades educativas. As outras opções restringem ou atrasam o contacto de forma que a fonte não sustenta.",
+  "source": "NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.4.12, 1.5.13 e glossário \"Environmental modifications\"); AAP, Wolraich et al., Pediatrics 2019;144(4):e20192528, https://pmc.ncbi.nlm.nih.gov/articles/PMC7067282/ (KAS 5b e 5c; secção de tratamento psicossocial)",
+  "dose": false
+ },
+ {
+  "id": "tx-psicoeducacao-conduta-q1",
+  "itemId": "tx-psicoeducacao-conduta",
+  "category": "tratamento",
+  "type": "caso",
+  "text": "Mãe de um menino de 7 anos com perturbação de oposição diz que se sente culpada e que o treino parental prova que educou mal. Segundo a NICE, o que fazer?",
+  "options": [
+   "Confirmar que a parentalidade é a causa do problema, para reforçar a adesão",
+   "Deixar de propor o treino parental e usar apenas medidas ambientais na escola",
+   "Abordar diretamente a preocupação, explicando a razão e o objetivo do treino",
+   "Encaminhar para o programa sem discutir, pois a preferência dos pais não conta"
+  ],
+  "correct": 2,
+  "explanation": "A NICE refere que os pais podem sentir-se culpabilizados ou estigmatizados, e que se devem abordar diretamente essas preocupações e explicar a razão e o objetivo de programas como o treino parental. Convém também ter em conta as preferências da criança e dos pais, o que exclui as restantes opções.",
+  "source": "NICE CG158, publicada 27/03/2013, última atualização 19/04/2017, https://www.nice.org.uk/guidance/cg158/chapter/Recommendations (rec. 1.1.4, 1.3.5, 1.3.6, 1.3.15, 1.4.1 e 1.4.2)",
+  "dose": false
+ },
+ {
+  "id": "tx-treino-parental-individual-conduta-q1",
+  "itemId": "tx-treino-parental-individual-conduta",
+  "category": "tratamento",
+  "type": "caso",
+  "text": "Rapaz de 8 anos com perturbação de conduta; os pais não conseguem participar em grupos. Segundo a NICE, o que se oferece?",
+  "options": [
+   "Treino parental individual, com manual avaliado e modelo de aprendizagem social",
+   "Esperar que os pais consigam frequentar um grupo antes de oferecer qualquer treino parental",
+   "Treino parental de grupo, por ser o único formato disponível nos serviços de saúde mental",
+   "Apenas psicoeducação aos pais, sem treino parental, por não conseguirem frequentar o grupo"
+  ],
+  "correct": 0,
+  "explanation": "Dos 3 aos 11 anos, se os pais não puderem participar em grupo, a NICE oferece treino parental individual, com manual de programa avaliado em ensaio aleatorizado e modelo de aprendizagem social ou cognitivo-comportamental. O grupo não é opção quando os pais não o conseguem frequentar, e a psicoeducação sozinha não substitui o treino parental.",
+  "source": "NICE CG158, publicada 27/03/2013, última atualização 19/04/2017, https://www.nice.org.uk/guidance/cg158/chapter/Recommendations (rec. 1.5.3 e 1.5.4); NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.5.12)",
+  "dose": false
+ },
+ {
+  "id": "tx-treino-sensibilidade-parental-comportamento-q1",
+  "itemId": "tx-treino-sensibilidade-parental-comportamento",
+  "category": "tratamento",
+  "type": "caso",
+  "text": "Criança em idade pré-escolar com dificuldades de vinculação; os pais recusam o vídeo-feedback. Segundo a NICE NG26, o que se oferece a seguir?",
+  "options": [
+   "Visitas domiciliárias de imediato, como alternativa preferida ao vídeo-feedback recusado",
+   "Psicoterapia pais-criança de Cicchetti e Toth, para qualquer pré-escolar com vinculação difícil",
+   "Fármacos para tratar as dificuldades de vinculação, antes de outras intervenções",
+   "Treino de sensibilidade e de comportamento parental, com uma sessão inicial só com os pais"
+  ],
+  "correct": 3,
+  "explanation": "Se os pais pré-escolares não quiserem o vídeo-feedback, a NG26 prevê o treino de sensibilidade e de comportamento parental, com sessão inicial com os pais seguida de sessões pais-criança. As visitas domiciliárias são um passo posterior, após revisão multiagência, a psicoterapia de Cicchetti e Toth dirige-se a pais que maltrataram ou estão em risco de maltratar, e a NICE não trata a vinculação com fármacos.",
+  "source": "NICE NG26 (vinculação em crianças e jovens adotados, em acolhimento ou em risco de acolhimento), publicada 25/11/2015, https://www.nice.org.uk/guidance/ng26/chapter/Recommendations (rec. 1.4.4, 1.4.5, 1.4.11, 1.4.13, 1.5.3, 1.6.1, 1.6.2)",
+  "dose": false
+ },
+ {
+  "id": "tx-psicoeducacao-ddi-q1",
+  "itemId": "tx-psicoeducacao-ddi",
+  "category": "tratamento",
+  "type": "caso",
+  "text": "Criança em idade escolar com incapacidade intelectual apresenta agitação e irritabilidade desde que mudou de escola. Segundo a AACAP 2020, o que se deve fazer em primeiro lugar?",
+  "options": [
+   "Iniciar de imediato TCC adaptada como primeira medida, antes de rever o ambiente",
+   "Avaliar se o programa educativo e o ambiente respondem ao nível da criança e à mudança de escola",
+   "Aplicar análise do comportamento aplicada antes de rever outros fatores do ambiente",
+   "Atribuir os sintomas à incapacidade intelectual, sem rever o ambiente nem a mudança de escola recente"
+  ],
+  "correct": 1,
+  "explanation": "A AACAP 2020 indica avaliar sempre se o programa educativo e o ambiente respondem ao nível da criança. Uma colocação ou exigências inadequadas são causa importante de sintomas, e as mudanças de escola ou de pessoal podem dificultar a adaptação, por isso a agitação após a mudança de escola não deve ser atribuída à incapacidade intelectual sem rever o ambiente.",
+  "source": "AACAP, Siegel, McGuire et al., J Am Acad Child Adolesc Psychiatry 2020;59(4):468-496, doi 10.1016/j.jaac.2019.11.018 (cópia lida em https://ramp.luriechildrens.org/globalassets/ramp/reference/aacap-practice-parameter-intellectual-disability-2020.pdf) (secções Assessment e Treatment, Social Support)",
+  "dose": false
+ }
+]

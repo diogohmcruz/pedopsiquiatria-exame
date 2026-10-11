@@ -1,0 +1,308 @@
+[
+  {
+    "id": "tx-psicoeducacao-apoio-depressao-q1",
+    "itemId": "tx-psicoeducacao-apoio-depressao",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a NICE NG134, como deve ser usado o material de autoajuda na depressão da criança ou do jovem?",
+    "options": [
+      "Como tratamento isolado de primeira linha em qualquer gravidade, sem acompanhamento clínico regular",
+      "Só dentro de um pacote de cuidados apoiado e planeado, perguntando também sobre os recursos já usados",
+      "Deve ser desaconselhado, para a família não substituir a consulta por folhetos, sites ou linhas de apoio",
+      "Deve ser recomendado apenas ao adolescente, sem perguntar à família o que esta já utiliza em casa"
+    ],
+    "correct": 1,
+    "explanation": "A NG134 manda perguntar sobre os materiais e apoios que a família já usa (rec. 1.1.9) e só recomendar autoajuda dentro de um pacote de cuidados apoiado e planeado (rec. 1.1.10). Não a propõe como tratamento isolado nem a desaconselha por princípio.",
+    "source": "NICE NG134 (depressão em crianças e jovens), publicada 25/06/2019, última revisão 07/05/2024, https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.1.9, 1.1.10, 1.1.20); AACAP, Walter HJ et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Major and Persistent Depressive Disorders, JAACAP 2023;62(5):479-502, https://pubmed.ncbi.nlm.nih.gov/36273673/ (texto integral lido numa cópia PDF alojada em hscsnhealthplan.org) (nota de rodapé d dos Treatment Statements); Coordenação Nacional para a Saúde Mental, Saúde Mental Infantil e Juvenil nos Cuidados de Saúde Primários: Recomendações para a Prática Clínica, Lisboa, 2009 (alojado no site da DGS, https://www.dgs.pt/accao-de-saude-para-criancas-e-jovens-em-risco/ficheiros-externos/pub-saude-mentalrecomendacoes-para-a-pratica-clinica-1-pdf.aspx), secções Perturbações da ansiedade e Perturbações do humor (documento de 2009, anterior às guidelines atuais), secção Perturbações do humor, Intervenção",
+    "dose": false
+  },
+  {
+    "id": "tx-estilo-de-vida-depressao-q1",
+    "itemId": "tx-estilo-de-vida-depressao",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a NICE NG134, qual é o programa de exercício estruturado e supervisionado a considerar na criança ou jovem com depressão?",
+    "options": [
+      "Até 5 sessões por semana, de 15 a 20 minutos cada, durante 4 semanas seguidas",
+      "1 sessão por semana, de cerca de 2 horas, durante 6 meses",
+      "Até 3 sessões por semana, de 45 minutos a 1 hora, durante 10 a 12 semanas",
+      "Até 2 sessões por semana, de 20 a 30 minutos, durante 3 a 4 semanas"
+    ],
+    "correct": 2,
+    "explanation": "A rec. 1.1.27 da NG134 descreve até 3 sessões por semana de 45 minutos a 1 hora ao longo de 10 a 12 semanas. O programa é para ser considerado e complementa, não substitui, a psicoterapia; os restantes esquemas não constam da fonte.",
+    "source": "NICE NG134 (depressão em crianças e jovens), publicada 25/06/2019, última revisão 07/05/2024, https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.1.27, 1.1.28, 1.1.29)",
+    "dose": false
+  },
+  {
+    "id": "tx-psicoterapia-grupo-depressao-ligeira-q1",
+    "itemId": "tx-psicoterapia-grupo-depressao-ligeira",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a NICE NG134, na depressão ligeira persistente nos 12 a 18 anos, durante quanto tempo se oferece a escolha entre TCC digital, TCC em grupo, apoio não diretivo em grupo ou terapia interpessoal em grupo?",
+    "options": [
+      "Cerca de 2 a 3 meses",
+      "Cerca de 4 a 6 semanas",
+      "Cerca de 5 a 6 meses",
+      "Cerca de 12 meses"
+    ],
+    "correct": 0,
+    "explanation": "A rec. 1.5.7 da NG134 refere uma duração limitada de cerca de 2 a 3 meses para estas opções nos 12-18 anos. Se não houver resposta nesse período, o doente é referenciado à pedopsiquiatria (rec. 1.5.10). A fonte não indica o número de sessões.",
+    "source": "NICE NG134 (depressão em crianças e jovens), publicada 25/06/2019, última revisão 07/05/2024, https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.5.6, 1.5.7, 1.5.8, 1.5.9, 1.5.10; tabela 1)",
+    "dose": false
+  },
+  {
+    "id": "tx-terapia-familiar-depressao-q1",
+    "itemId": "tx-terapia-familiar-depressao",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a NICE NG134, depois de revisão multidisciplinar por depressão sem resposta, qual é a duração indicada para a terapia familiar sistémica?",
+    "options": [
+      "Pelo menos 6 sessões semanais, ao longo de 6 semanas",
+      "Cerca de 30 sessões semanais",
+      "Pelo menos 8 sessões mensais, ao longo de 8 meses",
+      "Pelo menos 15 sessões quinzenais"
+    ],
+    "correct": 3,
+    "explanation": "A rec. 1.6.13 indica terapia familiar sistémica com pelo menos 15 sessões quinzenais (ou terapia familiar mais curta, durante pelo menos 3 meses). As cerca de 30 sessões semanais correspondem à psicoterapia psicodinâmica nessa mesma recomendação, e os outros esquemas não constam da fonte.",
+    "source": "NICE NG134 (depressão em crianças e jovens), publicada 25/06/2019, última revisão 07/05/2024, https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.5.6, 1.5.8, 1.6.4, 1.6.6, 1.6.13; tabela 1)",
+    "dose": false
+  },
+  {
+    "id": "tx-psicoterapia-psicodinamica-depressao-q1",
+    "itemId": "tx-psicoterapia-psicodinamica-depressao",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a NICE NG134, na depressão sem resposta ao tratamento combinado, após revisão multidisciplinar, qual é a formulação indicada para a psicoterapia psicodinâmica?",
+    "options": [
+      "Pelo menos 15 sessões quinzenais",
+      "Cerca de 30 sessões semanais",
+      "Cerca de 12 sessões semanais",
+      "Cerca de 60 sessões semanais"
+    ],
+    "correct": 1,
+    "explanation": "A rec. 1.6.13 indica cerca de 30 sessões semanais para a psicoterapia psicodinâmica. As 15 sessões quinzenais são a formulação da terapia familiar sistémica na mesma recomendação; as restantes opções não constam da fonte.",
+    "source": "NICE NG134 (depressão em crianças e jovens), publicada 25/06/2019, última revisão 07/05/2024, https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.6.4, 1.6.6, 1.6.13; tabela 1)",
+    "dose": false
+  },
+  {
+    "id": "tx-intervencao-psicossocial-breve-depressao-q1",
+    "itemId": "tx-intervencao-psicossocial-breve-depressao",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Qual das seguintes descreve a intervenção psicossocial breve (baseada na BPI do ensaio IMPACT) referida na NICE NG134 para adolescentes?",
+    "options": [
+      "Reestruturação cognitiva com registo de pensamentos automáticos e experiências comportamentais",
+      "Revisão do inventário interpessoal para trabalhar luto, disputas e transições de papel nas relações próximas",
+      "Psicoeducação, atividades orientadas para objetivos e hábitos de saúde, sem técnicas cognitivas",
+      "Trabalho exploratório da história relacional com interpretação analítica das defesas e dos conflitos"
+    ],
+    "correct": 2,
+    "explanation": "A fonte descreve a BPI como psicoeducação sobre a depressão, atividades orientadas para objetivos, construção de hábitos de saúde e envolvimento com a escola e os pares, sem técnicas cognitivas nem reflexivas analíticas. As outras opções descrevem a TCC, a terapia interpessoal e abordagens analíticas.",
+    "source": "NICE NG134 (depressão em crianças e jovens), publicada 25/06/2019, última revisão 07/05/2024, https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.6.6; secção 'Terms used in this guideline', Brief psychosocial intervention)",
+    "dose": false
+  },
+  {
+    "id": "tx-psicoeducacao-cuidadores-bipolar-q1",
+    "itemId": "tx-psicoeducacao-cuidadores-bipolar",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a NICE CG185, quando deve ser oferecido aos cuidadores de uma pessoa com perturbação bipolar um programa de educação e apoio centrado no cuidador?",
+    "options": [
+      "A todos os cuidadores, o mais cedo possível",
+      "Apenas aos cuidadores que o peçam depois da primeira recaída",
+      "Só quando a família aceitar uma intervenção familiar estruturada",
+      "Apenas durante os episódios agudos, e retirado na fase de manutenção"
+    ],
+    "correct": 0,
+    "explanation": "A rec. 1.1.8 da CG185 manda oferecer a todos os cuidadores, o mais cedo possível, um programa de educação e apoio centrado no cuidador, que pode integrar uma intervenção familiar. Não depende de recaída, de aceitação de terapia familiar nem da fase da doença.",
+    "source": "NICE CG185 (perturbação bipolar), publicada 24/09/2014, última revisão 02/09/2025, https://www.nice.org.uk/guidance/cg185/chapter/Recommendations (rec. 1.1.6, 1.1.7, 1.1.8)",
+    "dose": false
+  },
+  {
+    "id": "tx-intervencao-psicologica-depressao-bipolar-jovens-q1",
+    "itemId": "tx-intervencao-psicologica-depressao-bipolar-jovens",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a NICE CG185, num jovem com depressão bipolar que faz TCC ou terapia interpessoal individual e sem resposta (ou com resposta limitada) às 4 a 6 semanas, qual é a atitude indicada?",
+    "options": [
+      "Substituir de imediato a psicoterapia por fármaco isolado, mantendo apenas a vigilância do humor",
+      "Manter a mesma intervenção, sem reavaliar, até completar o tempo mínimo previsto de 3 meses",
+      "Dar alta da psicoterapia e manter apenas vigilância clínica, com consulta se houver agravamento",
+      "Fazer revisão multidisciplinar e considerar psicoterapia individual ou familiar alternativa"
+    ],
+    "correct": 3,
+    "explanation": "A rec. 1.11.13 manda fazer revisão multidisciplinar e considerar psicoterapia individual ou familiar alternativa se, às 4 a 6 semanas, não houver resposta ou esta for limitada. A rec. 1.11.16 fala de fármaco adicional à psicoterapia na depressão moderada a grave, não de o substituir, e a fonte não prevê manter sem reavaliar nem dar alta.",
+    "source": "NICE CG185 (perturbação bipolar), publicada 24/09/2014, última revisão 02/09/2025, https://www.nice.org.uk/guidance/cg185/chapter/Recommendations (rec. 1.11.4, 1.11.12, 1.11.13, 1.11.14, 1.11.15, 1.11.16)",
+    "dose": false
+  },
+  {
+    "id": "tx-intervencao-psicologica-manutencao-bipolar-q1",
+    "itemId": "tx-intervencao-psicologica-manutencao-bipolar",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a NICE CG185, qual destes é um componente da intervenção psicológica estruturada de manutenção e prevenção de recaída na perturbação bipolar?",
+    "options": [
+      "Exposição hierarquizada a situações temidas, com prevenção de resposta",
+      "Automonitorização do humor, dos pensamentos e do comportamento",
+      "Construção de uma hierarquia de raiva com exposição imaginal",
+      "Treino dos pais em elogio, ignorar ativo e time-out"
+    ],
+    "correct": 1,
+    "explanation": "A intervenção inclui informação sobre a doença, impacto de pensamentos e comportamentos no humor, automonitorização, abordagem do risco de recaída, plano de gestão de recaída e resolução de problemas. As outras opções pertencem a abordagens de outros tratamentos, como a exposição na ansiedade ou na irritabilidade e o treino parental.",
+    "source": "NICE CG185 (perturbação bipolar), publicada 24/09/2014, última revisão 02/09/2025, https://www.nice.org.uk/guidance/cg185/chapter/Recommendations (rec. 1.7.2, 1.7.3, 1.7.4, 1.11.17)",
+    "dose": false
+  },
+  {
+    "id": "tx-tcc-exposicao-irritabilidade-ddm-q1",
+    "itemId": "tx-tcc-exposicao-irritabilidade-ddm",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo Kircanski et al. (2018), qual é o estatuto da TCC baseada em exposição para a irritabilidade grave (DDM)?",
+    "options": [
+      "Tratamento bem estabelecido para a DDM, recomendado por guidelines internacionais",
+      "Superior ao treino parental num ensaio controlado e aleatorizado com adolescentes",
+      "Ainda não suportada empiricamente, com dados de um ensaio aberto piloto pequeno",
+      "Suportada apenas em adultos, sem qualquer dado em crianças nem em adolescentes"
+    ],
+    "correct": 2,
+    "explanation": "Os autores escrevem que não existem tratamentos bem estabelecidos especificamente para a DDM e que esta TCC não deve ser considerada empiricamente suportada; os dados vêm de um piloto aberto com 10 participantes, de 9 a 15 anos. Não há guideline para a DDM nas fontes lidas e os dados vêm de um ensaio aberto piloto, não de um ensaio controlado.",
+    "source": "Kircanski K, Clayton ME, Leibenluft E, Brotman MA, Psychosocial Treatment of Irritability in Youth, Curr Treat Options Psychiatry 2018;5(1):129-140, https://pmc.ncbi.nlm.nih.gov/articles/PMC6181450/ (lido por resumo do WebFetch); Linke J, Kircanski K, Brooks J, Perhamus G, Gold AL, Brotman MA, Exposure-Based Cognitive-Behavioral Therapy for Disruptive Mood Dysregulation Disorder: An Evidence-Based Case Study, Behav Ther 2020;51(2):320-333, https://pmc.ncbi.nlm.nih.gov/articles/PMC9719109/ (lido por resumo do WebFetch; caso único)",
+    "dose": false
+  },
+  {
+    "id": "tx-aconselhamento-parental-ansiedade-cuidados-primarios-q1",
+    "itemId": "tx-aconselhamento-parental-ansiedade-cuidados-primarios",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a recomendação portuguesa de 2009 para os cuidados de saúde primários, que conselho se dá aos pais de uma criança com ansiedade?",
+    "options": [
+      "Tranquilizar a criança com atitude firme e segura, sem favorecer o evitamento excessivo",
+      "Evitar todas as situações que causam ansiedade até os sintomas desaparecerem por completo",
+      "Expor logo a criança às situações mais temidas, mesmo além da sua capacidade de adaptação",
+      "Resolver os problemas pela criança, para lhe poupar o sofrimento que a situação lhe causa"
+    ],
+    "correct": 0,
+    "explanation": "A recomendação de 2009 aconselha atitude firme e segura, incentivar a criança a procurar soluções e não evitar em excesso as situações ansiógenas, sem a forçar além da sua capacidade. Se os sintomas persistirem ou forem invasivos, orienta-se para a pedopsiquiatria.",
+    "source": "Coordenação Nacional para a Saúde Mental, Saúde Mental Infantil e Juvenil nos Cuidados de Saúde Primários: Recomendações para a Prática Clínica, Lisboa, 2009 (alojado no site da DGS, https://www.dgs.pt/accao-de-saude-para-criancas-e-jovens-em-risco/ficheiros-externos/pub-saude-mentalrecomendacoes-para-a-pratica-clinica-1-pdf.aspx), secções Perturbações da ansiedade e Perturbações do humor (documento de 2009, anterior às guidelines atuais), secção Perturbações da ansiedade (Intervenção e Referenciação)",
+    "dose": false
+  },
+  {
+    "id": "tx-tcc-individual-depressao-q1",
+    "itemId": "tx-tcc-individual-depressao",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Rapaz de 15 anos com depressão moderada a grave está em TCC individual há 5 sessões, sem resposta. Segundo a NICE NG134, qual é a atitude indicada?",
+    "options": [
+      "Manter a TCC sem reavaliar até perfazer 24 sessões",
+      "Rever o caso em equipa multidisciplinar",
+      "Suspender a psicoterapia e dar alta com vigilância",
+      "Passar de imediato a psicoterapia de grupo de apoio não diretivo"
+    ],
+    "correct": 1,
+    "explanation": "A rec. 1.6.8 da NG134 manda rever em equipa multidisciplinar se não houver resposta após 4 a 6 sessões de TCC. A TCC individual é oferecida durante pelo menos 3 meses nos 12-18 anos, mas isso não dispensa a revisão precoce; suspender ou mudar para grupo não consta da fonte.",
+    "source": "AACAP, Walter HJ et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Major and Persistent Depressive Disorders, JAACAP 2023;62(5):479-502, https://pubmed.ncbi.nlm.nih.gov/36273673/ (texto integral lido numa cópia PDF alojada em hscsnhealthplan.org) (Treatment Statement 1, secção Implementation, texto lido; 12 a 24 sessões e fases do tratamento); NICE NG134 (depressão em crianças e jovens), publicada 25/06/2019, última revisão 07/05/2024, https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.1.22, 1.1.23, 1.6.4, 1.6.5, 1.6.8)",
+    "dose": false
+  },
+  {
+    "id": "tx-tip-a-depressao-q1",
+    "itemId": "tx-tip-a-depressao",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Rapariga de 14 anos com humor deprimido há semanas, iniciado depois da morte da avó, com quem tinha uma relação muito próxima. Na TIP-A, qual dos 4 problemas interpessoais seria o foco do tratamento?",
+    "options": [
+      "Disputas interpessoais",
+      "Transições de papel",
+      "Luto",
+      "Défices interpessoais"
+    ],
+    "correct": 2,
+    "explanation": "Na TIP-A, a fase inicial liga a situação interpessoal ao humor e escolhe um de quatro problemas: luto, disputas, transições de papel ou défices interpessoais. A morte de uma pessoa significativa associada ao início do humor deprimido aponta para o luto.",
+    "source": "AACAP, Walter HJ et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Major and Persistent Depressive Disorders, JAACAP 2023;62(5):479-502, https://pubmed.ncbi.nlm.nih.gov/36273673/ (texto integral lido numa cópia PDF alojada em hscsnhealthplan.org) (Treatment Statement 1, Implementation, IPT: 12 semanas, 3 fases); Mufson L, Verdeli H, Clougherty KF, Shoum KA, How to Use Interpersonal Psychotherapy for Depressed Adolescents (IPT-A), in Treating Child and Adolescent Depression (cópia parcial alojada em https://neupsykey.com/how-to-use-interpersonal-psychotherapy-for-depressed-adolescents-ipt-a/, só lida a introdução, as fases e as tarefas da sessão 1; o resto exige subscrição); NICE NG134 (depressão em crianças e jovens), publicada 25/06/2019, última revisão 07/05/2024, https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.5.7, 1.6.6)",
+    "dose": false
+  },
+  {
+    "id": "tx-tcc-depressao-tads-q1",
+    "itemId": "tx-tcc-depressao-tads",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Adolescente de 14 anos termina a fase aguda do programa TADS com resposta parcial. Quantas sessões de consolidação (fase II) prevê o manual?",
+    "options": [
+      "6 sessões",
+      "3 sessões",
+      "9 sessões",
+      "12 sessões"
+    ],
+    "correct": 0,
+    "explanation": "No manual TADS, a fase II tem 3 sessões de consolidação de 50 minutos se a resposta for completa e 6 se for parcial. Segue-se a fase III, com visitas de manutenção de 6 em 6 semanas durante 18 semanas.",
+    "source": "Curry JF, Wells KC, Brent DA, Clarke GN, Rohde P, Albano AM, Reinecke MA, Benazon N, March JS et al., Treatment for Adolescents with Depression Study (TADS) Cognitive Behavior Therapy Manual: Introduction, Rationale, and Adolescent Sessions, 15/03/2000, © 2005 Duke University Medical Center, https://aaronkrasner.com/wp-content/uploads/2017/10/TADS_CBT.pdf (cópia alojada num site de terceiros; secções 'Recommended Sequence of CBT Topics in TADS Stage I', 'Phases of Acute Treatment', 'Stage II', 'Stage III' e agenda de sessões); NICE NG134 (depressão em crianças e jovens), publicada 25/06/2019, última revisão 07/05/2024, https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.6.5)",
+    "dose": false
+  },
+  {
+    "id": "tx-prevencao-recaida-depressao-q1",
+    "itemId": "tx-prevencao-recaida-depressao",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Rapariga de 13 anos recuperou de um episódio depressivo e já teve 2 episódios anteriores. Segundo a NICE NG134, que medida considerar?",
+    "options": [
+      "Alta sem seguimento, com nova consulta apenas se houver recaída",
+      "Reiniciar psicoterapia aguda, apesar da recuperação",
+      "Vigilância ativa, sem outras medidas de seguimento ou de apoio",
+      "Sessões de seguimento psicológico, dado o risco de recaída"
+    ],
+    "correct": 3,
+    "explanation": "A NG134 manda considerar sessões de seguimento em jovens com risco elevado de recaída, por exemplo com 2 episódios anteriores, sintomas subsindrómicos elevados ou múltiplos riscos. A alta sem seguimento e a vigilância sem outras medidas ignoram esse risco, e reiniciar psicoterapia aguda a quem recuperou não consta da fonte.",
+    "source": "AACAP, Walter HJ et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Major and Persistent Depressive Disorders, JAACAP 2023;62(5):479-502, https://pubmed.ncbi.nlm.nih.gov/36273673/ (texto integral lido numa cópia PDF alojada em hscsnhealthplan.org) (Treatment Statement 4, Implementation; texto lido); NICE NG134 (depressão em crianças e jovens), publicada 25/06/2019, última revisão 07/05/2024, https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.6.49)",
+    "dose": false
+  },
+  {
+    "id": "tx-tcc-ansiedade-q1",
+    "itemId": "tx-tcc-ansiedade",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Menino de 10 anos com ansiedade de separação de início recente, mais ligeira e pouco incapacitante. Segundo a AACAP 2020, qual é a sequência prudente?",
+    "options": [
+      "ISRS antes de TCC",
+      "TCC antes de ISRS",
+      "ISRS isolado, sem psicoterapia",
+      "Aconselhamento aos pais apenas, sem TCC"
+    ],
+    "correct": 1,
+    "explanation": "A AACAP 2020 recomenda TCC a doentes de 6 a 18 anos com ansiedade de separação, social ou generalizada, fobia específica ou pânico (1C), e propõe TCC antes de ISRS quando a ansiedade é de início recente, mais ligeira e menos incapacitante. Visa melhoria em 12 a 20 sessões.",
+    "source": "AACAP, Walter HJ et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (texto integral lido numa cópia PDF alojada em njaap.org) (Treatment Statement 1, Implementation, texto lido; sequência prudente na nota de rodapé c)",
+    "dose": false
+  },
+  {
+    "id": "tx-escola-depressao-q1",
+    "itemId": "tx-escola-depressao",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Menina de 12 anos com depressão, cuja mãe refere que sofre bullying na escola e que isso parece contribuir para o quadro. Segundo a NICE NG134, qual é a atitude indicada?",
+    "options": [
+      "Saúde mental, cuidados primários e escola desenvolvem estratégias antibullying em colaboração",
+      "Tratar apenas a depressão no consultório, por o bullying ser assunto exclusivamente escolar",
+      "Pedir à família que resolva o bullying sozinha, mantendo o clínico fora do contacto com a escola",
+      "Adiar qualquer tratamento da depressão até o bullying estar resolvido na escola"
+    ],
+    "correct": 0,
+    "explanation": "A rec. 1.1.21 da NG134 determina que, quando o bullying contribui para a depressão, os serviços de saúde mental, os cuidados primários e a escola trabalham em conjunto. A fonte manda perguntar diretamente sobre bullying (rec. 1.1.7); as outras opções (tratar só no consultório, deixar a família sozinha, adiar o tratamento) não constam da fonte.",
+    "source": "NICE NG134 (depressão em crianças e jovens), publicada 25/06/2019, última revisão 07/05/2024, https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.1.7, 1.1.21, 1.1.25, 1.5.9); Coordenação Nacional para a Saúde Mental, Saúde Mental Infantil e Juvenil nos Cuidados de Saúde Primários: Recomendações para a Prática Clínica, Lisboa, 2009 (alojado no site da DGS, https://www.dgs.pt/accao-de-saude-para-criancas-e-jovens-em-risco/ficheiros-externos/pub-saude-mentalrecomendacoes-para-a-pratica-clinica-1-pdf.aspx), secções Perturbações da ansiedade e Perturbações do humor (documento de 2009, anterior às guidelines atuais), secção Perturbações do humor, Intervenção",
+    "dose": false
+  },
+  {
+    "id": "tx-apoio-parental-depressao-q1",
+    "itemId": "tx-apoio-parental-depressao",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Menino de 8 anos com depressão; na consulta a mãe descreve tristeza persistente e cansaço marcados em si própria. Segundo a NICE NG134, que atitude é indicada?",
+    "options": [
+      "Ignorar a situação da mãe, para centrar a intervenção apenas na criança e no seu sintoma",
+      "Esperar que a depressão da mãe remita sozinha depois de a criança melhorar com o tratamento",
+      "Considerar a depressão da mãe e, se identificada, planear o tratamento em paralelo",
+      "Excluir a mãe do plano de tratamento, para não sobrecarregar a consulta nem a equipa"
+    ],
+    "correct": 2,
+    "explanation": "A NG134 manda considerar sempre a depressão ou outros problemas dos pais (rec. 1.1.12) e tratá-los em paralelo se identificados (rec. 1.1.26), criando aliança terapêutica com a família (rec. 1.1.24). Excluir ou ignorar os pais não é o que a fonte recomenda.",
+    "source": "NICE NG134 (depressão em crianças e jovens), publicada 25/06/2019, última revisão 07/05/2024, https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.1.12, 1.1.24, 1.1.26, 1.6.9)",
+    "dose": false
+  }
+]

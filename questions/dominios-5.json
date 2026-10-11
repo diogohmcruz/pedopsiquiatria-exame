@@ -1,0 +1,444 @@
+[
+  {
+    "id": "dsu-4-q1",
+    "itemId": "dsu-4",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo a OMS, qual é a recomendação de tempo de ecrã para crianças dos 2 aos 4 anos?",
+    "options": [
+      "No máximo 1 hora por dia, quanto menos melhor, de preferência acompanhado",
+      "Até 2 horas por dia, desde que o conteúdo seja educativo e adequado à idade",
+      "Até 90 minutos por dia, sem necessidade de acompanhamento por um adulto",
+      "Sem limite diário definido, desde que o conteúdo seja de qualidade e educativo"
+    ],
+    "correct": 0,
+    "explanation": "A OMS recomenda, nesta faixa etária, no máximo 1 hora por dia, quanto menos melhor e de preferência com acompanhamento, e não recomenda ecrãs antes dos 2 anos. Os restantes valores são mais permissivos do que a recomendação e não correspondem a ela.",
+    "source": "OMS, Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age, 2019, https://www.who.int/news/item/24-04-2019-to-grow-up-healthy-children-need-to-sit-less-and-play-more (texto de recomendações lido no comunicado da OMS); AAP 2026 refere limites de cerca de <1 hora/dia em pequenos e pré-escolares: AAP, Digital Ecosystems, Children, and Adolescents (policy statement), Pediatrics 2026;157(2):e2025075320, https://pmc.ncbi.nlm.nih.gov/articles/PMC13122503/; AAP 2026, texto lido no PDF (p. 7): limites de <1 hora/dia em pequenos e pré-escolares, sem referir evitar ecrãs abaixo dos 2 anos; a SPNP (PDF, introdução) refere que AAP, OMS, Sociedade Canadiana de Pediatria e o departamento de saúde australiano recomendam evitar ecrãs até aos 2 anos (formulação mais antiga)",
+    "dose": false
+  },
+  {
+    "id": "dsu-5-q1",
+    "itemId": "dsu-5",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo a referência nacional da SPNP, qual é a orientação de tempo de ecrã para uma criança de 5 anos?",
+    "options": [
+      "Até 1 hora por dia, quanto menos melhor, de preferência acompanhado por um adulto",
+      "Até 30 minutos por dia, com conteúdo de qualidade acompanhado por um adulto",
+      "Até 2 horas por dia, desde que o ecrã não substitua o sono nem a brincadeira",
+      "Sem limite fixo, desde que o conteúdo seja educativo e escolhido pelos pais"
+    ],
+    "correct": 1,
+    "explanation": "Dos 4 aos 6 anos a SPNP aponta até 30 minutos por dia de conteúdo de qualidade, escolhido e acompanhado por um adulto. O limite de 1 hora por dia é o da OMS para os 2 aos 4 anos; a referência nacional é mais restritiva do que a OMS.",
+    "source": "Sociedade Portuguesa de Neuropediatria, Recomendações para a Utilização de Ecrãs e Tecnologia Digital em Idade Pediátrica, Sinapse 2025;25(3), https://sinapse.pt/index.php/journal/article/view/163 (texto: https://neuropediatria.pt/wp-content/uploads/Recomendacoes-SPNP-ecras-e-tecnologia-digital-2.pdf); valores confirmados no texto do PDF da SPNP (rec. 1: evitar ecrãs até aos 3 anos, exceto videochamadas, com televisão até 30 min/dia com adulto e conteúdo adequado; rec. 2: 4 a 6 anos até 30 min/dia de programação de alta qualidade com adultos; tabela-resumo: 0 a 3 anos evitar e <30 min TV/dia; 7 a 11 anos <1 h/dia; 12 a 15 anos <2 h/dia)",
+    "dose": false
+  },
+  {
+    "id": "dsu-18-q1",
+    "itemId": "dsu-18",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapariga de 15 anos, em consulta, responde ao CRAFFT: na parte A refere consumo ocasional de canábis; na parte B responde sim a duas perguntas. Como se interpreta este resultado?",
+    "options": [
+      "O risco é baixo, porque o consumo é só ocasional, e basta repetir o rastreio na consulta seguinte",
+      "O resultado estabelece o diagnóstico de perturbação grave por uso de substâncias e dispensa mais avaliação",
+      "Duas ou mais respostas sim na parte B sugerem risco elevado e pedem avaliação aprofundada",
+      "O resultado não é interpretável, porque o CRAFFT não está validado para adolescentes de 15 anos"
+    ],
+    "correct": 2,
+    "explanation": "Como houve consumo na parte A, fazem-se as 6 perguntas da parte B, e 2 ou mais respostas sim sugerem risco elevado de perturbação por uso de substâncias, com avaliação mais aprofundada. O resultado sugere risco, não estabelece diagnóstico, e o CRAFFT está validado dos 12 aos 18 anos.",
+    "source": "CRAFFT 2.1, Boston Children's Hospital (CABHRe), © 2020, versão 2021-07, https://crafft.org/wp-content/uploads/2021/07/CRAFFT_2.1_Clinician_2021-07-03.pdf; CRAFFT 2.1, instruções de uso, https://crafft.org/use-the-crafft/; limiar de 2 respostas sim confirmado no texto da folha do CRAFFT 2.1 e da versão portuguesa-brasileira (2 ou mais respostas sim sugerem um problema grave que precisa de avaliação adicional; a folha inclui um gráfico da probabilidade de perturbação por uso de substâncias DSM-5 por pontuação, cujos valores não foi possível ler com segurança na extração); a folha não indica o intervalo de idades; AACAP SUD 2026 (PDF, p. 6-7) descreve o CRAFFT como rastreio para menores de 21 anos e recomenda os instrumentos listados dos 12 aos 18 anos",
+    "dose": false
+  },
+  {
+    "id": "dsu-19-q1",
+    "itemId": "dsu-19",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "No aconselhamento breve após o CRAFFT (os 5 R), qual destes é um dos passos?",
+    "options": [
+      "Negociar um contrato escrito de abstinência com o jovem",
+      "Pedir um teste toxicológico para confirmar o relato",
+      "Propor uma redução gradual do consumo em vez de recomendar não consumir",
+      "Aconselhar sobre boleias e condução (segurança rodoviária)"
+    ],
+    "correct": 3,
+    "explanation": "Os 5 passos são rever os resultados, recomendar não consumir, aconselhar sobre boleias e condução, pedir ao jovem os seus motivos para não consumir e reforçar a confiança nele. Contrato escrito, teste toxicológico e redução gradual não fazem parte da lista; o passo da recomendação é não consumir.",
+    "source": "CRAFFT 2.1, Boston Children's Hospital (CABHRe), © 2020, versão 2021-07, https://crafft.org/wp-content/uploads/2021/07/CRAFFT_2.1_Clinician_2021-07-03.pdf; CRAFFT 2.1, instruções de uso, https://crafft.org/use-the-crafft/ (página lida: lista os 5 R do aconselhamento breve); rastreio, intervenção breve e referenciação: AAP Clinical Report SBIRT, Pediatrics 2016;138(1):e20161211, https://doi.org/10.1542/peds.2016-1211 (texto integral lido; reafirmado em novembro de 2023; descreve a intervenção breve como conversa que encoraja escolhas saudáveis, adaptada à gravidade, com reforço positivo, conselho médico breve, intervenção motivacional breve e referenciação); AACAP, Clinical Practice Guideline SUD (excluindo tabaco), JAACAP 2026;65(2):105-138, https://doi.org/10.1016/j.jaac.2025.08.006 (texto lido no PDF, p. 1 e 22: entrevista motivacional breve de 1 a 2 sessões sugerida para uso de álcool, recomendação 2C; eficaz a reduzir dias de consumo excessivo e de consumo de álcool, sem evidência suficiente para outras substâncias); 5 R confirmados no PDF do CRAFFT 2.1 (clinician, 2021-07)",
+    "dose": false
+  },
+  {
+    "id": "dsu-25-q1",
+    "itemId": "dsu-25",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo a CID-11 (CDDR), perturbação de jogos digitais ou videojogos (6C51): que duração do padrão se dá como exemplo e quando pode ser menor?",
+    "options": [
+      "Cerca de 12 meses, podendo ser menos (por exemplo 6 meses) se os sintomas forem graves",
+      "Cerca de 6 meses, podendo ser reduzida a 3 meses se os sintomas forem graves e persistentes",
+      "Cerca de 24 meses, podendo ser reduzida a 12 meses se os sintomas forem graves e persistentes",
+      "Cerca de 3 meses em todos os casos, sem qualquer variação consoante a gravidade dos sintomas"
+    ],
+    "correct": 0,
+    "explanation": "O CDDR dá 12 meses como exemplo de período prolongado, com possibilidade de diagnóstico mais cedo (exemplo: 6 meses) quando os sintomas são graves e os restantes requisitos se cumprem. Os outros pares de valores não correspondem aos exemplos do CDDR.",
+    "source": "CDDR da CID-11 (OMS, Clinical Descriptions and Diagnostic Requirements for ICD-11 Mental, Behavioural and Neurodevelopmental Disorders), 6C51 Gaming disorder, texto lido (txt p. 529-532, p. 511-514 do manual): três características essenciais (controlo diminuído; prioridade crescente sobre outros interesses e atividades; continuação ou escalada apesar de consequências negativas); padrão contínuo ou episódico mas manifestado durante um período prolongado (exemplo: 12 meses); sofrimento ou prejuízo significativo; não explicado por outra perturbação mental nem por substância ou medicamento; se os sintomas e as consequências forem graves, pode diagnosticar-se em menos de 12 meses (exemplo: 6 meses); especificadores online (6C51.0), offline (6C51.1) e não especificado (6C51.Z); limite com a normalidade: jogar muito, diariamente ou muitas horas, sem as outras características, não basta (p. 513); fronteira com o jogo de apostas (apostas em dinheiro, por exemplo póquer online, apontam para 6C50) e com o jogo de risco QE22 (p. 514, 516); OMS, Gaming disorder (perguntas e respostas), 2020; DSM-5-TR (APA, 2022): só refere que a inclusão na CID-11 se justifica pelas semelhanças com o jogo de apostas e as perturbações por substâncias",
+    "dose": false
+  },
+  {
+    "id": "dsu-26-q1",
+    "itemId": "dsu-26",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Qual é o estatuto da perturbação de jogo pela internet (jogos sem apostas) no DSM-5-TR?",
+    "options": [
+      "É diagnóstico oficial, com 4 ou mais de 9 critérios em 12 meses e prejuízo significativo",
+      "Não é oficial: consta da secção III, com 5 ou mais de 9 sintomas propostos em 12 meses",
+      "É diagnóstico oficial, com 5 ou mais de 9 critérios em 12 meses e prejuízo significativo",
+      "Consta da secção III como condição para estudo, com 4 ou mais de 9 sintomas propostos"
+    ],
+    "correct": 1,
+    "explanation": "No DSM-5-TR a perturbação de jogo pela internet está na secção III para estudo posterior, com 5 ou mais de 9 sintomas propostos. Os 4 ou mais de 9 critérios em 12 meses pertencem à perturbação de jogo de apostas, que é a oficial. A CID-11 já a reconhece oficialmente (6C51), mas sem lista de sintomas contáveis.",
+    "source": "APA, Internet Gaming (página informativa sobre o DSM-5-TR, sem data), https://www.psychiatry.org/patients-families/internet-gaming; DSM-5-TR (APA, 2022), confirmado no texto do manual (secção III, condições para estudo posterior, jogo pela internet; perturbação de jogo, secção II); CDDR da CID-11 (OMS), 6C51 Gaming disorder (txt p. 529-532, p. 511-514 do manual): diagnóstico oficial sem contagem de critérios nem graduação de gravidade (só especificadores online/offline); a CID-11 não gradua por contagem de sintomas neste diagnóstico",
+    "dose": false
+  },
+  {
+    "id": "dsu-27-q1",
+    "itemId": "dsu-27",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 13 anos joga vários dias por semana durante muitas horas. Mantém bom desempenho escolar, dorme bem, mantém os amigos e outras atividades, consegue interromper o jogo e não refere sofrimento. Segundo a fonte citada, o que distingue o uso problemático do uso elevado?",
+    "options": [
+      "Sobretudo o número de horas de jogo por dia e por semana, medido pelo adolescente",
+      "O tipo de jogo e da plataforma utilizada, consoante seja online ou offline",
+      "O controlo, o sofrimento, o prejuízo e a continuação apesar de consequências",
+      "A idade de início do jogo e o tipo de dispositivo em que o rapaz joga"
+    ],
+    "correct": 2,
+    "explanation": "O que separa o uso problemático do uso elevado é o controlo, o sofrimento e o prejuízo (sono, escola, família, outras atividades) e a continuação apesar de consequências, não as horas. Neste caso não há perda de controlo nem prejuízo, e poucos jogadores têm perturbação. As outras opções não são o critério de distinção.",
+    "source": "OMS, Gaming disorder (perguntas e respostas), 2020, https://www.who.int/news-room/questions-and-answers/item/addictive-behaviours-gaming-disorder; APA, Internet Gaming (página informativa sobre o DSM-5-TR, sem data), https://www.psychiatry.org/patients-families/internet-gaming (sofrimento como fator distintivo entre envolvimento apaixonado e patologia); DSM-5-TR (APA, 2022), confirmado no texto do manual (jogo pela internet: nos casos típicos 8 a 10 horas por dia e pelo menos 30 por semana, que não é critério; prevalência a 12 meses média de 4,7%, entre 0,7% e 15,6%; 4,6% nos adolescentes)",
+    "dose": false
+  },
+  {
+    "id": "dsu-28-q1",
+    "itemId": "dsu-28",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR, quantos critérios (em 12 meses, com sofrimento ou prejuízo) correspondem a perturbação por uso de substâncias moderada?",
+    "options": [
+      "2 a 3 de 11 critérios",
+      "6 ou mais de 11 critérios",
+      "1 critério, desde que haja prejuízo significativo",
+      "4 a 5 de 11 critérios"
+    ],
+    "correct": 3,
+    "explanation": "O DSM-5-TR exige 2 ou mais de 11 critérios: 2-3 é leve, 4-5 moderada e 6 ou mais grave. A CID-11 não usa esta contagem nem esta graduação.",
+    "source": "NIDA, Cannabis (Marijuana), https://nida.nih.gov/research-topics/cannabis-marijuana (critérios DSM-5 de perturbação por uso de canábis); DSM-5-TR (APA, 2022), confirmado no texto do manual (perturbação por uso de canábis: 11 critérios, pelo menos 2 em 12 meses com sofrimento ou prejuízo; gravidade 2-3 leve, 4-5 moderada, 6 ou mais grave; os mesmos 11 critérios definem as outras perturbações por uso de substâncias; tabaco com os mesmos limiares); CDDR da CID-11 (OMS), texto lido: 6C41.1 harmful pattern of use of cannabis e 6C41.2 cannabis dependence (txt p. 476-477, p. 458-459 do manual: padrão nocivo; txt p. 481-482, p. 463-464: dependência, 2 ou mais de 3 aspetos, 12 meses ou 3 meses se uso contínuo); códigos análogos para o tabaco 6C4A.1 e 6C4A.2; a graduação por número de critérios não consta destas secções",
+    "dose": false
+  },
+  {
+    "id": "dsu-29-q1",
+    "itemId": "dsu-29",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 14 anos é trazido por uso excessivo de jogos, com desatenção, sono irregular e irritabilidade. Qual é a abordagem mais adequada, segundo a fonte citada?",
+    "options": [
+      "Perguntar o que o ecrã faz por ele e avaliar PHDA, ansiedade, depressão, autismo e problemas de sono",
+      "Atribuir perturbação de jogo com base apenas no número de horas de jogo por dia",
+      "Tratar o uso de ecrãs como causa primária do quadro e limitar apenas o acesso aos jogos",
+      "Excluir outras perturbações, porque o uso excessivo de ecrãs explica por si só todo o quadro clínico"
+    ],
+    "correct": 0,
+    "explanation": "O uso problemático de ecrãs ou jogos pode ser sintoma ou consequência de PHDA, ansiedade, depressão, autismo ou problemas de sono, pelo que se explora a função do ecrã e se avaliam estas condições. As outras opções ignoram essa possibilidade ou tratam o uso de ecrãs como explicação suficiente.",
+    "source": "AAP, Digital Ecosystems, Children, and Adolescents (policy statement), Pediatrics 2026;157(2):e2025075320, https://pmc.ncbi.nlm.nih.gov/articles/PMC13122503/ (rastrear PHDA, ansiedade ou depressão perante uso problemático; perguntar as causas subjacentes); APA, Internet Gaming (página informativa sobre o DSM-5-TR, sem data), https://www.psychiatry.org/patients-families/internet-gaming (o jogo pode ser sintoma de depressão ou ansiedade); AAP 2026, texto lido no PDF (p. 3): adolescentes com PHDA, ansiedade ou autismo podem ter maior risco de resultados adversos dos media digitais (relação de vulnerabilidade, não de sintoma); AACAP SUD 2026 (PDF, p. 4) lista o autismo e os problemas de sono entre as perturbações associadas ao uso de substâncias; problemas de sono como causa do uso de ecrãs: prática clínica (sem fonte)",
+    "dose": false
+  },
+  {
+    "id": "dsu-30-q1",
+    "itemId": "dsu-30",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 16 anos, consumidor de canábis, tem um episódio psicótico. Os sintomas mantêm-se 6 semanas depois de suspender o consumo. Segundo o DSM-5-TR, o que isto sugere?",
+    "options": [
+      "Perturbação psicótica induzida por canábis, porque houve consumo prévio da substância",
+      "Perturbação psicótica independente (primária), por persistir cerca de 1 mês após a abstinência",
+      "Intoxicação por canábis, porque a substância é a causa mais provável destes sintomas psicóticos",
+      "Abstinência de canábis, porque os sintomas psicóticos surgiram ao parar o consumo"
+    ],
+    "correct": 1,
+    "explanation": "Sintomas anteriores ao consumo ou que persistem cerca de 1 mês depois da intoxicação ou da abstinência aguda apontam para perturbação independente. A intoxicação e a abstinência agudas não explicam sintomas que persistem 6 semanas depois de parar, e o consumo por si só não prova que a perturbação seja induzida.",
+    "source": "NIDA, Co-Occurring Disorders and Health Conditions, https://nida.nih.gov/research-topics/co-occurring-disorders-health-conditions; NIDA, Cannabis (Marijuana), https://nida.nih.gov/research-topics/cannabis-marijuana; DSM-5-TR (APA, 2022), confirmado no texto do manual (perturbação psicótica induzida por substância ou medicamento: sintomas durante ou logo após intoxicação ou abstinência, não explicados por perturbação independente; consumo de canábis em períodos críticos associa-se a um risco cerca de três vezes superior de psicose); AACAP SUD 2026 (PDF, p. 13): risco de psicose sobretudo com canábis, em particular de início antes dos 16 anos; CDDR da CID-11 (OMS), substance-induced psychotic disorders, 6C41.6 (txt p. 507-508, p. 489-490 do manual): sintomas psicóticos durante ou logo após intoxicação ou abstinência, em intensidade ou duração claramente superiores ao esperado na intoxicação; indícios de perturbação primária: sintomas anteriores ao consumo, persistência substancial após cessação (por exemplo 1 mês ou mais, consoante a substância) ou história de episódios sem consumo",
+    "dose": false
+  },
+  {
+    "id": "dsu-31-q1",
+    "itemId": "dsu-31",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Nos adolescentes com perturbação por uso de substâncias, quais são as comorbilidades particularmente frequentes?",
+    "options": [
+      "Perturbação do espetro do autismo, deficiência intelectual e epilepsia",
+      "Perturbação de tiques e enurese, com atraso do desenvolvimento",
+      "Perturbações do humor, de ansiedade e do comportamento, e PHDA",
+      "Perturbações da linguagem, da aprendizagem e da coordenação motora"
+    ],
+    "correct": 2,
+    "explanation": "São particularmente frequentes as perturbações do humor e de ansiedade, a perturbação do comportamento e a PHDA, e o trauma na infância aumenta o risco. Recomenda-se tratar em conjunto e rastrear nos dois sentidos. As outras opções não são as indicadas.",
+    "source": "NIDA, Co-Occurring Disorders and Health Conditions, https://nida.nih.gov/research-topics/co-occurring-disorders-health-conditions; AACAP SUD 2026, texto lido no PDF (p. 12): perturbações psiquiátricas comórbidas mais comuns no tratamento de adolescentes são problemas de comportamento, PHDA, perturbações do humor e sintomas de trauma, com relação bidirecional; DSM-5-TR (APA, 2022), texto do manual: metade dos adolescentes com perturbação por uso de canábis tinha perturbações internalizantes e 64% externalizantes (estudo de gémeos)",
+    "dose": false
+  },
+  {
+    "id": "dsu-32-q1",
+    "itemId": "dsu-32",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Adolescente de 16 anos responde sim, no CRAFFT, à pergunta sobre ter andado de carro com condutor sob efeito de álcool ou drogas. Qual é a atitude indicada?",
+    "options": [
+      "Valorizar a resposta apenas se o adolescente também consumir sozinho",
+      "Considerar o rastreio concluído, por ser uma só resposta",
+      "Remeter a abordagem da segurança rodoviária para os pais",
+      "Avaliar com mais profundidade e abordar a segurança rodoviária"
+    ],
+    "correct": 3,
+    "explanation": "As respostas sim no CRAFFT, como a boleia com condutor sob efeito de álcool ou drogas, são sinais de alerta que levam a avaliar com mais profundidade e a abordar a segurança rodoviária. Não se espera por mais respostas nem se delega esta abordagem.",
+    "source": "CRAFFT 2.1, Boston Children's Hospital (CABHRe), © 2020, versão 2021-07, https://crafft.org/wp-content/uploads/2021/07/CRAFFT_2.1_Clinician_2021-07-03.pdf",
+    "dose": false
+  },
+  {
+    "id": "dsu-33-q1",
+    "itemId": "dsu-33",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapariga de 15 anos, com muitas faltas escolares e consumo referido no CRAFFT, deixa suspeitar de exploração sexual. Segundo a fonte citada, qual é a conduta?",
+    "options": [
+      "Avaliar com mais atenção e abrir a triagem de risco, por suspeita de exploração",
+      "Tratar apenas o consumo e adiar a questão da exploração para uma consulta posterior",
+      "Aguardar que a jovem fale do assunto, sem abrir a triagem de risco",
+      "Considerar o consumo isolado, porque as faltas escolares não são relevantes"
+    ],
+    "correct": 0,
+    "explanation": "Faltas e exclusão escolar, e a exploração ou abuso sexual, são fatores de maior vulnerabilidade ao consumo, que pedem avaliação mais atenta. Perante suspeita de abuso ou exploração, o médico abre a triagem de risco. As outras opções desvalorizam esses sinais.",
+    "source": "NICE NG64, Drug misuse prevention: targeted interventions, 2017, https://www.nice.org.uk/guidance/ng64/chapter/Recommendations (definição de grupos em risco); AACAP SUD 2026, texto lido no PDF (p. 5): identificar-se como LGBTQ+ associa-se a maior prevalência de perturbações por uso de substâncias; (p. 4) jovens com deficiência intelectual ligeira a moderada são particularmente vulneráveis; NICE NG64 continua sem texto fornecido nos ficheiros lidos (nice__*.txt não inclui NG64): número de recomendação e conteúdo não confirmados",
+    "dose": false
+  },
+  {
+    "id": "do-14-q1",
+    "itemId": "do-14",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 8 anos tem vários tiques motores e um tique vocal, não necessariamente em simultâneo, desde há 14 meses (contados desde o primeiro tique), sem causa médica ou de substância. Segundo o DSM-5-TR, qual é o diagnóstico?",
+    "options": [
+      "Perturbação persistente de tiques motores",
+      "Síndrome ou perturbação de Tourette",
+      "Perturbação de tiques provisória (transitória)",
+      "Perturbação de movimentos estereotipados"
+    ],
+    "correct": 1,
+    "explanation": "O DSM-5-TR pede múltiplos tiques motores e pelo menos um vocal, com início antes dos 18 anos e persistência há mais de 1 ano desde o primeiro tique. Só motores ou só vocais corresponde à perturbação persistente, e duração inferior a 1 ano à provisória.",
+    "source": "ESSTS European clinical guidelines for Tourette syndrome and other tic disorders v2.0, Part I: assessment, Eur Child Adolesc Psychiatry, 2022, https://pmc.ncbi.nlm.nih.gov/articles/PMC8521086/ (tabela 1, critérios DSM-5); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Tic Disorders, critérios, p. impressa 93-94, índice idx 197-198: Tourette com múltiplos tiques motores e um ou mais vocais, persistentes há mais de 1 ano desde o primeiro tique, início antes dos 18 anos, sem substância nem condição médica; persistente motora ou vocal sem ambos; provisória com menos de 1 ano; hierarquia entre os diagnósticos; F95.2, F95.1, F95.0); OMS, ICD-11 CDDR, https://www.who.int/publications/i/item/9789240077263, confirmado no texto lido (8A05.00 Síndrome de Tourette, p. impressa 154, idx 171, e 8A05.01 e 8A05.02, p. 157, idx 174: ambos os tipos de tiques, pelo menos 1 ano, início no período do desenvolvimento, exclusão de condição médica e substância; p. 91, idx 108: \"período do desenvolvimento\" = início antes dos 18 anos; p. 154: tiques transitórios na infância são limite da normalidade; códigos no apêndice, p. 757, idx 774)",
+    "dose": false
+  },
+  {
+    "id": "do-15-q1",
+    "itemId": "do-15",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Qual destas características distingue um tique de outros movimentos?",
+    "options": [
+      "Ser precedido por urgência premonitória e suprimível temporariamente",
+      "Ser contínuo, quase rítmico e fixo, sem qualquer urgência premonitória prévia",
+      "Ser lento e sustentado, sem qualquer possibilidade de supressão voluntária",
+      "Ser involuntário na totalidade, sem poder ser resistido nem suprimido"
+    ],
+    "correct": 0,
+    "explanation": "O tique é súbito, rápido, recorrente e não rítmico, sugestionável, precedido por urgência premonitória, sentido como não totalmente involuntário e suprimível temporariamente. Movimentos contínuos e rítmicos sugerem estereotipias, e o tique pode ser resistido.",
+    "source": "ESSTS European clinical guidelines for Tourette syndrome and other tic disorders v2.0, Part I: assessment, Eur Child Adolesc Psychiatry, 2022, https://pmc.ncbi.nlm.nih.gov/articles/PMC8521086/ (introdução e pontos-chave); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Tic Disorders, nota dos critérios e Diagnostic Features, p. impressa 93-95, idx 197-200: movimento ou vocalização súbito, rápido, recorrente e não rítmico; sensação premonitória; geralmente vividos como involuntários mas suprimíveis por tempo variável; sugestionabilidade); OMS, ICD-11 CDDR, https://www.who.int/publications/i/item/9789240077263, confirmado no texto lido (8A05.00, p. impressa 154, idx 171: tiques são movimentos ou vocalizações súbitos, rápidos, não rítmicos e recorrentes, muito sugestionáveis e suprimíveis por curto tempo; p. 157, idx 174: parecem não intencionais, usam um grupo muscular discreto, são precedidos de urgência sensorial e não visam neutralizar obsessões nem reduzir ansiedade)",
+    "dose": false
+  },
+  {
+    "id": "do-17-q1",
+    "itemId": "do-17",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR, qual é a frequência e duração que definem a enurese (a partir dos 5 anos ou nível de desenvolvimento equivalente), na ausência de sofrimento ou prejuízo?",
+    "options": [
+      "Pelo menos 1 vez por semana durante 3 meses consecutivos",
+      "Pelo menos 2 vezes por semana durante 6 meses seguidos",
+      "Pelo menos 2 vezes por semana durante 3 meses seguidos",
+      "Pelo menos 1 vez por mês durante 3 meses seguidos"
+    ],
+    "correct": 2,
+    "explanation": "O DSM-5-TR exige pelo menos 2 vezes por semana durante 3 meses seguidos, ou sofrimento ou prejuízo clinicamente significativo, a partir dos 5 anos. O limiar de 6 meses seco pertence à ICCS e ao NICE, e a frequência mensal é a da encoprese.",
+    "source": "OMS, ICD-11 CDDR, https://www.who.int/publications/i/item/9789240077263 (6C00 Enurese, p. impressa 421-423, idx 438-440, confirmada no texto lido: critérios essenciais, exemplo \"várias vezes por semana durante vários meses\", voluntária ou involuntária, a CID-11 descreve o curso desde o nascimento ou após controlo adquirido e início habitual dos 5 aos 8 anos nos que já tinham controlo, idade de desenvolvimento equivalente a cerca de 5 anos, especificadores noturna, diurna ou ambas, exclusões por substância ou condição médica); IACAPAP Textbook, cap. C.4 Enurese (von Gontard), ed. portuguesa 2021, https://www.iacapap.org/_Resources/Persistent/d8be0a63711803f3938d7992ef18843096118943/C.4-ENURESE-PORTUGUESE-2021.pdf (primária e secundária, definições ICCS; critérios CID-10 / DSM-IV-TR; DSM-5-TR não consultado); verificação a 10/10/2026: a página da IACAPAP (https://iacapap.org/resources/e-textbook.html) anuncia a edição 2.0 do e-Textbook (https://iacapaptextbook2.com) e que o PDF da 1.ª edição fica disponível só até dezembro de 2026; o site novo é dinâmico e não consegui listar capítulos, por isso não confirmei se estes capítulos foram reeditados; DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Enuresis, critérios A a D, especificadores e Development and Course, p. impressa 400-401, índice idx 576-578: 2 vezes por semana durante 3 meses ou sofrimento ou prejuízo, 5 anos, exclusão de substância e de condição médica, especificadores noturna, diurna e ambas; os tipos primário e secundário aparecem só na descrição do curso); NICE CG111, https://www.nice.org.uk/guidance/cg111/chapter/Recommendations, confirmado no texto lido (tabela 1: seco mais de 6 meses define a forma secundária)",
+    "dose": false
+  },
+  {
+    "id": "do-18-q1",
+    "itemId": "do-18",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR, qual é a frequência, duração e idade de desenvolvimento mínima que definem a encoprese?",
+    "options": [
+      "Pelo menos 2 vezes por semana durante 3 meses, a partir dos 5 anos",
+      "Pelo menos 1 vez por mês durante 6 meses, a partir dos 4 anos",
+      "Pelo menos 1 vez por semana durante 3 meses, a partir dos 3 anos",
+      "Pelo menos 1 vez por mês durante 3 meses, a partir dos 4 anos"
+    ],
+    "correct": 3,
+    "explanation": "A encoprese exige pelo menos 1 episódio por mês durante 3 meses, em criança com idade de desenvolvimento de pelo menos 4 anos, após excluir substância ou condição médica. A frequência de 2 vezes por semana e os 5 anos pertencem à enurese.",
+    "source": "OMS, ICD-11 CDDR, https://www.who.int/publications/i/item/9789240077263 (6C01 Encoprese, p. impressa 424-426, idx 441-443, confirmada no texto lido: critérios essenciais, pelo menos 1 episódio por mês durante vários meses, idade de desenvolvimento equivalente a cerca de 4 anos, exclusão de substância e de condições médicas, especificadores com ou sem obstipação e incontinência por transbordamento); IACAPAP Textbook, cap. C.5 Encopresis (von Gontard), 2012, https://www.iacapap.org/_Resources/Persistent/54402cb8f22277da216b53dad2485ae061e7d47e/C.5-ENCOPRESIS-0072012.pdf (critérios CID-10 / DSM-IV-TR, texto do DSM-5-TR não consultado); verificação a 10/10/2026: a página da IACAPAP (https://iacapap.org/resources/e-textbook.html) anuncia a edição 2.0 do e-Textbook (https://iacapaptextbook2.com) e que o PDF da 1.ª edição fica disponível só até dezembro de 2026; o site novo é dinâmico e não consegui listar capítulos, por isso não confirmei se estes capítulos foram reeditados; DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Encopresis, critérios A a D e especificadores, p. impressa 402-403, índice idx 580-581: pelo menos 1 episódio por mês durante 3 meses, 4 anos ou nível de desenvolvimento equivalente, exclusão de substância ou condição médica exceto por mecanismo que envolva obstipação, especificador com ou sem obstipação e incontinência por transbordamento; F98.1)",
+    "dose": false
+  },
+  {
+    "id": "do-19-q1",
+    "itemId": "do-19",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Menina de 3 anos não atinge os marcos esperados em várias áreas do funcionamento intelectual e a gravidade não pode ser avaliada de forma fiável. Segundo o DSM-5-TR, qual é o diagnóstico adequado, com reavaliação posterior?",
+    "options": [
+      "Atraso global do desenvolvimento",
+      "Deficiência intelectual de gravidade ligeira",
+      "Deficiência intelectual de gravidade moderada",
+      "Variante normal do desenvolvimento, sem diagnóstico"
+    ],
+    "correct": 0,
+    "explanation": "No DSM-5-TR o atraso global do desenvolvimento é reservado a menores de 5 anos que não atingem os marcos em várias áreas e cuja gravidade não pode ser avaliada de forma fiável, com reavaliação posterior. A deficiência intelectual exige limitações confirmadas por avaliação clínica e testes padronizados.",
+    "source": "AAP (Moeschler, Shevell), Comprehensive evaluation of the child with intellectual disability or global developmental delays, Pediatrics, 2014, https://pmc.ncbi.nlm.nih.gov/articles/PMC9923626/; DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Intellectual Developmental Disorder, critérios A a C e Diagnostic Features, p. impressa 41-43, índice idx 135-137; secção Global Developmental Delay, p. impressa 46, idx 141: F88, apenas abaixo dos 5 anos, falha de marcos em várias áreas do funcionamento intelectual, reavaliação posterior; acima dos 5 anos aplica-se a perturbação do desenvolvimento intelectual não especificada, F79; início \"no período do desenvolvimento\" sem idade fixa); OMS, ICD-11 CDDR, https://www.who.int/publications/i/item/9789240077263, confirmado no texto lido (6A00, p. impressa 92-95, idx 109-112: limitações intelectuais e adaptativas cerca de 2 ou mais desvios-padrão abaixo da média, gravidades ligeira, moderada, grave e profunda (6A00.0 a 6A00.3), provisória 6A00.4 abaixo dos 4 anos ou quando a avaliação válida não é possível; p. 91, idx 108: \"período do desenvolvimento\" = início antes dos 18 anos). A fonte AAP não faz parte dos textos obtidos",
+    "dose": false
+  },
+  {
+    "id": "do-21-q1",
+    "itemId": "do-21",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Mãe de um lactente de 18 meses pergunta por que ele arranca cabelo. Segundo a CID-11, como se interpreta?",
+    "options": [
+      "É tricotilomania, porque arrancar cabelo nesta idade indica sempre a perturbação",
+      "Antes dos 2 anos, arrancar cabelo é relativamente comum e resolve-se cedo",
+      "É tricotilomania sempre que haja alguma perda capilar, mesmo sem sofrimento",
+      "É um tique motor complexo, que exige avaliação neuropediátrica"
+    ],
+    "correct": 1,
+    "explanation": "Segundo a CID-11, em lactentes antes dos 2 anos arrancar cabelo é relativamente comum e costuma resolver-se cedo. A tricotilomania exige perda capilar, tentativas repetidas de parar e sofrimento ou prejuízo.",
+    "source": "Woods & Houghton, Diagnosis, evaluation, and management of trichotillomania, Psychiatr Clin North Am, 2014, https://pmc.ncbi.nlm.nih.gov/articles/PMC4143797/ (critérios DSM-5 descritos no artigo); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Trichotillomania (Hair-Pulling Disorder), critérios A a E e Development and Course, p. impressa 282-283, índice idx 429-431: arrancar cabelo com perda capilar, tentativas repetidas de parar, sofrimento ou prejuízo, não atribuível a condição médica nem melhor explicado por outra perturbação; em lactentes costuma resolver-se cedo; início mais comum na puberdade ou depois; F63.3); verificação a 10/10/2026: pesquisa PubMed (guideline ou consenso, 2015-2026) não encontrou guideline de tricotilomania posterior; existe uma revisão de 2025 (Expert Rev Neurother, PMID 40928501) de que só li o título, não consultada; OMS, ICD-11 CDDR, https://www.who.int/publications/i/item/9789240077263, confirmado no texto lido (6B25.0 Tricotilomania, p. impressa 327-330, idx 344-347: arrancar cabelo recorrente, tentativas falhadas de parar, perda capilar significativa, sofrimento ou prejuízo significativo; exclusões (condição médica, delírio ou alucinação, substância não é causa primária); início bimodal, em lactentes relativamente comum, início mais comum no início da adolescência, mais crónica se na adolescência; apêndice p. 757, idx 774: 6B25.0 corresponde a F63.3)",
+    "dose": false
+  },
+  {
+    "id": "do-22-q1",
+    "itemId": "do-22",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Qual destas características aponta para estereotipia (por exemplo no autismo) em vez de tique?",
+    "options": [
+      "Movimentos quase rítmicos e fixos, sem urgência premonitória, de início precoce",
+      "Movimentos breves, precedidos por urgência premonitória, com início mais tardio",
+      "Movimentos complexos e rítmicos de início súbito e tardio, sem supressão",
+      "Movimentos muito rápidos, não suprimíveis, sem urgência premonitória e de início tardio"
+    ],
+    "correct": 0,
+    "explanation": "As estereotipias são contínuas, quase rítmicas e fixas, sem urgência premonitória, e começam muito cedo (DSM-5-TR: antes dos 3 anos). Os tiques surgem mais tarde, são breves e com urgência, e as descrições de movimentos complexos e rítmicos de início súbito, ou muito rápidos e não suprimíveis, combinam características que não são as das estereotipias.",
+    "source": "ESSTS European clinical guidelines for Tourette syndrome and other tic disorders v2.0, Part I: assessment, Eur Child Adolesc Psychiatry, 2022, https://pmc.ncbi.nlm.nih.gov/articles/PMC8521086/ (secção diagnóstico diferencial, estereotipias); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Stereotypic Movement Disorder, Differential Diagnosis, p. impressa 91-92, idx 195-196, e Tic Disorders, diagnóstico diferencial, p. impressa 97, idx 202: estereotipias com início antes dos 3 anos, rítmicas, fixas, prolongadas, sem urgência premonitória, muitas vezes prazerosas ou calmantes, e cessam com distração; tiques surgem por volta dos 4-6 anos, breves e com urgência); OMS, ICD-11 CDDR, https://www.who.int/publications/i/item/9789240077263, confirmado no texto lido (6A06 Perturbação do movimento estereotipado, p. impressa 149-150, idx 166-167, e p. 152, idx 169, e p. 156, idx 173: movimentos padronizados e previsíveis, interrompíveis pela distração, de início mais precoce e mais longos do que os tiques, sem urgência premonitória, por vezes sentidos como agradáveis ou calmantes; início muito cedo, antes dos 2 anos)",
+    "dose": false
+  },
+  {
+    "id": "do-24-q1",
+    "itemId": "do-24",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapariga de 15 anos tem início súbito de movimentos complexos e rítmicos nos braços, pernas e tronco, sem urgência premonitória nem supressão, depois de uso intenso de redes sociais. Qual é a hipótese a considerar?",
+    "options": [
+      "Síndrome de Tourette típica, com tiques motores e vocais",
+      "Tiques funcionais, eventualmente com tiques verdadeiros",
+      "Estereotipias motoras próprias do espetro do autismo",
+      "Tourette, sem possibilidade de componente funcional"
+    ],
+    "correct": 1,
+    "explanation": "Início súbito ou tardio, ausência de urgência e de supressão, comportamentos complexos e rítmicos e, por vezes, ligação às redes sociais caracterizam os tiques funcionais, que podem coexistir com tiques verdadeiros. As outras opções não explicam este início súbito, sem urgência nem supressão.",
+    "source": "ESSTS European clinical guidelines for Tourette syndrome and other tic disorders v2.0, Part I: assessment, Eur Child Adolesc Psychiatry, 2022, https://pmc.ncbi.nlm.nih.gov/articles/PMC8521086/ (movimentos e vocalizações funcionais); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Tic Disorders, Diagnostic Features, idx 200: início fora da idade habitual obriga a considerar movimentos funcionais semelhantes a tiques; \"tic attacks\" de 15 minutos a várias horas sugerem perturbação funcional, idx 203); StatPearls, Tourette Syndrome and Other Tic Disorders (NBK499958, 2026), p. idx 7 (tiques funcionais mais comuns em adolescentes, sobretudo do sexo feminino, por vezes em grupos de pares, sem história prévia de tiques; a ligação às redes sociais não consta deste texto); OMS, ICD-11 CDDR, https://www.who.int/publications/i/item/9789240077263, confirmado no texto lido (6B60, p. impressa 369, idx 386: movimentos funcionais, incluindo espasmo facial \"semelhante a tiques\"; p. 371, idx 388: na criança e no adolescente predominam marcha e convulsões não epiléticas e o quadro é mais frequentemente transitório; a ligação às redes sociais não consta do CDDR)",
+    "dose": false
+  },
+  {
+    "id": "do-26-q1",
+    "itemId": "do-26",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Qual destas é uma causa somática a excluir perante enurese e encoprese?",
+    "options": [
+      "Asma brônquica persistente",
+      "Otite média recorrente",
+      "Doença de Hirschsprung",
+      "Anemia ferropénica grave"
+    ],
+    "correct": 2,
+    "explanation": "A fonte lista as causas somáticas a excluir: malformações urinárias, espinha bífida oculta e medula ancorada, diabetes mellitus e insípida, epilepsia, infeção urinária, obstipação e doença de Hirschsprung. As outras opções não constam dessa lista.",
+    "source": "IACAPAP Textbook, cap. C.4 Enurese (von Gontard), ed. portuguesa 2021, https://www.iacapap.org/_Resources/Persistent/d8be0a63711803f3938d7992ef18843096118943/C.4-ENURESE-PORTUGUESE-2021.pdf (diagnóstico diferencial); IACAPAP Textbook, cap. C.5 Encopresis (von Gontard), 2012, https://www.iacapap.org/_Resources/Persistent/54402cb8f22277da216b53dad2485ae061e7d47e/C.5-ENCOPRESIS-0072012.pdf (Hirschsprung, causas neurológicas); NICE CG111 Bedwetting in under 19s, 2010, revista 2018, https://www.nice.org.uk/guidance/cg111/chapter/Recommendations (rec. 1.3.8 a 1.3.13, confirmadas no texto lido: análise de urina, infeção urinária, problemas neurológicos, obstipação e perda de fezes, suspeita de diabetes); verificação a 10/10/2026: a página NICE CG111 mantém a última revisão em 21/11/2018 (\"no new evidence\") e não mostra versão posterior; verificação a 10/10/2026: a página da IACAPAP (https://iacapap.org/resources/e-textbook.html) anuncia a edição 2.0 do e-Textbook (https://iacapaptextbook2.com) e que o PDF da 1.ª edição fica disponível só até dezembro de 2026; o site novo é dinâmico e não consegui listar capítulos, por isso não confirmei se estes capítulos foram reeditados; OMS, ICD-11 CDDR, https://www.who.int/publications/i/item/9789240077263 (6C00 e 6C01, p. impressa 421 e 424, idx 438 e 441, confirmadas no texto lido: exclusões por infeção urinária, diabetes mellitus, bexiga neurogénica, espinha bífida, megacólon aganglionar e anomalias congénitas, coerentes com este item); DSM-5-TR (APA, 2022), confirmado no texto do manual (secções Enuresis, critério D e Differential Diagnosis, p. impressa 400-402, idx 576-579, e Encopresis, critério D, idx 580: causas médicas a excluir na enurese incluem diabetes, espinha bífida, epilepsia, ureter ectópico, válvulas uretrais posteriores, medula ancorada, bexiga neurogénica, diabetes insípida e infeção urinária aguda; na encoprese, só se considera o mecanismo de obstipação)",
+    "dose": false
+  },
+  {
+    "id": "do-27-q1",
+    "itemId": "do-27",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Num doente com tiques, quais são as comorbilidades a avaliar sempre?",
+    "options": [
+      "Deficiência intelectual e epilepsia",
+      "Perturbação do desenvolvimento da coordenação e perturbação da linguagem",
+      "Perturbação de uso de substâncias e perturbação alimentar",
+      "PHDA e perturbação obsessivo-compulsiva (TOC)"
+    ],
+    "correct": 3,
+    "explanation": "Nos tiques avalia-se sempre PHDA e TOC, e rastreiam-se ansiedade, humor e comportamento disruptivo. Os acessos de raiva e a autolesão são frequentes, e convém perguntar por sono e aprendizagem. As outras combinações não são as indicadas.",
+    "source": "AAN (Pringsheim et al.), Practice guideline recommendations summary: treatment of tics, Neurology, 2019, https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/ (rec. 3a, 4a, 5a); ESSTS European clinical guidelines for Tourette syndrome and other tic disorders v2.0, Part I: assessment, Eur Child Adolesc Psychiatry, 2022, https://pmc.ncbi.nlm.nih.gov/articles/PMC8521086/ (comorbilidades); verificação a 10/10/2026: pesquisa PubMed por autor e título não encontrou atualização nem errata da AAN 2019 (resumo PMID 31061208 e revisão sistemática PMID 31061209, ambos Neurology, 7/5/2019); ESSTS (Addressing co-occurring conditions in behavioural therapy for tic disorders: a review and guideline), Eur Child Adolesc Psychiatry, 2024, https://pubmed.ncbi.nlm.nih.gov/36283996/ (só resumo lido: as comorbilidades abordadas são PHDA, TOC, ansiedade, comportamento disruptivo, autismo e depressão, coerentes com este item). As Partes II e III da ESSTS v2.0 (PubMed 34313861 e 34757514) são de tratamento e não se aplicam a este item; DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Tic Disorders, Comorbidity, p. impressa 97-98, idx 203: PHDA, comportamento disruptivo, TOC e perturbações relacionadas particularmente comuns; também autismo e perturbação específica da aprendizagem; adolescentes e adultos com risco de humor, ansiedade e substâncias); StatPearls (NBK499958), p. idx 3 (PHDA e TOC mais comuns; ansiedade, sono, controlo dos impulsos e comportamento também frequentes) e idx 7 (cerca de 11,4% com comportamentos autolesivos); OMS, ICD-11 CDDR, https://www.who.int/publications/i/item/9789240077263, confirmado no texto lido (8A05.00, p. impressa 156, idx 173: na criança mais PHDA, TOC, autismo e ansiedade de separação; no adolescente e adulto mais depressão, substâncias e bipolar; p. 155, idx 172: pior prognóstico com TOC, PHDA, ansiedade ou depressão associados; p. 157, idx 174: lesão causada pelos tiques não tem intenção de autolesão); ESSTS parte III, Eur Child Adolesc Psychiatry, 2022, https://doi.org/10.1007/s00787-021-01899-z (p. 432: depressão, ansiedade, oposição, acessos de raiva e humor); NICE NG87 rec. 1.7.28 (perturbação de tiques como condição coexistente na PHDA)",
+    "dose": false
+  },
+  {
+    "id": "do-31-q1",
+    "itemId": "do-31",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 11 anos tem tiques de início súbito, com regressão, fraqueza e perda de competências. Qual é a conduta indicada?",
+    "options": [
+      "Considerar avaliação neuropediátrica e causas secundárias ou funcionais",
+      "Tranquilizar a família, por ser a evolução habitual da síndrome de Tourette",
+      "Iniciar tratamento dirigido a Tourette sem pedir mais exames",
+      "Aguardar cerca de um ano antes de qualquer avaliação adicional"
+    ],
+    "correct": 0,
+    "explanation": "Tiques de início súbito ou tardio, atípicos, ou com regressão, fraqueza, alterações do exame neurológico ou perda de competências justificam considerar avaliação neuropediátrica e a exclusão de causa secundária ou funcional. As outras opções atrasam essa avaliação.",
+    "source": "ESSTS European clinical guidelines for Tourette syndrome and other tic disorders v2.0, Part I: assessment, Eur Child Adolesc Psychiatry, 2022, https://pmc.ncbi.nlm.nih.gov/articles/PMC8521086/ (início tardio e tiques funcionais); sinais neurológicos atípicos e início fora da idade habitual: StatPearls, Tourette Syndrome and Other Tic Disorders (NBK499958, 2026), p. idx 1 (início após os 18 anos, ausência de comorbilidade com PHDA ou TOC, ausência de história familiar e achados neurológicos atípicos, como outros movimentos anormais, convulsões, alteração do estado de consciência ou défices focais, devem fazer considerar síndrome de tiques secundária); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Tic Disorders, idx 200: início fora da idade habitual obriga a avaliar outros movimentos anormais); regressão e perda de competências: sem fonte específica para tiques; apoio indireto no CDDR, p. impressa 134, idx 151 (doenças do sistema nervoso com regressão, por exemplo Landau-Kleffner, encefalite autoimune e Rett, no diferencial do autismo); OMS, ICD-11 CDDR, https://www.who.int/publications/i/item/9789240077263, confirmado no texto lido (8A05.00, p. impressa 155, idx 172: início na idade adulta raro e associado a stressores graves, certas drogas ou lesão do sistema nervoso central; p. 154, idx 171: exclusão de condição médica, por exemplo doença de Huntington)",
+    "dose": false
+  },
+  {
+    "id": "do-33-q1",
+    "itemId": "do-33",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Menino de 7 anos tem enurese de início recente, há duas semanas, com sede excessiva. Qual é a conduta indicada?",
+    "options": [
+      "Tratar como enurese primária simples e reavaliar apenas dentro de 3 meses",
+      "Fazer análise de urina e referenciar no próprio dia se houver suspeita de diabetes",
+      "Tranquilizar a família e aguardar a resolução espontânea ao longo dos próximos meses",
+      "Avaliar apenas o contexto psicológico e familiar da criança, sem exames"
+    ],
+    "correct": 1,
+    "explanation": "Enurese de início recente (dias ou semanas) e sede excessiva são sinais de alerta que levam a considerar avaliação e análise de urina, para excluir doença sistémica, diabetes ou infeção. Se houver suspeita de diabetes tipo 1, a referenciação faz-se no próprio dia.",
+    "source": "NICE CG111 Bedwetting in under 19s, 2010, revista 2018, https://www.nice.org.uk/guidance/cg111/chapter/Recommendations (rec. 1.3.1, 1.3.4, 1.3.8, 1.3.10); ICCS, Management and treatment of nocturnal enuresis, J Pediatr Urol, 2020, https://pubmed.ncbi.nlm.nih.gov/32278657/ (só resumo lido) (sinais de aviso: dificuldade miccional, sede excessiva); hematúria: prática clínica (sem fonte); verificação a 10/10/2026: a página NICE CG111 mantém a última revisão em 21/11/2018 (\"no new evidence\") e não mostra versão posterior; NICE CG111 confirmado no texto lido: 1.3.1 (início nos últimos dias ou semanas: considerar doença sistémica), 1.3.4 (esforço abdominal, jato fraco, dor ao urinar), 1.3.8 (análise de urina se início recente, sintomas diurnos, infeção ou diabetes), 1.3.10 (sintomas diurnos graves, infeções recorrentes, problemas físicos ou neurológicos: considerar avaliação, investigação ou referenciação) e 1.3.13 (suspeita de diabetes tipo 1: referenciar no próprio dia); sede excessiva e sangue na urina não constam do CG111",
+    "dose": false
+  },
+  {
+    "id": "do-34-q1",
+    "itemId": "do-34",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Numa criança com obstipação e encoprese, qual destes achados é sinal de alarme que obriga a não tratar como obstipação simples e a referenciar com urgência?",
+    "options": [
+      "Fezes volumosas e duras ocasionais",
+      "Recusa de usar a casa de banho na escola",
+      "Eliminação tardia de mecónio",
+      "Episódios de encoprese sobretudo ao fim da tarde"
+    ],
+    "correct": 2,
+    "explanation": "São sinais de alarme o mecónio tardio, as fezes em fita, a distensão abdominal com vómitos, a fraqueza das pernas e as alterações lombossagradas ou perianais, que obrigam a referenciar com urgência. As outras opções não constam dos sinais de alarme da fonte.",
+    "source": "NICE CG99 Constipation in children and young people, 2010, atualizada 2017, https://www.nice.org.uk/guidance/cg99/chapter/Recommendations (rec. 1.1.2-1.1.5, tabelas 2 e 3); verificação a 10/10/2026: a página NICE CG99 mantém a última atualização em 13/07/2017 e a nota de junho de 2018 (\"no new evidence\"), sem versão posterior. A guideline ESPGHAN/NASPGHAN de tratamento da obstipação funcional (PubMed 42159193, J Pediatr Gastroenterol Nutr, ago. 2026) já foi publicada, só o resumo foi lido; este item é de avaliação, por isso não foi alterado; OMS, ICD-11 CDDR, https://www.who.int/publications/i/item/9789240077263, confirmado no texto lido (6C01, p. impressa 424, idx 441: exclui megacólon aganglionar, espinha bífida e estenose anal, coerente com os sinais de alarme mas sem os confirmar); NICE CG111 1.3.12 e tabela 1 (a perda de fezes frequente é geralmente secundária a obstipação). Os sinais de alarme do NICE CG99 não foram confirmados porque o CG99 não faz parte dos textos obtidos",
+    "dose": false
+  }
+]

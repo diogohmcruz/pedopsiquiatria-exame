@@ -22,6 +22,9 @@ Unidade de conteúdo clínico (critério, hipótese, opção de tratamento, fár
 **Fonte**
 Guideline, manual ou documento de onde vem um item (NICE, AACAP, AAP, CID-11, RCM…). Mostrada ao estudante depois de cada resposta.
 
+**Tema**
+Categoria de uma pergunta de exame: Hipóteses, Tratamento, Farmacologia ou Critérios (critérios, diferencial, comorbilidades e sinais de alerta de cada domínio, revistos contra o DSM-5-TR e a CID-11). Aparece no título de cada pergunta e nos gráficos.
+
 **Quiz**
 Sessão de estudo com 10 perguntas de todo o banco misturadas, sem cronómetro e sem desconto por resposta errada. Depois de cada resposta o estudante vê logo se acertou. Dá prioridade às perguntas não vistas, depois às erradas da última vez.
 

@@ -4,7 +4,7 @@
   const KEY = 'exame.v1';
   const BANK = window.BANK || [];
   const byId = Object.fromEntries(BANK.map(q => [q.id, q]));
-  const LABEL = { hipoteses: 'Hipóteses', tratamento: 'Tratamento', farmacologia: 'Farmacologia' };
+  const LABEL = { hipoteses: 'Hipóteses', tratamento: 'Tratamento', farmacologia: 'Farmacologia', dominios: 'Critérios' };
 
   // estado persistente: seen (nº de vezes vista), last (ok|ko), wrong (histórico de erradas), flags (sinalizações)
   // history: um registo por quiz terminado { at, score, total }
@@ -89,7 +89,7 @@
   }
   const pct = (n, t) => Math.round((n / t) * 100);
   const fmtDate = iso => new Date(iso).toLocaleDateString('pt-PT', { day: 'numeric', month: 'short' });
-  const THEME_COLOR = { hipoteses: INK, tratamento: CLAY, farmacologia: SAGE };
+  const THEME_COLOR = { hipoteses: INK, tratamento: CLAY, farmacologia: SAGE, dominios: '#8A6D1E' };
   const GRADES = [[90, 'Excelente'], [70, 'Satisfaz bastante'], [50, 'Satisfaz'], [30, 'Fraco'], [0, 'Muito fraco']];
   const grade = p => GRADES.find(([min]) => p >= min)[1];
 

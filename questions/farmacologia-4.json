@@ -1,0 +1,376 @@
+[
+  {
+    "id": "farmaco-phda-tiques-51-q1",
+    "itemId": "farmaco-phda-tiques-51",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a ESSTS (Tabela 2, uma única tabela sem separar idades), qual é o intervalo terapêutico diário de aripiprazol no tratamento de tiques/Tourette em crianças e adolescentes (uso fora de indicação)?",
+    "options": [
+      "2,5 a 30 mg/dia",
+      "0,25 a 3 mg/dia",
+      "10 a 60 mg/dia",
+      "0,5 a 5 mg/dia"
+    ],
+    "correct": 0,
+    "explanation": "A ESSTS indica início com 2,5 mg e intervalo terapêutico de 2,5 a 30 mg/dia, subindo devagar e notando que as doses para tiques são bastante inferiores às usadas na psicose. O RCM português não tem posologia para tiques. Os outros intervalos não constam da ESSTS para este fármaco.",
+    "source": "ESSTS, Roessner V et al., European clinical guidelines for Tourette syndrome and other tic disorders, versão 2.0, Parte III (farmacológico), Eur Child Adolesc Psychiatry 2022;31(3):425-441, doi 10.1007/s00787-021-01899-z, https://pmc.ncbi.nlm.nih.gov/articles/PMC8940878/ (secção 'Clinical recommendations...' e Tabela 1, inquérito de 2019); AAN, Pringsheim T et al., Practice guideline recommendations summary: treatment of tics in people with Tourette syndrome and chronic tic disorders, Neurology 2019;92(19):896-906, https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/ (rec. 9a, nível C); BNFc 2020-2021 (NICE; edição de 2020-2021, pode estar desatualizada), p. 265, nice__BNFC-2020-2021.pdf.txt, linhas 36316-36335, 36389, 36394",
+    "dose": true
+  },
+  {
+    "id": "farmaco-phda-tiques-52-q1",
+    "itemId": "farmaco-phda-tiques-52",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a ESSTS (Tabela 2), em crianças e adolescentes com tiques tratados com risperidona (fora de indicação), qual é o intervalo terapêutico diário?",
+    "options": [
+      "0,025 a 0,3 mg/dia",
+      "2,5 a 30 mg/dia",
+      "1 a 6 mg/dia",
+      "0,25 a 3,0 mg/dia"
+    ],
+    "correct": 3,
+    "explanation": "A ESSTS dá dose inicial de 0,25 mg e intervalo de 0,25 a 3,0 mg/dia para a risperidona nos tiques; o BNFc 2020-2021 não tem dose para tiques. Os outros intervalos não são os da ESSTS para a risperidona.",
+    "source": "ESSTS, Roessner V et al., European clinical guidelines for Tourette syndrome and other tic disorders, versão 2.0, Parte III (farmacológico), Eur Child Adolesc Psychiatry 2022;31(3):425-441, doi 10.1007/s00787-021-01899-z, https://pmc.ncbi.nlm.nih.gov/articles/PMC8940878/ (secção 'Risperidone', Tabela 2); AAN, Pringsheim T et al., Practice guideline recommendations summary: treatment of tics in people with Tourette syndrome and chronic tic disorders, Neurology 2019;92(19):896-906, https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/ (rec. 9a a 9f); BNFc 2020-2021 (NICE; edição de 2020-2021, pode estar desatualizada), p. 270, nice__BNFC-2020-2021.pdf.txt, linhas 37009-37060, 37076-37077",
+    "dose": true
+  },
+  {
+    "id": "farmaco-phda-tiques-53-q1",
+    "itemId": "farmaco-phda-tiques-53",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o RCM português da tiaprida, na população pediátrica (indicações sem tiques; o uso nos tiques é fora de indicação), qual é a dose máxima diária?",
+    "options": [
+      "150 mg/dia",
+      "450 mg/dia",
+      "300 mg/dia",
+      "600 mg/dia"
+    ],
+    "correct": 2,
+    "explanation": "O RCM português indica dose habitual de 100 a 150 mg/dia e máximo de 300 mg/dia, inferior ao limite superior da ESSTS. O valor de 600 mg/dia é o limite superior da ESSTS (Tabela 2), não do RCM; 150 mg/dia é o topo da dose habitual, não o máximo.",
+    "source": "ESSTS, Roessner V et al., European clinical guidelines for Tourette syndrome and other tic disorders, versão 2.0, Parte III (farmacológico), Eur Child Adolesc Psychiatry 2022;31(3):425-441, doi 10.1007/s00787-021-01899-z, https://pmc.ncbi.nlm.nih.gov/articles/PMC8940878/ (secção 'Tiapride', Tabela 2); AAN, Pringsheim T et al., Practice guideline recommendations summary: treatment of tics in people with Tourette syndrome and chronic tic disorders, Neurology 2019;92(19):896-906, https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/ (rec. 9a, texto de racional: tiapride entre os antipsicóticos 'provavelmente' superiores ao placebo)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-phda-tiques-54-q1",
+    "itemId": "farmaco-phda-tiques-54",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a ESSTS (Tabela 2, sem separar idades), qual é a dose inicial diária de clonidina em crianças com tiques e PHDA associada (fora de indicação em Portugal)?",
+    "options": [
+      "0,25 mg/dia",
+      "0,025 mg/dia",
+      "0,1 mg/dia",
+      "0,5 mg/dia"
+    ],
+    "correct": 1,
+    "explanation": "A ESSTS dá início a 0,025 mg/dia e intervalo de 0,025 a 0,3 mg/dia, titulado segundo tensão arterial e frequência cardíaca. Os outros valores não são a dose inicial da clonidina na ESSTS.",
+    "source": "ESSTS, Roessner V et al., European clinical guidelines for Tourette syndrome and other tic disorders, versão 2.0, Parte III (farmacológico), Eur Child Adolesc Psychiatry 2022;31(3):425-441, doi 10.1007/s00787-021-01899-z, https://pmc.ncbi.nlm.nih.gov/articles/PMC8940878/ (secção 'Clinical recommendations...'); AAN, Pringsheim T et al., Practice guideline recommendations summary: treatment of tics in people with Tourette syndrome and chronic tic disorders, Neurology 2019;92(19):896-906, https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/ (rec. 8a, 8b); BNFc 2020-2021 (NICE; edição de 2020-2021, pode estar desatualizada), p. 106, 108, nice__BNFC-2020-2021.pdf.txt, linhas 14967-14973, 15189-15200",
+    "dose": true
+  },
+  {
+    "id": "farmaco-phda-tiques-57-q1",
+    "itemId": "farmaco-phda-tiques-57",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o RCM português do haloperidol, em adolescentes dos 10 aos 17 anos com perturbação de tiques grave (incluindo Tourette) após falha de outros tratamentos, qual é a dose diária oral?",
+    "options": [
+      "5 a 10 mg/dia, numa só toma",
+      "0,5 a 3 mg/dia, em 2 a 3 tomas",
+      "0,05 a 0,3 mg/dia, em 2 a 3 tomas",
+      "3 a 6 mg/dia, em 2 a 3 tomas"
+    ],
+    "correct": 1,
+    "explanation": "O RCM indica 0,5 a 3 mg/dia por via oral, de preferência em 2 a 3 tomas, reavaliando a necessidade de continuar a cada 6 a 12 meses; o BNFc 2020-2021 coincide. Os restantes intervalos ficam abaixo ou acima do valor do RCM.",
+    "source": "ESSTS, Roessner V et al., European clinical guidelines for Tourette syndrome and other tic disorders, versão 2.0, Parte III (farmacológico), Eur Child Adolesc Psychiatry 2022;31(3):425-441, doi 10.1007/s00787-021-01899-z, https://pmc.ncbi.nlm.nih.gov/articles/PMC8940878/ (secção 'First-generation antipsychotics' e Tabela 2); AAN, Pringsheim T et al., Practice guideline recommendations summary: treatment of tics in people with Tourette syndrome and chronic tic disorders, Neurology 2019;92(19):896-906, https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/ (rec. 9e: ECG e QTc antes e depois de iniciar pimozida); BNFc 2020-2021 (NICE; edição de 2020-2021, pode estar desatualizada), p. 262 (haloperidol), 263 (pimozida), nice__BNFC-2020-2021.pdf.txt, linhas 35885-35896, 35897-35901, 35947-35950, 36048-36053, 36074-36081",
+    "dose": true
+  },
+  {
+    "id": "farmaco-sono-outros-5-q1",
+    "itemId": "farmaco-sono-outros-5",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o RCM da melatonina de libertação prolongada pediátrica (Slenyto), em crianças e adolescentes de 6 a 17 anos com PHDA e insónia, qual é o máximo diário se clinicamente necessário?",
+    "options": [
+      "10 mg/dia",
+      "5 mg/dia",
+      "15 mg/dia",
+      "20 mg/dia"
+    ],
+    "correct": 0,
+    "explanation": "O RCM indica dose inicial de 1-2 mg, ajustável individualmente para 5 mg/dia independentemente da idade, e máximo de 10 mg/dia se clinicamente necessário, 30 min a 1 h antes de deitar. Os 5 mg/dia são a dose de ajuste habitual, não o máximo.",
+    "source": "RCM do Slenyto no INFOMED/Infarmed (descarregado a 10/10/2026; 1.ª autorização 20/09/2018, renovação 05/06/2023; secção 10 sem data preenchida no PDF), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=638506&tipo_doc=rcm; EMA, Slenyto EPAR (visão geral; 'Last updated 01/04/2025'), https://www.ema.europa.eu/en/medicines/human/EPAR/slenyto; BNFc 2020-2021, melatonina p. 312 (nice__BNFC-2020-2021.pdf.txt, linhas 42899-42935)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-sono-outros-27-q1",
+    "itemId": "farmaco-sono-outros-27",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a guideline canadiana de 2020 (não é dose de RCM), em jovens com anorexia nervosa a quem se acrescenta aripiprazol como adjuvante em contexto especializado, qual a dose inicial?",
+    "options": [
+      "2,5 a 5 mg, com titulação rápida até à dose-alvo",
+      "10 mg, dose única fixa, sem titulação",
+      "15 mg, com titulação lenta ao longo de semanas",
+      "0,5 a 1,0 mg, com titulação muito cuidadosa"
+    ],
+    "correct": 3,
+    "explanation": "A guideline canadiana 2020 recomenda iniciar em dose muito baixa, 0,5 a 1,0 mg, e titular com muito cuidado. O RCM e o BNFc não têm indicação nem dose para anorexia nervosa, por isso a dose fica por confirmar.",
+    "source": "Couturier et al., Canadian practice guidelines for the treatment of children and adolescents with eating disorders, J Eat Disord 2020 (PMID 32021688; texto integral lido via Europe PMC, secções Recommendations e Medications), https://pmc.ncbi.nlm.nih.gov/articles/PMC6995106/; NICE NG69, Eating disorders: recognition and treatment (publicada 23/05/2017; atualizada 16/12/2020; 'Last reviewed 15/08/2024'), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations; RCM Abilify (Otsuka, autorização centralizada; PDF no INFOMED sem data legível), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=33905&tipo_doc=rcm; BNFc 2020-2021, aripiprazol p. 265 (nice__BNFC-2020-2021.pdf.txt, linhas 36314-36345, 36383-36386, 35580)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-sono-outros-29-q1",
+    "itemId": "farmaco-sono-outros-29",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o RCM português da fluoxetina, na bulimia nervosa em adultos (como complemento da psicoterapia), qual é a dose diária indicada?",
+    "options": [
+      "20 mg/dia",
+      "40 mg/dia",
+      "60 mg/dia",
+      "120 mg/dia"
+    ],
+    "correct": 2,
+    "explanation": "O RCM indica 60 mg/dia na bulimia nervosa em adultos e idosos, podendo a dose ser aumentada ou diminuída; o RCM autoriza esta indicação só em adultos e o BNFc não tem dose para bulimia em nenhuma idade.",
+    "source": "RCM Fluoxetina Generis 20 mg/5 ml solução oral (aprovado 17/05/2023), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=31154&tipo_doc=rcm; WFSBP, guidelines update 2023 on the pharmacological treatment of eating disorders, World J Biol Psychiatry 2023 (só li o resumo no PubMed; o resumo não indica a idade), https://pubmed.ncbi.nlm.nih.gov/37350265/; NICE NG69, Eating disorders: recognition and treatment (publicada 23/05/2017; atualizada 16/12/2020; 'Last reviewed 15/08/2024'), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations; BNFc 2020-2021, fluoxetina p. 253 (nice__BNFC-2020-2021.pdf.txt, linhas 34702-34740)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-sono-outros-40-q1",
+    "itemId": "farmaco-sono-outros-40",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o RCM do Niquitin Citrus 2 mg (pastilha), em adolescentes de 12 a 17 anos com aconselhamento de profissional de saúde, qual é a duração máxima da terapêutica de substituição de nicotina?",
+    "options": [
+      "4 semanas",
+      "6 semanas",
+      "10 semanas",
+      "20 semanas"
+    ],
+    "correct": 2,
+    "explanation": "O RCM limita a TSN em adolescentes a 10 semanas e não admite terapêutica combinada. As 6 semanas referem-se à fase inicial do esquema antes de reduzir gradualmente, não à duração máxima. O BNFc usa até 3 meses, mas a pergunta indica o RCM.",
+    "source": "RCM Niquitin Citrus 2 mg comprimido para chupar (INFOMED; data não legível), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=646765&tipo_doc=rcm; RCM Niquitin Menta 4 mg comprimido para chupar (INFOMED; data não legível), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=43911&tipo_doc=rcm; RCM Niquitin Mint 2 mg goma (INFOMED; data não legível), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=583841&tipo_doc=rcm; RCM Nicorette Clear (patch; INFOMED, data não legível), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=51927&tipo_doc=rcm; RCM Nicorette goma 2/4 mg, https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=6069&tipo_doc=rcm; BNFc 2020-2021, nicotina p. 314 (nice__BNFC-2020-2021.pdf.txt, linhas 43192-43224)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-phda-tiques-40-q1",
+    "itemId": "farmaco-phda-tiques-40",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a fonte citada, em crianças e adolescentes com PHDA tratados com atomoxetina, o que se pode fazer perante um efeito adverso significativo?",
+    "options": [
+      "Reduzir obrigatoriamente em 1 mg a cada 3 a 7 dias, com monitorização",
+      "Interromper de repente, sem sintomas de privação distintos nos estudos",
+      "Manter sempre o fármaco até ao fim do ciclo de tratamento, sem exceções",
+      "Suspender só após 1 mês de ajuste sem melhoria, nunca de repente"
+    ],
+    "correct": 1,
+    "explanation": "A fonte indica que a atomoxetina pode ser interrompida de repente em caso de efeito adverso significativo, porque nos estudos não houve sintomas de privação distintos; caso contrário pode ser reduzida ao ritmo que se achar conveniente. O esquema de redução de 1 mg a cada 3 a 7 dias não consta desta fonte; a fonte só diz que, sem efeito adverso significativo, a redução pode ser feita ao ritmo que se achar conveniente.",
+    "source": "RCM atomoxetina (genérico) (INFOMED/Infarmed, med_id 619907), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=619907&tipo_doc=rcm, secção 4.2, Interrupção do tratamento, consultado em 10/10/2026",
+    "dose": false
+  },
+  {
+    "id": "farmaco-phda-tiques-43-q1",
+    "itemId": "farmaco-phda-tiques-43",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapaz de 14 anos com PHDA medicado com guanfacina de libertação prolongada queixa-se há semanas de tonturas e teve dois desmaios; mede-se hipotensão ortostática mantida. Qual a conduta indicada?",
+    "options": [
+      "Reduzir a dose ou mudar de medicação para a PHDA",
+      "Manter a dose, pois a hipotensão ortostática é esperada e dispensa alteração",
+      "Aumentar a dose até a tensão arterial estabilizar",
+      "Suspender de repente e reavaliar só ao fim de 1 ano"
+    ],
+    "correct": 0,
+    "explanation": "Perante hipotensão ortostática mantida ou desmaios com guanfacina, a fonte indica reduzir a dose ou mudar de medicação. Manter ou aumentar a dose não responde ao problema; e suspender de repente com reavaliação só ao fim de um ano não é o que a fonte indica.",
+    "source": "NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.8.12); RCM guanfacina de libertação prolongada (INFOMED/Infarmed, med_id 600122), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=600122&tipo_doc=rcm, secção 4.4, consultado em 10/10/2026; BNFc 2020-2021 (NICE; edição de 2020-2021, pode estar desatualizada), p. 242, nice__BNFC-2020-2021.pdf.txt, linhas 33150-33152",
+    "dose": false
+  },
+  {
+    "id": "farmaco-phda-tiques-60-q1",
+    "itemId": "farmaco-phda-tiques-60",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapariga de 12 anos com tiques e PHDA vai iniciar guanfacina de libertação prolongada; a mãe refere QT longo na família. Além de tensão arterial e frequência cardíaca, que monitorização se acrescenta?",
+    "options": [
+      "Doseamento da prolactina",
+      "Provas de função hepática mensais",
+      "Glicemia e lípidos em jejum",
+      "Monitorizar o QTc"
+    ],
+    "correct": 3,
+    "explanation": "A fonte manda monitorizar o QTc com guanfacina de libertação prolongada se houver doença cardíaca, outros fármacos que prolonguem o QT ou história familiar de QT longo, além de tensão arterial, pulso e sintomas cardiovasculares. Prolactina, provas hepáticas e glicemia e lípidos não constam da monitorização dos agonistas alfa-2 nesta fonte.",
+    "source": "AAN, Pringsheim T et al., Practice guideline recommendations summary: treatment of tics in people with Tourette syndrome and chronic tic disorders, Neurology 2019;92(19):896-906, https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/ (rec. 8c, 8d, 8e); ESSTS, Roessner V et al., European clinical guidelines for Tourette syndrome and other tic disorders, versão 2.0, Parte III (farmacológico), Eur Child Adolesc Psychiatry 2022;31(3):425-441, doi 10.1007/s00787-021-01899-z, https://pmc.ncbi.nlm.nih.gov/articles/PMC8940878/ (secções 'Clonidine' e 'Guanfacine'); BNFc 2020-2021 (NICE; edição de 2020-2021, pode estar desatualizada), p. 247-248, nice__BNFC-2020-2021.pdf.txt, linhas 33914-33917, 33967-33975",
+    "dose": false
+  },
+  {
+    "id": "farmaco-phda-tiques-61-q1",
+    "itemId": "farmaco-phda-tiques-61",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a fonte citada, como se devem retirar os antipsicóticos usados nos tiques e porquê?",
+    "options": [
+      "De uma só vez, pois não há risco com a suspensão do antipsicótico",
+      "Em apenas 1 a 2 semanas, para evitar hipertensão arterial de ressalto",
+      "Em poucos dias, para evitar uma crise hipertensiva após a suspensão",
+      "Gradualmente, ao longo de semanas a meses, para evitar discinesias"
+    ],
+    "correct": 3,
+    "explanation": "Os antipsicóticos retiram-se gradualmente ao longo de semanas a meses para evitar discinesias de privação. A hipertensão de ressalto e a crise hipertensiva são o risco dos agonistas alfa-2 (clonidina e guanfacina), não dos antipsicóticos.",
+    "source": "AAN, Pringsheim T et al., Practice guideline recommendations summary: treatment of tics in people with Tourette syndrome and chronic tic disorders, Neurology 2019;92(19):896-906, https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/ (rec. 9f e 8f); ESSTS, Roessner V et al., European clinical guidelines for Tourette syndrome and other tic disorders, versão 2.0, Parte III (farmacológico), Eur Child Adolesc Psychiatry 2022;31(3):425-441, doi 10.1007/s00787-021-01899-z, https://pmc.ncbi.nlm.nih.gov/articles/PMC8940878/ (secção 'Clinical recommendations...'); BNFc 2020-2021 (NICE; edição de 2020-2021, pode estar desatualizada), p. 108, 248, nice__BNFC-2020-2021.pdf.txt, linhas 15228-15229, 33976-33977",
+    "dose": false
+  },
+  {
+    "id": "farmaco-sono-outros-10-q1",
+    "itemId": "farmaco-sono-outros-10",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapaz de 15 anos com PHDA e insónia inicia melatonina de libertação prolongada (Slenyto), mas já toma fluvoxamina. Segundo o RCM, qual a razão para evitar esta combinação?",
+    "options": [
+      "A fluvoxamina reduz muito a exposição à melatonina, a cerca de um dezassete avos",
+      "A combinação só é desaconselhada pela presença de lactose no excipiente",
+      "A fluvoxamina aumenta muito a exposição à melatonina (AUC 17 vezes superior)",
+      "A fluvoxamina duplica a exposição à melatonina, sem relevância clínica"
+    ],
+    "correct": 2,
+    "explanation": "O RCM do Slenyto refere, entre as combinações a evitar, a fluvoxamina, com AUC 17 vezes superior e Cmax 12 vezes superior. A lactose é motivo de contraindicação apenas por hipersensibilidade aos excipientes, não é a razão desta interação.",
+    "source": "RCM do Slenyto no INFOMED/Infarmed (descarregado a 10/10/2026; 1.ª autorização 20/09/2018, renovação 05/06/2023; secção 10 sem data preenchida no PDF), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=638506&tipo_doc=rcm; BNFc 2020-2021, melatonina p. 312 (nice__BNFC-2020-2021.pdf.txt, linhas 42937-42960)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-sono-outros-11-q1",
+    "itemId": "farmaco-sono-outros-11",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o RCM do Slenyto, qual é o intervalo máximo entre reavaliações regulares da necessidade de continuar a melatonina?",
+    "options": [
+      "1 mês",
+      "6 meses",
+      "12 meses",
+      "24 meses"
+    ],
+    "correct": 1,
+    "explanation": "O RCM manda reavaliar regularmente, pelo menos de 6 em 6 meses, se continua a ser o tratamento mais adequado (o efeito avalia-se aos cerca de 3 meses); o BNFc 2020-2021 também pede revisão de 6 em 6 meses. Há dados até 2 anos de tratamento, mas isso não define o intervalo.",
+    "source": "RCM do Slenyto no INFOMED/Infarmed (descarregado a 10/10/2026; 1.ª autorização 20/09/2018, renovação 05/06/2023; secção 10 sem data preenchida no PDF), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=638506&tipo_doc=rcm; AAN, Buckley et al., Neurology 2020 (guideline de insónia em PEA; só li o resumo no PubMed), https://pubmed.ncbi.nlm.nih.gov/32051244/; AEP/SES, Consenso sobre tratamento da insónia em PEA <18 anos, An Pediatr (Engl Ed) 2026 (só li o resumo no PubMed), https://pubmed.ncbi.nlm.nih.gov/41702749/; BNFc 2020-2021, melatonina p. 311-312 (nice__BNFC-2020-2021.pdf.txt, linhas 42808, 42966-42970)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-sono-outros-12-q1",
+    "itemId": "farmaco-sono-outros-12",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o RCM do Slenyto, em crianças e adolescentes com PHDA em tratamento prolongado com melatonina, com que frequência mínima se devem fazer tentativas de interrupção?",
+    "options": [
+      "Pelo menos uma vez por ano",
+      "Pelo menos de 6 em 6 anos",
+      "Só quando surgir síndrome de privação",
+      "Nunca, por não haver tentativas de interrupção previstas"
+    ],
+    "correct": 0,
+    "explanation": "No tratamento prolongado em PHDA, sobretudo se o efeito for incerto, o RCM indica tentativas regulares de interrupção, pelo menos uma vez por ano. O RCM não descreve síndrome de privação nem esquema de redução gradual.",
+    "source": "RCM do Slenyto no INFOMED/Infarmed (descarregado a 10/10/2026; 1.ª autorização 20/09/2018, renovação 05/06/2023; secção 10 sem data preenchida no PDF), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=638506&tipo_doc=rcm; BNFc 2020-2021, melatonina p. 312 (nice__BNFC-2020-2021.pdf.txt, linhas 42966-42970)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-sono-outros-22-q1",
+    "itemId": "farmaco-sono-outros-22",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapaz de 8 anos com enurese noturna primária e compromisso renal moderado (depuração da creatinina de 40 ml/min) é visto para desmopressina. Segundo o RCM da Desmopressina Sandoz, qual a posição?",
+    "options": [
+      "Está contraindicada, pois a depuração é inferior a 50 ml/min",
+      "Pode usar-se com a dose reduzida a metade, sem outra restrição",
+      "Só está contraindicada se a depuração for inferior a 10 ml/min",
+      "Está indicada preferencialmente nesta situação, sem ajuste de dose"
+    ],
+    "correct": 0,
+    "explanation": "O RCM Sandoz (secção 4.3) contraindica a desmopressina no compromisso renal moderado ou grave, com depuração da creatinina inferior a 50 ml/min. O BNFc é menos restritivo (só pede precaução), mas a pergunta refere o RCM. A enurese noturna primária é indicação autorizada a partir dos 5 anos.",
+    "source": "RCM Desmopressina Sandoz 60/120 µg comprimidos sublinguais (aprovado 15/11/2023), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=690804&tipo_doc=rcm; NICE CG111, Bedwetting in under 19s (publicada 27/10/2010; 'Last reviewed 21/11/2018': sem nova evidência que altere as recomendações), https://www.nice.org.uk/guidance/cg111/chapter/Recommendations; BNFc 2020-2021, desmopressina p. 469-470 (nice__BNFC-2020-2021.pdf.txt, linhas 63542-63548, 63584-63586)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-sono-outros-32-q1",
+    "itemId": "farmaco-sono-outros-32",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Adolescente de 15 anos com depressão major, tratado com fluoxetina, suspendeu-a abruptamente e apresenta sintomas de suspensão intoleráveis. Segundo o RCM, qual a conduta?",
+    "options": [
+      "Manter a suspensão, pois a fluoxetina desaparece do organismo em poucos dias",
+      "Aumentar para o dobro da dose anterior, de imediato",
+      "Reduzir de novo em apenas 1 a 2 dias, para acelerar a retirada",
+      "Considerar retomar a dose anterior e descer mais devagar"
+    ],
+    "correct": 3,
+    "explanation": "O RCM recomenda evitar a interrupção abrupta, reduzir ao longo de pelo menos 1 a 2 semanas e, se os sintomas forem intoleráveis, considerar retomar a dose anterior e descer mais devagar. A substância permanece no organismo durante semanas após parar, e os esquemas rápidos contrariam a retirada gradual.",
+    "source": "RCM Fluoxetina Generis 20 mg/5 ml solução oral (aprovado 17/05/2023), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=31154&tipo_doc=rcm; BNFc 2020-2021, ISRS p. 252 (nice__BNFC-2020-2021.pdf.txt, linhas 34607-34620)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-sono-outros-35-q1",
+    "itemId": "farmaco-sono-outros-35",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a guideline canadiana de 2020, porque é que o bupropiom não é recomendado nas perturbações alimentares de jovens?",
+    "options": [
+      "Por prolongar o QTc de forma marcada",
+      "Por provocar ganho de peso excessivo",
+      "Pelo risco acrescido de convulsões",
+      "Por causar hiponatremia grave em jovens"
+    ],
+    "correct": 2,
+    "explanation": "A guideline canadiana 2020 inclui o bupropiom entre os fármacos não recomendados nas perturbações alimentares devido ao maior risco de convulsões nesta população. Os outros efeitos não são o motivo apontado pela guideline.",
+    "source": "Couturier et al., Canadian practice guidelines for the treatment of children and adolescents with eating disorders, J Eat Disord 2020 (PMID 32021688; texto integral lido via Europe PMC, secções Recommendations e Medications), https://pmc.ncbi.nlm.nih.gov/articles/PMC6995106/; ATS, Treatment of Nicotine Use in Adolescents Under 18 Years of Age, Am J Respir Crit Care Med 2025 (texto integral lido via Europe PMC), https://pmc.ncbi.nlm.nih.gov/articles/PMC12432397/; BNFc 2020-2021, PHDA p. 242 (nice__BNFC-2020-2021.pdf.txt, linhas 33164-33168)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-sono-outros-43-q1",
+    "itemId": "farmaco-sono-outros-43",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o NICE NG209 (cessação tabágica), o que se deve fazer depois de uma pessoa tentar parar de fumar com terapêutica de substituição de nicotina?",
+    "options": [
+      "Dar alta sem seguimento posterior, por a TSN prevenir sempre a recaída",
+      "Oferecer apoio para prevenir recaídas e perguntar pelo estado tabágico",
+      "Prolongar a TSN para além do limite do RCM, por rotina, em todos os jovens",
+      "Esperar que o jovem peça nova consulta se voltar a fumar, sem contacto prévio"
+    ],
+    "correct": 1,
+    "explanation": "O NICE NG209 (1.11.7) manda oferecer apoio para prevenir recaídas após a tentativa de parar e perguntar pelo estado tabágico na consulta seguinte. A fonte refere que a evidência de a TSN prevenir recaída é mista, pelo que não substitui o seguimento.",
+    "source": "RCM Niquitin Clear 7/14/21 mg/24 h (INFOMED; data do texto não legível no PDF), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=34250&tipo_doc=rcm; RCM Niquitin Citrus 2 mg comprimido para chupar (INFOMED; data não legível), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=646765&tipo_doc=rcm; NICE NG209, Tobacco: preventing uptake, promoting quitting and treating dependence (publicada 30/11/2021; atualizada 04/02/2025), https://www.nice.org.uk/guidance/ng209/chapter/Treating-tobacco-dependence; BNFc 2020-2021, nicotina p. 313-315 (nice__BNFC-2020-2021.pdf.txt, linhas 43136-43140, 43192-43255)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-sono-outros-47-q1",
+    "itemId": "farmaco-sono-outros-47",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o NICE CG115, o que se deve oferecer a crianças e jovens de 10 a 17 anos que precisam de desintoxicação alcoólica assistida?",
+    "options": [
+      "Desintoxicação comunitária com clometiazol",
+      "Desintoxicação em regime de internamento",
+      "Desintoxicação em ambulatório, sem supervisão",
+      "Nenhum tratamento farmacológico nem internamento"
+    ],
+    "correct": 1,
+    "explanation": "O NICE CG115 (1.3.7.5) manda oferecer internamento aos 10-17 anos que precisam de desintoxicação assistida, com esquema baseado nas recomendações do adulto e ajustado à idade, estatura, massa e desenvolvimento. O clometiazol não deve ser dado em desintoxicação comunitária.",
+    "source": "NICE CG115, Alcohol-use disorders: diagnosis, assessment and management of harmful drinking and alcohol dependence (publicada 23/02/2011; atualizada 21/10/2014; 'Last reviewed 19/07/2019'), secção 1.3.7, https://www.nice.org.uk/guidance/cg115/chapter/Recommendations; BNFc 2020-2021, diazepam p. 236 (nice__BNFC-2020-2021.pdf.txt, linhas 32317-32360) e dependência p. 313 (linhas 43028-43035)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-sono-outros-48-q1",
+    "itemId": "farmaco-sono-outros-48",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapaz de 16 anos com perturbação por opioides aceita tratamento de substituição com buprenorfina sublingual. Segundo o RCM português (Buprenorfina Aurovitas), o que se aplica?",
+    "options": [
+      "Está autorizada a partir dos 15 anos, com concordância e médico experiente",
+      "Está autorizada só em adultos, sem qualquer uso em adolescentes de 16 anos",
+      "Está autorizada a partir dos 12 anos, sem exigência de concordância do doente",
+      "Está autorizada a partir dos 15 anos, mas só em regime de internamento prolongado"
+    ],
+    "correct": 0,
+    "explanation": "O RCM autoriza o tratamento de substituição da dependência de opiáceos em adultos e adolescentes a partir dos 15 anos que tenham concordado em ser tratados, por médico com experiência. A AACAP 2026 sugere ainda tratamento mais prolongado e redução mais lenta nos jovens.",
+    "source": "AACAP, Clinical Practice Guideline: Assessment and Treatment of Adolescents and Young Adults With SUD and Problematic Substance Use (Excluding Tobacco), JAACAP 2026 fev; 65(2) (só li o resumo no PubMed; texto integral 403), https://pubmed.ncbi.nlm.nih.gov/40819708/; RCM Buprenorfina Aurovitas comprimidos sublinguais (INFOMED; data não legível) https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=51770&tipo_doc=rcm; BNFc 2020-2021, buprenorfina p. 291 (nice__BNFC-2020-2021.pdf.txt, linhas 39910-39975) e metadona p. 317 (linhas 43539-43560)",
+    "dose": false
+  }
+]

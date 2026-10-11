@@ -1,0 +1,478 @@
+[
+  {
+    "id": "dan-12-q1",
+    "itemId": "dan-12",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 13 anos, com queixas de irritabilidade, que evita a escola e as atividades de grupo e fala muito pouco em situações sociais. Segundo o alerta clínico do NICE para a ansiedade social, sobre que problema deve o clínico perguntar de forma dirigida?",
+    "options": [
+      "Ansiedade, em especial ansiedade social",
+      "Perturbação de oposição e desafio",
+      "Perturbação por défice de atenção e hiperatividade",
+      "Perturbação do comportamento (conduta)"
+    ],
+    "correct": 0,
+    "explanation": "O alerta descreve exatamente este quadro (evitamento da escola e de grupos, evitamento de falar em situações sociais, irritabilidade) e manda perguntar por ansiedade, sobretudo social. As outras perturbações não são o que o alerta indica para este conjunto de sinais.",
+    "source": "NICE CG159 (ansiedade social), 2013, https://www.nice.org.uk/guidance/cg159/chapter/Recommendations (rec. 1.4.1, lida e confirmada: alerta para evitamento escolar, social ou de grupo, irritabilidade, timidez excessiva, dependência dos pais); ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6B05, p. 289, lido e confirmado: relutância ou recusa em ir à escola como manifestação da ansiedade de separação; 6B03 p. 283, 6B04 p. 288 e 6B05 p. 292, Boundary with oppositional defiant disorder: irritabilidade, raiva e não cumprimento surgem por vezes associados à ansiedade em crianças e adolescentes)",
+    "dose": false
+  },
+  {
+    "id": "dan-13-q1",
+    "itemId": "dan-13",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Uma criança tem recusa escolar e queixas somáticas (dor de barriga, cefaleias, náuseas) sem causa física, que melhoram em casa ou ao fim de semana. Além da ansiedade, qual destas é uma explicação possível referida para este padrão?",
+    "options": [
+      "Perturbação psicótica",
+      "Bullying na escola",
+      "Perturbação de tiques",
+      "Enurese noturna isolada"
+    ],
+    "correct": 1,
+    "explanation": "Este padrão pode refletir ansiedade (de separação, social ou generalizada), mas também depressão, bullying ou dificuldades de aprendizagem. As restantes opções não são apontadas como explicações para este quadro.",
+    "source": "DGS/CNSM, Recomendações para a Prática Clínica da Saúde Mental Infantil e Juvenil nos CSP, 2009, https://www.pgdlisboa.pt/docpgd/files/cnsm.pdf (secção Recusa escolar, p. 31-32 do PDF, lida e confirmada: corresponde habitualmente a dificuldades de separação ou ansiedade de desempenho; queixas somáticas antes de ir para a escola; distinguir de absentismo por desinvestimento, sem ansiedade de separação; pode ser manifestação inaugural de outra perturbação psiquiátrica; fatores escolares como violência, humilhação por pares e dificuldades de aprendizagem); AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (Assessment, Differential Diagnosis, p. 3 do PDF, lida: depressão com queixas somáticas e perturbações de aprendizagem com preocupação com o desempenho escolar podem mimetizar ansiedade; o texto da AACAP 2020 não menciona recusa escolar nem bullying); CID-11 (6B05, p. 290, lido e confirmado: na adolescência a ansiedade com a escola ou a recusa escolar não costuma dever-se ao medo da separação mas a outros fatores, como absentismo, rejeição pelos pares ou bullying)",
+    "dose": false
+  },
+  {
+    "id": "dan-14-q1",
+    "itemId": "dan-14",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Menina de 3 anos que chora e se agarra à mãe perante situações novas, tem medos intensos e dificuldades de sono, sem verbalizar preocupações. O que deve o clínico ponderar antes de concluir por ansiedade clínica?",
+    "options": [
+      "Que o choro e o agarrar-se perante o novo são sempre patológicos",
+      "Que a ausência de queixas verbalizadas exclui ansiedade nesta idade",
+      "Que parte do evitamento de situações novas pode ser temperamento",
+      "Que as dificuldades de sono apontam sempre para outra perturbação"
+    ],
+    "correct": 2,
+    "explanation": "No pré-escolar a ansiedade exprime-se sobretudo por comportamento (birras, choro, imobilidade, agarrar-se, evitamento, sono) e não por palavras, pelo que a falta de verbalização não a exclui. Ainda assim, parte do evitamento de situações novas pode dever-se ao temperamento. As outras opções contrariam estas duas ideias.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (lido e confirmado em parte: 6B03 p. 281 nos pré-escolares as respostas fóbicas incluem imobilidade, birras ou choro; 6B05 p. 291 nos mais novos predominam birras ou choro à separação e seguir os cuidadores pela casa, porque exprimem pior os receios; 6B04 p. 285-286 a inibição comportamental é variação normal do temperamento e fator de risco para ansiedade social; 6B00 p. 268 ansiedade generalizada pouco comum antes dos 5 anos; \"agarrar-se\" é do DSM-5-TR e não consta da CID-11); AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/; DSM-5-TR (APA, 2022), confirmado no texto do manual (Specific Phobia, Critério A e Development and Course, p. 225 e 228, e Social Anxiety Disorder, Critério C, p. 231: na criança o medo ou a ansiedade pode exprimir-se por choro, birras, imobilidade ou agarrar-se; Social Anxiety Disorder, Development and Course, p. 232: a ansiedade social surge por vezes a partir de uma história de inibição social ou timidez); AACAP 2020, p. 2 do PDF (medos normativos conforme a fase de desenvolvimento)",
+    "dose": false
+  },
+  {
+    "id": "dan-15-q1",
+    "itemId": "dan-15",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Na ansiedade generalizada do escolar, com que a criança se preocupa sobretudo?",
+    "options": [
+      "Com a separação dos pais ou dos cuidadores",
+      "Com a contaminação por germes e sujidade",
+      "Com o que os colegas pensam dela no recreio",
+      "Com a sua competência e o seu desempenho"
+    ],
+    "correct": 3,
+    "explanation": "A fonte refere que, na ansiedade generalizada, a criança preocupa-se sobretudo com a sua competência e o seu desempenho. As outras opções não são o foco de preocupação indicado para a ansiedade generalizada na fonte.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (lido e confirmado: 6B00 p. 267-268 pedidos repetidos de reasseguramento nas crianças, perfeccionismo, queixas somáticas, e preocupação das crianças e adolescentes com o desempenho académico e desportivo; 6B05 p. 289-290 recusa escolar; 6B04 p. 284 e 286 o medo de interagir com pares pode ser adequado se houver bullying, e na ansiedade social há evitamento subtil); AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/; DSM-5-TR (APA, 2022), confirmado no texto do manual (Generalized Anxiety Disorder, Diagnostic Features, p. 252: as crianças tendem a preocupar-se em excesso com a competência e a qualidade do desempenho); AACAP 2020, Differential Diagnosis, p. 3 do PDF (TOC pode incluir evitamento e procura de reasseguramento). O reasseguramento no TOC apoia-se só na AACAP, não no CDDR lido",
+    "dose": false
+  },
+  {
+    "id": "dan-17-q1",
+    "itemId": "dan-17",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR, qual a duração mínima dos sintomas da ansiedade de separação em crianças e adolescentes?",
+    "options": [
+      "Pelo menos 4 semanas",
+      "Pelo menos 2 semanas",
+      "Pelo menos 3 meses",
+      "Pelo menos 6 meses"
+    ],
+    "correct": 0,
+    "explanation": "O DSM-5-TR exige pelo menos 3 de 8 sintomas durante pelo menos 4 semanas em crianças e adolescentes; os 6 meses ou mais são o padrão típico nos adultos. A CID-11 não fixa um número de semanas e pede um período prolongado (vários meses).",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6B05, Essential features, p. 289, lido e confirmado: \"pelo menos vários meses\", sem número mínimo de sintomas; Boundary with normality, p. 290: as reações dos pré-escolares são adequadas ao desenvolvimento e distinguem-se pela persistência, por exemplo vários meses); AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (Assessment, Evaluation: definição de ansiedade de separação; a AACAP 2020 não fixa duração); DSM-5-TR (APA, 2022), confirmado no texto do manual (Separation Anxiety Disorder, Critérios A a D, p. 218: pelo menos 3 de 8 sintomas, duração de pelo menos 4 semanas em crianças e adolescentes e tipicamente 6 meses ou mais em adultos, sofrimento ou prejuízo, exclusão por outra perturbação mental como autismo, psicose, agorafobia, ansiedade generalizada e ansiedade de doença; Diagnostic Features, p. 219; início já possível na idade pré-escolar, p. 220)",
+    "dose": false
+  },
+  {
+    "id": "dan-18-q1",
+    "itemId": "dan-18",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o critério de duração do mutismo seletivo, a ausência consistente de fala em situações sociais específicas tem de durar no mínimo:",
+    "options": [
+      "2 semanas, contadas a partir do início dos sintomas",
+      "1 mês, não limitado ao primeiro mês de escola",
+      "3 meses, contados a partir da entrada na escola",
+      "6 meses, incluindo o primeiro mês de escola"
+    ],
+    "correct": 1,
+    "explanation": "A duração mínima é de 1 mês e não se limita ao primeiro mês de escola. As outras durações não constam da fonte.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6B06, Essential features, p. 293, lido e confirmado; início habitualmente antes dos 5 anos e duração, p. 293-294: seletividade consistente da fala, duração de pelo menos 1 mês e não limitada ao primeiro mês de escola, não explicada por falta de domínio da língua nem por outra perturbação, com interferência no aproveitamento escolar ou na comunicação social); AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (Assessment, Evaluation: definição de mutismo seletivo); DSM-5-TR (APA, 2022), confirmado no texto do manual (Selective Mutism, Critérios A a E, p. 223: falha consistente na fala em situações em que se espera que fale, interferência na escola ou na comunicação social, pelo menos 1 mês e não limitada ao primeiro mês de escola, língua não explica, não explicado por perturbação da comunicação nem exclusivamente no autismo ou psicose; Development and Course, p. 224: início habitualmente antes dos 5 anos, podendo só ser notado à entrada na escola)",
+    "dose": false
+  },
+  {
+    "id": "dan-19-q1",
+    "itemId": "dan-19",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR, na ansiedade generalizada em crianças, quantos sintomas associados (de 6) são necessários, além da ansiedade e preocupação excessivas durante pelo menos 6 meses?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "No DSM-5-TR bastam 1 sintoma associado em crianças, ao passo que nos adultos são precisos 3 de 6. A CID-11 não usa este critério e pede vários meses de sintomas na maioria dos dias.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6B00, p. 266-268, lido e confirmado: apreensão generalizada ou preocupação excessiva em vários aspetos do dia a dia; sintomas associados como tensão muscular, sintomas autonómicos, nervosismo, dificuldade de concentração, irritabilidade, perturbação do sono, sem número mínimo; pelo menos vários meses, na maioria dos dias; p. 267: nas crianças pedidos frequentes de reasseguramento, início típico no princípio a meio da casa dos 30; p. 268: pouco comum antes dos 5 anos, perfeccionismo, cefaleias e dor abdominal frequentes); AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (Assessment, Evaluation: definição de ansiedade generalizada; a AACAP 2020 não fixa duração nem número de sintomas); DSM-5-TR (APA, 2022), confirmado no texto do manual (Generalized Anxiety Disorder, Critérios A a F, p. 251-252: pelo menos 6 meses, mais dias do que não, preocupação difícil de controlar, 3 de 6 sintomas (inquietação, fadiga, dificuldade de concentração, irritabilidade, tensão muscular, perturbação do sono), apenas 1 nas crianças, exclusão de substância, condição médica como hipertiroidismo e de outra perturbação mental; Development and Course, p. 253: idade média de início 35 anos na América do Norte e raro antes da adolescência)",
+    "dose": false
+  },
+  {
+    "id": "dan-20-q1",
+    "itemId": "dan-20",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Menina de 4 anos que, ao ver um cão, fica imobilizada, chora e se agarra à mãe. Segundo a fonte sobre fobia específica, como deve o clínico lidar com a dificuldade de confirmar o evitamento nesta idade?",
+    "options": [
+      "Excluir fobia porque a criança não relata que evita os cães",
+      "Basear a avaliação apenas no relato da própria criança",
+      "Recolher também informação junto de pais e professores",
+      "Diagnosticar fobia logo à primeira observação, sem outra informação"
+    ],
+    "correct": 2,
+    "explanation": "No pré-escolar a fobia pode manifestar-se por imobilidade, birras, choro ou agarrar-se, e a criança pequena pode não compreender o conceito de evitamento. Por isso convém recolher informação com pais e professores. Excluir a fobia por falta de relato ou assentar só na criança não é o que a fonte indica, e os medos passageiros da criança pequena não bastam para o diagnóstico.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6B03, p. 280-283, lido e confirmado: Essential features, Boundary with normality p. 281, Developmental presentations p. 281-282: pode surgir aos 3 anos, início mais comum entre os 7 e os 10 anos, nos pré-escolares imobilidade, birras ou choro; ansiedade social em dan-35 [6B04, p. 284-288]); AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (Assessment, Evaluation: definições de fobia específica e ansiedade social; a AACAP 2020 não fixa duração); DSM-5-TR (APA, 2022), confirmado no texto do manual (Specific Phobia, Critérios A a G, p. 225: medo marcado perante objeto ou situação específicos, quase sempre imediato, evitado ou suportado com medo intenso, desproporcionado, tipicamente 6 meses ou mais, nas crianças expresso por choro, birras, imobilidade ou agarrar-se; Development and Course, p. 227-228: início habitual antes dos 10 anos, idade mediana 7 a 11, medos excessivos transitórios da criança pequena não dão fobia, e as crianças pequenas não compreendem o conceito de evitamento)",
+    "dose": false
+  },
+  {
+    "id": "dan-35-q1",
+    "itemId": "dan-35",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR, na criança com ansiedade social, onde tem de ocorrer a ansiedade?",
+    "options": [
+      "Apenas com adultos, e não com pares",
+      "Apenas em situações de desempenho em público",
+      "Em casa e na escola em simultâneo",
+      "Com pares, e não apenas com adultos"
+    ],
+    "correct": 3,
+    "explanation": "O DSM-5-TR exige que, na criança, a ansiedade ocorra com pares e não apenas com adultos. A CID-11 não impõe esta regra e admite que crianças mais novas tenham ansiedade social sobretudo com adultos. O fenómeno restrito ao desempenho em público corresponde ao especificador de desempenho.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6B04, p. 284-286, lido e confirmado: Essential features, \"pelo menos vários meses\"; Boundary with normality p. 285; Developmental presentations p. 285-286: início possível desde a infância, grande maioria dos casos entre os 8 e os 15 anos, evitamento subtil como falar pouco ou evitar o contacto visual, dificuldade em iniciar ou manter conversas, e crianças mais novas com ansiedade sobretudo com adultos e adolescentes com pares); AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (Assessment, Evaluation: definição de ansiedade social; a AACAP 2020 não fixa duração); DSM-5-TR (APA, 2022), confirmado no texto do manual (Social Anxiety Disorder, Critérios A a J, p. 230-231: medo marcado de situações sociais com possível escrutínio, medo de avaliação negativa, quase sempre presente, evitado ou suportado, desproporcionado, tipicamente 6 meses ou mais, sofrimento ou prejuízo, exclusão de substância ou condição médica e de outra perturbação mental; nota da criança: ansiedade com pares e não só com adultos, e expressão por choro, birras, imobilidade, agarrar-se, encolhimento ou não falar; especificador \"só desempenho\", p. 231; idade mediana de início 13 anos, p. 232)",
+    "dose": false
+  },
+  {
+    "id": "dan-25-q1",
+    "itemId": "dan-25",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Na CID-11 e no DSM-5-TR, que tempo diário é dado como exemplo de ocupação por pensamentos intrusivos ou rituais que pode justificar o diagnóstico de TOC?",
+    "options": [
+      "Mais de 1 hora por dia",
+      "Mais de 15 minutos por dia",
+      "Mais de 30 minutos por dia",
+      "Qualquer ocupação, desde que haja pensamentos intrusivos"
+    ],
+    "correct": 0,
+    "explanation": "Pensamentos intrusivos ocasionais são vividos por quase toda a gente. O diagnóstico de TOC pode justificar-se quando pensamentos ou rituais são frequentes, causam sofrimento, ocupam tempo (por exemplo mais de 1 hora por dia) ou prejudicam o funcionamento. Aceitar qualquer ocupação contraria a ideia de que os pensamentos ocasionais são comuns.",
+    "source": "NICE CG31, 2005, https://www.nice.org.uk/guidance/cg31/chapter/Recommendations (rec. 1.1.1.1-1.1.1.2, lidas e confirmadas: vergonha e dificuldade em falar dos sintomas; pensamentos intrusivos são experimentados ocasionalmente por quase toda a gente e, quando frequentes e angustiantes, são típicos do TOC; o texto lido das recomendações inclui crianças e jovens, mas o limite de idade do âmbito (8 anos) não consta do texto lido, não confirmado); CG31 continua em vigor (página do NICE consultada em 10/10/2026: 'Last reviewed: 11 July 2024', 'Update in progress'); a atualização parcial GID-NG10435 ainda não foi publicada (publicação prevista 16/02/2027; consulta pública do projeto de 17/09/2026 a 21/10/2026, texto do projeto não lido), https://www.nice.org.uk/guidance/indevelopment/gid-ng10435; DSM-5-TR (APA, 2022), confirmado no texto do manual (Obsessive-Compulsive Disorder, Critérios A e B, p. 266: obsessões, compulsões ou ambas, incluindo atos mentais; consomem tempo, por exemplo mais de 1 hora por dia, OU causam sofrimento ou prejuízo; as crianças pequenas podem não conseguir explicar o objetivo dos atos; especificadores de insight e relacionado com tiques, p. 267); CID-11 (6B20, p. 300 e 302, lido e confirmado: obsessões e compulsões, incluindo atos mentais, que consomem tempo, por exemplo mais de 1 hora por dia, ou causam sofrimento ou prejuízo; pensamentos intrusivos e comportamentos repetitivos frequentes na população geral; preocupações e rituais próprios do desenvolvimento, transitórios e sem sofrimento, não são TOC)",
+    "dose": false
+  },
+  {
+    "id": "dan-29-q1",
+    "itemId": "dan-29",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 12 anos com asma, que usa broncodilatador e descongestionante nasal, bebe bebidas com cafeína e apresenta ansiedade de início recente. Na avaliação diferencial da ansiedade, o que deve o clínico fazer?",
+    "options": [
+      "Atribuir de imediato o quadro a uma perturbação de ansiedade generalizada",
+      "Rever a medicação e perguntar por cafeína, tabaco, álcool e drogas",
+      "Limitar a avaliação ao relato da criança sobre as preocupações",
+      "Excluir causas médicas porque a asma é uma doença respiratória"
+    ],
+    "correct": 1,
+    "explanation": "A fonte manda considerar causas médicas, rever a medicação (os broncodilatadores e os descongestionantes nasais são exemplos) e perguntar por cafeína, tabaco, álcool e outras drogas. Concluir por perturbação de ansiedade sem esta revisão, ou excluir a asma como causa, vai contra a fonte.",
+    "source": "AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (secção Assessment, Differential Diagnosis: condições médicas, medicamentos e substâncias que podem causar ansiedade; a reconciliação da medicação faz parte da avaliação); ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6B00, p. 266, lido e confirmado: sintomas não atribuíveis a outra condição médica, p. ex. hipertiroidismo, nem aos efeitos de substâncias ou medicação, p. ex. cafeína, cocaína, privação de álcool ou benzodiazepinas); NICE CG159, 2013, https://www.nice.org.uk/guidance/cg159/chapter/Recommendations (rec. 1.4.6, lida e confirmada: medicação, álcool e drogas na avaliação; formulado para ansiedade social); DSM-5-TR (APA, 2022), confirmado no texto do manual (Generalized Anxiety Disorder, Critério E, p. 252: perturbação não atribuível a substância ou condição médica como hipertiroidismo; Substance/Medication-Induced Anxiety Disorder, p. 256: ansiedade ou pânico predominantes surgidos durante ou logo após intoxicação ou privação de substância ou exposição a medicamento)",
+    "dose": false
+  },
+  {
+    "id": "dan-31-q1",
+    "itemId": "dan-31",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo a CID-11, em que grupo de perturbações está classificado o mutismo seletivo (6B06)?",
+    "options": [
+      "Perturbações do neurodesenvolvimento e da comunicação",
+      "Perturbações disruptivas do comportamento ou dissociais",
+      "Perturbações de ansiedade ou relacionadas com o medo",
+      "Perturbações do humor, incluindo as depressivas e bipolares"
+    ],
+    "correct": 2,
+    "explanation": "Na CID-11 o mutismo seletivo (6B06) está nas perturbações de ansiedade ou relacionadas com o medo, e no DSM-5-TR também está no capítulo das perturbações de ansiedade. Coexiste com muita frequência com ansiedade social.",
+    "source": "NICE CG159, 2013 (rec. 1.4.12, lida e confirmada: mutismo seletivo como dificuldade associada); ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6B06, p. 293-294, lido e confirmado: coocorrência muito frequente com perturbações de ansiedade, sobretudo ansiedade social, e a maioria das crianças com mutismo apresenta sintomas de outra perturbação de ansiedade); DSM-5-TR (APA, 2022), confirmado no texto do manual (capítulo Anxiety Disorders, visão geral, p. 217, e Selective Mutism, Associated Features, p. 223-224: as crianças com mutismo seletivo quase sempre recebem também outro diagnóstico de ansiedade, mais frequentemente ansiedade social; os sintomas de ansiedade social permanecem muitas vezes mesmo quando o mutismo desvanece, p. 224)",
+    "dose": false
+  },
+  {
+    "id": "dan-32-q1",
+    "itemId": "dan-32",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapariga de 14 anos que falta à escola de forma persistente há 3 semanas e se isola dos amigos. Qual a conduta mais adequada?",
+    "options": [
+      "Aguardar até ao fim do período letivo antes de avaliar",
+      "Tratar como falta disciplinar, sem avaliação clínica",
+      "Avaliar o impacto escolar e social e articular com a escola",
+      "Limitar a avaliação à rapariga, sem contactar a escola"
+    ],
+    "correct": 2,
+    "explanation": "A recusa escolar prolongada, o absentismo ou o isolamento pedem avaliação do impacto escolar e social e articulação com a escola; a DGS (2009) sugere referenciar quando é persistente e superior a 2 semanas. As outras opções adiam ou dispensam a avaliação e a articulação.",
+    "source": "AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (secção Assessment, Evaluation Structure: informação colateral de professores; secção Treatment: intervenções dirigidas à escola, como regresso gradual à escola na ansiedade de separação); ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6B05, p. 290, lido e confirmado: a recusa escolar é comum e na adolescência pode dever-se a absentismo, rejeição pelos pares ou bullying; 6B04, p. 286, lido e confirmado: retraimento social e recusa escolar em adolescentes com ansiedade social); NICE CG159 (ansiedade social), 2013, https://www.nice.org.uk/guidance/cg159/chapter/Recommendations (rec. 1.4.1 e 1.4.12, lidas e confirmadas: evitamento escolar, funcionamento educacional e social, bullying); DGS/CNSM, Recomendações para a Prática Clínica da Saúde Mental Infantil e Juvenil nos CSP, 2009, https://www.pgdlisboa.pt/docpgd/files/cnsm.pdf (secção Recusa escolar, p. 31-32 do PDF, lida: articulação pais/escola/médico, regresso gradual à escola e referenciação à pedopsiquiatria na recusa persistente superior a 2 semanas; documento de 2009; em 10/10/2026 não encontrei versão portuguesa mais recente com este conteúdo clínico)",
+    "dose": false
+  },
+  {
+    "id": "dan-33-q1",
+    "itemId": "dan-33",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Adolescente de 15 anos com ansiedade e sintomas depressivos, que não responde às perguntas sobre autolesão e ideação suicida. Como se deve interpretar a ausência de resposta?",
+    "options": [
+      "Como ausência de risco, encerrando o tema da avaliação",
+      "Como risco baixo, a reavaliar só se houver agravamento",
+      "Como ausência de risco, desde que os pais confirmem",
+      "Não equivale a ausência de risco, pelo que se reavalia"
+    ],
+    "correct": 3,
+    "explanation": "A fonte manda perguntar sempre por autolesão e ideação suicida em jovens ansiosos, sobretudo com comorbilidade depressiva, e diz que não responder não equivale a ausência de risco: é preciso reavaliar. Se houver suspeita de risco, abre-se a triagem de risco.",
+    "source": "AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (secção Assessment, Safety: pensamentos e comportamentos suicidas, autolesão, comportamentos de risco e impulsividade avaliados na avaliação e durante o tratamento; abuso ou negligência; Introduction: pânico e ansiedade generalizada com depressão comórbida podem implicar maior risco); NICE CG159, 2013, https://www.nice.org.uk/guidance/cg159/chapter/Recommendations (rec. 1.4.11, lida e confirmada: risco de autolesão, abuso ou negligência familiar e exploração; formulado para ansiedade social); DSM-5-TR (APA, 2022), confirmado no texto do manual (Anxiety Disorders, visão geral, p. 217: perturbação de pânico, ansiedade generalizada e fobia específica são as mais associadas à passagem de ideação suicida a tentativa); AACAP 2020 (Introduction, p. 1 do PDF, lida: 9% dos adolescentes com ansiedade referiram ideação suicida e 6% tentativas; pânico e ansiedade generalizada com depressão comórbida podem implicar o maior risco); CID-11 (6B01, p. 273, lido e confirmado: os adolescentes com perturbação de pânico têm maior risco de depressão coocorrente, incluindo suicidalidade, e de perturbações por uso de substâncias)",
+    "dose": false
+  },
+  {
+    "id": "dc-13-q1",
+    "itemId": "dc-13",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR (F91.3), a partir dos 5 anos, quantos comportamentos de irritabilidade, desafio ou vingança e com que frequência são exigidos para a perturbação de oposição e desafio?",
+    "options": [
+      "Pelo menos 4, com frequência semanal",
+      "Pelo menos 3, com frequência quase diária",
+      "Pelo menos 4, com frequência quase diária",
+      "Pelo menos 6, com frequência semanal"
+    ],
+    "correct": 0,
+    "explanation": "A partir dos 5 anos o DSM-5-TR pede pelo menos 4 comportamentos com frequência semanal; antes dos 5 anos a frequência exigida é quase diária. Tem de se observar com pelo menos uma pessoa que não seja irmão. A CID-11 não define número mínimo nem frequência.",
+    "source": "ICD-11 CDDR, OMS, https://www.who.int/publications/i/item/9789240077263 (6C90, pp. 538-541; 6C90.0, 6C90.1 e 6C90.Z, p. 537); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Oppositional Defiant Disorder, critérios A a C e especificador de gravidade, F91.3). Divergência (CID-11 lida): a CID-11 (p. 538) pede um padrão marcadamente desobediente, desafiador e atípico, com duração de, por exemplo, 6 meses ou mais e prejuízo significativo, sem número mínimo de sintomas nem frequência, e (p. 540) não exclui o diagnóstico por os comportamentos serem pouco frequentes se caracterizarem a maioria das interações com figuras de autoridade; exclui se se explicarem por um problema relacional com uma figura de autoridade em particular (p. 538). O DSM-5-TR exige 4 de 8 sintomas, frequência definida por idade e observação com pelo menos uma pessoa que não seja irmão",
+    "dose": false
+  },
+  {
+    "id": "dc-15-q1",
+    "itemId": "dc-15",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR (F91.x), qual o critério de número e tempo de comportamentos para a perturbação do comportamento?",
+    "options": [
+      "Pelo menos 2 de 15 nos últimos 12 meses, com 1 no último mês",
+      "Pelo menos 3 de 15 em 12 meses, com 1 nos últimos 6 meses",
+      "Pelo menos 3 de 15, todos nos últimos 6 meses",
+      "Pelo menos 5 de 15 nos últimos 12 meses, 1 nos últimos 6"
+    ],
+    "correct": 1,
+    "explanation": "O DSM-5-TR exige pelo menos 3 de 15 comportamentos nos últimos 12 meses e pelo menos 1 nos últimos 6, com prejuízo clinicamente significativo. A CID-11 (6C91) não impõe número mínimo e pede um período prolongado (por exemplo, pelo menos 1 ano).",
+    "source": "ICD-11 CDDR, OMS, https://www.who.int/publications/i/item/9789240077263 (6C91, p. 544: padrão repetido e persistente com vários comportamentos de uma ou mais de 4 categorias (agressão a pessoas ou animais, destruição de bens, mentira ou furto, violações graves de regras) ao longo de um período prolongado, por exemplo pelo menos 1 ano; um ou mais atos delinquentes isolados não chegam; prejuízo significativo; códigos 6C91.0, 6C91.1 e 6C91.Z, pp. 543-545; p. 548: pode coexistir com perturbação da personalidade; confirmado no texto. Divergência: o DSM-5-TR exige 3 de 15 critérios em 12 meses e 1 nos últimos 6 e exclui aos 18 anos ou mais se cumprir critérios de perturbação antissocial da personalidade; a CID-11 não fixa número de comportamentos); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Conduct Disorder, critérios A a C: 3 de 15 critérios em 12 meses, 1 nos últimos 6; códigos F91.1, F91.2, F91.9 conforme o início)",
+    "dose": false
+  },
+  {
+    "id": "dc-16-q1",
+    "itemId": "dc-16",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 14 anos com perturbação do comportamento, cujo primeiro comportamento de agressão ocorreu aos 8 anos. Segundo o DSM-5-TR, que especificador de início se aplica?",
+    "options": [
+      "Início na adolescência",
+      "Início não especificado",
+      "Emoções pró-sociais limitadas",
+      "Início na infância"
+    ],
+    "correct": 3,
+    "explanation": "No DSM-5-TR o início na infância implica pelo menos um sintoma antes dos 10 anos, o que se verifica aos 8. A adolescência aplica-se quando não há nenhum sintoma antes dos 10 anos, e o início na infância não implica emoções pró-sociais limitadas, que têm critérios próprios (pelo menos 2 de 4 traços, durante 12 meses ou mais, em várias relações e contextos).",
+    "source": "ICD-11 CDDR, OMS, https://www.who.int/publications/i/item/9789240077263 (6C91.0, 6C91.1 e 6C91.Z, pp. 544-545: início na infância = pelo menos uma característica antes da adolescência, \"por exemplo antes dos 10 anos\"; p. 545: início na infância e emoções pró-sociais limitadas são características distintas; 6C9x.y0, pp. 548-549: vários de 4 traços, em várias situações e relações, persistentes (por exemplo, pelo menos 1 ano), com informação de quem conhece o indivíduo há muito tempo; confirmado no texto. Divergência: o DSM-5-TR fixa pelo menos 2 de 4 traços, 12 meses e início antes dos 10 anos; a CID-11 diz \"vários\" e usa os 10 anos e o 1 ano só como exemplo); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Conduct Disorder, especificadores de início F91.1 antes dos 10 anos, F91.2 adolescência, F91.9 não especificado, e \"With limited prosocial emotions\": pelo menos 2 de 4 características durante pelo menos 12 meses, em várias relações e contextos; Risk and Prognostic Factors: persistência maior no início na infância com o especificador)",
+    "dose": false
+  },
+  {
+    "id": "dc-19-q1",
+    "itemId": "dc-19",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 9 anos com explosões de raiva quatro vezes por semana, há 14 meses, em casa e na escola, com humor irritável entre as explosões e primeiros sintomas aos 7 anos. Segundo o DSM-5-TR, como se relaciona este quadro com a perturbação de oposição e desafio?",
+    "options": [
+      "Diagnosticam-se as duas perturbações em simultâneo, como comorbilidade",
+      "A perturbação de oposição e desafio tem prioridade sobre este quadro",
+      "O DMDD tem prioridade e não coexiste com a oposição e desafio",
+      "Deve acrescentar-se perturbação explosiva intermitente como segundo diagnóstico"
+    ],
+    "correct": 2,
+    "explanation": "O quadro cumpre o padrão da desregulação disruptiva do humor (explosões em média 3 ou mais por semana, humor irritável entre elas, 12 meses ou mais, 2 de 3 contextos, início antes dos 10 anos). No DSM-5-TR tem prioridade sobre a oposição e desafio e não coexiste com ela nem com a perturbação explosiva intermitente.",
+    "source": "ICD-11 CDDR, OMS, https://www.who.int/publications/i/item/9789240077263 (6C90.0, p. 539: irritabilidade-raiva crónica quase todos os dias, em vários contextos, não restrita à relação com os pais, não explicada por episódio de humor; p. 540: não é necessariamente mais grave e pode ir de birras frequentes a desregulação extrema; p. 543: limite com perturbação explosiva intermitente; confirmado no texto); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Disruptive Mood Dysregulation Disorder, critérios A a K e nota sobre a coexistência; secção Oppositional Defiant Disorder, critério C). Divergência: DMDD só existe no DSM-5-TR (sem ocorrências no CDDR); na CID-11 o quadro codifica-se como 6C90.0, sem contagem de explosões por semana nem idades de início (não constam do texto)",
+    "dose": false
+  },
+  {
+    "id": "dc-21-q1",
+    "itemId": "dc-21",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "No pré-escolar, segundo a fonte sobre oposição (limiar do DSM-5-TR, que a CID-11 não fixa), antes dos 5 anos as birras só contam como sintoma se ocorrerem:",
+    "options": [
+      "Pelo menos uma vez por semana durante 3 meses",
+      "Quase todos os dias durante 6 meses",
+      "Em qualquer frequência, desde que em mais de um contexto",
+      "Pelo menos uma vez por mês durante 12 meses"
+    ],
+    "correct": 1,
+    "explanation": "No DSM-5-TR, antes dos 5 anos as birras só contam como sintoma se ocorrerem quase todos os dias durante 6 meses, com pelo menos 3 outros sintomas e prejuízo. Birras semanais são frequentes nesta idade e, por si só, não bastam.",
+    "source": "ICD-11 CDDR, OMS, https://www.who.int/publications/i/item/9789240077263 (6C90, apresentações no desenvolvimento, p. 541: início típico na meia-infância, com primeiros sintomas em idade pré-escolar; p. 540: aos 3 a 5 anos os adultos dão mais instruções e limites e a baixa frequência não exclui o diagnóstico se o padrão caracteriza a maioria das interações com figuras de autoridade; a CID-11 não fixa limiar de frequência por idade; confirmado no texto); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Oppositional Defiant Disorder, nota do critério A, Diagnostic Features e Development and Course)",
+    "dose": false
+  },
+  {
+    "id": "dc-22-q1",
+    "itemId": "dc-22",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR e a CID-11, o início da perturbação do comportamento é raro depois de que idade?",
+    "options": [
+      "Dos 12 anos",
+      "Dos 14 anos",
+      "Dos 18 anos",
+      "Dos 16 anos"
+    ],
+    "correct": 3,
+    "explanation": "Em ambas as classificações (DSM-5-TR e CID-11) o início é raro depois dos 16 anos. Um início tardio obriga a pesquisar outras causas, como humor, substâncias, trauma ou psicose.",
+    "source": "DGS/Coordenação Nacional para a Saúde Mental, Recomendações para a Prática Clínica da Saúde Mental Infantil e Juvenil nos CSP, 2009, https://www.pgdlisboa.pt/docpgd/files/cnsm.pdf (lido no texto, p. 22: comportamentos heteroagressivos predominam na idade escolar e diminuem a partir da pré-adolescência; os antissociais são mais frequentes na adolescência); ICD-11 CDDR, OMS, https://www.who.int/publications/i/item/9789240077263 (6C91, p. 546: início típico no princípio e meio da adolescência, podendo ocorrer em pré-escolar; raro depois dos 16 anos; sintomas iniciais menos graves, como mentir, podem agravar-se; p. 547: nas raparigas mais mentira, faltas, consumo e fugas; confirmado no texto. Divergência: o DSM-5-TR dá a meia-infância como início possível dos primeiros sintomas significativos); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Conduct Disorder, Development and Course: primeiros sintomas da meia-infância ao meio da adolescência; início raro depois dos 16 anos; sintomas não agressivos passam a mais comuns que os agressivos na adolescência)",
+    "dose": false
+  },
+  {
+    "id": "dc-23-q1",
+    "itemId": "dc-23",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Que característica ajuda a distinguir a oposição da desatenção e impulsividade da PHDA, que podem parecer desobediência?",
+    "options": [
+      "Na oposição há recusa deliberada, além da dificuldade de atenção",
+      "As duas condições nunca coexistem na mesma criança",
+      "A oposição só aparece depois dos 10 anos, e a PHDA antes",
+      "Na oposição predominam as queixas somáticas inexplicadas"
+    ],
+    "correct": 0,
+    "explanation": "Na oposição existe recusa deliberada para além da dificuldade em manter a atenção, que é o que distingue de uma criança com PHDA. As duas coexistem muitas vezes, o que contraria a ideia de que nunca coexistem.",
+    "source": "ICD-11 CDDR, OMS, https://www.who.int/publications/i/item/9789240077263 (6C90, limite com PHDA, pp. 542-543: se a desobediência se explica pela desatenção ou hiperatividade-impulsividade não se diagnostica oposição; coexistem com frequência e ambos os diagnósticos podem ser atribuídos; p. 540: coocorrência frequente; confirmado no texto); NICE CG158, 2013 (atualizada 2017), https://www.nice.org.uk/guidance/cg158/chapter/Recommendations (rec. 1.3.5 e 1.3.11: avaliar PHDA e autismo como fatores complicadores e condições coexistentes; lidas no texto); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Oppositional Defiant Disorder, Differential Diagnosis: só se diagnostica oposição se a recusa não ocorrer apenas em situações que exigem atenção prolongada ou ficar quieto; PHDA e oposição são frequentemente comórbidas); NICE NG87 (PHDA), índices 8 e 12: PHDA e perturbação de oposição ou do comportamento coexistem",
+    "dose": false
+  },
+  {
+    "id": "dc-24-q1",
+    "itemId": "dc-24",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 7 anos com recusas e explosões que surgem apenas perante situações que o assustam. Perante este quadro, em que hipótese convém pensar primeiro?",
+    "options": [
+      "Perturbação de oposição e desafio",
+      "Perturbação de ansiedade",
+      "Perturbação por défice de atenção e hiperatividade",
+      "Perturbação do comportamento"
+    ],
+    "correct": 1,
+    "explanation": "Recusa, explosões e irritabilidade podem ser forma de evitar o que assusta; se o desafio só surge nessas situações, pode não ser oposição e convém pensar primeiro em ansiedade.",
+    "source": "ICD-11 CDDR, OMS, https://www.who.int/publications/i/item/9789240077263 (6C90, limite com ansiedade, p. 543: recusa, explosões e irritabilidade podem ser forma de evitar uma situação temida, sem comportamento provocador, rancoroso ou vingativo; se o desafio só surge perante estímulos que causam ansiedade, medo ou pânico, não se diagnostica oposição; confirmado no texto); AACAP Practice Parameter ODD, 2007 (série descontinuada, só histórico), https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/odd_practice_parameter.pdf (secção de comorbilidade, p. 129: o comportamento opositor pode servir para gerir a ansiedade perante exigências excessivas; a indicação anterior \"rec. 4\" estava incorreta); NICE CG158, 2013 (atualizada 2017; revista em 17/04/2025), https://www.nice.org.uk/guidance/cg158/chapter/Recommendations (lida a 10/10/2026: rec. 1.3.5 e 1.3.11: avaliar problemas de saúde mental coexistentes (exemplos dados: depressão, PTSD, perturbação bipolar; a ansiedade não é nomeada). O limite com a ansiedade está confirmado na CID-11 e no AACAP 2007); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Oppositional Defiant Disorder, Differential Diagnosis: desafio por medo de avaliação negativa na perturbação de ansiedade social; abaixo dos 6 anos o trauma pode manifestar-se como desregulação e oposição); AACAP PTSD 2010 (índice 6: o trauma pode apresentar-se com explosões e irritabilidade semelhantes à oposição)",
+    "dose": false
+  },
+  {
+    "id": "dc-28-q1",
+    "itemId": "dc-28",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapariga de 10 anos com desafio e irritabilidade que começaram há 2 meses, depois da separação dos pais. Segundo a fonte sobre contexto e stress, que hipótese deve considerar-se se os sintomas cessarem até 6 meses após o stressor?",
+    "options": [
+      "Perturbação do comportamento",
+      "Perturbação de oposição e desafio",
+      "Perturbação bipolar",
+      "Perturbação de adaptação"
+    ],
+    "correct": 3,
+    "explanation": "Se os sintomas surgem associados a um stressor (como a separação dos pais) e cessam até 6 meses depois, deve pensar-se em perturbação de adaptação. É importante perguntar o que mudou e quando começou.",
+    "source": "AACAP Practice Parameter ODD, 2007 (série descontinuada, só histórico), https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/odd_practice_parameter.pdf (rec. 3, pp. 132-133: a oposição pode ser reativa a exigências parentais excessivas e irrealistas, a maus-tratos ou negligência, a conflitos com pares ou a um stressor recente; bullying como vítima ou agressor; rec. 4, p. 133: distinguir de reação de adaptação; confirmado no texto); NICE CG158, 2013 (atualizada 2017), https://www.nice.org.uk/guidance/cg158/chapter/Recommendations (rec. 1.2.1: separação ou divórcio dos pais, conflito parental, maus-tratos e problemas de saúde mental ou consumos dos pais como fatores de risco; lida no texto); ICD-11 CDDR, OMS, https://www.who.int/publications/i/item/9789240077263 (6C90, p. 541: mudança de ambiente, por exemplo transição para escola ou cidade nova, pode causar desobediência transitória, sem indicar oposição; 6B43, pp. 352-353: perturbação de adaptação = reação a um stressor identificável, em regra no prazo de 1 mês, com sintomas que se resolvem até 6 meses depois de o stressor e as suas consequências terminarem; nas crianças pode manifestar-se por comportamento disruptivo ou de oposição, irritabilidade e birras; confirmado no texto)); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Oppositional Defiant Disorder, Differential Diagnosis: perturbação de adaptação distingue-se pela associação temporal a um stressor e duração inferior a 6 meses após o fim do stressor; Risk Factors: sucessão de cuidadores, bullying); DGS/Coordenação Nacional para a Saúde Mental, Recomendações para a Prática Clínica da Saúde Mental Infantil e Juvenil nos CSP, 2009, https://www.pgdlisboa.pt/docpgd/files/cnsm.pdf (lido no texto, p. 12: stressores e mudanças recentes no meio sócio-familiar)",
+    "dose": false
+  },
+  {
+    "id": "dc-31-q1",
+    "itemId": "dc-31",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Dado que a oposição se associa muitas vezes a PHDA, a perturbações emocionais (ansiedade, depressão) e a perturbação do comportamento, o que se recomenda?",
+    "options": [
+      "Tratar apenas a oposição, por ser a queixa principal",
+      "Avaliar e abordar as condições coexistentes",
+      "Atribuir os sintomas emocionais à oposição, sem os avaliar à parte",
+      "Considerar PHDA e perturbações emocionais incompatíveis com a oposição"
+    ],
+    "correct": 1,
+    "explanation": "A fonte pede que se avaliem e abordem as condições coexistentes, dada a associação frequente da oposição com PHDA, perturbações emocionais e perturbação do comportamento. As restantes opções ignoram ou negam essa coexistência.",
+    "source": "NICE CG158, 2013 (atualizada 2017; revista em 17/04/2025), https://www.nice.org.uk/guidance/cg158/chapter/Recommendations (lida a 10/10/2026: rec. 1.3.5 e 1.3.11: avaliar e abordar PHDA, autismo, dificuldade de aprendizagem, problemas de saúde mental como depressão e PTSD, e consumo de substâncias; a ansiedade não é nomeada); ICD-11 CDDR, OMS, https://www.who.int/publications/i/item/9789240077263 (6C90, p. 540: coocorrência frequente com PHDA, perturbação do comportamento e perturbações internalizantes, como depressão e ansiedade; p. 541: com irritabilidade-raiva crónica associa-se a depressão e ansiedade posteriores; confirmado no texto); AACAP Practice Parameter ODD, 2007 (descontinuado, lido no texto): p. 129, comorbilidade com PHDA, ansiedade e depressão; rec. 4, p. 133, a oposição pode diminuir se a comorbilidade responder ao tratamento; as percentagens e essa frase não foram reintroduzidas no texto; DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Oppositional Defiant Disorder, Comorbidity e Development and Course: PHDA e conduta muito frequentes; risco de ansiedade e depressão, sobretudo pelos sintomas de irritabilidade; NICE NG87 (PHDA), índice 8)",
+    "dose": false
+  },
+  {
+    "id": "dc-32-q1",
+    "itemId": "dc-32",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Adolescente de 15 anos que ameaça repetidamente um colega e tem acesso a uma arma em casa. Segundo a fonte sobre sinais de alerta, qual a conduta?",
+    "options": [
+      "Considerar oposição e desafio comum e reavaliar na consulta seguinte",
+      "Limitar a avaliação ao preenchimento do SDQ",
+      "Aguardar que o comportamento cesse com a mudança de escola",
+      "Abrir a triagem de risco, por suspeita de risco"
+    ],
+    "correct": 3,
+    "explanation": "Ameaças ou agressão a outros e acesso a armas são sinais de alerta e, perante suspeita de risco, a fonte manda abrir a triagem de risco. As outras opções adiam ou dispensam essa avaliação do risco.",
+    "source": "AACAP Practice Parameter ODD, 2007, https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/odd_practice_parameter.pdf (rec. 3, p. 133: avaliar o acesso da criança a armas e a sua supervisão; bullying como vítima ou agressor como indicador de risco de agressão); NICE CG158, 2013 (atualizada 2017), https://www.nice.org.uk/guidance/cg158/chapter/Recommendations (rec. 1.3.13 e 1.3.14); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Conduct Disorder, critério A3: uso de arma capaz de causar dano grave; Associated Features: consumo de substâncias; Association With Suicidal Thoughts or Behavior: risco acrescido; secção Oppositional Defiant Disorder: mais tentativas de suicídio). \"Acesso a armas\" (e não uso) consta do AACAP ODD 2007 (confirmado no texto) mas não do DSM-5-TR, do CG158 nem dos AACAP 2010-2026 lidos; ICD-11 CDDR, OMS, https://www.who.int/publications/i/item/9789240077263 (6C91, p. 544: uso de armas capazes de causar dano grave, como exemplo de agressão; p. 547: consumo de álcool coocorre na adolescência; confirmado no texto)",
+    "dose": false
+  },
+  {
+    "id": "dc-33-q1",
+    "itemId": "dc-33",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Qual destes sinais sugere maior gravidade e persistência da perturbação do comportamento, sobretudo se com início precoce ou pouca empatia e remorso?",
+    "options": [
+      "Crueldade para com animais ou pessoas",
+      "Discussões frequentes com os irmãos",
+      "Recusa isolada de fazer os trabalhos de casa",
+      "Dificuldade de atenção em tarefas longas"
+    ],
+    "correct": 0,
+    "explanation": "Crueldade para com animais ou pessoas, fogo posto intencional, agressão com instrumentos perigosos, assalto ou arrombamento e coação sexual sugerem maior gravidade e persistência. As outras opções não constam desta lista de alertas.",
+    "source": "ICD-11 CDDR, OMS, https://www.who.int/publications/i/item/9789240077263 (6C91, p. 544: agressão a pessoas ou animais, incluindo intimidação, lutas, armas, crueldade física com pessoas e animais, roubo com violência e coação sexual; destruição de bens, incluindo fogo posto com intenção de dano grave; arrombamento; p. 545: início na infância e emoções pró-sociais limitadas associados a curso mais persistente e grave; p. 546: início precoce e maior gravidade predizem pior prognóstico; confirmado no texto); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Conduct Disorder, critérios A3 a A10: crueldade com pessoas ou animais, uso de arma, furto com confronto, coação sexual, fogo posto com intenção de causar dano grave, arrombamento; especificador de gravidade grave: coação sexual, crueldade física, arma, furto com confronto, arrombamento; início na infância e emoções pró-sociais limitadas associados a pior prognóstico)",
+    "dose": false
+  },
+  {
+    "id": "dc-34-q1",
+    "itemId": "dc-34",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 14 anos com fugas repetidas de casa, absentismo escolar e grupo de pares delinquente. Segundo a fonte, qual a conduta adequada?",
+    "options": [
+      "Considerar normal na adolescência e vigiar sem intervir",
+      "Avaliar o risco, envolver a escola e ponderar a referenciação",
+      "Evitar contactar a escola, para não estigmatizar o adolescente",
+      "Aguardar que o comportamento cesse espontaneamente com a idade"
+    ],
+    "correct": 1,
+    "explanation": "Perante fugas repetidas, absentismo e grupo de pares delinquente, recomenda-se avaliar o risco, envolver a escola e a rede de apoio e ponderar a referenciação. As outras opções adiam ou excluem a intervenção da rede.",
+    "source": "DGS/Coordenação Nacional para a Saúde Mental, Recomendações para a Prática Clínica da Saúde Mental Infantil e Juvenil nos CSP, 2009, https://www.pgdlisboa.pt/docpgd/files/cnsm.pdf (lido no texto: p. 16, sinais de alerta na adolescência incluem fugas e comportamentos antissociais repetidos; p. 23, intervenção com articulação com a escola e rede de apoio social, e referenciação; p. 31, distinção entre absentismo e recusa escolar); ICD-11 CDDR, OMS, https://www.who.int/publications/i/item/9789240077263 (6C91, p. 544: noites fora, fugas repetidas e faltas frequentes sem autorização como violações graves de regras; p. 545: grupo de pares delinquente, sobretudo no início na adolescência; p. 546: fugas e faltas como fator de risco para continuar a infringir regras e para detenção; confirmado no texto); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Conduct Disorder, critérios A14 e A15: fugas e faltas à escola frequentes com início antes dos 13 anos; Risk Factors: grupo de pares delinquente)",
+    "dose": false
+  },
+  {
+    "id": "dc-17-q1",
+    "itemId": "dc-17",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o NICE, na avaliação de crianças com menos de 11 anos, a que sintomas nucleares se deve dar especial atenção?",
+    "options": [
+      "Agressão, destruição de bens, mentira ou furto e violação de regras",
+      "Queixas somáticas e recusa escolar",
+      "Oposição, hostilidade ou desafio",
+      "Desatenção e hiperatividade"
+    ],
+    "correct": 2,
+    "explanation": "O NICE sugere atenção aos sintomas de oposição, hostilidade ou desafio abaixo dos 11 anos, e aos de conduta (agressão, destruição de bens, mentira ou furto, violação de regras) acima dessa idade. As idades são orientadoras.",
+    "source": "NICE CG158, 2013 (atualizada 2017), https://www.nice.org.uk/guidance/cg158/chapter/Recommendations (rec. 1.3.10); DSM-5-TR (APA, 2022), confirmado no texto do manual (secções Oppositional Defiant Disorder e Conduct Disorder, Development and Course: idades de início típicas). NICE rec. 1.3.10 lida no texto: oposição, hostilidade ou desafio abaixo dos 11 anos; agressão, destruição de bens, mentira ou furto e violação grave de regras acima dos 11 anos; ICD-11 CDDR, OMS, https://www.who.int/publications/i/item/9789240077263 (6C90, p. 541; 6C91, p. 546: idades de início típicas; confirmado no texto)",
+    "dose": false
+  }
+]

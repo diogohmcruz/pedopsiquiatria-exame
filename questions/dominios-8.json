@@ -1,0 +1,291 @@
+[
+  {
+    "id": "dt-14-q1",
+    "itemId": "dt-14",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Uma criança fala espontaneamente, durante a consulta, de algo grave que lhe aconteceu. Qual é a atitude descrita como adequada?",
+    "options": [
+      "Conduzir de imediato uma entrevista forense completa na própria consulta, para recolher todos os pormenores",
+      "Repetir as perguntas várias vezes para confirmar os pormenores do relato e testar a sua consistência",
+      "Ouvir com calma e registar as palavras da criança, sem induzir respostas com perguntas",
+      "Sugerir respostas à criança para a ajudar a concluir o que quer dizer e a organizar o relato"
+    ],
+    "correct": 2,
+    "explanation": "Perante um relato espontâneo, ouve-se com calma e registam-se as palavras da criança, sem induzir. Se o relato sugere abuso ou maus-tratos, segue-se o procedimento local de sinalização, sem entrevista forense na consulta. Perguntas repetidas ou sugestivas são precisamente o que se deve evitar.",
+    "source": "DGS, Maus tratos em crianças e jovens: guia prático, 2011, lido no texto integral (índice 25-26, boas práticas na entrevista: escutar o testemunho da criança, não emitir juízos nem reagir intempestivamente, evitar perguntas diretas bruscas e perguntas desnecessárias, dizer à criança que se dá credibilidade ao seu testemunho); AACAP, Practice Parameter PTSD, JAACAP 2010;49(4):414-430, lido no texto integral (baseado no DSM-IV-TR) (índice 2: o clínico não deve tentar fazer avaliação forense no contexto da avaliação clínica; crianças com suspeita sem relato confirmado devem ser encaminhadas para avaliação forense). Registar as palavras da criança e não sugerir respostas: prática clínica, sem fonte lida",
+    "dose": false
+  },
+  {
+    "id": "dt-18-q1",
+    "itemId": "dt-18",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapariga de 15 anos, vítima de violência repetida em casa durante anos, é trazida por irritabilidade, autolesão, consumo de álcool e relutância em ganhar autonomia, com episódios de desligamento. Qual é a leitura mais adequada?",
+    "options": [
+      "Estas manifestações podem ser expressão de reação pós-traumática no adolescente, sobretudo com trauma prolongado ou repetido",
+      "Devem ser atribuídas apenas a perturbação de oposição, sem considerar o trauma nem o contexto de violência",
+      "Excluem stress pós-traumático, que no adolescente só se manifestaria por queixas verbais de reexperiência e por pesadelos",
+      "Correspondem a um processo normal de autonomização própria da idade, sem relação com a violência vivida"
+    ],
+    "correct": 0,
+    "explanation": "No adolescente, as reações ao trauma podem manifestar-se por comportamento: evitamento, relutância em ganhar autonomia, autolesão, consumo de substâncias, irritabilidade e sintomas dissociativos, em especial se o trauma foi prolongado ou repetido. As outras opções ignoram o contexto traumático ou limitam indevidamente a apresentação.",
+    "source": "NICE NG116, 2018, https://www.nice.org.uk/guidance/ng116/chapter/Recommendations (rec. 1.1.1: evitamento, irritabilidade, dissociação, desregulação emocional; 1.7.2: consumo de álcool ou drogas não exclui do tratamento; lidas em 10/10/2026; não tratam apresentações específicas do adolescente); ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263, lido no texto integral (p. = página impressa; índice = página do ficheiro .txt, p. + 18): 6B40, p. 341 (índice 359): relutância em procurar oportunidades de desenvolvimento (autonomia) e comportamentos autolesivos ou de risco (consumo de substâncias, sexo desprotegido) mais frequentes nos adolescentes; crianças e adolescentes mais relutantes em relatar reações; 6B41, pp. 345 e 347 (índices 363 e 365): desregulação emocional com dissociação sob stress, e nos adolescentes consumo de substâncias, comportamentos de risco, autolesão não suicida e agressividade; confirmado; DSM-5-TR (APA, 2022), confirmado no texto do manual (PTSD, índices 463 e 465: irritabilidade e agressividade, comportamento imprudente ou autodestrutivo incluindo consumo de substâncias e comportamento suicida, relutância em prosseguir oportunidades de desenvolvimento; índice 464: após trauma prolongado e repetido, dificuldades de regulação emocional e sintomas dissociativos); AACAP, Practice Parameter PTSD, JAACAP 2010;49(4):414-430, lido no texto integral (baseado no DSM-IV-TR) (índice 2: comportamento autolesivo e abuso de substâncias podem ser apresentações de PTSD); AAP, Forkey et al., Pediatrics 2021;148(2):e2021052580, lido no texto integral (índice 9: autolesão e comportamentos de risco como forma de aliviar a tensão)",
+    "dose": false
+  },
+  {
+    "id": "dt-24-q1",
+    "itemId": "dt-24",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Sobre as experiências adversas na infância (ACE), qual das afirmações é correta?",
+    "options": [
+      "A soma das ACE permite prever com fiabilidade o desfecho de cada criança, pelo que serve para decidir intervenções",
+      "O risco aumenta com o número de ACE, mas a soma não prevê o desfecho individual e não há instrumento de rastreio validado",
+      "Existe um instrumento de rastreio de ACE validado, recomendado para uso sistemático em todas as crianças e adolescentes",
+      "As definições alargadas de ACE excluem o bullying e a violência na comunidade, centrando-se só na família"
+    ],
+    "correct": 1,
+    "explanation": "O risco aumenta com o número de ACE, mas a soma não prevê o desfecho de cada criança e não existe instrumento de rastreio validado. As definições alargadas incluem bullying, separação do cuidador e violência na comunidade.",
+    "source": "AAP, Pediatrics 2021;148(2):e2021052580, https://publications.aap.org/pediatrics/article/148/2/e2021052580/179745/Trauma-Informed-Care (definição de ACE e limitações do rastreio); Felitti et al., 1998, https://pubmed.ncbi.nlm.nih.gov/9635069/ (só o resumo foi lido); AAP, Forkey et al., Pediatrics 2021;148(2):e2021052580, lido no texto integral confirmado nos índices 4, 5 e 10: lista original e alargada de ACE (bullying, separação do cuidador por imigração, acolhimento, incarceração ou morte, violência presenciada e comunitária); índice 10: não existem instrumentos de rastreio de ACE validados e as ferramentas identificam fatores de risco epidemiológicos, não resultados individuais. A frase «o risco aumenta com o número de ACE» não foi encontrada nesses índices (apoio no Felitti 1998, só resumo); ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263, lido no texto integral (p. = página impressa; índice = p. + 18): 6B41, p. 346 (índice 364): a exposição a traumas repetidos, sobretudo cedo, e vários traumas aumentam o risco de PTSD complexo em vez de PTSD; apoia só em parte «o risco aumenta com o número» (não fala de ACE nem de contagem)",
+    "dose": false
+  },
+  {
+    "id": "dt-25-q1",
+    "itemId": "dt-25",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Sobre os instrumentos CATS e UCLA PTSD-RI para DSM-5 na avaliação do stress pós-traumático em crianças, qual afirmação é correta?",
+    "options": [
+      "Uma pontuação acima do ponto de corte confirma o diagnóstico de stress pós-traumático",
+      "Têm validação portuguesa confirmada, pelo que dispensam a avaliação clínica",
+      "Destinam-se só a cuidadores, sem versão para a própria criança, qualquer que seja a idade",
+      "Servem de rastreio e para monitorizar sintomas, mas nenhuma pontuação isolada diagnostica"
+    ],
+    "correct": 3,
+    "explanation": "Estes instrumentos apoiam o rastreio e a monitorização, mas o diagnóstico é clínico e nenhuma pontuação isolada o estabelece. A CATS tem formas para criança e para cuidadores, pelo que não se destinam só a cuidadores, e a validação portuguesa não está confirmada, pelo que não dispensam a avaliação clínica.",
+    "source": "Sachser et al., 2017, https://pubmed.ncbi.nlm.nih.gov/28049104/ (resumo lido); versão para pais do UCLA RI-5, https://pubmed.ncbi.nlm.nih.gov/35958709/ (resumo lido, 2022). a versão do CATS para 3-6 anos é da memória do revisor, por confirmar; AACAP, Practice Parameter PTSD, JAACAP 2010;49(4):414-430, lido no texto integral (baseado no DSM-IV-TR) (índice 5: UCLA PTSD Reaction Index e CPSS para autorrelato a partir dos 7 anos; abaixo dos 7 anos os instrumentos são administrados aos cuidadores; índice 6: instrumentos e questionários não são necessários para diagnosticar PTSD, servem de complemento da entrevista clínica); CATS não consta dos documentos fornecidos; é apenas mencionado como medida gratuita numa carta anexa à AAP PHDA 2019 (Wolraich), sem itens nem idades; NICE NG116 1.1.7 e 1.1.8: instrumento breve de rastreio validado em desastres (1 mês) e refugiados de risco, sem nomear instrumentos",
+    "dose": false
+  },
+  {
+    "id": "dt-29-q1",
+    "itemId": "dt-29",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo a CID-11, na distinção entre perturbação depressiva e stress pós-traumático, qual afirmação é correta?",
+    "options": [
+      "As memórias intrusivas do episódio depressivo são vividas como a ocorrer de novo no presente, tal como no stress pós-traumático, o que impede distinguir as duas perturbações",
+      "Na depressão há ruminação com memórias vividas como passadas, e no stress pós-traumático há memórias intrusivas vívidas do acontecimento",
+      "Se os critérios de ambas as perturbações estiverem cumpridos, só se pode atribuir um dos diagnósticos, o mais grave",
+      "A perturbação depressiva major inclui os sintomas dos critérios B e C do stress pós-traumático, por isso não se distinguem"
+    ],
+    "correct": 1,
+    "explanation": "Na depressão há ruminação, e as memórias do episódio são vividas como passadas (CID-11); no stress pós-traumático há memórias intrusivas vívidas do acontecimento. Segundo o DSM-5-TR, a depressão major não inclui os sintomas dos critérios B e C do stress pós-traumático, e as duas perturbações coexistem com frequência, podendo receber ambos os diagnósticos.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263, lido no texto integral (p. = página impressa; índice = página do ficheiro .txt, p. + 18): 6B40, p. 343 (índice 361): no episódio depressivo as memórias intrusivas pertencem ao passado e acompanham-se de ruminação; depressão e PTSD coexistem muitas vezes e atribui-se diagnóstico adicional se justificado; confirmado; DSM-5-TR (APA, 2022), confirmado no texto do manual (PTSD, características de diagnóstico, índice 462: memórias intrusivas distinguem-se da ruminação depressiva; diagnóstico diferencial, índice 469: a depressão major não inclui sintomas dos critérios B e C, ambos os diagnósticos podem ser dados). A formulação «vividas como pertencentes ao passado» é da CID-11 (p. 343) e foi reposta, atribuída à CID-11",
+    "dose": false
+  },
+  {
+    "id": "dt-31-q1",
+    "itemId": "dt-31",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 9 anos com história de acontecimento traumático apresenta episódios de olhar parado, confusão e desligamento, alguns durante o sono e sem desencadeante claro. Qual é o passo mais adequado antes de os atribuir a dissociação?",
+    "options": [
+      "Fazer história detalhada e avaliação neurológica para excluir crises epiléticas",
+      "Atribuí-los de imediato a dissociação, dado o antecedente traumático, sem outra avaliação",
+      "Tratá-los como reexperiência do trauma e centrar a intervenção nas memórias do acontecimento",
+      "Tranquilizar a família e reavaliar apenas se houver autolesão ou agravamento"
+    ],
+    "correct": 0,
+    "explanation": "Episódios de olhar parado, amnésia, confusão ou desligamento, sobretudo sem desencadeante claro ou durante o sono, justificam excluir crises epiléticas com história detalhada e avaliação neurológica antes de os atribuir a dissociação ou reexperiência.",
+    "source": "DSM-5-TR (APA, 2022), confirmado no texto do manual (PTSD, especificador dissociativo, índices 458 e 460: os sintomas dissociativos não devem ser atribuíveis a outra condição médica, por exemplo crises parciais complexas); AACAP, Practice Parameter PTSD, JAACAP 2010;49(4):414-430, lido no texto integral (baseado no DSM-IV-TR) (índice 7: perturbação convulsiva entre as condições físicas que podem simular PTSD). A conduta (história detalhada e avaliação neurológica) é prática clínica, sem fonte",
+    "dose": false
+  },
+  {
+    "id": "dt-33-q1",
+    "itemId": "dt-33",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Quanto às comorbilidades e à evolução das perturbações da vinculação, qual afirmação é correta?",
+    "options": [
+      "Na perturbação reativa da vinculação, a relação com PHDA e perturbações externalizantes está bem estabelecida",
+      "Na perturbação de interação social desinibida, os sintomas tendem a desaparecer quando os cuidados passam a ser adequados e a criança é acolhida",
+      "Na perturbação de interação social desinibida há alta coocorrência com PHDA e os sintomas tendem a persistir apesar de cuidados adequados",
+      "Na perturbação reativa da vinculação, o risco acrescido é só de perturbações externalizantes, sem risco internalizante"
+    ],
+    "correct": 2,
+    "explanation": "Na desinibida, a coocorrência com PHDA é alta e os sintomas tendem a persistir apesar de cuidados adequados. Na reativa, a relação com externalizantes ou PHDA foi sugerida mas não está estabelecida, e há maior risco de perturbações depressivas e outras internalizantes.",
+    "source": "NICE NG26, 2015, https://www.nice.org.uk/guidance/ng26/chapter/Recommendations (rec. 1.3.2); ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263, lido no texto integral (p. = página impressa; índice = página do ficheiro .txt, p. + 18): 6B44, p. 356 (índice 374): risco de PTSD ou PTSD complexo com maus-tratos repetidos, maior risco de depressão e perturbações internalizantes na adolescência e vida adulta, p. 357: atrasos de linguagem por negligência; 6B45, p. 359 (índice 377): impulsividade geral e alta coocorrência com PHDA, persistência após cuidados adequados, risco de PTSD ou PTSD complexo; confirmado; DSM-5-TR (APA, 2022), confirmado no texto do manual (comorbilidade das duas perturbações, índices 452 e 455). Retirados por falta de fonte nos textos lidos: consumo de álcool, depressão como comorbilidade e stress pós-traumático associado",
+    "dose": false
+  },
+  {
+    "id": "dt-35-q1",
+    "itemId": "dt-35",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Adolescente de 13 anos, vítima de bullying em curso na escola, mantém sintomas pós-traumáticos há mais de 1 mês, com episódios de perda de contacto com o presente, e a mãe também mostra grande sofrimento. Qual é a conduta mais adequada?",
+    "options": [
+      "Centrar a avaliação só no adolescente, sem considerar o ambiente escolar nem a família ou o apoio disponível",
+      "Avaliar a segurança do ambiente e o apoio à família, evitando situações que reativem o trauma na avaliação",
+      "Reconstituir o acontecimento em pormenor logo na primeira consulta, mesmo que isso reative o trauma e o sofrimento",
+      "Aguardar a resolução espontânea, por o bullying ser uma exposição de gravidade ligeira e sem necessidade de avaliação"
+    ],
+    "correct": 1,
+    "explanation": "Exposição continuada ao trauma, sintomas para além de 1 mês, dissociação e sofrimento dos familiares são sinais de alerta que levam a avaliar a segurança do ambiente e o apoio à família, evitando reativar o trauma na avaliação.",
+    "source": "NICE NG116, 2018, https://www.nice.org.uk/guidance/ng116/chapter/Recommendations (rec. 1.1.6: contactar se sintomas persistirem para além de 1 mês; rec. 1.4.2: risco de exposição continuada; rec. 1.4.4: impacto noutros familiares; rec. 1.2.4: apoio adicional em transições para crianças no sistema de acolhimento); DSM-5-TR (APA, 2022), confirmado no texto do manual (PTSD, critério F, índice 457: duração superior a 1 mês); AACAP, JAACAP 2010;49(4):414-430 (índice 2: PTSD só diagnosticado após 1 mês)",
+    "dose": false
+  },
+  {
+    "id": "dsu-34-q1",
+    "itemId": "dsu-34",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapariga de 14 anos com cyberbullying persistente, perda de sono, tristeza e isolamento crescente. Qual é a conduta mais adequada?",
+    "options": [
+      "Classificar como exposição online isolada e ligeira, sem outras medidas",
+      "Limitar a intervenção ao bloqueio do acesso às redes, sem triagem de risco",
+      "Reavaliar só se surgir ideação ou autolesão, mantendo a família à margem",
+      "Abrir a triagem de risco e envolver a família e a escola"
+    ],
+    "correct": 3,
+    "explanation": "Cyberbullying com perda de sono, tristeza ou isolamento, isto é, com sofrimento, justifica abrir a triagem de risco e envolver a família e a escola. Só a exposição isolada a conteúdos, sem sofrimento, é considerada ligeira.",
+    "source": "AAP, Digital Ecosystems, Children, and Adolescents (policy statement), Pediatrics 2026;157(2):e2025075320, https://pmc.ncbi.nlm.nih.gov/articles/PMC13122503/; AAP/HealthyChildren.org, Helping Kids Thrive in a Digital World, 2026, https://www.healthychildren.org/English/family-life/Media/Pages/helping-kids-thrive-in-a-digital-world-AAP-policy-explained.aspx; confirmado no texto do PDF da AAP 2026: conteúdos nocivos incluem perturbação alimentar, autolesão, contacto indesejado de estranhos e conteúdo sexual (p. 4); a amplificação algorítmica e a comparação social aumentam o risco em quem é vulnerável a perturbações alimentares, depressão, ansiedade e autolesão (p. 3); perante conteúdo de autolesão ou perturbação alimentar, dar apoio psicológico e procurar espaços digitais ou presenciais mais seguros (p. 6); assédio sexual e discurso de ódio online não confirmados nos PDFs",
+    "dose": false
+  },
+  {
+    "id": "do-16-q1",
+    "itemId": "do-16",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo a CID-11, na evolução dos tiques, os tiques vocais surgem tipicamente quanto tempo depois dos tiques motores?",
+    "options": [
+      "Cerca de 1 a 2 anos depois",
+      "Cerca de 3 a 4 anos depois",
+      "Cerca de 6 a 12 meses depois",
+      "Cerca de 1 a 2 anos antes"
+    ],
+    "correct": 0,
+    "explanation": "Segundo a CID-11, os tiques vocais surgem tipicamente 1 a 2 anos depois dos motores. As restantes opções alteram o intervalo ou invertem a ordem.",
+    "source": "ESSTS European clinical guidelines for Tourette syndrome and other tic disorders v2.0, Part I: assessment, Eur Child Adolesc Psychiatry, 2022, https://pmc.ncbi.nlm.nih.gov/articles/PMC8521086/ (curso); AAN (Pringsheim et al.), Practice guideline recommendations summary: treatment of tics, Neurology, 2019, https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/ (rec. 1a: informar sobre a história natural); verificação a 10/10/2026: pesquisa PubMed por autor e título não encontrou atualização nem errata da AAN 2019 (resumo PMID 31061208 e revisão sistemática PMID 31061209, ambos Neurology, 7/5/2019); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Tic Disorders, Development and Course, p. impressa 95, idx 200: início típico aos 4-6 anos, gravidade máxima aos 10-12 anos, melhoria na adolescência, alguns adultos com sintomas persistentes ou piores); StatPearls, Tourette Syndrome and Other Tic Disorders (NBK499958, 2026), p. idx 1 e 7 (início aos 4-6 anos, pico aos 10-12 anos; cerca de um terço resolve, um terço melhora e um terço persiste); OMS, ICD-11 CDDR, https://www.who.int/publications/i/item/9789240077263, confirmado no texto lido (8A05.00, p. impressa 155, idx 172: início habitual aos 4-6 anos, gravidade máxima aos 8-12 anos, tiques vocais 1-2 anos depois dos motores, a maioria com sintomas muito reduzidos no início da idade adulta e mais de um terço em remissão completa, melhor evolução se Tourette isolado, pior com TOC, PHDA, ansiedade ou depressão associados); NICE NG87 rec. 1.8.13 (tiques oscilam naturalmente)",
+    "dose": false
+  },
+  {
+    "id": "do-20-q1",
+    "itemId": "do-20",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapariga de 12 anos com fraqueza súbita de uma perna após um stressor identificável. O exame mostra sinais positivos incompatíveis com doença neurológica reconhecida. Como se apoia o diagnóstico de perturbação de sintomas neurológicos funcionais e como deve ser comunicado?",
+    "options": [
+      "Apenas na exclusão de doença neurológica, sendo o diagnóstico dado só depois de todos os exames complementares serem normais",
+      "Na presença obrigatória de stressor identificável, dispensando os sinais positivos no exame e a avaliação neurológica",
+      "Nos sinais positivos do exame, e não só na exclusão de outras causas, comunicando-o à família de forma positiva",
+      "Comunicando-o à família só depois de a doença neurológica ficar totalmente afastada, para evitar confusão"
+    ],
+    "correct": 2,
+    "explanation": "O diagnóstico apoia-se em sinais positivos no exame, incompatíveis com doença neurológica reconhecida, e não apenas na exclusão. Convém explicá-lo à família de forma positiva. O stressor ajuda no prognóstico, mas não substitui os sinais positivos.",
+    "source": "Kozlowska et al., Evidence-based mind-body interventions for children and adolescents with functional neurological disorder, Harv Rev Psychiatry, 2023, https://pmc.ncbi.nlm.nih.gov/articles/PMC9997641/ (resumo e secção de diagnóstico); verificação a 10/10/2026: PubMed 36884038 (Harv Rev Psychiatry, mar.-abr. 2023) sem errata nem atualização indicadas no registo; pesquisa PubMed 2023-2026 não encontrou guideline pediátrica de perturbação neurológica funcional que a substitua (só títulos lidos); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Functional Neurological Symptom Disorder, Diagnostic Features, p. impressa 361-362, idx 529-530: diagnóstico não é de exclusão e assenta em sinais de incompatibilidade com doença neurológica reconhecida, por exemplo sinal de Hoover, teste de entrainment do tremor, inconsistência interna no exame; bom prognóstico associado a curta duração dos sintomas e a concordância com o diagnóstico); OMS, ICD-11 CDDR, https://www.who.int/publications/i/item/9789240077263, confirmado no texto lido (6B60, p. impressa 370, idx 387: fatores de bom prognóstico (idade mais nova, início agudo, stressor identificável, diagnóstico precoce, apresentação com um só sintoma, curta duração, curto intervalo entre início e tratamento) e de mau prognóstico (sintomas persistentes, vários sintomas, comorbilidade); p. 372, idx 389: exige avaliação médica e achados incompatíveis com doença neurológica, por exemplo EEG normal durante uma convulsão aparente)",
+    "dose": false
+  },
+  {
+    "id": "do-23-q1",
+    "itemId": "do-23",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR, como se distinguem as mioclonias dos tiques?",
+    "options": [
+      "As mioclonias são mais lentas, suprimíveis e precedidas de urgência premonitória",
+      "As mioclonias são mais rápidas, não suprimíveis e sem urgência premonitória",
+      "As mioclonias são mais lentas, não suprimíveis e precedidas de urgência premonitória",
+      "As mioclonias são estereotipadas, ligadas a certas partes do corpo e desencadeadas por luz"
+    ],
+    "correct": 1,
+    "explanation": "As mioclonias são mais rápidas, não suprimíveis e sem urgência premonitória, ao contrário dos tiques. A opção que fala de movimentos estereotipados, ligados a certas partes do corpo e desencadeados por luz descreve fenómenos epiléticos focais, não mioclonias.",
+    "source": "ESSTS European clinical guidelines for Tourette syndrome and other tic disorders v2.0, Part I: assessment, Eur Child Adolesc Psychiatry, 2022, https://pmc.ncbi.nlm.nih.gov/articles/PMC8521086/ (outros movimentos hipercinéticos; condições somáticas); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Tic Disorders, Differential Diagnosis, p. impressa 97-98, idx 202-203: coreia, distonia, discinesias paroxísticas e mioclonias; mioclonia diferenciada do tique pela rapidez, ausência de supressão e de sensação premonitória); OMS, ICD-11 CDDR, https://www.who.int/publications/i/item/9789240077263, confirmado no texto lido (8A05.00, p. impressa 156-157, idx 173-174: diferencial com autismo e movimento estereotipado, TOC e autolesão; mioclonia, coreia e distonia só surgem no CDDR como especificadores de 6B60, p. 368, idx 385, e a distonia induzida por antipsicóticos como diagnóstico diferencial da estereotipia, p. 152, idx 169)",
+    "dose": false
+  },
+  {
+    "id": "do-25-q1",
+    "itemId": "do-25",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 8 anos com piscar de olhos frequente e pigarrear repetido, sem outro diagnóstico prévio. Antes de atribuir os movimentos a tiques, qual é o passo mais adequado?",
+    "options": [
+      "Considerar causas oftalmológicas, alergia ou refluxo e perguntar por fármacos recentes",
+      "Assumir infeção estreptocócica (PANS/PANDAS) como causa estabelecida e pedir apenas serologia",
+      "Diagnosticar tiques de imediato, por piscar e pigarrear serem sempre tiques",
+      "Excluir a medicação como causa, por os fármacos não induzirem movimentos"
+    ],
+    "correct": 0,
+    "explanation": "Tiques oculares podem ser confundidos com problemas oftalmológicos, e pigarrear ou fungar com alergia ou refluxo; deve perguntar-se por fármacos recentes. A ligação a infeções estreptocócicas é discutida e não está estabelecida como causal.",
+    "source": "ESSTS European clinical guidelines for Tourette syndrome and other tic disorders v2.0, Part I: assessment, Eur Child Adolesc Psychiatry, 2022, https://pmc.ncbi.nlm.nih.gov/articles/PMC8521086/ (condições somáticas, PANS/PANDAS; critério de exclusão de substância); substâncias e medicação: OMS, ICD-11 CDDR, https://www.who.int/publications/i/item/9789240077263, confirmado no texto lido (8A05.00, p. impressa 154, idx 171: tiques não atribuíveis a substância ou medicação (por exemplo anfetamina) nem à abstinência (por exemplo de benzodiazepinas); p. 152, idx 169: distonia induzida por fármacos, sobretudo antipsicóticos, é outra entidade); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Tic Disorders, Risk and Prognostic Factors, p. impressa 96, idx 201: sistema imunitário e neuroinflamação têm papel em alguns doentes, por exemplo na coreia de Sydenham, mas é preciso mais trabalho sobre o papel causal das infeções, incluindo PANS e PANDAS; tiques por substância, p. impressa 94, idx 198); StatPearls (NBK499958), p. idx 7 (início abrupto ou agravamento após infeção estreptocócica: considerar a relação temporal)",
+    "dose": false
+  },
+  {
+    "id": "do-28-q1",
+    "itemId": "do-28",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Que proporção aproximada das crianças com incontinência fecal ou obstipação funcional tem uma perturbação psiquiátrica clinicamente relevante?",
+    "options": [
+      "Cerca de 5 a 10%",
+      "Cerca de 10 a 15%",
+      "Cerca de 60 a 70%",
+      "Cerca de 30 a 50%"
+    ],
+    "correct": 3,
+    "explanation": "Cerca de 30 a 50% das crianças com incontinência fecal ou obstipação funcional têm uma perturbação psiquiátrica clinicamente relevante, valor superior ao da enurese noturna (20 a 30%). Os restantes intervalos não correspondem ao valor indicado.",
+    "source": "ICCS, Management and treatment of nocturnal enuresis, J Pediatr Urol, 2020, https://pubmed.ncbi.nlm.nih.gov/32278657/ (só resumo lido); IACAPAP Textbook, cap. C.4 Enurese (von Gontard), ed. portuguesa 2021, https://www.iacapap.org/_Resources/Persistent/d8be0a63711803f3938d7992ef18843096118943/C.4-ENURESE-PORTUGUESE-2021.pdf; IACAPAP Textbook, cap. C.5 Encopresis (von Gontard), 2012, https://www.iacapap.org/_Resources/Persistent/54402cb8f22277da216b53dad2485ae061e7d47e/C.5-ENCOPRESIS-0072012.pdf; NICE CG111 Bedwetting in under 19s, 2010, revista 2018, https://www.nice.org.uk/guidance/cg111/chapter/Recommendations (rec. 1.3.9); verificação a 10/10/2026: a página NICE CG111 mantém a última revisão em 21/11/2018 (\"no new evidence\") e não mostra versão posterior; verificação a 10/10/2026: a página da IACAPAP (https://iacapap.org/resources/e-textbook.html) anuncia a edição 2.0 do e-Textbook (https://iacapaptextbook2.com) e que o PDF da 1.ª edição fica disponível só até dezembro de 2026; o site novo é dinâmico e não consegui listar capítulos, por isso não confirmei se estes capítulos foram reeditados; ICCS, Psychological and Psychiatric Issues in Enuresis and Urinary Incontinence (revised and updated document), Neurourol Urodyn, ago. 2026, https://pubmed.ncbi.nlm.nih.gov/42233436/ (só resumo lido: 20-30% na enurese noturna, 20-40% na incontinência diurna, rastreio psicológico recomendado a todas as crianças); ICCS, Psychological and Psychiatric Issues in Functional Constipation, Fecal Incontinence and Bladder and Bowel Dysfunction (revised and updated document), Neurourol Urodyn, ago. 2026, https://pubmed.ncbi.nlm.nih.gov/42021557/ (só resumo lido: 30-50% na incontinência fecal e obstipação funcional); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Enuresis, Comorbidity, p. impressa 402-403, idx 579-580: a maioria não tem perturbação mental comórbida, mais sintomas comportamentais e do desenvolvimento na enurese diurna e noturna, atrasos de linguagem, aprendizagem e motricidade, obstipação e encoprese, síndrome das pernas inquietas e parassonias, ronco intenso e apneia do sono, infeção urinária mais frequente na enurese diurna; secção Encopresis, idx 581-582: ansiedade, depressão e perturbações do comportamento como fatores associados); NICE CG111, https://www.nice.org.uk/guidance/cg111/chapter/Recommendations, confirmado no texto lido (1.3.9 e tabela 1: obstipação e perda de fezes, dificuldades de desenvolvimento, atenção ou aprendizagem, diabetes, problemas emocionais ou de comportamento, causa ou consequência; 1.3.15: considerar profissional com formação psicológica); OMS, ICD-11 CDDR, https://www.who.int/publications/i/item/9789240077263, confirmado no texto lido (6C00, p. impressa 422-423, idx 439-440: problemas psicológicos por sofrimento ou estigma, enurese comum na deficiência intelectual, mais frequente se um progenitor teve enurese; 6C01, p. 425-426, idx 442-443: encoprese intencional pode associar-se a oposição ou perturbação do comportamento, fobias específicas e ansiedade social podem contribuir para a retenção, enurese coocorre com obstipação crónica)",
+    "dose": false
+  },
+  {
+    "id": "do-30-q1",
+    "itemId": "do-30",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Na tricotilomania e nos comportamentos repetitivos centrados no corpo, quais são as comorbilidades mais frequentes?",
+    "options": [
+      "Perturbação obsessivo-compulsiva e PHDA",
+      "Depressão major e escoriação",
+      "Ansiedade e perturbação de oposição",
+      "Perturbação do espetro do autismo e perturbação de tiques"
+    ],
+    "correct": 1,
+    "explanation": "A depressão major e a escoriação são as comorbilidades mais frequentes. A ansiedade, o TOC, a PHDA e a perturbação de oposição também coexistem, mas não são as mais frequentes.",
+    "source": "Woods & Houghton, Diagnosis, evaluation, and management of trichotillomania, Psychiatr Clin North Am, 2014, https://pmc.ncbi.nlm.nih.gov/articles/PMC4143797/ (comorbilidades); verificação a 10/10/2026: pesquisa PubMed (guideline ou consenso, 2015-2026) não encontrou guideline de tricotilomania posterior; existe uma revisão de 2025 (Expert Rev Neurother, PMID 40928501) de que só li o título, não consultada; DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Trichotillomania, Associated Features e Comorbidity, p. impressa 283-284, idx 430 e 432: a maioria tem outros comportamentos repetitivos centrados no corpo, como mexer na pele, roer unhas e morder os lábios; comorbilidades mais frequentes depressão major e escoriação; mais frequente em quem tem TOC); OMS, ICD-11 CDDR, https://www.who.int/publications/i/item/9789240077263, confirmado no texto lido (6B25.0, p. impressa 328, idx 345: coocorre com escoriação, outros comportamentos centrados no corpo (por exemplo roer unhas), TOC, depressão e ansiedade; p. 329, idx 346: na criança e no adolescente também ansiedade generalizada, escoriação, TOC, depressão e, mais provavelmente, PHDA)",
+    "dose": false
+  },
+  {
+    "id": "do-32-q1",
+    "itemId": "do-32",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 11 anos com síndrome de Tourette, acessos de raiva frequentes e episódios de autolesão, em consulta de seguimento. Qual é a atitude recomendada?",
+    "options": [
+      "Centrar a consulta nos tiques, perguntando por ideação suicida só se a criança a referir espontaneamente",
+      "Considerar a autolesão e os acessos de raiva manifestações dos tiques, sem os rever nem avaliar o risco",
+      "Perguntar sempre por ideação e tentativas de suicídio e rever a autolesão e os acessos de raiva",
+      "Adiar a pergunta por pensamentos suicidas até à adolescência, por a idade ser baixa"
+    ],
+    "correct": 2,
+    "explanation": "Em quem tem síndrome de Tourette, deve perguntar-se sempre por ideação e tentativas suicidas, e rever a autolesão e os acessos de raiva, sem esperar que a criança fale do tema.",
+    "source": "AAN (Pringsheim et al.), Practice guideline recommendations summary: treatment of tics, Neurology, 2019, https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/ (rec. 5b: perguntar sobre pensamentos suicidas e tentativas); ESSTS European clinical guidelines for Tourette syndrome and other tic disorders v2.0, Part I: assessment, Eur Child Adolesc Psychiatry, 2022, https://pmc.ncbi.nlm.nih.gov/articles/PMC8521086/ (comportamentos autolesivos); verificação a 10/10/2026: pesquisa PubMed por autor e título não encontrou atualização nem errata da AAN 2019 (resumo PMID 31061208 e revisão sistemática PMID 31061209, ambos Neurology, 7/5/2019); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Tic Disorders, Association With Suicidal Thoughts or Behavior, p. impressa 96, idx 202: risco de tentativa de suicídio (OR 3,86) e de morte por suicídio (OR 4,39) mesmo após ajuste para comorbilidades; cerca de 1 em 10 jovens com tiques persistentes tem pensamentos ou comportamentos suicidas); StatPearls (NBK499958), p. idx 7 (cerca de 11,4% com comportamentos autolesivos); ESSTS parte III, Eur Child Adolesc Psychiatry, 2022, https://doi.org/10.1007/s00787-021-01899-z, confirmado no texto lido (p. 432: aumento do risco de ideação suicida, tentativas e suicídio no Tourette, mesmo controlando as comorbilidades psiquiátricas; acessos de raiva como comorbilidade); OMS, ICD-11 CDDR, https://www.who.int/publications/i/item/9789240077263, confirmado no texto lido (8A05.00, p. impressa 157, idx 174: a lesão causada pelos tiques não é autolesão intencional)",
+    "dose": false
+  },
+  {
+    "id": "do-35-q1",
+    "itemId": "do-35",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapariga de 15 anos com vozes, ideias bizarras, desorganização do discurso e declínio escolar, com abandono do autocuidado há 5 semanas. Qual é a conduta mais adequada?",
+    "options": [
+      "Remeter para triagem de risco e avaliação especializada urgente, excluindo causas médicas e substâncias",
+      "Vigiar em consulta de rotina, por os sintomas psicóticos serem muitas vezes passageiros nesta idade",
+      "Atribuir a desorganização a fenómenos próprios da idade e reavaliar apenas daqui a alguns meses, sem urgência",
+      "Iniciar de imediato o diagnóstico de psicose, sem excluir causas médicas ou substâncias"
+    ],
+    "correct": 0,
+    "explanation": "Sintomas psicóticos de início precoce com declínio funcional exigem avaliação especializada sem demora, e com urgência se persistirem há 4 semanas ou mais, como aqui. Devem excluir-se causas médicas e consumo de substâncias, e adiar a avaliação não é adequado quando os sintomas já duram 4 semanas ou mais.",
+    "source": "AACAP Practice Parameter schizophrenia (McClellan, Stock), JAACAP, 2013, https://pubmed.ncbi.nlm.nih.gov/23972700/ (rec. 1; pródromo e causas médicas e tóxicas no texto; parâmetro descontinuado pela AACAP, segundo a auditoria, e não relido nesta revisão); NICE CG155 Psychosis and schizophrenia in children and young people: recognition and management, publicada 23/01/2013, última atualização 26/10/2016, revista 19/09/2024, https://www.nice.org.uk/guidance/cg155/chapter/Recommendations (rec. 1.2.1: sintomas transitórios ou atenuados, encaminhar para avaliação especializada sem demora; rec. 1.3.1: primeira apresentação de sintomas psicóticos sustentados há 4 semanas ou mais, referenciar com urgência; rec. 1.3.4: avaliação de álcool, drogas, causas médicas e perturbações do neurodesenvolvimento); OMS, ICD-11 CDDR, https://www.who.int/publications/i/item/9789240077263 (6A20 Esquizofrenia, p. impressa 162-163, 166-167, idx 179-180 e 183-184, confirmada no texto lido: pelo menos 2 sintomas, um deles de delírios, alucinações, pensamento desorganizado ou vivências de influência, durante 1 mês ou mais, sem exigência de 6 meses; critérios essenciais excluem substância e outra condição médica; fase prodrómica com perda de interesse, descuido da aparência ou higiene e inversão do sono; \"Developmental presentations\": início antes da puberdade extremamente raro, desorganização frequente em autismo e PHDA); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Schizophrenia, critérios A a F, p. impressa 114-115, índice idx 222-223: 2 ou mais sintomas durante 1 mês e sinais contínuos durante pelo menos 6 meses; Development and Course, idx 226-227: início antes da adolescência é raro, alucinações visuais mais comuns em crianças e a distinguir da fantasia, desorganização no autismo e na PHDA a considerar antes de atribuir a esquizofrenia; perturbação esquizofreniforme de 1 a 6 meses e psicótica breve com menos de 1 mês, idx 222)",
+    "dose": false
+  }
+]

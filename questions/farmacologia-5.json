@@ -1,0 +1,410 @@
+[
+  {
+    "id": "farmaco-bipolar-psicose-11-q1",
+    "itemId": "farmaco-bipolar-psicose-11",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o NICE CG185 (texto geral do capítulo de bipolar, sem distinção de idade), qual é o intervalo-alvo de litemia na primeira prescrição de lítio, por exemplo num adolescente com bipolar?",
+    "options": [
+      "0,6 a 0,8 mmol/L",
+      "0,2 a 0,4 mmol/L",
+      "1,0 a 1,2 mmol/L",
+      "1,2 a 1,5 mmol/L"
+    ],
+    "correct": 0,
+    "explanation": "O NICE aponta 0,6 a 0,8 mmol/L na primeira prescrição, reservando 0,8 a 1,0 mmol/L (durante pelo menos 6 meses) para quem recaiu sob lítio ou tem sintomas subliminares com prejuízo funcional. Os outros intervalos ficam abaixo do alvo ou acima dele. Os alvos da RCM do Priadel e do BNFc são diferentes e não devem ser misturados com os do NICE.",
+    "source": "NICE CG185, 2014 (última atualização 02/09/2025, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg185/chapter/Recommendations, rec. 1.5.5, 1.10.15, 1.10.16; CANMAT/ISBD 2018 guidelines for the management of patients with bipolar disorder (Bipolar Disord 2018; PubMed 29536616), texto integral lido via Europe PMC https://pmc.ncbi.nlm.nih.gov/articles/PMC5947163/ , secção 7.2 (crianças e adolescentes) (7.2.2); RCM Infarmed obtida via INFOMED (https://extranet.infarmed.pt/INFOMED-fo/, pesquisa avançada, sem URL estável) a 10/10/2026 (RCM Priadel, 4.1 e 4.2); BNFc 2020-2021, lítio, p. 249-250 (txt l. 34104-34345)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-bipolar-psicose-17-q1",
+    "itemId": "farmaco-bipolar-psicose-17",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o BNFc 2020-2021 (pode estar desatualizado), qual é a dose inicial de Liskonum na profilaxia da perturbação bipolar em adolescentes de 12 a 17 anos, sempre ajustada à litemia?",
+    "options": [
+      "100 a 150 mg 2 vezes por dia",
+      "450 a 900 mg 2 vezes por dia",
+      "600 a 900 mg 2 vezes por dia",
+      "225 a 450 mg 2 vezes por dia"
+    ],
+    "correct": 3,
+    "explanation": "Para a profilaxia dos 12 aos 17 anos o BNFc dá Liskonum inicial de 225 a 450 mg 2 vezes por dia, a ajustar à litemia e com preferência por uma toma diária quando estabiliza. As restantes doses não constam do BNFc para esta indicação. A RCM do Priadel não recomenda lítio em crianças e não dá posologia pediátrica.",
+    "source": "NICE CG185, 2014 (última atualização 02/09/2025, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg185/chapter/Recommendations, rec. 1.7.7; CANMAT/ISBD 2018 guidelines for the management of patients with bipolar disorder (Bipolar Disord 2018; PubMed 29536616), texto integral lido via Europe PMC https://pmc.ncbi.nlm.nih.gov/articles/PMC5947163/ , secção 7.2 (crianças e adolescentes) (7.2.2, manutenção); RCM Infarmed obtida via INFOMED (https://extranet.infarmed.pt/INFOMED-fo/, pesquisa avançada, sem URL estável) a 10/10/2026 (RCM Priadel, 4.2); BNFc 2020-2021, lítio, p. 249-250 (txt l. 34078-34345)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-bipolar-psicose-31-q1",
+    "itemId": "farmaco-bipolar-psicose-31",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Um rapaz de 15 anos com esquizofrenia é seguido por especialista, que decide usar risperidona (uso fora das indicações da RCM portuguesa). Segundo o BNFc 2020-2021 (12 a 17 anos, psicose, sob supervisão de especialista), qual é a dose diária habitual?",
+    "options": [
+      "0,5 a 1 mg por dia",
+      "1 a 2 mg por dia",
+      "4 a 6 mg por dia",
+      "8 a 10 mg por dia"
+    ],
+    "correct": 2,
+    "explanation": "O BNFc indica uma dose habitual de 4 a 6 mg/dia, com máximo de 16 mg/dia. As doses mais baixas ficam abaixo da habitual e a dose de 8 a 10 mg/dia está acima da dose habitual (o BNFc só admite mais de 10 mg/dia se o benefício superar o risco). A RCM portuguesa não recomenda risperidona na esquizofrenia abaixo dos 18 anos, pelo que o uso é off-label.",
+    "source": "NICE CG155, 2013 (última atualização 26/10/2016, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg155/chapter/Recommendations, rec. 1.3.17, 1.4.3; RCM Infarmed obtida via INFOMED (https://extranet.infarmed.pt/INFOMED-fo/, pesquisa avançada, sem URL estável) a 10/10/2026 (RCM Risperdal, 4.2 População pediátrica); BNFc 2020-2021, risperidona, p. 270 (txt l. 37009-37018)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-bipolar-psicose-32-q1",
+    "itemId": "farmaco-bipolar-psicose-32",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o BNFc 2020-2021 (pode estar desatualizado), qual é a dose inicial de olanzapina na esquizofrenia em adolescentes de 12 a 17 anos, sob supervisão de especialista?",
+    "options": [
+      "1 a 2,5 mg por dia",
+      "5 a 10 mg por dia",
+      "15 a 20 mg por dia",
+      "20 a 30 mg por dia"
+    ],
+    "correct": 1,
+    "explanation": "O BNFc dá 5 a 10 mg/dia como dose inicial, com dose habitual de 5 a 20 mg/dia e máximo de 20 mg/dia. O intervalo de 15 a 20 mg/dia fica na parte alta da gama habitual, acima da dose inicial, e 20 a 30 mg/dia excede o máximo. Em Portugal a RCM não recomenda a olanzapina abaixo dos 18 anos.",
+    "source": "NICE CG155, 2013 (última atualização 26/10/2016, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg155/chapter/Recommendations, rec. 1.3.16; RCM Infarmed obtida via INFOMED (https://extranet.infarmed.pt/INFOMED-fo/, pesquisa avançada, sem URL estável) a 10/10/2026 (RCM Zyprexa e Seroquel, 4.2 População pediátrica); BNFc 2020-2021, olanzapina, p. 267 (txt l. 36679-36691)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-bipolar-psicose-33-q1",
+    "itemId": "farmaco-bipolar-psicose-33",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Uma rapariga de 16 anos com esquizofrenia vai iniciar quetiapina de libertação imediata, prescrita por especialista. Segundo o BNFc 2020-2021 (12 a 17 anos; pode estar desatualizado), qual é a dose inicial?",
+    "options": [
+      "50 mg 2 vezes por dia",
+      "25 mg 2 vezes por dia",
+      "100 mg 2 vezes por dia",
+      "200 mg 1 vez por dia"
+    ],
+    "correct": 1,
+    "explanation": "O BNFc indica quetiapina de libertação imediata a 25 mg 2 vezes por dia, a ajustar em passos de 25 a 50 mg até ao máximo de 750 mg/dia. As outras doses não correspondem ao esquema inicial do BNFc para a libertação imediata. O uso é não licenciado, em linha com a RCM portuguesa, que não recomenda a quetiapina abaixo dos 18 anos.",
+    "source": "NICE CG155, 2013 (última atualização 26/10/2016, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg155/chapter/Recommendations, rec. 1.3.15; RCM Infarmed obtida via INFOMED (https://extranet.infarmed.pt/INFOMED-fo/, pesquisa avançada, sem URL estável) a 10/10/2026 (RCM Seroquel, 4.2 e 4.4); BNFc 2020-2021, quetiapina, p. 268 (txt l. 36834-36860)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-bipolar-psicose-46-q1",
+    "itemId": "farmaco-bipolar-psicose-46",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o BNFc 2020-2021 (uso não licenciado), qual é a dose inicial de Camcolit no tratamento do comportamento agressivo ou autolesivo em adolescentes de 12 a 17 anos, ajustada à litemia?",
+    "options": [
+      "1 a 1,5 g por dia",
+      "200 a 300 mg por dia",
+      "2 a 3 g por dia",
+      "3 a 4 g por dia"
+    ],
+    "correct": 0,
+    "explanation": "O BNFc usa para esta indicação as mesmas doses em mg das indicações bipolares, ou seja, Camcolit inicial de 1 a 1,5 g/dia no tratamento, sempre ajustado à litemia. A RCM do Priadel não recomenda lítio em crianças, e nem o NICE CG158 nem a AACAP 2011 o recomendam para agressividade. As outras doses não correspondem ao BNFc.",
+    "source": "RCM Infarmed obtida via INFOMED (https://extranet.infarmed.pt/INFOMED-fo/, pesquisa avançada, sem URL estável) a 10/10/2026 (RCM Priadel, 4.1 e 4.2); AHRQ, Psychosocial and Pharmacologic Interventions for Disruptive Behavior in Children and Adolescents, abril 2025, https://effectivehealthcare.ahrq.gov/products/disruptive-behavior/research (ligação não lida, listada na página de diretrizes da AACAP); AACAP Practice Parameter for the Use of Atypical Antipsychotic Medications in Children and Adolescents, aprovado 02/08/2011, https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/Atypical_antipsychotic_Medications_Web.pdf (rec. 2); BNFc 2020-2021, lítio, p. 248-250 (txt l. 34086-34090 e 34250-34325)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-bipolar-psicose-49-q1",
+    "itemId": "farmaco-bipolar-psicose-49",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Um rapaz de 9 anos, com 30 kg, tem autismo e agressividade grave que não cede a intervenções psicossociais; o especialista considera risperidona (off-label em Portugal). Segundo o BNFc 2020-2021, qual é o máximo diário para este escalão de peso (20 a 45 kg)?",
+    "options": [
+      "1,5 mg por dia",
+      "4 mg por dia",
+      "5 mg por dia",
+      "2,5 mg por dia"
+    ],
+    "correct": 3,
+    "explanation": "Para 20 a 45 kg o BNFc começa com 0,5 mg/dia durante pelo menos 4 dias, depois 1 mg/dia e passos de 0,5 mg/dia, com máximo de 2,5 mg/dia. Os valores de 4 e 5 mg/dia excedem esse máximo e 1,5 mg/dia não é o limite indicado. A eficácia e os efeitos adversos são revistos às 3 a 4 semanas e o fármaco pára-se sem resposta às 6 semanas.",
+    "source": "NICE CG170, 2013 (última atualização 14/06/2021, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg170/chapter/Recommendations, rec. 1.4.10 a 1.4.12; AACAP Practice Parameter for the Use of Atypical Antipsychotic Medications in Children and Adolescents, aprovado 02/08/2011, https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/Atypical_antipsychotic_Medications_Web.pdf (introdução e resumo da evidência); RCM Infarmed obtida via INFOMED (https://extranet.infarmed.pt/INFOMED-fo/, pesquisa avançada, sem URL estável) a 10/10/2026 (RCM Risperdal, 4.1; sem referência a autismo); BNFc 2020-2021, risperidona, p. 270 (txt l. 37043-37068)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-humor-ansiedade-4-q1",
+    "itemId": "farmaco-humor-ansiedade-4",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o BNFc 2020-2021 (pode estar desatualizado), qual é a dose diária inicial de fluoxetina numa criança de 10 anos com depressão moderada a grave que não respondeu à psicoterapia?",
+    "options": [
+      "5 mg por dia",
+      "30 mg por dia",
+      "10 mg por dia",
+      "40 mg por dia"
+    ],
+    "correct": 2,
+    "explanation": "O BNFc dá 10 mg/dia para os 8 aos 17 anos, podendo subir até 20 mg/dia após 1 a 2 semanas; não há dose pediátrica abaixo dos 8 anos. A fluoxetina só está autorizada em Portugal a partir dos 8 anos. As outras doses não constam do BNFc.",
+    "source": "NICE NG134 (depressão em crianças e jovens), 2019, última revisão 07/05/2024 (só simplificação, sem mudança de prática), https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.6.11, 1.6.2 e 1.6.4; tabela 1); AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Major and Persistent Depressive Disorders, JAACAP 2023;62(5):479-502, https://pubmed.ncbi.nlm.nih.gov/36273673/ (texto integral lido numa cópia PDF alojada em hscsnhealthplan.org; o site da JAACAP devolve 403) (Treatment Statement 2, Benefits and Harms: 'Children—fluoxetine: insufficient evidence'; Additional Support); RCM fluoxetina (secções 4.1, 4.2 e 4.4, ver regulatory_pt); BNFc 2020-2021, Depression p. 251 e fluoxetina p. 253 (nice__BNFC-2020-2021.pdf.txt, linhas 34467-34488 e 34702-34712)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-bipolar-psicose-9-q1",
+    "itemId": "farmaco-bipolar-psicose-9",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a RCM portuguesa do Haldol (haloperidol), a partir de que idade está autorizado o haloperidol no tratamento de tiques?",
+    "options": [
+      "8 anos",
+      "12 anos",
+      "10 anos",
+      "16 anos"
+    ],
+    "correct": 2,
+    "explanation": "A RCM autoriza o haloperidol em doentes pediátricos para tiques dos 10 aos 17 anos. Para esquizofrenia a idade mínima é 13 anos e para agressividade grave em autismo é 6 anos. A mania bipolar está autorizada apenas em adultos.",
+    "source": "NICE CG185, 2014 (última atualização 02/09/2025, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg185/chapter/Recommendations, rec. 1.5.3; NICE CG155, 2013 (última atualização 26/10/2016, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg155/chapter/Recommendations, rec. 1.5.15; RCM Infarmed obtida via INFOMED (https://extranet.infarmed.pt/INFOMED-fo/, pesquisa avançada, sem URL estável) a 10/10/2026 (RCM Haldol, 4.1); BNFc 2020-2021, haloperidol, p. 261-262 (txt l. 35850-35895) e p. 248 (l. 34100-34102)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-bipolar-psicose-36-q1",
+    "itemId": "farmaco-bipolar-psicose-36",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Uma rapariga de 15 anos, com um primeiro episódio de psicose e agitação aguda, nunca tomou antipsicóticos. Pondera-se haloperidol para tranquilização rápida. Segundo o NICE CG155, que risco acrescido deve levar a particular cautela?",
+    "options": [
+      "Agranulocitose grave súbita",
+      "Reações distónicas agudas",
+      "Prolongamento do intervalo QT",
+      "Hiperglicemia grave persistente"
+    ],
+    "correct": 1,
+    "explanation": "O NICE pede particular cautela com antipsicóticos de alta potência, como o haloperidol, em quem nunca os tomou, pelo risco de reações distónicas agudas nesta idade. Os outros riscos não são os que a recomendação destaca neste contexto. Quem faz a tranquilização rápida deve ter formação específica e dar depois ao jovem oportunidade de falar da experiência.",
+    "source": "NICE CG155, 2013 (última atualização 26/10/2016, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg155/chapter/Recommendations, rec. 1.5.14 a 1.5.16",
+    "dose": false
+  },
+  {
+    "id": "farmaco-bipolar-psicose-2-q1",
+    "itemId": "farmaco-bipolar-psicose-2",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o NICE CG185, uma criança de 11 anos com suspeita de perturbação bipolar nos cuidados primários deve ser referenciada para onde?",
+    "options": [
+      "CAMHS",
+      "Serviço de intervenção precoce em psicose",
+      "Seguimento em cuidados primários com questionários de rastreio",
+      "Serviço de urgência hospitalar geral"
+    ],
+    "correct": 0,
+    "explanation": "Abaixo dos 14 anos o NICE manda referir para CAMHS, enquanto a partir dos 14 anos se pode referir para serviço de intervenção precoce em psicose ou CAMHS com perícia em bipolar. A urgência hospitalar geral e o seguimento só em cuidados primários não são a via descrita.",
+    "source": "NICE CG185, 2014 (última atualização 02/09/2025, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg185/chapter/Recommendations, rec. 1.11.2, 1.11.3, 1.11.8, 1.10.1 e termos usados",
+    "dose": false
+  },
+  {
+    "id": "farmaco-bipolar-psicose-10-q1",
+    "itemId": "farmaco-bipolar-psicose-10",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Um jovem de 16 anos com mania aguda não respondeu a um primeiro antipsicótico nem, depois de trocado, a um segundo antipsicótico, ambos na dose máxima licenciada. Segundo o NICE (1.5.4 e 1.5.5), qual é o passo seguinte a considerar?",
+    "options": [
+      "Juntar um terceiro antipsicótico em simultâneo",
+      "Subir os dois antipsicóticos acima da dose máxima licenciada",
+      "Suspender a medicação e manter só observação",
+      "Acrescentar lítio (uso off-label)"
+    ],
+    "correct": 3,
+    "explanation": "O NICE manda oferecer outro antipsicótico se o primeiro for ineficaz na dose máxima e, sem resposta a um segundo, considerar acrescentar lítio, o que é uso off-label. A escada do NICE descrita não inclui juntar um terceiro antipsicótico. Subir doses para além do máximo licenciado ou suspender não fazem parte da escada descrita.",
+    "source": "NICE CG185, 2014 (última atualização 02/09/2025, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg185/chapter/Recommendations, rec. 1.5.4, 1.5.5; AACAP Practice Parameter for the Use of Atypical Antipsychotic Medications in Children and Adolescents, aprovado 02/08/2011, https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/Atypical_antipsychotic_Medications_Web.pdf (rec. 8 e 9); BNFc 2020-2021, p. 248 (txt l. 34019-34027) e p. 260 (l. 35607-35609)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-bipolar-psicose-19-q1",
+    "itemId": "farmaco-bipolar-psicose-19",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o NICE CG185, em quanto tempo se deve reduzir a dose ao parar um antipsicótico?",
+    "options": [
+      "De um dia para o outro",
+      "Ao longo de 3 a 5 dias",
+      "Ao longo de 1 a 2 semanas",
+      "Em pelo menos 4 semanas"
+    ],
+    "correct": 3,
+    "explanation": "O NICE (1.10.13) manda parar um antipsicótico reduzindo a dose ao longo de pelo menos 4 semanas. A AACAP 2011 também desaconselha a suspensão abrupta, pelo risco de discinesia de privação e desestabilização. Os períodos mais curtos não cumprem esse mínimo.",
+    "source": "NICE CG185, 2014 (última atualização 02/09/2025, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg185/chapter/Recommendations, rec. 1.5.14, 1.5.15, 1.7.12, 1.10.13, 1.10.35, 1.11.10, 1.11.16; AACAP Practice Parameter for the Use of Atypical Antipsychotic Medications in Children and Adolescents, aprovado 02/08/2011, https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/Atypical_antipsychotic_Medications_Web.pdf (rec. 18 e 19); EMA, RCM do Abilify em português, https://www.ema.europa.eu/pt/documents/product-information/abilify-epar-product-information_pt.pdf (lida a 10/10/2026), secção 4.2; BNFc 2020-2021, p. 248 (txt l. 34036-34041)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-bipolar-psicose-25-q1",
+    "itemId": "farmaco-bipolar-psicose-25",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Uma adolescente de 16 anos, sexualmente ativa, toma lítio para perturbação bipolar. Segundo a RCM do Priadel, que risco justifica não dar lítio na gravidez, sobretudo no 1.º trimestre, salvo se essencial?",
+    "options": [
+      "Defeitos do tubo neural, como espinha bífida",
+      "Fenda palatina e lábio leporino isolados",
+      "Malformações cardíacas (anomalia de Ebstein)",
+      "Microcefalia e atraso do crescimento fetal"
+    ],
+    "correct": 2,
+    "explanation": "A RCM do Priadel refere o risco de malformações cardíacas, sobretudo anomalia de Ebstein, e pede contraceção adequada e vigilância apertada da litemia se o lítio for mantido na gravidez. O lítio está também contraindicado no aleitamento. Os outros riscos não são os indicados pela RCM.",
+    "source": "RCM Infarmed obtida via INFOMED (https://extranet.infarmed.pt/INFOMED-fo/, pesquisa avançada, sem URL estável) a 10/10/2026 (RCM Priadel 4.6, Risperdal 4.6, Zyprexa 4.6, Seroquel 4.6); EMA, RCM do Abilify em português, https://www.ema.europa.eu/pt/documents/product-information/abilify-epar-product-information_pt.pdf (lida a 10/10/2026), secção 4.6; NICE CG185, 2014 (última atualização 02/09/2025, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg185/chapter/Recommendations, rec. 1.1 (remissão), 1.7.1, 1.10.17; BNFc 2020-2021, lítio p. 249 (txt l. 34165-34177) e antipsicóticos p. 260 (l. 35688-35694)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-bipolar-psicose-27-q1",
+    "itemId": "farmaco-bipolar-psicose-27",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Um rapaz de 15 anos tem sintomas psicóticos transitórios e sofrimento, mas sem critérios suficientes para psicose ou esquizofrenia. Segundo o NICE CG155, qual é a conduta adequada?",
+    "options": [
+      "Iniciar antipsicótico em dose baixa para reduzir o risco de psicose",
+      "Não oferecer antipsicótico; considerar TCC individual",
+      "Oferecer antipsicótico apenas se houver consumo de substâncias",
+      "Dar alta sem qualquer vigilância nem seguimento posterior"
+    ],
+    "correct": 1,
+    "explanation": "Perante sintomas psicóticos transitórios ou atenuados, o NICE manda não oferecer antipsicótico, nem para reduzir o risco de psicose, e considerar TCC individual com ou sem intervenção familiar. Se não houver diagnóstico claro, monitorizam-se os sintomas e o funcionamento até 3 anos. A alta sem vigilância contraria essa monitorização.",
+    "source": "NICE CG155, 2013 (última atualização 26/10/2016, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg155/chapter/Recommendations, rec. 1.2.1, 1.2.3, 1.2.5, 1.2.6",
+    "dose": false
+  },
+  {
+    "id": "farmaco-bipolar-psicose-28-q1",
+    "itemId": "farmaco-bipolar-psicose-28",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o NICE CG155, perante um jovem com sintomas psicóticos sustentados há 4 semanas ou mais, o que se deve evitar nos cuidados primários?",
+    "options": [
+      "Iniciar antipsicótico fora de consulta com psiquiatra especializado",
+      "Referenciar com urgência para CAMHS ou intervenção precoce",
+      "Rever sempre o consumo de substâncias e outras comorbilidades",
+      "Fazer exame físico completo à procura de causas orgânicas de psicose"
+    ],
+    "correct": 0,
+    "explanation": "O NICE manda referenciar com urgência e não iniciar antipsicótico em cuidados primários, a não ser em consulta com o psiquiatra consultor com formação em infância e adolescência. As outras condutas fazem parte da abordagem recomendada, incluindo avaliação multidisciplinar abrangente e revisão do consumo de substâncias. A neuroimagem estrutural também não é de rotina.",
+    "source": "NICE CG155, 2013 (última atualização 26/10/2016, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg155/chapter/Recommendations, rec. 1.3.1 a 1.3.6, 1.3.14; AACAP Practice Parameter esquizofrenia, JAACAP 2013;52(9) (série descontinuada pela AACAP), https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/Schizophrenia_Sept13.pdf (rec. 7)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-bipolar-psicose-38-q1",
+    "itemId": "farmaco-bipolar-psicose-38",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Uma jovem de 16 anos com esquizofrenia manteve adesão confirmada a dois antipsicóticos diferentes em sequência, cada um durante 6 a 8 semanas em dose adequada, sem resposta. O diagnóstico e outras causas de não resposta já foram revistos. Segundo o NICE CG155, o que se oferece?",
+    "options": [
+      "Clozapina",
+      "Um terceiro antipsicótico de 1.ª linha",
+      "Dois antipsicóticos em associação regular",
+      "Psicoterapia isolada e suspensão do antipsicótico"
+    ],
+    "correct": 0,
+    "explanation": "Se não houver resposta a pelo menos 2 antipsicóticos diferentes em sequência, em doses adequadas e durante 6 a 8 semanas cada, o NICE manda oferecer clozapina. A AACAP 2013 aconselha o mesmo após 2 ou mais ensaios falhados. A associação regular de antipsicóticos só é considerada mais tarde, se a clozapina otimizada for insuficiente.",
+    "source": "NICE CG155, 2013 (última atualização 26/10/2016, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg155/chapter/Recommendations, rec. 1.8.8 a 1.8.10; AACAP Practice Parameter esquizofrenia, JAACAP 2013;52(9) (série descontinuada pela AACAP), https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/Schizophrenia_Sept13.pdf (rec. 7); BNFc 2020-2021, p. 260 (txt l. 35615-35625)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-bipolar-psicose-45-q1",
+    "itemId": "farmaco-bipolar-psicose-45",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o NICE CG158, na agressão persistente em perturbação de conduta tratada com risperidona, quando se deve parar o fármaco se não houver resposta clinicamente importante?",
+    "options": [
+      "Às 2 semanas",
+      "Às 12 semanas",
+      "Aos 6 meses",
+      "Às 6 semanas"
+    ],
+    "correct": 3,
+    "explanation": "O NICE manda rever às 3 a 4 semanas e parar a risperidona se não houver resposta clinicamente importante às 6 semanas. A RCM também limita o tratamento a curta duração, até 6 semanas. Prolongar o ensaio para 12 semanas ou 6 meses contraria esse limite.",
+    "source": "NICE CG158, 2013 (última atualização 19/04/2017, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg158/chapter/Recommendations, rec. 1.6.7; RCM Infarmed obtida via INFOMED (https://extranet.infarmed.pt/INFOMED-fo/, pesquisa avançada, sem URL estável) a 10/10/2026 (RCM Risperdal, 4.2); AACAP Practice Parameter for the Use of Atypical Antipsychotic Medications in Children and Adolescents, aprovado 02/08/2011, https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/Atypical_antipsychotic_Medications_Web.pdf (rec. 2, 8, 18 e 19); BNFc 2020-2021, risperidona, p. 270 (txt l. 37025-37026)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-bipolar-psicose-44-q1",
+    "itemId": "farmaco-bipolar-psicose-44",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o NICE CG158, com que periodicidade se regista o peso e a altura durante a titulação da risperidona na perturbação de conduta?",
+    "options": [
+      "Mensalmente",
+      "De 3 em 3 meses",
+      "Semanalmente",
+      "Uma vez por ano"
+    ],
+    "correct": 2,
+    "explanation": "O CG158 pede peso e altura semanais durante o tratamento com risperidona, sobretudo na titulação, sem limite de semanas. Este calendário é mais frequente do que o do BNFc, que pede peso no início, aos 3 meses (com peso frequente nos 3 primeiros meses) e depois anualmente. As periodicidades mensal, trimestral e anual são menos frequentes do que o pedido pelo NICE.",
+    "source": "NICE CG158, 2013 (última atualização 19/04/2017, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg158/chapter/Recommendations, rec. 1.6.5 e 1.6.6; BNFc 2020-2021, p. 260 (txt l. 35628-35720) e risperidona p. 270 (l. 37077)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-bipolar-psicose-18-q1",
+    "itemId": "farmaco-bipolar-psicose-18",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a RCM europeia do Abilify (aripiprazol), qual é a duração máxima do tratamento da mania moderada a grave em adolescentes de 13 ou mais anos com bipolar I?",
+    "options": [
+      "4 semanas",
+      "12 semanas",
+      "6 semanas",
+      "24 semanas"
+    ],
+    "correct": 1,
+    "explanation": "A RCM autoriza o aripiprazol na mania moderada a grave em bipolar I desde os 13 anos, mas limita o tratamento a 12 semanas. A prevenção de recorrência de mania está autorizada só em adultos, pelo que a manutenção em adolescentes fica fora das condições autorizadas. Os outros prazos não são os da RCM.",
+    "source": "NICE CG185, 2014 (última atualização 02/09/2025, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg185/chapter/Recommendations, rec. 1.7.8; CANMAT/ISBD 2018 guidelines for the management of patients with bipolar disorder (Bipolar Disord 2018; PubMed 29536616), texto integral lido via Europe PMC https://pmc.ncbi.nlm.nih.gov/articles/PMC5947163/ , secção 7.2 (crianças e adolescentes) (7.2.2, manutenção); EMA, RCM do Abilify em português, https://www.ema.europa.eu/pt/documents/product-information/abilify-epar-product-information_pt.pdf (lida a 10/10/2026), secção 4.1 e 4.2; BNFc 2020-2021, aripiprazol, p. 265 (txt l. 36326-36333)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-bipolar-psicose-60-q1",
+    "itemId": "farmaco-bipolar-psicose-60",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a AACAP 2011, a partir de que valor de IMC, por aumento de peso com antipsicótico, se devem considerar intervenções de controlo de peso e maior regularidade de glicemia e lípidos?",
+    "options": [
+      "IMC acima do percentil 50 para a idade",
+      "IMC acima do percentil 90 para a idade",
+      "IMC acima do percentil 75 para a idade",
+      "IMC acima do percentil 99 para a idade"
+    ],
+    "correct": 1,
+    "explanation": "A AACAP 2011 considera intervenções de controlo de peso e glicemia e lípidos mais regulares se o IMC ultrapassar o percentil 90 para a idade ou se subir 5 unidades de IMC em quem era obeso no início. Os outros percentis não são o limiar referido. Os pais e o jovem devem também ser informados do ganho de peso esperado antes de iniciar.",
+    "source": "AACAP Practice Parameter for the Use of Atypical Antipsychotic Medications in Children and Adolescents, aprovado 02/08/2011, https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/Atypical_antipsychotic_Medications_Web.pdf (rec. 11 a 13); NICE CG185, 2014 (última atualização 02/09/2025, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg185/chapter/Recommendations, rec. 1.8.2, 1.8.3; AACAP Practice Parameter esquizofrenia, JAACAP 2013;52(9) (série descontinuada pela AACAP), https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/Schizophrenia_Sept13.pdf (rec. 8); BNFc 2020-2021, p. 259 (txt l. 35520-35530 e 35587-35594) e olanzapina p. 267 (l. 36731-36736)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-bipolar-psicose-66-q1",
+    "itemId": "farmaco-bipolar-psicose-66",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a AACAP 2011, o que se sabe sobre o uso de antipsicóticos atípicos em crianças em idade pré-escolar?",
+    "options": [
+      "Quase não há dados e aconselha-se muita cautela",
+      "Há dados robustos que os tornam a 1.ª linha nesta idade",
+      "Estão recomendados em dose reduzida para agressividade",
+      "Estão autorizados em Portugal a partir dos 3 anos"
+    ],
+    "correct": 0,
+    "explanation": "A AACAP 2011 diz que quase não há dados sobre antipsicóticos atípicos em idade pré-escolar, grupo possivelmente mais vulnerável, e aconselha muita cautela. Nenhuma das RCM portuguesas lidas autoriza um antipsicótico abaixo dos 5 anos. As outras afirmações não têm suporte nas fontes.",
+    "source": "AACAP Practice Parameter for the Use of Atypical Antipsychotic Medications in Children and Adolescents, aprovado 02/08/2011, https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/Atypical_antipsychotic_Medications_Web.pdf (rec. 2); RCM Infarmed obtida via INFOMED (https://extranet.infarmed.pt/INFOMED-fo/, pesquisa avançada, sem URL estável) a 10/10/2026 (RCM Risperdal 4.2; RCM Haldol 4.2); BNFc 2020-2021, p. 258 (txt l. 35360-35366), p. 262 e p. 270",
+    "dose": false
+  },
+  {
+    "id": "farmaco-bipolar-psicose-40-q1",
+    "itemId": "farmaco-bipolar-psicose-40",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o NICE CG155, um jovem enviado em crise por suspeita de psicose deve ser observado em serviço especializado em que prazo?",
+    "options": [
+      "No prazo de 1 hora",
+      "No prazo de 24 horas",
+      "No prazo de 1 semana",
+      "No prazo de 4 horas"
+    ],
+    "correct": 3,
+    "explanation": "O NICE (1.5.1) pede observação em serviço especializado no prazo de 4 horas para quem é enviado em crise. Os restantes prazos são mais curtos ou muito mais longos do que o recomendado. Em cuidados primários a saúde física é monitorizada pelo menos uma vez por ano.",
+    "source": "NICE CG155, 2013 (última atualização 26/10/2016, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg155/chapter/Recommendations, rec. 1.3.21, 1.5.1, 1.7.2, 1.7.7, 1.8.1",
+    "dose": false
+  },
+  {
+    "id": "farmaco-bipolar-psicose-37-q1",
+    "itemId": "farmaco-bipolar-psicose-37",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o NICE CG155, durante quanto tempo se mantém a vigilância de sintomas de recaída depois de retirar a medicação antipsicótica na psicose?",
+    "options": [
+      "Cerca de 3 meses",
+      "Cerca de 6 meses",
+      "2 anos ou mais",
+      "Cerca de 1 ano"
+    ],
+    "correct": 2,
+    "explanation": "O NICE manda retirar de forma gradual com vigilância regular e manter a vigilância pelo menos 2 anos depois da retirada; o BNFc 2020-2021 concorda. Há risco elevado de recaída se a medicação for suspensa no 1.º ou 2.º ano após um episódio agudo. Os outros períodos não são os indicados.",
+    "source": "NICE CG155, 2013 (última atualização 26/10/2016, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg155/chapter/Recommendations, rec. 1.6.2 a 1.6.4, 1.8.7; AACAP Practice Parameter esquizofrenia, JAACAP 2013;52(9) (série descontinuada pela AACAP), https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/Schizophrenia_Sept13.pdf (rec. 5); AACAP Practice Parameter for the Use of Atypical Antipsychotic Medications in Children and Adolescents, aprovado 02/08/2011, https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/Atypical_antipsychotic_Medications_Web.pdf (rec. 19); BNFc 2020-2021, p. 260 (txt l. 35721-35730)",
+    "dose": false
+  }
+]

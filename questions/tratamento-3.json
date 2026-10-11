@@ -1,0 +1,308 @@
+[
+  {
+    "id": "tx-prevencao-escolar-conduta-q1",
+    "itemId": "tx-prevencao-escolar-conduta",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a NICE, a quem se destinam os programas escolares de aprendizagem emocional e resolução de problemas, usados como prevenção seletiva da oposição e da conduta?",
+    "options": [
+      "A crianças dos 8 aos 11 anos com perturbação de conduta já instalada, em consulta individual de pedopsiquiatria",
+      "A todas as crianças de qualquer escola, sem avaliação do risco, como tratamento da oposição já instalada",
+      "A crianças dos 3 aos 7 anos, em escolas onde muitas crianças têm risco elevado de oposição ou de conduta",
+      "A crianças dos 3 aos 7 anos com oposição já diagnosticada, como tratamento da perturbação instalada na escola"
+    ],
+    "correct": 2,
+    "explanation": "Os programas na sala de aula são prevenção seletiva, não tratamento da perturbação já instalada. A NICE situa-os dos 3 aos 7 anos, em escolas com muitas crianças de risco elevado (baixo nível socioeconómico, conflito parental, entre outros). As outras opções trocam a faixa etária, retiram o critério de risco ou confundem prevenção com tratamento.",
+    "source": "NICE CG158, publicada 27/03/2013, última atualização 19/04/2017, https://www.nice.org.uk/guidance/cg158/chapter/Recommendations (rec. 1.2.1 e 1.2.2)",
+    "dose": false
+  },
+  {
+    "id": "tx-sono-autismo-q1",
+    "itemId": "tx-sono-autismo",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Perante um problema de sono num jovem autista, a NICE propõe um plano comportamental construído com os pais. Durante quanto tempo se deve registar o sono e a vigília para ajustar o plano?",
+    "options": [
+      "2 semanas",
+      "1 semana",
+      "4 semanas",
+      "8 semanas"
+    ],
+    "correct": 0,
+    "explanation": "A NICE indica um registo do sono e da vigília durante 2 semanas, usado para modificar o plano se necessário. Os outros períodos não constam da recomendação. O fármaco só entra se o problema persistir apesar do plano.",
+    "source": "NICE CG170, publicada 28/08/2013, última atualização 14/06/2021, https://www.nice.org.uk/guidance/cg170/chapter/recommendations (rec. 1.7.4 a 1.7.8)",
+    "dose": false
+  },
+  {
+    "id": "tx-intervencao-precoce-snipi-q1",
+    "itemId": "tx-intervencao-precoce-snipi",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a norma da DGS, qual é o prazo máximo para referenciar à equipa local de intervenção (ELI) uma criança dos 0 aos 6 anos com suspeita de autismo?",
+    "options": [
+      "15 dias após a suspeita, em simultâneo com a consulta hospitalar",
+      "60 dias após a suspeita, em simultâneo com a consulta hospitalar",
+      "30 dias após a suspeita, mas só depois de concluída a consulta hospitalar",
+      "30 dias após a suspeita, em simultâneo com a consulta hospitalar"
+    ],
+    "correct": 3,
+    "explanation": "A DGS determina a referenciação à ELI no prazo máximo de 30 dias, em simultâneo com a consulta hospitalar, para avaliar as necessidades e recursos da criança, da família e da comunidade e iniciar intervenção específica. As outras opções alteram o prazo ou a sequência: a referenciação não espera pela consulta hospitalar.",
+    "source": "SNIPI, página Quem somos, https://snipi.gov.pt/quem-somos; DGS, Norma 002/2019 de 23/04/2019, https://normas.dgs.min-saude.pt/wp-content/uploads/2019/09/Abordagem-Diagnostica-e-Intervencao-na-Perturbacao-do-Espetro-do-Autismo-em-Idade-Pediatrica-e-no-Adulto_2019.pdf (secção organizacional, pontos A, B e J)",
+    "dose": false
+  },
+  {
+    "id": "tx-atividade-participacao-dcd-q1",
+    "itemId": "tx-atividade-participacao-dcd",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a EACD 2019, que abordagem tem recomendação de nível A para melhorar as competências motoras em crianças com DCD e indicação atual para intervenção?",
+    "options": [
+      "Terapia de integração sensorial, como abordagem isolada sem treino de tarefas",
+      "Intervenção orientada para a atividade e a participação, com treino de tarefas",
+      "Treino de sensibilidade cinestésica, como abordagem isolada sem treino de tarefas",
+      "Brain-gym, como programa isolado de exercícios sem treino de tarefas concretas"
+    ],
+    "correct": 1,
+    "explanation": "A EACD recomenda (nível A) a intervenção orientada para a atividade e a participação, por exemplo treino específico de tarefas, com objetivos definidos com a família e transferência para casa e escola. As outras opções não são a abordagem que a fonte descreve com recomendação de nível A.",
+    "source": "EACD, Blank et al., Dev Med Child Neurol 2019;61:242-285, doi 10.1111/dmcn.14132, https://pmc.ncbi.nlm.nih.gov/articles/PMC6850610/ (rec. 15 a 18, 22, 29; statement 4)",
+    "dose": false
+  },
+  {
+    "id": "tx-psicoeducacao-tiques-q1",
+    "itemId": "tx-psicoeducacao-tiques",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Na informação à família sobre os tiques, a AAN 2019 refere que surgem na infância, oscilam e têm um pico por volta de que idades, melhorando muitos na adolescência?",
+    "options": [
+      "4 a 6 anos",
+      "6 a 8 anos",
+      "10 a 12 anos",
+      "14 a 16 anos"
+    ],
+    "correct": 2,
+    "explanation": "Segundo a AAN, os tiques surgem na infância, oscilam e têm o pico por volta dos 10 a 12 anos, com melhoria em muitos jovens na adolescência. Este curso natural apoia a informação à família e a opção de vigiar e esperar quando não há incapacidade funcional. As outras faixas não correspondem ao pico descrito.",
+    "source": "ESSTS parte II (psicológico), Andrén et al., Eur Child Adolesc Psychiatry 2022;31:403-423, doi 10.1007/s00787-021-01845-z, https://pmc.ncbi.nlm.nih.gov/articles/PMC8314030/ (secção Recommendations); AAN, Pringsheim et al., Neurology 2019;92(19):896-906, doi 10.1212/WNL.0000000000007466, https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/ (rec. 1a, 1c e 2)",
+    "dose": false
+  },
+  {
+    "id": "tx-erp-tiques-q1",
+    "itemId": "tx-erp-tiques",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a ESSTS 2022, a exposição com prevenção de resposta (ERP) é de 1.ª linha nos tiques, mas com certeza menor do que a HRT/CBIT. Qual é a razão apontada?",
+    "options": [
+      "Foi comparada diretamente com a HRT/CBIT e teve resultados inferiores",
+      "Só foi estudada em adultos, sem participantes em idade pediátrica",
+      "Exige internamento para a prática da supressão dos tiques",
+      "Há menos estudos: só um ensaio, com idades dos 7 aos 55 anos"
+    ],
+    "correct": 3,
+    "explanation": "A ESSTS atribui a menor certeza ao facto de existirem menos estudos: um ensaio, com idades dos 7 aos 55 anos, logo incluindo crianças. A fonte não refere comparação direta desfavorável nem necessidade de internamento; a ERP é uma terapia individual.",
+    "source": "ESSTS parte II (psicológico), Andrén et al., Eur Child Adolesc Psychiatry 2022;31:403-423, doi 10.1007/s00787-021-01845-z, https://pmc.ncbi.nlm.nih.gov/articles/PMC8314030/ (Table 1, secções ERP e Recommendations); AAN, Pringsheim et al., Neurology 2019;92(19):896-906, doi 10.1212/WNL.0000000000007466, https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/ (rec. 7c)",
+    "dose": false
+  },
+  {
+    "id": "tx-ft-an-q1",
+    "itemId": "tx-ft-an",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Na terapia familiar focada na anorexia nervosa (FT-AN, NICE NG69), que papel se pretende para os pais desde o início do tratamento?",
+    "options": [
+      "Assumir temporariamente um papel central na ajuda ao jovem com a alimentação, sem culpabilização",
+      "Assumir de forma definitiva o controlo da alimentação do jovem até à idade adulta, sem o envolver",
+      "Ficar fora das sessões, que decorrem apenas com o jovem, para não interferir na recuperação",
+      "Participar só na fase final, no planeamento do fim do tratamento e da alta do jovem"
+    ],
+    "correct": 0,
+    "explanation": "Na FT-AN os pais ou cuidadores são apoiados, logo no início, a assumir um papel central e temporário na gestão da alimentação, sem culpar o jovem nem a família. Mais tarde apoia-se uma autonomia adequada ao desenvolvimento. A família participa ao longo das fases, não apenas no fim.",
+    "source": "NICE, Eating disorders: recognition and treatment (NG69), publicada em 23/05/2017, atualizada em 16/12/2020 (datas do cabeçalho da página), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations, secções 1.3.10 a 1.3.14; Couturier et al., Canadian practice guidelines for the treatment of children and adolescents with eating disorders, J Eat Disord 2020, https://pmc.ncbi.nlm.nih.gov/articles/PMC6995106/ (texto integral lido via Europe PMC), secção de tratamento baseado na família e resumo das recomendações; SAHM, Medical management of restrictive eating disorders in adolescents and young adults, J Adolesc Health 2022, https://pubmed.ncbi.nlm.nih.gov/36058805/ (só li o resumo)",
+    "dose": false
+  },
+  {
+    "id": "tx-ft-bn-q1",
+    "itemId": "tx-ft-bn",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Que característica faz parte da estrutura da terapia familiar na bulimia nervosa (FT-BN, NICE NG69)?",
+    "options": [
+      "Decorre apenas com os pais, sem o jovem presente em nenhuma sessão",
+      "Inclui reuniões regulares com o jovem a sós ao longo do tratamento",
+      "Dispensa a automonitorização dos comportamentos bulímicos pelo jovem",
+      "Começa pela independência do jovem e só depois aborda a alimentação"
+    ],
+    "correct": 1,
+    "explanation": "A FT-BN inclui reuniões regulares com o jovem a sós durante todo o tratamento, além do trabalho com a família para estabelecer padrões regulares de alimentação. Inclui automonitorização dos comportamentos bulímicos, e a independência surge nas fases tardias, não no início.",
+    "source": "NICE, Eating disorders: recognition and treatment (NG69), publicada em 23/05/2017, atualizada em 16/12/2020 (datas do cabeçalho da página), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations, secção 1.5.6 a 1.5.8; Couturier et al., Canadian practice guidelines for the treatment of children and adolescents with eating disorders, J Eat Disord 2020, https://pmc.ncbi.nlm.nih.gov/articles/PMC6995106/ (texto integral lido via Europe PMC), secção de tratamento baseado na família na bulimia",
+    "dose": false
+  },
+  {
+    "id": "tx-space-arfid-q1",
+    "itemId": "tx-space-arfid",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "O que trabalha o SPACE-ARFID, tratamento ambulatório centrado nos pais, estudado em crianças dos 6 aos 14 anos?",
+    "options": [
+      "A autoimagem e as emoções do adolescente, em psicoterapia individual de longa duração",
+      "A respiração diafragmática com re-deglutição como resposta competitiva, em sessões individuais semanais",
+      "As respostas dos pais aos hábitos alimentares problemáticos, visando a flexibilidade alimentar",
+      "A recuperação do peso por refeições supervisionadas em internamento, com a família ausente"
+    ],
+    "correct": 2,
+    "explanation": "O SPACE-ARFID é centrado nos pais e trabalha as respostas parentais aos hábitos alimentares problemáticos, para promover a flexibilidade alimentar. A evidência é preliminar (piloto de 15 famílias, sem grupo de controlo) e a fonte não identifica guideline que o recomende. As outras opções descrevem tratamentos que a fonte não refere; o SPACE-ARFID é ambulatório e centrado nos pais.",
+    "source": "SPACE-ARFID: a pilot trial of a novel parent-based treatment for ARFID, Int J Eat Disord 2020, https://pubmed.ncbi.nlm.nih.gov/33464594/ (só li o resumo)",
+    "dose": false
+  },
+  {
+    "id": "tx-terapias-artes-psicose-q1",
+    "itemId": "tx-terapias-artes-psicose",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a NICE CG155, as terapias de artes em grupo (dança-movimento, música, arte ou dramaterapia) em jovens com psicose visam sobretudo aliviar que tipo de sintomas?",
+    "options": [
+      "Sintomas positivos, como alucinações",
+      "Efeitos adversos dos antipsicóticos",
+      "Défices de memória e de atenção",
+      "Sintomas negativos"
+    ],
+    "correct": 3,
+    "explanation": "A NICE considera as terapias de artes em todos os jovens com psicose, sobretudo com sintomas negativos. Combinam técnicas psicoterapêuticas com atividade que promove a expressão criativa, e são fornecidas por terapeutas de artes com experiência. As outras opções não são objetivos indicados na fonte.",
+    "source": "NICE CG155, https://www.nice.org.uk/guidance/cg155/chapter/Recommendations, secções 1.4.6, 1.4.7 e 1.8.5",
+    "dose": false
+  },
+  {
+    "id": "tx-luz-horario-dswpd-q1",
+    "itemId": "tx-luz-horario-dswpd",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "No protocolo de 3 meses descrito para jovens com perturbação de fase de sono atrasada, como é feita a luz brilhante?",
+    "options": [
+      "Todos os dias, logo ao acordar, 30 a 45 minutos com luz de 10 000 lux, a não mais de 40 a 50 cm",
+      "Todos os dias, antes de deitar, 30 a 45 minutos com luz de 10 000 lux, a não mais de 40 a 50 cm",
+      "Todos os dias, logo depois de acordar, 5 a 10 minutos com luz de 10 000 lux, a mais de 1 metro",
+      "Apenas ao fim de semana, 60 a 90 minutos de luz ao longo do dia, a qualquer distância do candeeiro"
+    ],
+    "correct": 0,
+    "explanation": "No protocolo, a luz brilhante faz-se todos os dias imediatamente depois de acordar, durante 30 a 45 minutos, com a luz de 10 000 lux e os olhos virados para o candeeiro, a não mais de 40 a 50 cm. A luz brilhante do protocolo faz-se ao acordar, não ao deitar, e o protocolo não prevê doses menores nem apenas ao fim de semana. A fonte é um estudo qualitativo sobre um protocolo, não uma guideline.",
+    "source": "Wilhelmsen-Langeland et al., How do youth with Delayed Sleep-Wake Phase Disorder experience a chronobiological treatment protocol? An interview study, Front Sleep 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC12713934/ (texto integral lido via Europe PMC)",
+    "dose": false
+  },
+  {
+    "id": "tx-medidas-iniciais-enurese-q1",
+    "itemId": "tx-medidas-iniciais-enurese",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Rapaz de 6 anos com enurese noturna, que já tem algumas noites secas. Os pais querem usar um sistema de recompensas. Segundo a NICE CG111, em que deve assentar a recompensa?",
+    "options": [
+      "Nas noites secas, retirando a recompensa já ganha quando houver uma noite molhada",
+      "Em comportamentos acordados, como beber líquidos e urinar antes de dormir",
+      "No número de vezes que a criança acorda sozinha para ir à casa de banho",
+      "Nas noites secas, com um pequeno castigo nas noites molhadas para reforçar a motivação"
+    ],
+    "correct": 1,
+    "explanation": "A NICE aconselha recompensar comportamentos acordados (beber os líquidos recomendados, urinar antes de dormir, participar no tratamento) e não as noites secas, nunca retirando recompensas já ganhas. A enurese não é culpa da criança e não se devem usar medidas punitivas.",
+    "source": "NICE, Bedwetting in under 19s (CG111), publicada em 27/10/2010 (a página do capítulo não mostra data de atualização; a nota de atualização refere uma emenda em agosto de 2015), https://www.nice.org.uk/guidance/cg111/chapter/Recommendations, secções 1.1 a 1.7",
+    "dose": false
+  },
+  {
+    "id": "tx-intervencao-familiar-psicose-q1",
+    "itemId": "tx-intervencao-familiar-psicose",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Rapariga de 15 anos, em primeiro episódio de psicose. Segundo a NICE CG155, que intervenções psicológicas se devem oferecer?",
+    "options": [
+      "Apenas terapias de artes em grupo, de forma isolada",
+      "Apenas TCC individual, sem envolver a família do jovem",
+      "Apenas entrevista motivacional individual, sem a família",
+      "Intervenção familiar em conjunto com TCC individual"
+    ],
+    "correct": 3,
+    "explanation": "Na psicose de primeiro episódio, a NICE CG155 indica a intervenção familiar em conjunto com TCC individual. A intervenção familiar visa sobretudo prevenir recaídas e promover a recuperação. As terapias de artes são apenas para considerar, sobretudo com sintomas negativos, e a entrevista motivacional não é a intervenção que a fonte indica para este caso.",
+    "source": "NICE, Psychosis and schizophrenia in children and young people (CG155), publicada em 23/01/2013, atualizada em 26/10/2016 (datas do cabeçalho), https://www.nice.org.uk/guidance/cg155/chapter/Recommendations, secções 1.2.5, 1.3.12, 1.3.29, 1.3.30, 1.4.4, 1.8.2 e 1.8.3",
+    "dose": false
+  },
+  {
+    "id": "tx-apoio-comportamental-tabaco-q1",
+    "itemId": "tx-apoio-comportamental-tabaco",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Rapaz de 15 anos, dependente do tabaco, que quer deixar de fumar. Segundo a NICE NG209, qual é a conduta adequada?",
+    "options": [
+      "Oferecer vareniclina em associação com apoio comportamental estruturado",
+      "Oferecer bupropiom como fármaco isolado, sem qualquer apoio comportamental",
+      "Considerar substituição de nicotina, sempre com apoio comportamental",
+      "Oferecer substituição de nicotina isolada, sem qualquer apoio comportamental"
+    ],
+    "correct": 2,
+    "explanation": "A NICE considera a terapêutica de substituição de nicotina em jovens com 12 anos ou mais dependentes do tabaco, sempre com apoio comportamental. Não oferece citisinicline, vareniclina nem bupropiom a menores de 18 anos. Material de estudo, não instrução de prescrição.",
+    "source": "NICE, Tobacco: preventing uptake, promoting quitting and treating dependence (NG209), publicada em 30/11/2021, atualizada em 04/02/2025 (datas do cabeçalho), https://www.nice.org.uk/guidance/ng209/chapter/Treating-tobacco-dependence, secção 1.12; definição de apoio comportamental em https://www.nice.org.uk/guidance/ng209/chapter/Terms-used-in-this-guideline",
+    "dose": false
+  },
+  {
+    "id": "tx-medidas-gerais-parassonias-nrem-q1",
+    "itemId": "tx-medidas-gerais-parassonias-nrem",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Rapaz de 7 anos com episódios noturnos de gritos e agitação, sem resposta aos pais e com resolução espontânea, compatíveis com parassónia NREM. Os pais perguntam o que fazer durante o episódio. Segundo a revisão de 2023, o que se aconselha?",
+    "options": [
+      "Não interagir nem tentar acordá-lo durante o episódio, para não o agravar",
+      "Acordá-lo de imediato, abanando-o com firmeza, para interromper o episódio",
+      "Segurá-lo com firmeza até acalmar, para evitar que se magoe durante o episódio",
+      "Levá-lo para fora do quarto e acendê-lo com luz forte para o acordar"
+    ],
+    "correct": 0,
+    "explanation": "A revisão aconselha os pais a não interagir nem tentar acordar o jovem durante o episódio, para não o agravar, prolongar ou provocar reações violentas. A segurança trata-se por medidas no ambiente (remover objetos perigosos, alarmes ou trancas em portas, janelas e escadas). A fonte é uma revisão narrativa, não uma guideline.",
+    "source": "Mainieri et al., Diagnosis and management of NREM sleep parasomnias in children and adults, Diagnostics (Basel) 2023, https://pmc.ncbi.nlm.nih.gov/articles/PMC10093221/, secções 2.6.1 e Tabela de tratamentos (texto integral lido via Europe PMC; revisão narrativa)",
+    "dose": false
+  },
+  {
+    "id": "tx-react-fnd-q1",
+    "itemId": "tx-react-fnd",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Rapariga de 11 anos com crises funcionais em programa ReACT. A mãe pergunta como reagir aos episódios em casa. Segundo o plano da família descrito para a ReACT, o que se aconselha?",
+    "options": [
+      "Interromper as atividades escolares e sociais até as crises cessarem por completo",
+      "Vigiar a segurança e, no resto, atender o mínimo, sem interferir no retreino",
+      "Atender de forma prolongada cada episódio, para reforçar o sentido de controlo",
+      "Filmar cada episódio e discuti-lo com a criança logo a seguir, em detalhe"
+    ],
+    "correct": 1,
+    "explanation": "No plano da família da ReACT os pais vigiam a segurança e, no resto, atendem o mínimo e não interferem no plano de retreino. O programa inclui também o regresso à escola e às atividades sociais. A evidência é limitada: um ensaio piloto de 2020, com 29 participantes.",
+    "source": "Kozlowska, Vassilopoulos e Fobian, Treatment approaches for functional neurological disorders in children, Curr Treat Options Neurol 2022, https://pmc.ncbi.nlm.nih.gov/articles/PMC8958484/ (texto integral lido via Europe PMC), secção de ReACT e Tabela 1",
+    "dose": false
+  },
+  {
+    "id": "tx-cbt-ed-individual-ingestao-compulsiva-q1",
+    "itemId": "tx-cbt-ed-individual-ingestao-compulsiva",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Rapariga de 16 anos com ingestão compulsiva, em TCC individual focada nas perturbações alimentares (NICE NG69). Pergunta se deve fazer dieta para perder peso durante o tratamento. O que se aconselha?",
+    "options": [
+      "Fazer dieta rigorosa durante o tratamento, porque a perda de peso é o alvo principal da TCC",
+      "Fazer jejuns longos entre refeições, para reduzir a vontade de compulsão e controlar o peso",
+      "Manter apenas uma refeição principal por dia e evitar lanches, para reduzir as compulsões",
+      "Não tentar perder peso, por exemplo com dietas, porque isso tende a desencadear compulsões"
+    ],
+    "correct": 3,
+    "explanation": "Na TCC individual a NICE explica que a terapia não visa perder peso e aconselha a não tentar perder peso durante o tratamento, porque tende a desencadear compulsões. Aconselha-se comer refeições e lanches regulares para evitar a fome, o que contraria os jejuns e a redução de refeições.",
+    "source": "NICE, Eating disorders: recognition and treatment (NG69), publicada em 23/05/2017, atualizada em 16/12/2020 (datas do cabeçalho da página), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations, secção 1.4.6 a 1.4.8",
+    "dose": false
+  },
+  {
+    "id": "tx-comportamento-desafiante-autismo-q1",
+    "itemId": "tx-comportamento-desafiante-autismo",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Rapaz autista de 9 anos com agressividade repetida em casa e na escola. Segundo a NICE CG170, qual é o primeiro passo antes de uma intervenção psicossocial?",
+    "options": [
+      "Iniciar um antipsicótico de imediato, porque as intervenções psicossociais são insuficientes",
+      "Iniciar de imediato a intervenção psicossocial, sem procurar outras causas físicas ou mentais",
+      "Avaliar e tratar fatores desencadeantes, como dor, perturbação digestiva ou ansiedade",
+      "Referenciar de rotina para TCC adaptada para a ansiedade, antes de qualquer avaliação"
+    ],
+    "correct": 2,
+    "explanation": "A NICE manda primeiro avaliar e tratar os fatores desencadeantes (dor ou perturbação digestiva, ansiedade ou depressão, PHDA, ambiente, mudanças de rotina, puberdade, abuso). Se o comportamento persistir, faz-se revisão multidisciplinar e, sem outra causa, a intervenção psicossocial é de 1.ª linha. O antipsicótico só se considera se as intervenções psicossociais forem insuficientes ou inviáveis.",
+    "source": "NICE CG170, publicada 28/08/2013, última atualização 14/06/2021, https://www.nice.org.uk/guidance/cg170/chapter/recommendations (rec. 1.4.1 a 1.4.9)",
+    "dose": false
+  }
+]

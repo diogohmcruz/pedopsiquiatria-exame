@@ -24,9 +24,9 @@
     "text": "Na depressão ligeira que persiste após vigilância, sem comorbilidade significativa nem ideação ou plano suicida ativos, durante quanto tempo se oferece psicoterapia aos 12-18 anos (NG134 rec. 1.5.7)?",
     "options": [
       "Cerca de 2 a 3 meses",
-      "Cerca de 2 semanas",
-      "Cerca de 6 meses",
-      "Cerca de 12 meses"
+      "Cerca de 2 a 3 semanas",
+      "Cerca de 5 a 6 meses",
+      "Cerca de 10 a 12 meses"
     ],
     "correct": 0,
     "explanation": "Para os 12-18 anos, a NG134 manda oferecer a escolha entre TCC digital, TCC em grupo, apoio não diretivo em grupo ou terapia interpessoal em grupo por cerca de 2 a 3 meses (rec. 1.5.7). As 2 semanas correspondem ao período de vigilância que precede a psicoterapia, não à sua duração. A fonte não dá os restantes períodos.",
@@ -57,10 +57,10 @@
     "type": "memoria",
     "text": "Qual é a estrutura do tratamento focado na família para adolescentes com perturbação bipolar (FFT-A) na sua versão completa?",
     "options": [
-      "12 sessões em 4 meses, todas semanais",
-      "16 sessões em 6 meses, todas quinzenais",
+      "12 sessões em 4 meses, todas semanais, sem reforços",
+      "16 sessões em 6 meses, todas quinzenais, sem reforço",
       "8 sessões em 10 semanas, com 3 sessões de reforço mensais",
-      "21 sessões em 9 meses: 12 semanais, 6 quinzenais e 3 mensais"
+      "21 sessões em 9 meses, com frequência cada vez menor"
     ],
     "correct": 3,
     "explanation": "O FFT-A completo tem 21 sessões em 9 meses (12 semanais, 6 quinzenais e 3 mensais), dado com tratamento farmacológico em paralelo (Miklowitz 2012). A versão de 12 sessões em 4 meses é a versão curta para jovens de alto risco dos 9 aos 17 anos. O esquema de 8 sessões com reforços mensais pertence ao CBIT nos tiques, não ao FFT-A.",
@@ -74,10 +74,10 @@
     "type": "memoria",
     "text": "Como se divide o programa Coping Cat de TCC, com 16 sessões, para a ansiedade?",
     "options": [
-      "8 sessões de psicoeducação e competências, seguidas de 8 de exposição graduada",
-      "4 sessões de psicoeducação e 12 de exposição graduada",
-      "12 sessões de psicoeducação e 4 de exposição graduada",
-      "8 sessões de exposição graduada, seguidas de 8 de psicoeducação e competências"
+      "8 sessões de psicoeducação e competências, depois 8 de exposição",
+      "4 sessões de psicoeducação e competências, depois 12 de exposição",
+      "12 sessões de psicoeducação e competências, depois 4 de exposição",
+      "8 sessões de exposição, depois 8 de psicoeducação e competências"
     ],
     "correct": 0,
     "explanation": "O Coping Cat tem 16 sessões: as primeiras 8 de psicoeducação e competências (plano mnemónico FEAR) e as segundas 8 de exposição graduada (Beidas et al. 2010). As outras divisões e a ordem invertida não correspondem ao que a fonte descreve. O programa foi concebido para crianças dos 7 aos 13 anos.",
@@ -125,9 +125,9 @@
     "type": "memoria",
     "text": "O PACT, tratamento de comunicação mediado pelos pais com feedback em vídeo, foi estudado em ensaio aleatorizado em que população?",
     "options": [
-      "Crianças autistas dos 6 aos 12 anos",
-      "Adolescentes autistas dos 12 aos 17 anos",
-      "Crianças dos 0 aos 18 meses com sinais precoces de perturbação da comunicação",
+      "Crianças autistas dos 6 anos aos 12 anos e 11 meses",
+      "Adolescentes autistas dos 12 anos aos 17 anos e 11 meses",
+      "Bebés dos 0 aos 18 meses com sinais precoces de perturbação",
       "Crianças autistas dos 2 anos aos 4 anos e 11 meses"
     ],
     "correct": 3,
@@ -177,8 +177,8 @@
     "text": "Segundo a NICE, qual é a primeira linha de tratamento em menores de 5 anos com PHDA?",
     "options": [
       "Metilfenidato, com monitorização apertada",
-      "TCC individual dirigida à criança",
-      "Programa de treino de pais em grupo centrado na PHDA",
+      "TCC individual dirigida à criança com PHDA",
+      "Treino parental em grupo centrado na PHDA",
       "Treino de competências de organização para a criança"
     ],
     "correct": 2,
@@ -196,7 +196,7 @@
       "É recomendada em primeira linha pela guideline canadiana de 2020",
       "É recomendada pela NICE, com apoio de vários ensaios aleatorizados",
       "É recomendada apenas quando há supressão de peso, com 20 a 30 sessões de grupo",
-      "Não há guideline lida que a recomende; é uma opção a ponderar com evidência preliminar"
+      "Nenhuma guideline lida a recomenda; opção a ponderar, com evidência preliminar"
     ],
     "correct": 3,
     "explanation": "A guideline canadiana de 2020 só encontrou relatos de caso de TCC no ARFID e uma revisão de 2024 refere evidência limitada. O CBT-AR foi estudado com resultados de viabilidade e prova de conceito, sem ensaio aleatorizado lido, pelo que é uma opção a ponderar. Também não é um formato de grupo: é individual ou com apoio da família.",
@@ -210,10 +210,10 @@
     "type": "caso",
     "text": "Rapaz de 6 anos com perturbação obsessivo-compulsiva, com rituais de lavagem e verificação que ocupam grande parte do dia. Vai iniciar TCC com EPR de base familiar (POTS Jr, 12 sessões). Como devem ser organizadas as primeiras sessões?",
     "options": [
-      "Todas as sessões conjuntas de 60 minutos, com a criança presente desde a primeira",
-      "As duas primeiras sessões só com a criança, e os pais entram a partir da terceira",
-      "As duas primeiras sessões, de 90 minutos, só com os pais, para explicar o TOC e o racional antes de a criança ser introduzida",
-      "Uma primeira sessão só com os pais e uma segunda já com a exposição à criança"
+      "Todas as sessões conjuntas de 60 minutos, com a criança e os pais presentes desde a primeira",
+      "As duas primeiras sessões só com a criança, e os pais entram apenas a partir da terceira",
+      "As duas primeiras sessões, de 90 minutos, só com os pais, antes de a criança ser introduzida",
+      "Uma primeira sessão só com os pais e uma segunda já com a criança, iniciando a exposição"
     ],
     "correct": 2,
     "explanation": "No POTS Jr (5 a 8 anos), as sessões 1 e 2 são de 90 minutos e só com os pais, para explicar o TOC e o racional antes de a criança ser introduzida; as restantes, de 60 minutos, são conjuntas. A NICE CG31 (rec. 1.5.1.9) pede TCC com EPR com envolvimento da família e adaptada à idade. As outras opções não respeitam esta estrutura.",
@@ -229,7 +229,7 @@
     "options": [
       "Alarme da enurese, com apoio acordado do serviço",
       "Manter só as recompensas e aguardar a maturação espontânea",
-      "Terapia familiar sistémica semanal",
+      "Terapia familiar sistémica semanal, durante 3 meses",
       "Programa de grupo de resolução de problemas para a criança"
     ],
     "correct": 0,
@@ -262,9 +262,9 @@
     "text": "Rapaz de 11 anos com perturbação de tiques, em que a psicoeducação foi insuficiente. Está motivado e a equipa opta pelo CBIT. Os pais perguntam como decorre o programa. Qual é a resposta que a fonte sustenta?",
     "options": [
       "21 sessões ao longo de 9 meses, com sessões semanais, quinzenais e mensais",
-      "16 sessões semanais, metade de psicoeducação e metade de exposição graduada",
-      "8 sessões todas semanais, sem sessões de reforço",
-      "8 sessões ao longo de 10 semanas (6 semanais e 2 quinzenais), com 3 sessões de reforço mensais nos respondedores"
+      "16 sessões semanais, metade de psicoeducação e metade de exposição graduada, sem reforços",
+      "8 sessões todas semanais ao longo de 8 semanas, sem sessões de reforço",
+      "8 sessões em 10 semanas (6 semanais e 2 quinzenais), com 3 reforços mensais"
     ],
     "correct": 3,
     "explanation": "O CBIT decorre em 8 sessões ao longo de 10 semanas (as 6 primeiras semanais, as 2 últimas quinzenais) e 3 sessões de reforço mensais nos respondedores (Piacentini 2010; ESSTS 2022). Os 11 anos estão dentro da faixa do ensaio principal (9 a 17 anos). O esquema de 21 sessões é o do FFT-A e o de 16 sessões é o do Coping Cat.",
@@ -278,10 +278,10 @@
     "type": "caso",
     "text": "Pais de um rapaz de 4 anos com diagnóstico de PHDA e de oposição procuram um programa de grupo de pais, com vinhetas em vídeo, que comece pela brincadeira e pelo elogio antes da disciplina. Que protocolo do Incredible Years BASIC é indicado pelo desenvolvedor para crianças com diagnóstico?",
     "options": [
-      "Protocolo de tratamento de 20 sessões semanais de 2 a 2,5 horas, em grupo de pais",
+      "Protocolo de tratamento de 20 sessões semanais, em grupo de pais",
       "Versão preventiva de 14 a 16 sessões, pensada para populações sem diagnóstico",
       "Versão para a idade escolar, com outro manual, por ser a indicada para PHDA",
-      "Programa individual da criança, sem sessões de pais"
+      "Programa individual da criança, centrado na escola, sem sessões de pais"
     ],
     "correct": 0,
     "explanation": "O desenvolvedor indica o protocolo de 20 sessões semanais de 2 a 2,5 horas para crianças com diagnóstico (PHDA, oposição) e populações de alto risco; a versão preventiva tem 14 a 16 sessões. A versão para a idade escolar (6 a 12 anos) tem outro manual e é para essa faixa etária, não para os 4 anos. O BASIC é um programa de grupo para pais.",
@@ -297,8 +297,8 @@
     "options": [
       "Melhora o tempo total de sono, mas não a latência nem a eficiência do sono",
       "Melhora o tempo total de sono e o tempo de vigília depois do início do sono",
-      "Melhora a latência e a eficiência do sono, sem melhoria significativa do tempo total de sono",
-      "Não melhora nenhum parâmetro do sono em adolescentes"
+      "Melhora a latência e a eficiência do sono, mas não o tempo total de sono",
+      "Não melhora nenhum parâmetro do sono em adolescentes com insónia crónica"
     ],
     "correct": 2,
     "explanation": "A meta-análise de Ma et al. (2018) mostra melhoria da latência e da eficiência do sono, sem melhoria significativa do tempo de vigília depois do início do sono nem do tempo total de sono. A TCC-I inclui educação sobre o sono, diário do sono, restrição do tempo na cama, controlo de estímulos, relaxamento, mindfulness e reestruturação cognitiva. Não há guideline pediátrica que defina a ordem dos módulos.",
@@ -315,7 +315,7 @@
       "TCC para a insónia com restrição do tempo na cama e mindfulness dirigidos à criança",
       "Psicoterapia individual de apoio com a criança, sem envolvimento dos pais",
       "Vigilância sem intervenção até aos 5 anos, por ser um problema que passa com a idade",
-      "Intervenções comportamentais com os pais, como a extinção com presença dos pais e a educação parental preventiva"
+      "Intervenções comportamentais com os pais, como a extinção e a educação preventiva"
     ],
     "correct": 3,
     "explanation": "Para problemas ao deitar e despertares noturnos até aos 4 anos e 11 meses, a AASM classifica a extinção, a extinção com presença dos pais e a educação parental preventiva como eficazes. Numa revisão de 52 estudos, mais de 80% das crianças tratadas melhoraram de forma clinicamente significativa, mantida 3 a 6 meses. A intervenção passa pelos pais, não pela criança.",
@@ -330,7 +330,7 @@
     "text": "Rapaz de 9 anos com perturbação de oposição e comportamento de conduta, cujos pais já estão em treino parental. A equipa quer acrescentar uma intervenção dirigida à própria criança, em grupo, com modelação, ensaio e feedback. Qual a escolha, segundo a NICE?",
     "options": [
       "Terapia multissistémica, com gestores de caso e atuação ao nível da justiça e da comunidade",
-      "Programa de grupo de resolução de problemas social e cognitivo, em encontros semanais de 2 horas",
+      "Programa de grupo de resolução de problemas, em encontros semanais de 2 horas",
       "Programa de prevenção escolar, desenhado para crianças dos 3 aos 7 anos",
       "Incredible Years BASIC, programa de grupo para pais de crianças dos 3 aos 6 anos"
     ],

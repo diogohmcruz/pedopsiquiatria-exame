@@ -1,0 +1,325 @@
+[
+  {
+    "id": "ds-18-q1",
+    "itemId": "ds-18",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Qual das afirmações sobre os instrumentos específicos de autismo (por exemplo M-CHAT-R/F e SCQ) está correta?",
+    "options": [
+      "Apoiam o diagnóstico mas não o decidem: um negativo não exclui autismo e o diagnóstico é clínico, com várias fontes",
+      "Um resultado positivo confirma o diagnóstico e dispensa a avaliação clínica com várias fontes de informação",
+      "Um resultado negativo exclui autismo quando o instrumento é aplicado por entrevista estruturada e por profissional experiente",
+      "Um resultado positivo só pode dever-se a autismo, pelo que o diagnóstico fica estabelecido sem outra avaliação"
+    ],
+    "correct": 0,
+    "explanation": "Estes instrumentos apoiam mas não decidem. Um negativo não exclui autismo, um positivo pode ter outras causas e o diagnóstico é clínico, com informação de várias fontes. As outras opções atribuem-lhes um poder de confirmação ou de exclusão que o texto nega.",
+    "source": "NICE CG128, 2011 (atualizada 2017), https://www.nice.org.uk/guidance/cg128/chapter/Recommendations (rec. 1.3.5, 1.5.10, 1.5.11); DGS, Norma 002/2019 de 23/04/2019, https://normas.dgs.min-saude.pt/wp-content/uploads/2019/09/Abordagem-Diagnostica-e-Intervencao-na-Perturbacao-do-Espetro-do-Autismo-em-Idade-Pediatrica-e-no-Adulto_2019.pdf (Clínica D: escalas interpretadas num contexto global); SCQ: Marvin et al., 2017, https://pmc.ncbi.nlm.nih.gov/articles/PMC5684265/ (validado a partir dos 4 anos, usar a versão Lifetime); DSM-5-TR (APA, 2022), confirmado no texto do manual (sem pontos de corte universalmente aceites, o diagnóstico é clínico e não é ditado só pela pontuação, com várias fontes de informação, p. 60 e p. 62); DGS Norma 002/2019, informação complementar, Clínica D confirmada no texto (p. 14/31). A idade mínima do SCQ (4 anos) vem de Marvin 2017, que não consta dos PDFs: não confirmada; NICE CG128 rec. 1.3.5 (instrumentos úteis mas não essenciais; positivo pode ter outras causas, negativo não exclui), 1.5.10 (diagnosticar com todas as fontes e juízo clínico segundo CID-11 ou DSM-5) e 1.5.11 (não usar um instrumento sozinho) confirmadas no texto",
+    "dose": false
+  },
+  {
+    "id": "ds-20-q1",
+    "itemId": "ds-20",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 4 anos, trazido porque os pais notam que alinha carrinhos durante semanas e só fala de dinossauros. Na consulta brinca com o examinador, partilha o interesse, olha e responde de forma recíproca, e a comunicação é adequada. Qual a interpretação mais adequada?",
+    "options": [
+      "Os comportamentos repetitivos bastam para sustentar o diagnóstico de autismo, mesmo com reciprocidade social e comunicação preservadas na consulta",
+      "Comportamentos repetitivos e interesses intensos são comuns no desenvolvimento típico e não indicam autismo sem défice de reciprocidade social e de comunicação",
+      "O interesse restrito por dinossauros é o critério principal do diagnóstico e a reciprocidade social pode ser ignorada na avaliação",
+      "Os comportamentos repetitivos e o interesse restrito indicam por si sós uma perturbação do desenvolvimento que exige tratamento imediato"
+    ],
+    "correct": 1,
+    "explanation": "A fonte refere que comportamentos repetitivos e interesses intensos surgem no desenvolvimento típico (fases de brincadeira repetitiva) e não indicam autismo sem défice de reciprocidade e de comunicação. Aqui a reciprocidade está preservada, pelo que as outras opções valorizam em excesso os comportamentos isolados.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6A02, p. 128); DSM-5-TR (APA, 2022), confirmado no texto do manual (muitas crianças típicas pequenas têm preferências fortes e repetição, distingue-se por tipo, frequência e intensidade, p. 63; o critério A é obrigatório, p. 56); CDDR 6A02, p. 128 confirmado no texto: comportamentos repetitivos e interesses focados são comuns no desenvolvimento típico e, sem défice de reciprocidade social e comunicação, não indicam autismo",
+    "dose": false
+  },
+  {
+    "id": "ds-24-q1",
+    "itemId": "ds-24",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Menina de 2 anos e meio com atraso de linguagem que quase nunca responde quando é chamada pelo nome. Qual a conduta indicada no diferencial?",
+    "options": [
+      "Assumir que se trata de oposição e aguardar a evolução sem mais avaliação, por a criança ser ainda pequena e a linguagem tender a normalizar",
+      "Dispensar a avaliação da audição quando os pais referem que ela reage a alguns sons do ambiente, como a televisão",
+      "Perguntar por otites e rastreio auditivo e considerar avaliação da audição, pois a surdez faz parte do diferencial",
+      "Avaliar a audição só se a linguagem não melhorar depois de um período de espera de vários meses"
+    ],
+    "correct": 2,
+    "explanation": "No diferencial de dificuldades sociais e de comunicação, a surdez deve ser considerada em qualquer criança com atraso de linguagem ou que não responde ao nome: perguntar por otites e rastreio auditivo e pensar em pedir avaliação da audição. As restantes opções adiam ou dispensam essa avaliação.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6A01, p. 123: toda a criança com alteração da linguagem deve ter avaliação auditiva); NICE CG128, 2011 (atualizada 2017), https://www.nice.org.uk/guidance/cg128/chapter/Recommendations (rec. 1.4.7, 1.5.7); DGS, Norma 002/2019 de 23/04/2019, https://normas.dgs.min-saude.pt/wp-content/uploads/2019/09/Abordagem-Diagnostica-e-Intervencao-na-Perturbacao-do-Espetro-do-Autismo-em-Idade-Pediatrica-e-no-Adulto_2019.pdf (informação complementar, Organizacional G); DSM-5-TR (APA, 2022), confirmado no texto do manual (autismo: a surdez pode ser suspeitada mas tipicamente exclui-se, p. 63; perturbação da linguagem exige excluir défice auditivo, p. 49); DGS Norma 002/2019, informação complementar, Organizacional G confirmada no texto (p. 12/31: otorrinolaringologia no prazo de 30 dias se suspeita de défice auditivo); CNSM, Saúde Mental Infantil e Juvenil nos Cuidados de Saúde Primários (p. 44: os pais podem pensar que a criança é surda; diagnóstico diferencial com surdez); CDDR 6A01.2, p. 123 confirmado no texto ('todas as crianças com alteração da linguagem devem ter avaliação da audição'; a perda auditiva não exclui perturbação da linguagem se esta for desproporcionada); NICE CG128 rec. 1.4.7 (reunir resultados das avaliações auditiva e visual) e 1.5.7 (deficiência auditiva grave no diferencial) confirmadas no texto",
+    "dose": false
+  },
+  {
+    "id": "ds-27-q1",
+    "itemId": "ds-27",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "No diferencial entre autismo e PHDA, qual das afirmações está correta?",
+    "options": [
+      "A desatenção, a impulsividade e a hiperatividade são raras no autismo, pelo que a sua presença exclui o diagnóstico de autismo na criança",
+      "A PHDA explica as dificuldades de reciprocidade, pelo que o diagnóstico de autismo é desnecessário quando a PHDA está presente",
+      "O diagnóstico de PHDA exclui o de autismo na mesma criança, porque as duas perturbações não coexistem na prática clínica",
+      "A PHDA não explica a falta persistente de reciprocidade nem os comportamentos repetitivos, e as duas podem coexistir"
+    ],
+    "correct": 3,
+    "explanation": "Desatenção, impulsividade e hiperatividade são frequentes no autismo, mas a PHDA não explica a falta persistente de reciprocidade nem os comportamentos repetitivos, e as duas podem coexistir. As outras opções negam a frequência desses sintomas no autismo ou a coexistência.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6A02, p. 131); NICE CG128, 2011 (atualizada 2017), https://www.nice.org.uk/guidance/cg128/chapter/Recommendations (rec. 1.3.3, caixa 1; rec. 1.5.7); DSM-5-TR (APA, 2022), confirmado no texto do manual (a atenção alterada e a hiperatividade são comuns no autismo; a PHDA distingue-se pelo curso do desenvolvimento e pela ausência de comportamentos repetitivos e interesses invulgares; a PHDA é das comorbilidades mais comuns, p. 66); CDDR 6A02, p. 131 confirmado no texto (desatenção, impulsividade e hiperatividade são frequentes no autismo; a PHDA não tem o défice social persistente nem os comportamentos restritos; os dois diagnósticos podem coexistir); NICE CG128 rec. 1.3.3 (caixa 1, PHDA como fator associado a maior prevalência de autismo) e 1.5.7 confirmadas no texto",
+    "dose": false
+  },
+  {
+    "id": "ds-31-q1",
+    "itemId": "ds-31",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo a lista de comorbilidades a procurar no autismo, além das perturbações psiquiátricas e do neurodesenvolvimento, que problemas devem ser procurados?",
+    "options": [
+      "Problemas de visão, cardíacos, renais, hematológicos e imunológicos, a rastrear por rotina",
+      "Epilepsia e problemas de sono, alimentação, gastrointestinais e de esfíncteres, a rastrear por rotina",
+      "Problemas dermatológicos, endócrinos, respiratórios, reumatológicos e oncológicos, a rastrear por rotina",
+      "Problemas dentários, auditivos, ortopédicos e de crescimento, a rastrear por rotina"
+    ],
+    "correct": 1,
+    "explanation": "A fonte inclui entre as comorbilidades a procurar a epilepsia e os problemas de sono, de alimentação, gastrointestinais e de esfíncteres, a par de PHDA, ansiedade, humor, oposição, tiques, TOC, deficiência intelectual e perturbações da linguagem e da coordenação. Os grupos das outras opções não constam dessa lista.",
+    "source": "NICE CG128, 2011 (atualizada 2017), https://www.nice.org.uk/guidance/cg128/chapter/Recommendations (rec. 1.5.15); AAP, Hyman et al., 2020 (Executive Summary), https://doi.org/10.1542/peds.2019-3448; DGS, Norma 002/2019 de 23/04/2019, https://normas.dgs.min-saude.pt/wp-content/uploads/2019/09/Abordagem-Diagnostica-e-Intervencao-na-Perturbacao-do-Espetro-do-Autismo-em-Idade-Pediatrica-e-no-Adulto_2019.pdf (informação complementar, Clínica E-F: ansiedade, PHDA, humor e comportamento são as mais comuns); DSM-5-TR (APA, 2022), confirmado no texto do manual (especificador de problemas associados: PHDA, coordenação, perturbações disruptivas, ansiedade, humor, tiques, alimentação, eliminação e sono, p. 60; comorbilidades psiquiátricas em cerca de 70 % com pelo menos uma, ansiedade, depressão e PHDA particularmente comuns, ARFID, p. 68; epilepsia e obstipação, p. 69); DGS Norma 002/2019, Clínica E-F confirmada no texto (p. 14/31); AAP Executive Summary (p. 3 do PDF: sono, alimentação, gastrointestinais, obesidade, convulsões, PHDA, ansiedade, fugas); NICE CG128 rec. 1.5.15 confirmada no texto (lista de condições coexistentes: PHDA, ansiedade, humor, oposição, tiques, TOC, autolesão, deficiência intelectual, coordenação, linguagem, epilepsia, problemas de sono, alimentação, esfíncteres e intestinais); CDDR 6A02, p. 127 (coocorrência comum ao longo da vida, epilepsia, perturbações médicas associadas)",
+    "dose": false
+  },
+  {
+    "id": "ds-35-q1",
+    "itemId": "ds-35",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 15 anos com autismo, cada vez mais isolado, que passa muito tempo online. Segundo a fonte citada, que riscos devem ser sempre avaliados?",
+    "options": [
+      "Autolesão, agressividade e rutura do apoio familiar, mas não o suicídio nem a exploração ou o abuso",
+      "Suicídio, exploração ou abuso online e rutura do apoio familiar, mas não a autolesão nem a agressividade",
+      "Autolesão, suicídio, agressividade, exploração ou abuso (incluindo online) e rutura do apoio familiar",
+      "Autolesão, suicídio e agressividade, mas não a exploração ou o abuso nem a rutura do apoio familiar"
+    ],
+    "correct": 2,
+    "explanation": "A fonte manda avaliar sempre autolesão, suicídio (maior no autismo, sobretudo na adolescência), agressividade, exploração ou abuso (vulnerabilidade social, sobretudo na adolescência e online) e rutura do apoio familiar. As outras opções omitem riscos que o texto manda avaliar sempre.",
+    "source": "NICE CG170, 2013 (atualizada 2021), https://www.nice.org.uk/guidance/cg170/chapter/Recommendations (rec. 1.1.8 e 1.4.1, confirmadas no texto: avaliar o risco de autolesão, de dano a outros, de rutura do apoio familiar e de exploração ou abuso por outros); NICE CG128, 2011 (atualizada 2017), https://www.nice.org.uk/guidance/cg128/chapter/Recommendations (rec. 1.6.3, confirmada no texto: considerar durante a avaliação o risco de dano à criança e causado por ela); ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6A02, p. 127, confirmado no texto: ingenuidade social, sobretudo na adolescência, pode levar a exploração, risco aumentado pelo uso de redes sociais sem supervisão; autolesão mais frequente com deficiência intelectual; o risco de suicídio não é referido na secção do autismo); DSM-5-TR (APA, 2022), confirmado no texto do manual (risco de suicídio maior no autismo, incluindo pensamentos, planos e tentativas na adolescência, p. 65; autolesão, p. 62; ingenuidade social e vulnerabilidade, p. 64)",
+    "dose": false
+  },
+  {
+    "id": "dso-25-q1",
+    "itemId": "dso-25",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo as regras de higiene do sono, durante quantas horas antes de dormir se deve evitar cafeína e bebidas energéticas?",
+    "options": [
+      "2 horas",
+      "3 horas",
+      "12 horas",
+      "6 horas"
+    ],
+    "correct": 3,
+    "explanation": "A higiene do sono recomenda evitar cafeína e bebidas energéticas nas 6 horas antes de dormir. Os outros valores não correspondem ao intervalo indicado.",
+    "source": "AACAP, Facts for Families n.º 34 Sleep Problems (atualizado março 2023), https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Childrens-Sleep-Problems-034.aspx [Relido em 10/2026: folheto lido (\"Updated March 2023\") e todos os pontos conferidos (1 a 2 horas de diferença ao fim de semana, sem cafeína nas 6 horas antes, exercício até 3 a 4 horas antes, sem eletrónicos na hora antes, cama só para dormir, quarto silencioso, fresco e escuro). Folheto para famílias, não guideline]; AAP, Munzer et al., Digital Ecosystems, Children, and Adolescents, policy statement 2026 (PDF lido): proteger o sono, evitar ecrãs na hora antes de deitar e dispositivos no quarto (confirma a recomendação de ecrãs; os outros pontos de higiene do sono não constam deste documento)",
+    "dose": false
+  },
+  {
+    "id": "dso-27-q1",
+    "itemId": "dso-27",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 7 anos com desatenção, impulsividade e agitação na escola, que ressona todas as noites; não há sonolência diurna evidente. Qual a conduta mais adequada antes de concluir o diagnóstico?",
+    "options": [
+      "Confirmar as horas de sono e o ronco, porque sono insuficiente e apneia podem parecer PHDA em crianças",
+      "Concluir PHDA, porque a ausência de sonolência diurna exclui causas do sono e a agitação na escola basta",
+      "Atribuir o quadro a ansiedade sem mais avaliação, porque o ronco é irrelevante para o comportamento",
+      "Valorizar apenas a agitação observada na escola e dispensar a história de sono"
+    ],
+    "correct": 0,
+    "explanation": "Nas crianças, o sono insuficiente e a apneia do sono manifestam-se por impulsividade, pouca atenção e agitação, em vez de sonolência como nos adultos. Por isso confirmam-se as horas de sono e o ronco antes de concluir PHDA; as outras opções ignoram essa possibilidade.",
+    "source": "SPS-SPP (Sociedade Portuguesa de Pediatria), Recomendações prática da sesta da criança, 2017, https://www.spp.pt/UserFiles/file/Noticias_2017/VERSAO%20PROFISSIONAIS%20DE%20SAUDE_RECOMENDACOES%20SPS-SPP%20SESTA%20NA%20CRIANCA.pdf (privação de sono mimetiza PHDA); AAP, Marcus et al., Pediatrics 2012;130(3):576-584, https://publications.aap.org/pediatrics/article/130/3/576/30284/Diagnosis-and-Management-of-Childhood-Obstructive (Tabela 2 lida no PDF do artigo) (PHDA como sinal de apneia) [Relido em 10/2026: SPS-SPP 2017 lida (versão publicada em 1/6/2017; refere que a privação de sono em crianças se relaciona com impulsividade e pouca atenção, que podem ser confundidas com PHDA); AAP 2012 (cópia em PDF) inclui PHDA e problemas de aprendizagem na Tabela 2 e diz que a sonolência diurna pode ocorrer mas é pouco comum em crianças pequenas; ICSD-3-TR 2023 (resumo lido) inclui hiperatividade e problemas de comportamento ou aprendizagem nos critérios pediátricos de AOS. Sem guideline posterior encontrada]; DSM-5-TR (APA, 2022), confirmado no texto do manual (apneia obstrutiva do sono hipopneia, diagnóstico diferencial, p. 435): os sintomas de PHDA (desatenção, prejuízo escolar, hiperatividade) podem ser também sintomas de apneia obstrutiva na criança, e as duas condições podem coexistir; nas crianças com mais de 5 anos predominam os sintomas diurnos, comportamentais e PHDA (p. 433-434)",
+    "dose": false
+  },
+  {
+    "id": "dso-30-q1",
+    "itemId": "dso-30",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o diferencial das queixas de sono, qual das seguintes situações pode imitar as pernas inquietas?",
+    "options": [
+      "Asma noturna com tosse e despertares frequentes",
+      "Dores de crescimento ou causas ortopédicas",
+      "Refluxo gastroesofágico com regurgitação noturna",
+      "Eczema com prurido intenso e despertares noturnos"
+    ],
+    "correct": 1,
+    "explanation": "A fonte indica que as dores de crescimento ou outras causas ortopédicas imitam as pernas inquietas. Asma, refluxo e eczema são outras causas a explorar nas queixas de sono, mas o texto não as descreve como imitadoras das pernas inquietas.",
+    "source": "estimulantes e insónia: AAP, Wolraich et al., Pediatrics 2019 (PDF lido, secção Side Effects: os efeitos adversos mais comuns dos estimulantes incluem perturbação do sono) e NICE NG87 rec. 1.8.17; dor (ouvido, dentes), refluxo, eczema, obstipação, medicação e ecrãs no quarto: NICE CG170 rec. 1.7.4 (avaliação do problema de sono em crianças com autismo, extrapolada); asma: prática clínica (sem fonte); mimetismos da síndrome das pernas inquietas (dermatite, dores de crescimento, outras causas ortopédicas): IRLSSG, Picchietti et al., Sleep Med 2013;14:1253-1259, https://www.irlssg.org/wp-content/uploads/2025/04/Ped-RLS-dx-crit-2013.pdf (Tabela 3, lida; défice relativo de ferro como fator agravante); medicamentos e cafeína em pernas inquietas: Carter, Hathaway, Lettieri, Am Fam Physician 2014;89(5):368-377, https://www.aafp.org/pubs/afp/issues/2014/0301/p368.html (cafeína, nicotina, anti-histamínicos, ISRS e tricíclicos; pesquisa de ferro); AASM, Winkelman et al., J Clin Sleep Med 2025;21(1):137-152, PubMed 39324694 (só o resumo lido): pedir ferritina e saturação de transferrina a quem tem SPI clinicamente significativa e tratar primeiro os fatores agravantes (álcool, cafeína, anti-histamínicos, medicamentos serotoninérgicos e antidopaminérgicos, apneia obstrutiva não tratada) [Relido em 10/2026]; DSM-5-TR (APA, 2022), confirmado no texto do manual (síndrome das pernas inquietas, p. 466-467): défice de ferro como fator desencadeante e antidepressivos serotoninérgicos que podem induzir ou agravar; diagnóstico diferencial com desconforto posicional, cãibras e acatisia (p. 466)",
+    "dose": false
+  },
+  {
+    "id": "dso-32-q1",
+    "itemId": "dso-32",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Num estudo transversal em adolescentes, o que se observou quanto à associação entre queixas de sono e ideação suicida?",
+    "options": [
+      "A associação desapareceu depois de controlar os sintomas depressivos",
+      "A associação existia apenas com sintomas de ansiedade e não com ideação suicida",
+      "A associação manteve-se depois de controlar os sintomas depressivos",
+      "A associação era explicada por completo pelo humor deprimido"
+    ],
+    "correct": 2,
+    "explanation": "A fonte refere que, no adolescente, as queixas de sono se associam a sintomas depressivos e a ideação suicida, e que esta associação se mantém após controlar os sintomas depressivos (estudo transversal). Daí perguntar sempre por sono em quem tem humor deprimido ou ansiedade. As outras opções contradizem esse resultado.",
+    "source": "Teresi et al., JAACAP Open 2024;3(3):589-600, https://pmc.ncbi.nlm.nih.gov/articles/PMC12414329/ (estudo transversal; não prova causalidade); AACAP, Facts for Families n.º 34 Sleep Problems (atualizado março 2023), https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Childrens-Sleep-Problems-034.aspx [Relido em 10/2026: Teresi et al. lido (associação mantém-se para suicidalidade após controlar sintomas depressivos; os autores assinalam que o desenho transversal não permite afirmar causalidade); AACAP Facts for Families n.º 34 lida]; DSM-5-TR (APA, 2022), confirmado no texto do manual (perturbação de insónia, p. 418): a insónia persistente é fator de risco para depressão, perturbações de ansiedade e perturbação por consumo de álcool, e sintoma residual comum após tratamento; CID-11, CDDR (OMS), episódio depressivo (6A70, 6A71), grupo neurovegetativo (p. 213): sono muito perturbado (adormecer, despertares noturnos, acordar cedo) ou sono excessivo faz parte dos sintomas do episódio",
+    "dose": false
+  },
+  {
+    "id": "dso-33-q1",
+    "itemId": "dso-33",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Menino de 6 anos com ronco em 4 noites por semana, pausas respiratórias presenciadas pelos pais e enurese secundária. Qual a hipótese e a conduta indicadas?",
+    "options": [
+      "Pensar em apneia obstrutiva e confirmar apenas pela história clínica e pelo exame objetivo, sem outros exames",
+      "Pensar em enurese primária e tranquilizar os pais sem mais avaliação, por ser comum nesta idade",
+      "Excluir apneia porque o ronco ocorre em menos de 5 noites por semana, sem mais avaliação do sono",
+      "Pensar em apneia obstrutiva do sono e considerar referenciar, sendo a polissonografia o exame de confirmação"
+    ],
+    "correct": 3,
+    "explanation": "Ronco regular (pelo menos 3 noites por semana) com apneias presenciadas e enurese secundária sugere apneia obstrutiva. A história não chega: considera-se referenciar a medicina do sono ou a otorrinolaringologia, e a polissonografia confirma. As outras opções dispensam a confirmação ou usam um limiar errado.",
+    "source": "AAP, Marcus et al., Pediatrics 2012;130(3):576-584, https://publications.aap.org/pediatrics/article/130/3/576/30284/Diagnosis-and-Management-of-Childhood-Obstructive (Tabela 2 lida no PDF do artigo) (Tabela 2); AACAP, Facts for Families n.º 34 Sleep Problems (atualizado março 2023), https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Childrens-Sleep-Problems-034.aspx [Relido em 10/2026: Tabela 2 e declarações de ação 2A e 2B da AAP 2012 conferidas numa cópia em PDF do artigo; AACAP Facts for Families n.º 34 confirmada (\"Updated March 2023\"; ronco alto e respiração pela boca podem ser apneia obstrutiva); ICSD-3-TR, AASM 2023 (resumo das alterações lido): critérios pediátricos de AOS com ronco, respiração laboriosa, paradoxal ou obstruída, e sonolência, hiperatividade, problemas de comportamento ou de aprendizagem, mais evidência em polissonografia; BTS, Evans et al., Thorax 2023;78 (resumo da guideline lido no site da BTS, https://www.brit-thoracic.org.uk/clinical-resources/guidelines/paediatric-sleep-disordered-breathing/): questionários e avaliação clínica não bastam quando é preciso maior certeza, e pedem oximetria, estudo cardiorrespiratório ou polissonografia; CTS/CSS, MacLean et al., Chest 2026;170:565-582 (só o resumo lido): a polissonografia mantém-se como padrão; o questionário PSQ e a oximetria noturna não devem servir para diagnosticar. Sem guideline posterior que substitua a AAP 2012]; DSM-5-TR (APA, 2022), confirmado no texto do manual (apneia obstrutiva do sono hipopneia, p. 430-435): sinais pediátricos (ronco, apneias presenciadas, respiração laboriosa, enurese que reaparece, p. 433-434); o DSM-5-TR não fixa limiar de noites de ronco (o limiar de 3 noites é da AAP 2012); NICE CG170, rec. 1.7.5 (HTML lido): criança ou jovem autista que ronca alto, se engasga ou parece parar de respirar a dormir deve ser referenciado a especialista para verificar apneia obstrutiva",
+    "dose": false
+  },
+  {
+    "id": "dso-35-q1",
+    "itemId": "dso-35",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapariga de 15 anos que dorme o suficiente mas tem sonolência diurna extrema, adormece durante as aulas e perde subitamente força nos músculos quando se ri. Qual a conduta indicada?",
+    "options": [
+      "Referenciar a medicina do sono para avaliação",
+      "Reforçar a higiene do sono e reavaliar sem referenciar",
+      "Tratar como PHDA, porque a sonolência diurna é sinal de desatenção e de hiperatividade",
+      "Atribuir o quadro a depressão e apenas tratar o humor"
+    ],
+    "correct": 0,
+    "explanation": "Sonolência diurna extrema apesar de sono suficiente, adormecer em atividades e perda súbita de força muscular com emoções (cataplexia) são sinais de alerta que levam à referenciação para a medicina do sono. As outras opções atribuem o quadro a causas que não explicam a cataplexia.",
+    "source": "AACAP, Facts for Families n.º 34 Sleep Problems (atualizado março 2023), https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Childrens-Sleep-Problems-034.aspx; ICSD-3-TR, AASM, 2023 (resumo das alterações aos critérios), https://aasm.org/wp-content/uploads/2023/05/ICSD-3-Text-Revision-Supplemental-Material.pdf [Relido em 10/2026: folheto AACAP lido (sonolência diurna apesar de dormir o suficiente pode ser narcolepsia; \"Updated March 2023\"); a cataplexia como critério vem da ICSD-3-TR (resumo de alterações lido)]; DSM-5-TR (APA, 2022), confirmado no texto do manual (narcolepsia, p. 423): cataplexia nas crianças pode ser atípica (caretas, abertura da boca, hipotonia sem desencadeante emocional)",
+    "dose": false
+  },
+  {
+    "id": "dal-21-q1",
+    "itemId": "dal-21",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapariga de 14 anos que refere fazer dieta e estar insatisfeita com o corpo; a família elogia a perda de peso recente. Qual a abordagem mais adequada?",
+    "options": [
+      "Elogiar a perda de peso, porque reforça comportamentos saudáveis e motiva a manter a dieta",
+      "Explorar melhor e perguntar como a perda de peso foi alcançada, para não reforçar práticas prejudiciais",
+      "Desvalorizar a insatisfação corporal por ser comum na adolescência e esperar que passe com a idade",
+      "Evitar perguntar sobre alimentação e exercício para não sensibilizar a doente para o tema"
+    ],
+    "correct": 1,
+    "explanation": "Referir dieta, insatisfação com o corpo ou mudança nos hábitos de alimentação ou exercício justifica explorar melhor, e antes de elogiar uma perda de peso convém perguntar como foi conseguida, para não reforçar práticas prejudiciais. As outras opções ignoram essa exploração.",
+    "source": "AAP, Hornberger et al., 2021, Pediatrics 147(1):e2020040279, https://publications.aap.org/pediatrics/article/147/1/e2020040279/33504/Identification-and-Management-of-Eating-Disorders (secção de identificação e rastreio)",
+    "dose": false
+  },
+  {
+    "id": "dal-23-q1",
+    "itemId": "dal-23",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o diferencial das perturbações alimentares, que causa não gastrointestinal de vómitos deve ser excluída?",
+    "options": [
+      "Otite média aguda recorrente",
+      "Infeção do trato urinário inferior",
+      "Aumento da pressão intracraniana",
+      "Pneumonia lobar com febre"
+    ],
+    "correct": 2,
+    "explanation": "A fonte refere que o aumento da pressão intracraniana pode causar vómitos e deve ser excluído, a par de doenças gastrointestinais como a doença inflamatória intestinal, a doença celíaca ou o refluxo. As outras opções não constam do texto.",
+    "source": "AAP, Hornberger et al., 2021, Pediatrics 147(1):e2020040279, https://publications.aap.org/pediatrics/article/147/1/e2020040279/33504/Identification-and-Management-of-Eating-Disorders (Table 4, lida: doença inflamatória intestinal, doença celíaca, refluxo, esofagite eosinofílica, pancreatite, vómitos cíclicos, síndrome da artéria mesentérica superior, neoplasia, aumento da pressão intracraniana); DSM-5-TR (APA, 2022), secção Anorexia Nervosa, diagnóstico diferencial (doença gastrointestinal, hipertiroidismo, neoplasias ocultas), lida no manual",
+    "dose": false
+  },
+  {
+    "id": "dal-25-q1",
+    "itemId": "dal-25",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Qual a afirmação correta sobre outras condições psiquiátricas no diferencial das perturbações alimentares?",
+    "options": [
+      "Se existir outra condição psiquiátrica, a perturbação alimentar fica excluída, por não poderem coexistir",
+      "Só devem ser consideradas depois de a perturbação alimentar ser excluída, e nunca em simultâneo com ela",
+      "A psicose e o TOC não alteram a alimentação, ao contrário da depressão e da ansiedade, que só coexistem com a perturbação alimentar em adultos",
+      "Depressão, psicose, ansiedade, TOC e consumo de substâncias podem alterar a alimentação e coexistir com a perturbação alimentar"
+    ],
+    "correct": 3,
+    "explanation": "O texto indica que depressão, psicose, ansiedade ou TOC e consumo de substâncias podem cursar com perda de apetite ou alterações alimentares e podem coexistir com a perturbação alimentar. As outras opções excluem a coexistência ou restringem as condições que alteram a alimentação.",
+    "source": "AAP, Hornberger et al., 2021, Pediatrics 147(1):e2020040279, https://publications.aap.org/pediatrics/article/147/1/e2020040279/33504/Identification-and-Management-of-Eating-Disorders (Table 4, lida: depressão, psicose, ansiedade ou TOC, consumo de substâncias); DSM-5-TR (APA, 2022), secção Anorexia Nervosa, diagnóstico diferencial (perturbação depressiva major, esquizofrenia, consumo de substâncias, ansiedade social, TOC, dismorfia corporal), lida no manual",
+    "dose": false
+  },
+  {
+    "id": "dal-28-q1",
+    "itemId": "dal-28",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo a fonte citada sobre comorbilidades das perturbações alimentares, o que é mais frequente nos mais novos?",
+    "options": [
+      "Ansiedade, TOC e depressão pré-existentes, com menos compulsão e purga",
+      "Compulsão e purga, com menos ansiedade, TOC e depressão pré-existentes",
+      "Consumo de álcool ou substâncias, com menos ansiedade pré-existente",
+      "Autolesão, sem associação a depressão ou ansiedade, e com maior consumo de substâncias"
+    ],
+    "correct": 0,
+    "explanation": "Nos mais novos, ansiedade, TOC e depressão pré-existentes são mais frequentes e a compulsão ou purga menos. As outras opções invertem esta relação ou introduzem associações que o texto não faz.",
+    "source": "NICE NG69, 2017 (atualizada em 2020), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations (rec. 1.2.9, lida: avaliar depressão, ansiedade, autolesão, TOC, consumo de álcool ou substâncias e necessidade de cuidados urgentes por risco suicida); AAP, Hornberger et al., 2021, Pediatrics 147(1):e2020040279, https://publications.aap.org/pediatrics/article/147/1/e2020040279/33504/Identification-and-Management-of-Eating-Disorders (secção sobre pré-adolescentes, lida: psicopatologia pré-mórbida, como depressão, TOC e ansiedade, e menos compulsão e purga); DSM-5-TR (APA, 2022), secções de comorbilidade da anorexia nervosa, bulimia nervosa, ARFID e ingestão compulsiva, lidas no manual (perturbações depressivas, bipolares e de ansiedade, TOC, consumo de substâncias; no ARFID, perturbações do neurodesenvolvimento); SAHM, Medical Management of Restrictive Eating Disorders in Adolescents and Young Adults, J Adolesc Health 2022;71(5):648-654, https://pmc.ncbi.nlm.nih.gov/articles/PMC10864000/ (PubMed 36058805, texto integral lido: ARFID e anorexia atípica com as mesmas comorbilidades psiquiátricas; quadro 4, depressão grave, ideação suicida e TOC como condições que podem limitar o tratamento em ambulatório)",
+    "dose": false
+  },
+  {
+    "id": "dal-30-q1",
+    "itemId": "dal-30",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o NICE NG69, que ritmo de perda de peso é dado como exemplo na escolha entre hospital de dia e internamento?",
+    "options": [
+      "Superior a 500 g por semana",
+      "Superior a 2 kg por semana",
+      "Superior a 1 kg por semana",
+      "Superior a 30% do peso em 6 meses"
+    ],
+    "correct": 2,
+    "explanation": "O NICE NG69 não fixa um limiar único, mas dá como exemplo, na escolha entre hospital de dia e internamento, um ritmo de perda superior a 1 kg por semana. Os 500 g por semana pertencem ao alerta do MEED e os 30% em 6 meses ao critério de referenciação da CNSM (2009), não ao NICE.",
+    "source": "RCPsych, MEED, CR233, 2022, https://www.rcpsych.ac.uk/improving-care/campaigning-for-better-mental-health-policy/college-reports/2022-college-reports/cr233 (PDF do relatório lido a partir da ligação nessa página, Table 1, perda de peso; a classificação das colunas de risco foi confirmada pela posição no PDF); NICE NG69, 2017 (atualizada em 2020), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations (rec. 1.11.3, lida: ritmo de perda de peso, por exemplo mais de 1 kg por semana, como fator na escolha entre hospital de dia e internamento); Coordenação Nacional para a Saúde Mental, 2009 (secção 9.2, 2.ª infância e adolescência, referenciação urgente: perda de peso rápida (> 30% em 6 meses) ou desnutrição grave, lida no texto); SAHM, Medical Management of Restrictive Eating Disorders in Adolescents and Young Adults, J Adolesc Health 2022;71(5):648-654, https://pmc.ncbi.nlm.nih.gov/articles/PMC10864000/ (PubMed 36058805, texto integral lido: quadro 3, magnitude e rapidez da perda de peso); OMS, Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR), 8 de março de 2024, https://www.who.int/publications/i/item/9789240077263 (6B80, p. 398, índice 415: perda de peso rápida, por exemplo mais de 20% do peso total em 6 meses, pode substituir o baixo peso; p. 400, índice 417: perda rápida de peso, sobretudo em crianças, como fator de risco médico)",
+    "dose": false
+  },
+  {
+    "id": "dal-32-q1",
+    "itemId": "dal-32",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o MEED (2022), qual das situações corresponde a risco elevado, e não apenas a alerta?",
+    "options": [
+      "Síncope ocasional, sem queda postural marcada da sistólica nem alteração da frequência cardíaca",
+      "Tensão sistólica em pé abaixo do percentil 0,4 com síncope recorrente e queda postural superior a 20 mmHg",
+      "Queda postural da sistólica superior a 15 mmHg, isolada, sem síncope recorrente nem tensão sistólica em pé muito baixa",
+      "Subida da frequência cardíaca até 30 bpm num jovem de 17 anos, sem síncope recorrente"
+    ],
+    "correct": 1,
+    "explanation": "No MEED, o risco elevado exige a combinação de tensão sistólica em pé abaixo do percentil 0,4 com síncope recorrente e queda postural da sistólica superior a 20 mmHg (ou subida da FC superior a 30 bpm). Síncope ocasional, queda superior a 15 mmHg e subida da FC até 30 bpm são apenas alerta.",
+    "source": "RCPsych, MEED, CR233, 2022, https://www.rcpsych.ac.uk/improving-care/campaigning-for-better-mental-health-policy/college-reports/2022-college-reports/cr233 (Table 1, saúde cardiovascular; texto sobre síncope); AAP, Hornberger et al., 2021, Pediatrics 147(1):e2020040279, https://publications.aap.org/pediatrics/article/147/1/e2020040279/33504/Identification-and-Management-of-Eating-Disorders (Table 6, lida: hipotensão 90/45 mm Hg, aumento do pulso ortostático superior a 20 bpm, descida da tensão superior a 20 sistólica ou 10 diastólica); (limiares de FC e de tensão: MEED, não AAP)",
+    "dose": false
+  },
+  {
+    "id": "dal-33-q1",
+    "itemId": "dal-33",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o MEED (2022), abaixo de que temperatura axilar existe risco elevado que pede avaliação urgente?",
+    "options": [
+      "35,5 °C",
+      "35,6 °C",
+      "36,0 °C",
+      "35,0 °C"
+    ],
+    "correct": 3,
+    "explanation": "No MEED, a temperatura axilar abaixo de 35,0 °C é sinal de risco elevado, enquanto a temperatura timpânica tem o limiar de 35,5 °C. O valor de 35,6 °C é o critério de hospitalização da AAP (2021), uma fonte diferente, e 36,0 °C não é limiar indicado.",
+    "source": "RCPsych, MEED, CR233, 2022, https://www.rcpsych.ac.uk/improving-care/campaigning-for-better-mental-health-policy/college-reports/2022-college-reports/cr233 (Table 1, hidratação, temperatura e comportamentos alimentares); AAP, Hornberger et al., 2021, Pediatrics 147(1):e2020040279 (Table 6, lida: hipotermia abaixo de 35,6 °C, desidratação, recusa alimentar aguda)",
+    "dose": false
+  }
+]

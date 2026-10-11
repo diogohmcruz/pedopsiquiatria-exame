@@ -1,0 +1,410 @@
+[
+  {
+    "id": "farmaco-phda-tiques-42-q1",
+    "itemId": "farmaco-phda-tiques-42",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapaz de 9 anos com PHDA, medicado com metilfenidato. Em duas ocasiões seguidas, a frequência cardíaca em repouso mantém-se acima de 120 bpm. Segundo o NICE NG87, qual é a conduta descrita?",
+    "options": [
+      "Manter a dose e repetir a medição apenas daí a 6 meses",
+      "Reduzir a dose e referenciar a hipertensão pediátrica",
+      "Trocar de imediato por outro estimulante, na mesma dose",
+      "Associar clonidina para baixar a frequência cardíaca"
+    ],
+    "correct": 1,
+    "explanation": "O NICE manda reduzir a dose e referenciar quando há taquicardia mantida acima de 120 bpm, arritmia ou tensão sistólica acima do percentil 95 em 2 ocasiões. O RCM do metilfenidato vai mais longe e manda descontinuar e considerar cardiologia. Manter a dose ou trocar sem avaliar não respondem ao achado repetido.",
+    "source": "NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.8.11); RCM metilfenidato de libertação prolongada (INFOMED/Infarmed, med_id 34285), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=34285&tipo_doc=rcm, secção 4.4, Estado cardiovascular, consultado em 10/10/2026",
+    "dose": false
+  },
+  {
+    "id": "farmaco-phda-tiques-44-q1",
+    "itemId": "farmaco-phda-tiques-44",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapariga de 8 anos com PHDA, sob estimulante, com perda de peso preocupante. Que medidas estão descritas para esta situação?",
+    "options": [
+      "Dar a medicação em jejum, de manhã cedo, e evitar lanches para estimular o apetite às refeições",
+      "Aumentar a dose do estimulante para melhorar o apetite e recuperar o peso perdido",
+      "Manter a medicação sem alterações e não dar qualquer aconselhamento dietético à família",
+      "Dar a medicação com ou depois das refeições e oferecer lanches quando o efeito passou"
+    ],
+    "correct": 3,
+    "explanation": "A fonte descreve tomar a medicação com ou depois das refeições, lanches quando o efeito passou, aconselhamento dietético, alimentos calóricos de boa qualidade e, se necessário, pausa planeada ou mudança de medicação. Dar o fármaco em jejum, subir a dose ou ignorar o problema vão no sentido contrário.",
+    "source": "NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.8.6 e 1.8.7); RCM metilfenidato de libertação prolongada (INFOMED/Infarmed, med_id 34285), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=34285&tipo_doc=rcm, secção 4.4, Crescimento, consultado em 10/10/2026",
+    "dose": false
+  },
+  {
+    "id": "farmaco-phda-tiques-45-q1",
+    "itemId": "farmaco-phda-tiques-45",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapaz de 10 anos com PHDA inicia um estimulante e surgem tiques. Depois de avaliar se estão ligados ao fármaco e se a incapacidade que causam excede o benefício, que opção está descrita se forem atribuídos ao estimulante?",
+    "options": [
+      "Reduzir a dose do estimulante ou ponderar guanfacina, atomoxetina ou parar",
+      "Aumentar o estimulante, porque os tiques oscilam naturalmente",
+      "Associar de imediato um antipsicótico sem rever o estimulante",
+      "Iniciar clonidina em qualquer contexto, sem parecer de serviço especializado"
+    ],
+    "correct": 0,
+    "explanation": "Se os tiques forem do estimulante, a recomendação prevê reduzir a dose ou ponderar guanfacina (a partir dos 5 anos), atomoxetina ou parar. A clonidina só é admitida em menores de 18 anos com parecer de serviço terciário de PHDA, pelo que não se inicia em qualquer contexto.",
+    "source": "NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.8.13 e 1.8.14); BNFc 2020-2021 (NICE; edição de 2020-2021, pode estar desatualizada), p. 242, nice__BNFC-2020-2021.pdf.txt, linhas 33177-33181",
+    "dose": false
+  },
+  {
+    "id": "farmaco-phda-tiques-46-q1",
+    "itemId": "farmaco-phda-tiques-46",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Na psicoeducação de uma família com um filho com tiques, que evolução natural é descrita?",
+    "options": [
+      "Pico por volta dos 4 a 6 anos, com desaparecimento completo sob tratamento",
+      "Início habitual na adolescência, com agravamento progressivo até à idade adulta",
+      "Pico entre os 10 e os 12 anos, com oscilação e melhoria na adolescência; raramente cessam",
+      "Pico por volta dos 15 a 17 anos, com cessação completa após qualquer tratamento farmacológico"
+    ],
+    "correct": 2,
+    "explanation": "A fonte refere pico entre os 10 e os 12 anos, oscilação natural e melhoria na adolescência, e que o tratamento raramente faz os tiques cessar por completo. Por isso a psicoeducação e, sem incapacidade, a vigilância sem tratamento são aceitáveis.",
+    "source": "AAN, Pringsheim T et al., Practice guideline recommendations summary: treatment of tics in people with Tourette syndrome and chronic tic disorders, Neurology 2019;92(19):896-906, https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/ (rec. 1a, 1b, 1c, 2 e 6b e secção de aconselhamento); ESSTS, Andrén P et al., versão 2.0, Parte II (intervenções psicológicas), Eur Child Adolesc Psychiatry 2022;31(3):403-423, doi 10.1007/s00787-021-01845-z, https://pmc.ncbi.nlm.nih.gov/articles/PMC8314030/ (secção de recomendações finais)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-phda-tiques-50-q1",
+    "itemId": "farmaco-phda-tiques-50",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapaz de 11 anos com tiques motores e vocais, que na escola tem também dificuldades importantes de atenção e muita ansiedade. Antes de decidir tratar os tiques, o que está descrito?",
+    "options": [
+      "Iniciar de imediato um antipsicótico para os tiques e tratar as comorbilidades mais tarde",
+      "Avaliar e tratar as comorbilidades que podem incomodar mais do que os tiques",
+      "Ignorar a ansiedade e a dificuldade de atenção, por serem apenas consequência dos tiques",
+      "Adiar qualquer avaliação das comorbilidades até ao pico dos tiques, aos 10 a 12 anos"
+    ],
+    "correct": 1,
+    "explanation": "A fonte manda avaliar e tratar primeiro comorbilidades como PHDA, perturbação obsessivo-compulsiva, ansiedade, humor e perturbação disruptiva, que podem incomodar mais do que os tiques, e perguntar sempre por ideação e tentativas de suicídio, dado o risco aumentado na síndrome de Tourette.",
+    "source": "AAN, Pringsheim T et al., Practice guideline recommendations summary: treatment of tics in people with Tourette syndrome and chronic tic disorders, Neurology 2019;92(19):896-906, https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/ (rec. 3a a 3c, 4a, 4b, 5a e 5b); ESSTS, Roessner V et al., European clinical guidelines for Tourette syndrome and other tic disorders, versão 2.0, Parte III (farmacológico), Eur Child Adolesc Psychiatry 2022;31(3):425-441, doi 10.1007/s00787-021-01899-z, https://pmc.ncbi.nlm.nih.gov/articles/PMC8940878/ (secção 'Pharmacological treatment of tics in the context of co-existing psychiatric conditions')",
+    "dose": false
+  },
+  {
+    "id": "farmaco-phda-tiques-59-q1",
+    "itemId": "farmaco-phda-tiques-59",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a AAN, que avaliação se manda fazer antes e depois de iniciar pimozida ou ziprasidona nos tiques?",
+    "options": [
+      "Prolactina sérica",
+      "Perfil lipídico em jejum",
+      "Eletroencefalograma",
+      "ECG com medição do QTc"
+    ],
+    "correct": 3,
+    "explanation": "A AAN manda fazer ECG e QTc antes e depois de iniciar pimozida ou ziprasidona, ou quando se associam outros fármacos que prolonguem o QT. A prolactina e o perfil lipídico são monitorizações de outros antipsicóticos (risperidona, tiapride; aripiprazol, risperidona), e a fonte não refere EEG.",
+    "source": "ESSTS, Roessner V et al., European clinical guidelines for Tourette syndrome and other tic disorders, versão 2.0, Parte III (farmacológico), Eur Child Adolesc Psychiatry 2022;31(3):425-441, doi 10.1007/s00787-021-01899-z, https://pmc.ncbi.nlm.nih.gov/articles/PMC8940878/ (Tabela 2, coluna de exames; secção 'Dopamine-modulating agents'); AAN, Pringsheim T et al., Practice guideline recommendations summary: treatment of tics in people with Tourette syndrome and chronic tic disorders, Neurology 2019;92(19):896-906, https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/ (rec. 9b a 9e); BNFc 2020-2021 (NICE; edição de 2020-2021, pode estar desatualizada), p. 262 (haloperidol), 263 (pimozida, sulpirida), 265 (aripiprazol), 270 (risperidona), nice__BNFC-2020-2021.pdf.txt, linhas 35947-35950, 36074-36081, 36127-36130, 36389-36391, 37076-37077",
+    "dose": false
+  },
+  {
+    "id": "farmaco-phda-tiques-62-q1",
+    "itemId": "farmaco-phda-tiques-62",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Entre os efeitos adversos dos antipsicóticos usados nos tiques, o que se diz do aripiprazol?",
+    "options": [
+      "Menos acatisia e EPS, mas pode causar ganho de peso, mais nas crianças do que nos adultos",
+      "Causa mais acatisia do que os restantes antipsicóticos e não afeta o peso nem o perfil lipídico",
+      "Causa ganho de peso sobretudo em adultos e adolescentes, menos em crianças pequenas",
+      "Não tem efeitos metabólicos nem no peso, ao contrário da risperidona e do haloperidol"
+    ],
+    "correct": 0,
+    "explanation": "A fonte descreve o aripiprazol com menos acatisia e EPS, mas com possível ganho de peso, maior nas crianças do que nos adolescentes e adultos. As restantes opções invertem ou negam esta descrição.",
+    "source": "ESSTS, Roessner V et al., European clinical guidelines for Tourette syndrome and other tic disorders, versão 2.0, Parte III (farmacológico), Eur Child Adolesc Psychiatry 2022;31(3):425-441, doi 10.1007/s00787-021-01899-z, https://pmc.ncbi.nlm.nih.gov/articles/PMC8940878/ (secção 'Dopamine-modulating agents' e 'Aripiprazole'); AAN, Pringsheim T et al., Practice guideline recommendations summary: treatment of tics in people with Tourette syndrome and chronic tic disorders, Neurology 2019;92(19):896-906, https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/ (rec. 9b e 9d)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-sono-outros-9-q1",
+    "itemId": "farmaco-sono-outros-9",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o RCM do Slenyto (melatonina de libertação prolongada), que hábito do doente pode exigir ajuste da dose de melatonina se o começar ou o parar?",
+    "options": [
+      "Consumo de bebidas com cafeína",
+      "Jejum prolongado antes da toma",
+      "Tabagismo (indução do CYP1A2)",
+      "Toma de AINEs durante todo o dia"
+    ],
+    "correct": 2,
+    "explanation": "O RCM refere que o tabagismo induz o metabolismo da melatonina (CYP1A2), pelo que começar ou parar de fumar pode exigir ajuste de dose. Os AINEs à noite são referidos apenas como supressores da melatonina endógena, sem indicação de ajuste de dose, e a fonte não refere cafeína nem jejum.",
+    "source": "RCM do Slenyto no INFOMED/Infarmed (descarregado a 10/10/2026; 1.ª autorização 20/09/2018, renovação 05/06/2023; secção 10 sem data preenchida no PDF), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=638506&tipo_doc=rcm; AAP, HealthyChildren.org, Melatonin for Kids (texto para pais; última atualização 22/01/2026), https://www.healthychildren.org/English/healthy-living/sleep/Pages/melatonin-and-childrens-sleep.aspx; BNFc 2020-2021, melatonina p. 312 (nice__BNFC-2020-2021.pdf.txt, linhas 42937-42975)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-sono-outros-13-q1",
+    "itemId": "farmaco-sono-outros-13",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapaz de 6 anos com enurese noturna. Os pais querem retirar-lhe privilégios sempre que molha a cama e perguntam como usar um sistema de recompensas. Segundo o NICE CG111, o que aconselhar?",
+    "options": [
+      "Recompensar só as noites secas e retirar a recompensa nas noites molhadas, como incentivo",
+      "Recompensar comportamentos acordados (beber líquidos, ir à casa de banho), sem penalizar",
+      "Acordar a criança à noite de forma regular, por promover a continência a longo prazo",
+      "Restringir os líquidos como tratamento e retirar privilégios nas noites molhadas"
+    ],
+    "correct": 1,
+    "explanation": "O NICE explica que a enurese não é culpa da criança, desaconselha medidas punitivas e propõe recompensar comportamentos acordados (beber os líquidos recomendados, ir à casa de banho antes de dormir) e não as noites secas, sem penalizar nem retirar recompensas. Acordar a criança à noite, regular ou aleatoriamente, não promove continência a longo prazo, e a restrição da dieta como tratamento não é recomendada.",
+    "source": "NICE CG111, Bedwetting in under 19s (publicada 27/10/2010; 'Last reviewed 21/11/2018': sem nova evidência que altere as recomendações), https://www.nice.org.uk/guidance/cg111/chapter/Recommendations; ICCS, Neveus et al., J Pediatr Urol 2020;16(1):10-19 (só li o resumo no PubMed; texto integral pago, não acedido), https://pubmed.ncbi.nlm.nih.gov/32278657/; BNFc 2020-2021, enurese noturna p. 526 (nice__BNFC-2020-2021.pdf.txt, linhas 71068-71092)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-sono-outros-14-q1",
+    "itemId": "farmaco-sono-outros-14",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapaz de 8 anos com enurese noturna que tem também perdas de urina durante o dia. Segundo o NICE CG111, na avaliação prévia, que exame está indicado?",
+    "options": [
+      "Ecografia reno-vesical por rotina, em todas as crianças com enurese",
+      "Estudo urodinâmico por rotina, antes de qualquer tratamento",
+      "Nenhum, porque a urina tipo II nunca é pedida na enurese",
+      "Urina tipo II, por haver sintomas diurnos"
+    ],
+    "correct": 3,
+    "explanation": "O NICE reserva a urina tipo II para início recente, sintomas diurnos, sinais de doença, suspeita de ITU ou de diabetes; aqui há sintomas diurnos. O ICCS refere que, sem sinais de alarme, não são precisos análises, radiologia nem urodinâmica.",
+    "source": "NICE CG111, Bedwetting in under 19s (publicada 27/10/2010; 'Last reviewed 21/11/2018': sem nova evidência que altere as recomendações), https://www.nice.org.uk/guidance/cg111/chapter/Recommendations; ICCS, Neveus et al., J Pediatr Urol 2020;16(1):10-19 (só li o resumo no PubMed; texto integral pago, não acedido), https://pubmed.ncbi.nlm.nih.gov/32278657/",
+    "dose": false
+  },
+  {
+    "id": "farmaco-sono-outros-17-q1",
+    "itemId": "farmaco-sono-outros-17",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o NICE CG111, se a enurese não responde ao alarme inicial, o que se oferece?",
+    "options": [
+      "Alarme mais desmopressina, ou só desmopressina se o alarme não for aceite",
+      "Imipramina isolada, como opção seguinte e em dose baixa à noite",
+      "Anticolinérgico isolado, mesmo sem sintomas diurnos ou bexiga hiperativa",
+      "Repetição do alarme isolado, sem qualquer fármaco, durante mais 3 meses"
+    ],
+    "correct": 0,
+    "explanation": "Perante falta de resposta ao alarme, o NICE propõe alarme com desmopressina, ou só desmopressina se o alarme deixar de ser aceitável. A imipramina não é 1.ª linha e o anticolinérgico não se usa sozinho sem sintomas diurnos.",
+    "source": "NICE CG111, Bedwetting in under 19s (publicada 27/10/2010; 'Last reviewed 21/11/2018': sem nova evidência que altere as recomendações), https://www.nice.org.uk/guidance/cg111/chapter/Recommendations; BNFc 2020-2021, enurese noturna p. 526 (nice__BNFC-2020-2021.pdf.txt, linhas 71098-71118)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-sono-outros-24-q1",
+    "itemId": "farmaco-sono-outros-24",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapariga de 14 anos com anorexia nervosa, avaliada em serviço comunitário adequado à idade. Segundo o NICE NG69, que tratamento se considera em primeiro lugar?",
+    "options": [
+      "Olanzapina como tratamento único, em dose baixa titulada",
+      "Internamento com o único objetivo de dar psicoterapia",
+      "Terapia familiar focada na anorexia, com 18 a 20 sessões em 1 ano",
+      "Terapias físicas como acupuntura, ioga ou massagem terapêutica diária"
+    ],
+    "correct": 2,
+    "explanation": "Para crianças e jovens com anorexia nervosa o NICE considera primeiro a terapia familiar focada na anorexia, com CBT-ED ou psicoterapia focada no adolescente como alternativas. Não se oferece medicação como único tratamento, nem internamento só para dar psicoterapia, nem terapias físicas.",
+    "source": "NICE NG69, Eating disorders: recognition and treatment (publicada 23/05/2017; atualizada 16/12/2020; 'Last reviewed 15/08/2024'), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations; Couturier et al., Canadian practice guidelines for the treatment of children and adolescents with eating disorders, J Eat Disord 2020 (PMID 32021688; texto integral lido via Europe PMC, secções Recommendations e Medications), https://pmc.ncbi.nlm.nih.gov/articles/PMC6995106/",
+    "dose": false
+  },
+  {
+    "id": "farmaco-sono-outros-25-q1",
+    "itemId": "farmaco-sono-outros-25",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o NICE NG69, quando se considera a densitometria óssea na anorexia nervosa?",
+    "options": [
+      "Logo ao diagnóstico em todos os casos, repetindo de 6 em 6 meses",
+      "Após 1 ano de baixo peso, sem repetir mais de 1 vez por ano",
+      "Só depois de atingido um peso saudável, repetindo de 3 em 3 meses",
+      "Apenas se houver amenorreia, repetindo duas vezes por ano"
+    ],
+    "correct": 1,
+    "explanation": "O NICE manda considerar densitometria após 1 ano de baixo peso, ou antes se houver dor óssea ou fraturas recorrentes, e não repetir mais de 1 vez por ano. As restantes opções apresentam momentos e periodicidades que a fonte não sustenta.",
+    "source": "NICE NG69, Eating disorders: recognition and treatment (publicada 23/05/2017; atualizada 16/12/2020; 'Last reviewed 15/08/2024'), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations",
+    "dose": false
+  },
+  {
+    "id": "farmaco-sono-outros-34-q1",
+    "itemId": "farmaco-sono-outros-34",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Qual das seguintes condutas o NICE NG69 manda NÃO fazer nas perturbações alimentares?",
+    "options": [
+      "Referenciar para serviço comunitário de perturbações alimentares adequado à idade",
+      "Avaliar o equilíbrio hidroeletrolítico em quem vomita ou usa laxantes",
+      "Oferecer ECG a quem apresenta bradicardia ou desequilíbrio eletrolítico",
+      "Oferecer medicação como único tratamento da anorexia nervosa"
+    ],
+    "correct": 3,
+    "explanation": "O NICE manda não oferecer medicação como único tratamento da anorexia nervosa, da ingestão compulsiva nem da bulimia. As outras três condutas são recomendadas: referenciar para serviço adequado à idade, avaliar eletrólitos com vómitos ou laxantes, e considerar ECG em bradicardia ou desequilíbrio eletrolítico.",
+    "source": "NICE NG69, Eating disorders: recognition and treatment (publicada 23/05/2017; atualizada 16/12/2020; 'Last reviewed 15/08/2024'), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations; Couturier et al., Canadian practice guidelines for the treatment of children and adolescents with eating disorders, J Eat Disord 2020 (PMID 32021688; texto integral lido via Europe PMC, secções Recommendations e Medications), https://pmc.ncbi.nlm.nih.gov/articles/PMC6995106/",
+    "dose": false
+  },
+  {
+    "id": "farmaco-sono-outros-42-q1",
+    "itemId": "farmaco-sono-outros-42",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapariga de 16 anos fuma diariamente e pede vareniclina para deixar de fumar. Segundo o NICE NG209 (2025), qual é a posição?",
+    "options": [
+      "Não oferecer nenhum dos três fármacos antes dos 18 anos de idade",
+      "Oferecer vareniclina, que o NICE recomenda a partir dos 12 anos",
+      "Oferecer bupropiom, que o NICE recomenda a partir dos 16 anos",
+      "Oferecer citisiniclina com apoio comportamental, a partir dos 16 anos"
+    ],
+    "correct": 0,
+    "explanation": "O NICE NG209 não oferece citisiniclina, vareniclina nem bupropiom abaixo dos 18 anos. O ATS 2025 sugere um ensaio de vareniclina ou bupropiom, o que diverge do NICE, mas a pergunta pede a posição do NICE. O RCM português também não recomenda a vareniclina em doentes pediátricos.",
+    "source": "NICE NG209, Tobacco: preventing uptake, promoting quitting and treating dependence (publicada 30/11/2021; atualizada 04/02/2025), https://www.nice.org.uk/guidance/ng209/chapter/Treating-tobacco-dependence; ATS, Treatment of Nicotine Use in Adolescents Under 18 Years of Age: An Official ATS Clinical Practice Guideline, Am J Respir Crit Care Med 2025 (PMID 40879357; texto integral lido via Europe PMC), https://pmc.ncbi.nlm.nih.gov/articles/PMC12432397/; RCM Exchampra (vareniclina) https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=718724&tipo_doc=rcm; RCM Bupropiom Generis https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=600825&tipo_doc=rcm; BNFc 2020-2021, cessação tabágica p. 313 (nice__BNFC-2020-2021.pdf.txt, linhas 43098-43101)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-sono-outros-44-q1",
+    "itemId": "farmaco-sono-outros-44",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a AACAP 2026 (resumo), que abordagem se sugere para o consumo de álcool em adolescentes e jovens adultos?",
+    "options": [
+      "Naltrexona oral de rotina, em todos os casos",
+      "Acamprosato de rotina, em todos os casos",
+      "Entrevista motivacional breve em 1 a 2 sessões",
+      "Internamento prolongado como primeira opção terapêutica"
+    ],
+    "correct": 2,
+    "explanation": "A AACAP 2026 sugere entrevista motivacional breve (1 a 2 sessões) para o consumo de álcool e, para consumo ou perturbação, entrevista motivacional não breve, terapia familiar ou TCC. Não sugere nenhum tratamento farmacológico para o álcool.",
+    "source": "AACAP, Clinical Practice Guideline: Assessment and Treatment of Adolescents and Young Adults With SUD and Problematic Substance Use (Excluding Tobacco), JAACAP 2026 fev; 65(2) (só li o resumo no PubMed; texto integral 403), https://pubmed.ncbi.nlm.nih.gov/40819708/; NICE CG115, Alcohol-use disorders: diagnosis, assessment and management of harmful drinking and alcohol dependence (publicada 23/02/2011; atualizada 21/10/2014; 'Last reviewed 19/07/2019'), secção 1.3.7, https://www.nice.org.uk/guidance/cg115/chapter/Recommendations",
+    "dose": false
+  },
+  {
+    "id": "farmaco-sono-outros-45-q1",
+    "itemId": "farmaco-sono-outros-45",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o NICE CG115, em que jovens podem especialistas considerar acamprosato ou naltrexona oral, em associação com TCC, após reavaliação cuidadosa de riscos e benefícios?",
+    "options": [
+      "Jovens de 10 a 12 anos com consumo regular de álcool, como primeira opção",
+      "Jovens de 16 e 17 anos sem benefício de um programa multicomponente",
+      "Todos os adolescentes com consumo de álcool, como 1.ª linha",
+      "Jovens de 13 a 15 anos com comorbilidade psiquiátrica grave"
+    ],
+    "correct": 1,
+    "explanation": "O NICE CG115 admite essa associação apenas em jovens de 16 e 17 anos sem adesão ou benefício num programa multicomponente. A AACAP 2026 diverge, pois não sugere tratamento farmacológico para o álcool. O RCM português da naltrexona não a admite abaixo dos 18 anos.",
+    "source": "NICE CG115, Alcohol-use disorders: diagnosis, assessment and management of harmful drinking and alcohol dependence (publicada 23/02/2011; atualizada 21/10/2014; 'Last reviewed 19/07/2019'), secção 1.3.7, https://www.nice.org.uk/guidance/cg115/chapter/Recommendations; AACAP, Clinical Practice Guideline: Assessment and Treatment of Adolescents and Young Adults With SUD and Problematic Substance Use (Excluding Tobacco), JAACAP 2026 fev; 65(2) (só li o resumo no PubMed; texto integral 403), https://pubmed.ncbi.nlm.nih.gov/40819708/; RCM Naltrexona Accord 50 mg (aprovado 25/07/2024) https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=47379&tipo_doc=rcm; BNFc 2020-2021, dependência p. 313 (nice__BNFC-2020-2021.pdf.txt, linhas 43028-43035)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-sono-outros-46-q1",
+    "itemId": "farmaco-sono-outros-46",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a AACAP 2026 (resumo), que tratamento se sugere para perturbações por drogas ilícitas, como a canábis, em adolescentes?",
+    "options": [
+      "Tratamento farmacológico de rotina",
+      "Apenas vigilância, sem intervenção psicossocial",
+      "Terapia de substituição de nicotina em associação",
+      "Entrevista motivacional mais TCC"
+    ],
+    "correct": 3,
+    "explanation": "A AACAP 2026 sugere entrevista motivacional mais TCC para perturbações por drogas ilícitas e considera insuficiente a certeza da evidência para sugerir tratamento farmacológico das outras perturbações por substâncias. Por isso não há fármacos de rotina para a canábis.",
+    "source": "AACAP, Clinical Practice Guideline: Assessment and Treatment of Adolescents and Young Adults With SUD and Problematic Substance Use (Excluding Tobacco), JAACAP 2026 fev; 65(2) (só li o resumo no PubMed; texto integral 403), https://pubmed.ncbi.nlm.nih.gov/40819708/; NICE CG51 e CG52 (títulos: 'Drug misuse in over 16s'), https://www.nice.org.uk/guidance/cg51 ; https://www.nice.org.uk/guidance/cg52",
+    "dose": false
+  },
+  {
+    "id": "farmaco-phda-tiques-58-q1",
+    "itemId": "farmaco-phda-tiques-58",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Em tiques resistentes, o topiramato é uma opção fora de indicação. Que doses diárias baixas descrevem a ESSTS e a AAN como geralmente bem toleradas (não é um esquema de titulação)?",
+    "options": [
+      "25 a 150 mg/dia",
+      "200 a 400 mg/dia",
+      "5 a 10 mg/dia",
+      "300 a 600 mg/dia"
+    ],
+    "correct": 0,
+    "explanation": "A ESSTS e a AAN descrevem doses baixas de 25 a 150 mg/dia como geralmente bem toleradas; a ESSTS não dá dose inicial. O RCM do topiramato não inclui tiques, pelo que esta faixa vem só dessas duas guidelines. Os outros intervalos não constam da fonte.",
+    "source": "ESSTS, Roessner V et al., European clinical guidelines for Tourette syndrome and other tic disorders, versão 2.0, Parte III (farmacológico), Eur Child Adolesc Psychiatry 2022;31(3):425-441, doi 10.1007/s00787-021-01899-z, https://pmc.ncbi.nlm.nih.gov/articles/PMC8940878/ (secções 'Other agents' e 'Clinical recommendations...'); AAN, Pringsheim T et al., Practice guideline recommendations summary: treatment of tics in people with Tourette syndrome and chronic tic disorders, Neurology 2019;92(19):896-906, https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/ (rec. 10a, 10b, 11a, 12a a 12f e texto de racional sobre cannabis); BNFc 2020-2021 (NICE; edição de 2020-2021, pode estar desatualizada), p. 263, nice__BNFC-2020-2021.pdf.txt, linhas 36107-36112; RCM topiramato (outros__Topiramato RCM_Comprimidos.doc.txt) linhas 33-38, 92",
+    "dose": true
+  },
+  {
+    "id": "farmaco-sono-outros-6-q1",
+    "itemId": "farmaco-sono-outros-6",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Criança com insónia de início de sono, em que a higiene do sono foi insuficiente. Segundo o BNFc 2020-2021 (melatonina de libertação modificada, uso não licenciado, iniciada por especialista), qual é a dose diária inicial, durante 1 a 2 semanas, antes de subir se necessário?",
+    "options": [
+      "8 a 10 mg por dia, antes de deitar",
+      "15 a 20 mg por dia, antes de deitar",
+      "2 a 3 mg por dia, antes de deitar",
+      "0,1 a 0,2 mg por dia, antes de deitar"
+    ],
+    "correct": 2,
+    "explanation": "O BNFc descreve 2 a 3 mg por dia durante 1 a 2 semanas e depois 4 a 6 mg por dia se necessário, com máximo de 10 mg por dia. 8 a 10 mg está já no topo do máximo e não é dose inicial; 15 a 20 mg ultrapassa o máximo; 0,1 a 0,2 mg não consta da fonte indicada.",
+    "source": "EClinicalMedicine 2023 (jul), melatonina em insónia crónica idiopática 5-20 anos (revisão sistemática com recomendação GRADE; texto integral lido via Europe PMC), https://pmc.ncbi.nlm.nih.gov/articles/PMC10339205/; AASM, Health Advisory: Melatonin Use in Children and Adolescents (adotado em 09/09/2022; página com data 12/03/2026), https://aasm.org/advocacy/position-statements/melatonin-use-in-children-and-adolescents-health-advisory/; AAP, HealthyChildren.org, Melatonin for Kids (texto para pais; última atualização 22/01/2026), https://www.healthychildren.org/English/healthy-living/sleep/Pages/melatonin-and-childrens-sleep.aspx; IPSA, Melatonin use in typically developing children: Expert Consensus Recommendations, Sleep Med 2025 (só li o resumo no PubMed), https://pubmed.ncbi.nlm.nih.gov/39923609/; BNFc 2020-2021, melatonina p. 311-313 (nice__BNFC-2020-2021.pdf.txt, linhas 42795-42810, 42903-42983)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-sono-outros-18-q1",
+    "itemId": "farmaco-sono-outros-18",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Criança de 8 anos com enurese noturna e sintomas diurnos (bexiga hiperativa), tratada sob supervisão especializada com oxibutinina de libertação modificada em associação à desmopressina. Segundo o BNFc 2020-2021, qual é a dose diária máxima (dose do Reino Unido, não RCM)?",
+    "options": [
+      "10 mg por dia",
+      "15 mg por dia",
+      "25 mg por dia",
+      "30 mg por dia"
+    ],
+    "correct": 1,
+    "explanation": "O BNFc descreve a libertação modificada com início de 5 mg 1 vez por dia, subindo 5 mg por semana conforme a resposta, até ao máximo de 15 mg por dia (5-17 anos). Os outros valores não constam da fonte.",
+    "source": "NICE CG111, Bedwetting in under 19s (publicada 27/10/2010; 'Last reviewed 21/11/2018': sem nova evidência que altere as recomendações), https://www.nice.org.uk/guidance/cg111/chapter/Recommendations; BNFc 2020-2021, enurese p. 526, oxibutinina p. 527, tolterodina p. 528 (nice__BNFC-2020-2021.pdf.txt, linhas 71060-71068, 71118-71170, 71173-71200, 71273-71291)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-sono-outros-19-q1",
+    "itemId": "farmaco-sono-outros-19",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Criança de 9 anos com enurese noturna que não respondeu a todos os outros tratamentos e foi avaliada por especialista. Segundo o RCM do Tofranil (imipramina), qual é a dose recomendada na população pediátrica com enurese noturna?",
+    "options": [
+      "0,5 mg/kg/dia",
+      "3,4 mg/kg/dia",
+      "5 mg/kg/dia",
+      "1,7 mg/kg/dia"
+    ],
+    "correct": 3,
+    "explanation": "O RCM do Tofranil indica 1,7 mg/kg/dia para a enurese noturna a partir dos 5 anos, em toma única após a refeição da noite, com doses iniciais por faixa etária. Os restantes valores não constam do RCM.",
+    "source": "NICE CG111, Bedwetting in under 19s (publicada 27/10/2010; 'Last reviewed 21/11/2018': sem nova evidência que altere as recomendações), https://www.nice.org.uk/guidance/cg111/chapter/Recommendations; RCM Tofranil (imipramina) 10/25 mg (revisão do texto 01/09/2025), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=8527&tipo_doc=rcm; BNFc 2020-2021, imipramina p. 256-257 (nice__BNFC-2020-2021.pdf.txt, linhas 35110-35203) e enurese p. 526-527 (linhas 71135-71140)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-sono-outros-26-q1",
+    "itemId": "farmaco-sono-outros-26",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Adolescente com anorexia nervosa e baixo peso, em contexto especializado, em que se considera olanzapina como adjuvante (uso fora de indicação). Segundo a guideline canadiana de 2020, com que dose se deve iniciar, titulando com muito cuidado?",
+    "options": [
+      "0,625 a 1,25 mg",
+      "5 a 7,5 mg",
+      "10 a 15 mg",
+      "20 mg"
+    ],
+    "correct": 0,
+    "explanation": "A guideline canadiana refere começar com dose muito baixa, 0,625 a 1,25 mg, titulando com muito cuidado. As doses médias dos estudos (cerca de 5 a 8,5 mg/dia) não são recomendação de dose inicial. O BNFc não tem dose para anorexia nervosa.",
+    "source": "Couturier et al., Canadian practice guidelines for the treatment of children and adolescents with eating disorders, J Eat Disord 2020 (PMID 32021688; texto integral lido via Europe PMC, secções Recommendations e Medications), https://pmc.ncbi.nlm.nih.gov/articles/PMC6995106/; NICE NG69, Eating disorders: recognition and treatment (publicada 23/05/2017; atualizada 16/12/2020; 'Last reviewed 15/08/2024'), https://www.nice.org.uk/guidance/ng69/chapter/Recommendations; WFSBP, guidelines update 2023 on the pharmacological treatment of eating disorders, World J Biol Psychiatry 2023 (só li o resumo no PubMed; o resumo não indica a idade), https://pubmed.ncbi.nlm.nih.gov/37350265/; RCM Olanzapina Alter 5 mg comprimidos revestidos (aprovado 26/05/2017), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=42961&tipo_doc=rcm; BNFc 2020-2021, olanzapina p. 267-268 (nice__BNFC-2020-2021.pdf.txt, linhas 36679-36740)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-sono-outros-31-q1",
+    "itemId": "farmaco-sono-outros-31",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Adolescente de 14 anos com depressão major moderada a grave. Segundo o RCM da Fluoxetina Generis (indicada a partir dos 8 anos), qual é a dose inicial diária?",
+    "options": [
+      "5 mg/dia",
+      "20 mg/dia",
+      "10 mg/dia",
+      "40 mg/dia"
+    ],
+    "correct": 2,
+    "explanation": "O RCM indica 10 mg/dia como dose inicial, com possibilidade de subir para 20 mg/dia após 1 a 2 semanas; a experiência com mais de 20 mg/dia é mínima. A dose de 20 mg é o passo seguinte e 40 mg ultrapassa o que o RCM descreve.",
+    "source": "RCM Fluoxetina Generis 20 mg/5 ml solução oral (aprovado 17/05/2023), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=31154&tipo_doc=rcm; BNFc 2020-2021, fluoxetina p. 253, depressão p. 251-252 (nice__BNFC-2020-2021.pdf.txt, linhas 34702-34725, 34489-34492, 34521-34527)",
+    "dose": true
+  }
+]

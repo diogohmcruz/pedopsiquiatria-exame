@@ -1,0 +1,291 @@
+[
+  {
+    "id": "tx-treino-parental-irritabilidade-ddm-q1",
+    "itemId": "tx-treino-parental-irritabilidade-ddm",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo Kircanski et al. (2018), como se descreve a evidência do treino parental na irritabilidade grave e na DDM?",
+    "options": [
+      "Tem evidência em comportamento disruptivo e agressividade, mas não especificamente na irritabilidade grave",
+      "É um tratamento bem estabelecido especificamente para a DDM, com evidência de ensaios controlados",
+      "Tem evidência demonstrada na DDM, mas é fraca nos problemas de comportamento disruptivo e na agressividade",
+      "Só tem evidência quando é aplicado sem qualquer componente de TCC ou de outra psicoterapia"
+    ],
+    "correct": 0,
+    "explanation": "A fonte refere que não existem tratamentos bem estabelecidos especificamente para a DDM e que o treino parental tem evidência na agressividade e no comportamento disruptivo, não demonstrada para irritabilidade grave. As outras opções invertem ou inventam essa relação de evidência.",
+    "source": "Kircanski K, Clayton ME, Leibenluft E, Brotman MA, Psychosocial Treatment of Irritability in Youth, Curr Treat Options Psychiatry 2018;5(1):129-140, https://pmc.ncbi.nlm.nih.gov/articles/PMC6181450/ (lido por resumo do WebFetch)",
+    "dose": false
+  },
+  {
+    "id": "tx-tcc-ansiedade-social-criancas-nice-q1",
+    "itemId": "tx-tcc-ansiedade-social-criancas-nice",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a NICE CG159, qual o formato da TCC individual centrada na ansiedade social em crianças e jovens?",
+    "options": [
+      "8 a 12 sessões de 45 minutos",
+      "8 a 12 sessões de 90 minutos",
+      "4 a 6 sessões de 45 minutos",
+      "14 sessões de 60 minutos"
+    ],
+    "correct": 0,
+    "explanation": "A NICE CG159 (rec. 1.5.4 e 1.5.5) indica 8 a 12 sessões de 45 minutos no formato individual. As sessões de 90 minutos correspondem ao formato de grupo; as restantes opções não constam da fonte para este tratamento.",
+    "source": "NICE CG159 (perturbação de ansiedade social), publicada 22/05/2013, última revisão 21/05/2024, https://www.nice.org.uk/guidance/cg159/chapter/Recommendations (rec. 1.5.1, 1.5.3, 1.5.4, 1.5.5, 1.6.1, 1.6.3)",
+    "dose": false
+  },
+  {
+    "id": "tx-tcc-ansiedade-social-adaptada-adultos-q1",
+    "itemId": "tx-tcc-ansiedade-social-adaptada-adultos",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Uma jovem de 16 anos tem ansiedade social e capacidade cognitiva e emocional para um tratamento desenvolvido para adultos. Segundo a NICE CG159, qual a opção psicológica a considerar?",
+    "options": [
+      "Mindfulness como tratamento psicológico de rotina para a ansiedade social",
+      "Terapia de apoio como tratamento psicológico de rotina para a ansiedade social",
+      "TCC individual específica para ansiedade social, desenvolvida para adultos",
+      "Fármaco como primeira abordagem de rotina, antes de qualquer intervenção psicológica"
+    ],
+    "correct": 2,
+    "explanation": "A rec. 1.5.6 da NICE CG159 permite considerar, em jovens tipicamente com 15 anos ou mais e com a capacidade cognitiva e emocional referida, uma intervenção individual específica para ansiedade social desenvolvida para adultos, como Clark e Wells ou Heimberg. As restantes opções não são o tratamento descrito na fonte.",
+    "source": "NICE CG159 (perturbação de ansiedade social), publicada 22/05/2013, última revisão 21/05/2024, https://www.nice.org.uk/guidance/cg159/chapter/Recommendations (rec. 1.5.6, 1.3.13, 1.3.14)",
+    "dose": false
+  },
+  {
+    "id": "tx-exposicao-sessao-unica-fobia-q1",
+    "itemId": "tx-exposicao-sessao-unica-fobia",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Um rapaz de 10 anos tem fobia específica de cães e evita qualquer contacto. O clínico propõe o tratamento de sessão única. Como é estruturado este tratamento?",
+    "options": [
+      "Onze sessões semanais de exposição de 1 hora cada, sem avaliação funcional prévia",
+      "Oito dias consecutivos de tratamento, com dois desses dias dedicados a exposição prolongada",
+      "Uma única sessão de exposição de cerca de 45 minutos, sem avaliação funcional prévia",
+      "Avaliação funcional de cerca de 45 minutos, seguida de uma sessão de exposição de 3 horas"
+    ],
+    "correct": 3,
+    "explanation": "O protocolo descrito tem uma sessão de avaliação funcional de cerca de 45 minutos, idealmente uma semana antes, e uma sessão de exposição graduada de 3 horas. A exposição não dispensa a avaliação funcional prévia, e as outras estruturas não constam da fonte.",
+    "source": "Davis TE III, Ollendick TH, Öst L-G, Intensive Treatment of Specific Phobias in Children and Adolescents, Cogn Behav Pract 2009;16(3):294-303, https://pmc.ncbi.nlm.nih.gov/articles/PMC2747757/ (lido por resumo do WebFetch, não em texto integral); AACAP, Walter HJ et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (texto integral lido numa cópia PDF alojada em njaap.org) (Treatment Statement 1)",
+    "dose": false
+  },
+  {
+    "id": "tx-tcc-panico-adolescentes-q1",
+    "itemId": "tx-tcc-panico-adolescentes",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "No protocolo de TCC para a perturbação de pânico do adolescente, qual a estrutura da versão intensiva?",
+    "options": [
+      "11 sessões semanais, sem dias consecutivos de tratamento",
+      "8 dias consecutivos, com chamadas de seguimento",
+      "4 dias consecutivos, sem chamadas de seguimento",
+      "16 dias consecutivos, com chamadas de seguimento"
+    ],
+    "correct": 1,
+    "explanation": "A versão intensiva decorre em 8 dias consecutivos, com exposições in vivo longas nos dias 4 e 5 e quatro chamadas de 30 minutos nas semanas seguintes. As 11 sessões semanais são a versão semanal, e as restantes durações não constam da fonte.",
+    "source": "Elkins RM, Gallo KP, Pincus DB, Comer JS, Moderators of intensive CBT for adolescent panic disorder, Child Adolesc Ment Health 2016;21(1):30-36, https://pmc.ncbi.nlm.nih.gov/articles/PMC4768300/ (lido por resumo do WebFetch); Baker HJ, Waite P, The identification and psychological treatment of panic disorder in adolescents: a survey of CAMHS clinicians, Child Adolesc Ment Health 2020;25, https://pmc.ncbi.nlm.nih.gov/articles/PMC7496854/ (texto lido); AACAP, Walter HJ et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (texto integral lido numa cópia PDF alojada em njaap.org)",
+    "dose": false
+  },
+  {
+    "id": "tx-apoio-parental-ansiedade-q1",
+    "itemId": "tx-apoio-parental-ansiedade",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Qual é um dos objetivos do treino e apoio dos pais na TCC da criança com ansiedade, segundo a NICE CG159?",
+    "options": [
+      "Substituir a TCC da criança por sessões feitas apenas com os pais",
+      "Promover e reforçar a exposição da criança às situações temidas",
+      "Evitar que a criança contacte com situações temidas até a ansiedade desaparecer",
+      "Aplicar o time-out como componente central do tratamento"
+    ],
+    "correct": 1,
+    "explanation": "A fonte inclui psicoeducação e treino de competências dos pais para promover e reforçar a exposição às situações temidas e o desenvolvimento de competências. O apoio parental faz parte da TCC e não a substitui; a evitação contraria a lógica da exposição, e o time-out não é referido nesta fonte.",
+    "source": "NICE CG159 (perturbação de ansiedade social), publicada 22/05/2013, última revisão 21/05/2024, https://www.nice.org.uk/guidance/cg159/chapter/Recommendations (rec. 1.5.3, 1.5.4, 1.5.5); AACAP, Walter HJ et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (texto integral lido numa cópia PDF alojada em njaap.org) (Treatment Statement 1, Implementation)",
+    "dose": false
+  },
+  {
+    "id": "tx-autoajuda-guiada-toc-q1",
+    "itemId": "tx-autoajuda-guiada-toc",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Uma criança de 11 anos tem TOC com compromisso funcional ligeiro. Segundo a NICE CG31, qual a abordagem a considerar e o passo seguinte se não resultar ou for recusada?",
+    "options": [
+      "Monitorização ativa durante 2 semanas; se os sintomas persistirem, TCC com EPR",
+      "Autoajuda guiada com apoio à família; se ineficaz ou recusada, TCC com EPR",
+      "TCC com EPR desde o início; se ineficaz, autoajuda guiada com apoio à família",
+      "Autoajuda guiada com apoio à família; se ineficaz ou recusada, ISRS isolado"
+    ],
+    "correct": 1,
+    "explanation": "A NICE CG31 (rec. 1.5.1.8 e 1.5.1.9) admite autoajuda guiada com apoio e informação à família no compromisso funcional ligeiro, passando à TCC com EPR se for ineficaz ou recusada. A ordem inversa, a monitorização ativa e o ISRS isolado não correspondem ao que a NICE descreve.",
+    "source": "NICE CG31 (PEOC e perturbação dismórfica corporal), publicada 29/11/2005, última revisão 11/07/2024, https://www.nice.org.uk/guidance/cg31/chapter/Recommendations (rec. 1.5.1.8, 1.5.1.9; nota de que a CG31 cobre crianças com 8 anos ou mais)",
+    "dose": false
+  },
+  {
+    "id": "tx-tcc-epr-toc-q1",
+    "itemId": "tx-tcc-epr-toc",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "No protocolo POTS II (Franklin 2011), qual o formato da TCC com EPR?",
+    "options": [
+      "10 visitas de 1 hora em 12 semanas",
+      "8 visitas de 1 hora em 8 semanas",
+      "14 visitas de 1 hora em 12 semanas",
+      "20 visitas de 1 hora em 16 semanas"
+    ],
+    "correct": 2,
+    "explanation": "O POTS II usou 14 visitas de 1 hora em 12 semanas, administradas por psicólogo. As visitas 1 a 4 incluem psicoeducação, treino cognitivo e hierarquia e as visitas 5 a 12 a EPR; as outras opções apresentam números que a fonte não refere.",
+    "source": "NICE CG31 (PEOC e perturbação dismórfica corporal), publicada 29/11/2005, última revisão 11/07/2024, https://www.nice.org.uk/guidance/cg31/chapter/Recommendations (rec. 1.5.1.8 a 1.5.1.12, 1.5.2.12, 1.5.2.13); Franklin ME, Sapyta J, Freeman JB, Khanna M, Compton S, Almirall D, Moore P, Choate-Summers M, Garcia A, Edson AL, Foa EB, March JS, Cognitive behavior therapy augmentation of pharmacotherapy in pediatric obsessive-compulsive disorder: the Pediatric OCD Treatment Study II (POTS II) randomized controlled trial, JAMA 2011;306(11):1224-1232, https://pmc.ncbi.nlm.nih.gov/articles/PMC3495326/ (manuscrito de autor, texto lido) (secção de métodos, CBT: 14 visitas de 1 hora em 12 semanas, visitas 1 a 4 e 5 a 12)",
+    "dose": false
+  },
+  {
+    "id": "tx-reducao-acomodacao-familiar-toc-q1",
+    "itemId": "tx-reducao-acomodacao-familiar-toc",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Uma rapariga de 12 anos tem TOC. A mãe responde a pedidos repetidos de reasseguramento e ajuda nos rituais de lavagem. Segundo a NICE CG31, o que deve o plano de tratamento fazer?",
+    "options": [
+      "Manter a ajuda da mãe nos rituais até o fim da EPR, para evitar sofrimento à filha",
+      "Ajudar a família a reduzir o envolvimento nos rituais e no reasseguramento",
+      "Excluir a família de todas as sessões, para não interferir na TCC da criança",
+      "Explicar de forma didática à família que o comportamento da mãe causou o TOC"
+    ],
+    "correct": 1,
+    "explanation": "A rec. 1.5.2.9 pede que os planos ajudem os familiares a reduzir o envolvimento nos comportamentos compulsivos, no evitamento e na procura de reasseguramento. A fonte pede uma abordagem processual e não didática, e a família é envolvida na EPR, não excluída.",
+    "source": "NICE CG31 (PEOC e perturbação dismórfica corporal), publicada 29/11/2005, última revisão 11/07/2024, https://www.nice.org.uk/guidance/cg31/chapter/Recommendations (rec. 1.5.2.9); Freeman J et al., J Obsessive Compuls Relat Disord 2012;1(4):294-300, https://pmc.ncbi.nlm.nih.gov/articles/PMC3501965/ (componentes de processo familiar do POTS Jr)",
+    "dose": false
+  },
+  {
+    "id": "tx-articulacao-escola-toc-q1",
+    "itemId": "tx-articulacao-escola-toc",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a NICE CG31, em que situação a TCC no TOC deve incluir contacto com professores e outros profissionais?",
+    "options": [
+      "Em todos os casos de TOC, independentemente do impacto escolar ou funcional",
+      "Apenas quando a criança recusa a TCC ou não adere ao tratamento",
+      "Quando a atividade compulsiva interfere com o funcionamento da criança",
+      "Apenas depois de iniciar um ISRS, como complemento ao tratamento"
+    ],
+    "correct": 2,
+    "explanation": "A rec. 1.5.2.12 indica que a TCC deve incluir esse contacto quando a atividade compulsiva interfere com o funcionamento, e a rec. 1.1.4.1 refere a interferência no desempenho escolar. As outras condições não constam da fonte.",
+    "source": "NICE CG31 (PEOC e perturbação dismórfica corporal), publicada 29/11/2005, última revisão 11/07/2024, https://www.nice.org.uk/guidance/cg31/chapter/Recommendations (rec. 1.1.4.1, 1.5.2.12)",
+    "dose": false
+  },
+  {
+    "id": "tx-hrt-tricotilomania-q1",
+    "itemId": "tx-hrt-tricotilomania",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "No treino de inversão de hábito (HRT) da tricotilomania, qual componente ensina a criança a usar um comportamento incompatível com o puxar quando surge o impulso?",
+    "options": [
+      "Treino de consciência do puxar",
+      "Controlo de estímulos ambientais",
+      "Intervenção funcional do comportamento",
+      "Treino de resposta competitiva"
+    ],
+    "correct": 3,
+    "explanation": "O treino de resposta competitiva ensina um comportamento incompatível com o puxar, usado quando surge o impulso. O treino de consciência ensina a notar o puxar logo no início, o controlo de estímulos reduz a exposição aos contextos desencadeantes e a intervenção funcional identifica gatilhos, funções e consequências.",
+    "source": "Sharifi S, Estill M, Tordjman L, Millan SH, Ouyang JX et al., Treatment Strategies for Pediatric Trichotillomania: State-of-the-Art Review on Progress and Persistent Challenges, Pediatr Dermatol 2026;43(1), doi 10.1111/pde.70014, https://pmc.ncbi.nlm.nih.gov/articles/PMC12854921/ (texto lido, via Europe PMC; revisão sistemática com pesquisa de abril de 2024)",
+    "dose": false
+  },
+  {
+    "id": "tx-comb-tricotilomania-q1",
+    "itemId": "tx-comb-tricotilomania",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Quais são os cinco domínios da avaliação funcional do tratamento comportamental abrangente (ComB) da tricotilomania?",
+    "options": [
+      "Sensorial, cognitivo, afetivo, motor e local",
+      "Sensorial, cognitivo, afetivo, motor e social",
+      "Cognitivo, afetivo, motor, familiar e escolar",
+      "Emocional, comportamental, ambiental, motor e temporal"
+    ],
+    "correct": 0,
+    "explanation": "O ComB começa por uma avaliação funcional (fase 1) nos domínios sensorial, cognitivo, afetivo, motor e local, o modelo SCAMP. Os outros conjuntos substituem domínios por categorias que a fonte não usa.",
+    "source": "Mansueto CS, Golomb RG, Comprehensive Behavioral (ComB) Treatment for Skin Picking and Hair Pulling Disorders, International OCD Foundation, https://iocdf.org/expert-opinions/comprehensive-behavioral-comb-treatment-for-skin-picking-and-hair-pulling-disorders/ (página sem data, texto lido)",
+    "dose": false
+  },
+  {
+    "id": "tx-monitorizacao-ativa-pstp-q1",
+    "itemId": "tx-monitorizacao-ativa-pstp",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Um rapaz de 14 anos, há 3 semanas num acidente de viação, tem sintomas de stress abaixo do limiar de PSPT. Segundo a NICE NG116, o que se pode considerar?",
+    "options": [
+      "Antidepressivo como primeira opção, antes de qualquer seguimento",
+      "TCC focada no trauma em grupo, desde a primeira semana",
+      "Alta sem seguimento, por haver muita recuperação natural",
+      "Monitorização ativa, com seguimento no prazo de 1 mês"
+    ],
+    "correct": 3,
+    "explanation": "A NG116 (rec. 1.6.4) propõe, para sintomas subliminares de PSPT no primeiro mês, monitorização ativa com contacto de seguimento no prazo de 1 mês, sem tratamento psicológico específico. A comissão notou muita recuperação natural nas primeiras semanas, mas isso não dispensa o seguimento.",
+    "source": "NICE NG116 (PSPT), publicada 05/12/2018, última revisão 23/07/2026 (sem atualização das recomendações), https://www.nice.org.uk/guidance/ng116/chapter/Recommendations (rec. 1.6.4, 1.6.6; secção Rationale and impact)",
+    "dose": false
+  },
+  {
+    "id": "tx-tf-cbt-individual-q1",
+    "itemId": "tx-tf-cbt-individual",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo o NCTSN, quantas sessões de TF-CBT se preveem nos casos habituais?",
+    "options": [
+      "8 a 10 sessões",
+      "12 a 16 sessões",
+      "16 a 20 sessões",
+      "20 a 24 sessões"
+    ],
+    "correct": 1,
+    "explanation": "O NCTSN indica 12 a 16 sessões nos casos habituais e 16 a 20 nos casos complexos, com os componentes PRACTICE pela ordem. As restantes opções não correspondem a nenhum valor da fonte para os casos habituais.",
+    "source": "NICE NG116 (PSPT), publicada 05/12/2018, última revisão 23/07/2026 (sem atualização das recomendações), https://www.nice.org.uk/guidance/ng116/chapter/Recommendations (rec. 1.6.9 a 1.6.14, 1.7.1); NICE NG26 (vinculação em crianças e jovens adotados, em acolhimento ou em risco de acolhimento), publicada 25/11/2015, https://www.nice.org.uk/guidance/ng26/chapter/Recommendations (rec. 1.4.12); NCTSN Child Sexual Abuse Task Force, How to Implement Trauma-Focused Cognitive Behavioral Therapy (TF-CBT), 2004, versão 2, atualização de referências 2008, https://www.nctsn.org/sites/default/files/resources/how_to_implement_tfcbt.pdf (12-16 e 16-20 sessões, ordem PRACTICE); Cohen JA, Mannarino AP, Deblinger E, TF-CBT Treatment Components Summary PRACTICE, versão 17/10/2017, https://tfcbt2.musc.edu/enpractice_pdf.pdf (componentes; sem número de sessões)",
+    "dose": false
+  },
+  {
+    "id": "tx-tf-cbt-grupo-trauma-partilhado-q1",
+    "itemId": "tx-tf-cbt-grupo-trauma-partilhado",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Numa escola, crianças e jovens dos 7 aos 17 anos viveram há duas semanas um acontecimento que levou a trauma coletivo de grande escala. Segundo a NICE NG116, o que pode ser considerado?",
+    "options": [
+      "TCC focada no trauma em grupo, tipicamente 5 a 15 sessões",
+      "TCC focada no trauma em grupo, tipicamente 12 a 16 sessões",
+      "TCC focada no trauma em grupo, tipicamente 16 a 20 sessões",
+      "TCC focada no trauma em grupo, tipicamente 2 a 3 sessões"
+    ],
+    "correct": 0,
+    "explanation": "A rec. 1.6.7 da NG116 permite considerar TCC focada no trauma em grupo nos 7 a 17 anos quando o acontecimento coletivo ocorreu nos últimos 30 dias, e a rec. 1.6.8 indica tipicamente 5 a 15 sessões. Os outros intervalos não constam da fonte para o formato de grupo.",
+    "source": "NICE NG116 (PSPT), publicada 05/12/2018, última revisão 23/07/2026 (sem atualização das recomendações), https://www.nice.org.uk/guidance/ng116/chapter/Recommendations (rec. 1.6.7, 1.6.8; Rationale and impact)",
+    "dose": false
+  },
+  {
+    "id": "tx-adaptacao-tf-cbt-pstp-complexo-q1",
+    "itemId": "tx-adaptacao-tf-cbt-pstp-complexo",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Uma adolescente de 13 anos com PSPT complexo tem resposta parcial à TCC focada no trauma, instabilidade de habitação e dissociação. Que ajustes sugerem as fontes citadas?",
+    "options": [
+      "Suspender a TCC focada no trauma e passar a um fármaco específico para o PSPT complexo na adolescência",
+      "Reduzir o número de sessões e o tempo de cada uma, para evitar sobrecarga da adolescente",
+      "Manter o formato habitual, sem mais tempo nem atenção às circunstâncias, mesmo com dissociação",
+      "Mais sessões ou mais tempo, atendendo à estabilidade das circunstâncias e à dissociação"
+    ],
+    "correct": 3,
+    "explanation": "Para o PSPT complexo as fontes sugerem aumentar a duração ou o número de sessões, ter em conta a segurança e estabilidade das circunstâncias e ajudar a gerir barreiras como a dissociação. A ISTSS refere que não há tratamento específico recomendado e que a TCC focada no trauma ajuda um pouco menos, pelo que não se suspende nem se encurta.",
+    "source": "NICE NG116 (PSPT), publicada 05/12/2018, última revisão 23/07/2026 (sem atualização das recomendações), https://www.nice.org.uk/guidance/ng116/chapter/Recommendations (rec. 1.7.3); ISTSS Guidelines Position Paper on Complex PTSD in Children and Adolescents, 2018, https://istss.org/wp-content/uploads/2024/08/ISTSS-Guidelines-Position-Paper-on-Complex-PTSD-in-Children-and-Adolescents.pdf (texto lido); NCTSN, How to Implement TF-CBT, 2004/2008",
+    "dose": false
+  },
+  {
+    "id": "tx-apoio-luto-informado-q1",
+    "itemId": "tx-apoio-luto-informado",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo os critérios DSM-5-TR citados pela ficha da ISTSS, quanto tempo desde a morte é exigido para a perturbação de luto prolongado em crianças?",
+    "options": [
+      "Pelo menos 1 mês",
+      "Pelo menos 3 meses",
+      "Pelo menos 12 meses",
+      "Pelo menos 6 meses"
+    ],
+    "correct": 3,
+    "explanation": "A ficha da ISTSS indica pelo menos 6 meses desde a morte em crianças, e 12 meses em adultos. Os 12 meses referem-se aos adultos; 1 e 3 meses não constam da fonte.",
+    "source": "Layne CM, Ahmad A, Schapiro S, Yoder BA, Bereavement, Prolonged Grief Disorder, and Bereavement-Informed Care for Children and Adolescents, ISTSS fact sheet, https://istss.org/wp-content/uploads/2024/09/ISTSS-Fact-Sheet-Bereavement-Child-and-Adolescent.pdf (texto lido; ficha informativa e não guideline)",
+    "dose": false
+  }
+]

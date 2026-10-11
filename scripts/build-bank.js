@@ -3,7 +3,7 @@
 const fs = require('fs'), path = require('path');
 const root = path.join(__dirname, '..');
 const dir = path.join(root, 'questions');
-const CATS = ['hipoteses', 'tratamento', 'farmacologia'];
+const CATS = ['hipoteses', 'tratamento', 'farmacologia', 'dominios'];
 
 const bank = [], errors = [], ids = new Set();
 for (const f of fs.readdirSync(dir).filter(f => f.endsWith('.json')).sort()) {

@@ -1,0 +1,376 @@
+[
+  {
+    "id": "farmaco-humor-ansiedade-24-q1",
+    "itemId": "farmaco-humor-ansiedade-24",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o rótulo FDA do escitalopram (LEXAPRO, texto revisto em 4/2024), numa criança de 7 anos com perturbação de ansiedade generalizada, qual é o esquema de dose descrito? (Não é dose portuguesa: em Portugal o uso é off-label.)",
+    "options": [
+      "Iniciar com 10 mg por dia, podendo subir até ao máximo de 20 mg por dia com intervalo de pelo menos 2 semanas",
+      "Iniciar com 5 mg uma vez por dia, podendo subir até ao máximo de 10 mg por dia com intervalo de pelo menos 2 semanas",
+      "Iniciar com 10 mg uma vez por dia, podendo subir até ao máximo de 40 mg por dia com intervalo de pelo menos 2 semanas",
+      "Iniciar com 20 mg uma vez por dia, sem aumentos posteriores, por o máximo ser a dose inicial recomendada"
+    ],
+    "correct": 0,
+    "explanation": "O rótulo FDA indica para ansiedade generalizada a partir dos 7 anos o início com 10 mg por dia e o máximo de 20 mg por dia, com aumentos separados por pelo menos 2 semanas. Os outros esquemas usam valores iniciais ou máximos que o rótulo não refere. Em Portugal o RCM-modelo não admite uso abaixo dos 18 anos.",
+    "source": "FDA, rótulo LEXAPRO (DailyMed, setid 13bb8267-1cab-43e5-acae-55a4d957630a, publicado 01/01/2026, texto revisto 4/2024), https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13bb8267-1cab-43e5-acae-55a4d957630a (secção 1 e 2.2); AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (texto integral lido numa cópia PDF alojada em njaap.org; o site da JAACAP devolve 403) (Treatment Statement 2, Implementation: 'no specific SSRIs have FDA approval for this indication'); RCM-modelo Infarmed escitalopram (gotas), sem data de aprovação, https://www.infarmed.pt/documents/15786/1577857/Escitalopram_Gotas_RCM.doc/9bf0d52a-675f-440a-b94a-b2535019e6da (secções 4.2 e 4.4); BNFc 2020-2021 (sem monografia de escitalopram; nice__BNFC-2020-2021.pdf.txt)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-humor-ansiedade-37-q1",
+    "itemId": "farmaco-humor-ansiedade-37",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o BNFc 2020-2021 (Reino Unido; pode estar desatualizado), num adolescente de 14 anos com perturbação obsessivo-compulsiva tratado com fluvoxamina, qual é a dose diária máxima indicada?",
+    "options": [
+      "100 mg por dia (50 mg por toma, duas vezes por dia)",
+      "200 mg por dia (100 mg por toma, duas vezes por dia)",
+      "400 mg por dia (200 mg por toma, duas vezes por dia)",
+      "50 mg por dia numa toma única, tomada ao deitar"
+    ],
+    "correct": 1,
+    "explanation": "O BNFc indica para o TOC dos 8 aos 17 anos início com 25 mg por dia, aumentos de 25 mg a cada 4 a 7 dias e máximo de 200 mg por dia, em 2 tomas acima de 50 mg. Isto coincide com o folheto português. O rótulo FDA admite até 300 mg em adolescentes, divergência que a fonte pede para manter, mas as opções erradas aqui não correspondem a nenhuma das fontes.",
+    "source": "NICE CG31 (TOC e BDD), 2005, https://www.nice.org.uk/guidance/cg31/chapter/Recommendations (página consultada em 10/10/2026: 'Last reviewed: 11 July 2024', 'Update in progress'; atualização parcial GID-NG10435 por publicar, prevista 16/02/2027, consulta pública do projeto 17/09/2026 a 21/10/2026, texto do projeto NÃO lido, https://www.nice.org.uk/guidance/indevelopment/gid-ng10435) (rec. 1.5.5, 1.5.6.4); Folheto informativo Fluvoxamina Generis (reprodução em medikamio.com, data de revisão não visível; NÃO é o RCM), https://medikamio.com/pt-pt/medicamentos/fluvoxamina-generis/pil (secções 2 e 3); FDA, rótulo fluvoxamina comprimidos Apotex (DailyMed, setid 6eeb14df-6fcf-a737-5359-5744eb4accea, publicado 14/09/2026, texto revisto 02/2024), https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6eeb14df-6fcf-a737-5359-5744eb4accea (secção 2.2); AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (texto integral lido numa cópia PDF alojada em njaap.org; o site da JAACAP devolve 403) (Treatment Statement 2, Implementation: interações); BNFc 2020-2021, fluvoxamina p. 254 (nice__BNFC-2020-2021.pdf.txt, linhas 34780-34795)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-humor-ansiedade-38-q1",
+    "itemId": "farmaco-humor-ansiedade-38",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o rótulo FDA da fluoxetina (PROZAC, 01/2026), numa criança ou adolescente de maior peso com perturbação obsessivo-compulsiva, qual é a faixa de dose recomendada? (Não é dose portuguesa: o RCM português limita o uso pediátrico à depressão.)",
+    "options": [
+      "5 a 20 mg por dia, iniciando com 5 mg e subindo a 10 mg após 2 semanas",
+      "40 a 80 mg por dia, iniciando com 40 mg desde o primeiro dia de tratamento",
+      "20 a 60 mg por dia, iniciando com 10 mg e subindo a 20 mg após 2 semanas",
+      "60 a 100 mg por dia, iniciando com 20 mg e duplicando a dose semanalmente"
+    ],
+    "correct": 2,
+    "explanation": "O rótulo FDA indica início com 10 mg por dia, subida para 20 mg por dia após 2 semanas e faixa recomendada de 20 a 60 mg por dia nos de maior peso. As outras faixas não constam do rótulo. O NICE CG31 limita a fluoxetina no TOC aos casos com depressão comórbida significativa.",
+    "source": "NICE CG31 (TOC e BDD), 2005, https://www.nice.org.uk/guidance/cg31/chapter/Recommendations (página consultada em 10/10/2026: 'Last reviewed: 11 July 2024', 'Update in progress'; atualização parcial GID-NG10435 por publicar, prevista 16/02/2027, consulta pública do projeto 17/09/2026 a 21/10/2026, texto do projeto NÃO lido, https://www.nice.org.uk/guidance/indevelopment/gid-ng10435) (rec. 1.5.6.4, 1.5.6.6); RCM fluoxetina: RCM-modelo do Infarmed (campos por preencher, sem data de aprovação; metadados do ficheiro: 24/06/2016), https://www.infarmed.pt/documents/15786/1577857/Fluoxetina_RCM.doc/dbcd4bd7-4fea-4b70-bee4-4a0f2465c6f9 ; e RCM Fluoxetina Farmoz aprovado pelo Infarmed em 03-12-2021, https://www.tecnimede.com/sites/default/files/portfolio/dosages/FLUOXETINA%20FARMOZ_RCM.pdf (secção 4.4); FDA, rótulo PROZAC (DailyMed, setid c88f33ed-6dfb-4c5e-bc01-d8e36dd97299, versão de 08/01/2026), https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c88f33ed-6dfb-4c5e-bc01-d8e36dd97299 (secção 2.2); BNFc 2020-2021, fluoxetina p. 253 (nice__BNFC-2020-2021.pdf.txt, linhas 34702-34712)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-phda-tiques-3-q1",
+    "itemId": "farmaco-phda-tiques-3",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o BNFc 2020-2021 (Reino Unido; pode estar desatualizado), numa criança de 4 anos com PHDA moderada a grave, sem melhoria suficiente com treino parental, qual é a dose inicial indicada de metilfenidato de libertação imediata? (Uso fora de licença: o RCM português não recomenda abaixo dos 6 anos.)",
+    "options": [
+      "5 mg duas vezes por dia, com aumentos de 5 mg por dia com intervalo semanal",
+      "10 mg duas vezes por dia, com aumentos de 10 mg por dia com intervalo semanal",
+      "2,5 mg uma vez por dia, sem aumentos posteriores ao longo do tratamento",
+      "2,5 mg duas vezes por dia, com aumentos de 2,5 mg por dia, semanalmente"
+    ],
+    "correct": 3,
+    "explanation": "O BNFc dá para a criança de 4 a 5 anos o início com 2,5 mg duas vezes por dia e aumentos de 2,5 mg por dia semanalmente, até 1,4 mg/kg/dia. A guideline AAP não fornece valores numéricos e refere que as doses máximas no pré-escolar não estão bem estudadas, por isso esta dose é apoio a confirmar.",
+    "source": "AAP, Wolraich et al., Pediatrics 2019;144(4):e20192528, https://pmc.ncbi.nlm.nih.gov/articles/PMC7067282/ (KAS 5a e secção 'Special Circumstances: Preschool-Aged Children'; grau B); NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.5.9); BNFc 2020-2021 (NICE; edição de 2020-2021, pode estar desatualizada), p. 243-244, nice__BNFC-2020-2021.pdf.txt, linhas 33332-33337, 33421-33422",
+    "dose": true
+  },
+  {
+    "id": "farmaco-phda-tiques-9-q1",
+    "itemId": "farmaco-phda-tiques-9",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o RCM português da lisdexanfetamina, numa criança de 9 anos com PHDA cuja resposta ao metilfenidato foi clinicamente inadequada, qual é a dose diária máxima recomendada?",
+    "options": [
+      "70 mg por dia",
+      "40 mg por dia",
+      "80 mg por dia",
+      "100 mg por dia"
+    ],
+    "correct": 0,
+    "explanation": "O RCM indica início com 30 mg de manhã, aumentos de 10 ou 20 mg com cerca de 1 semana de intervalo e máximo recomendado de 70 mg por dia. A monografia canadiana usa um teto diferente (60 mg), mas a pergunta refere o RCM português. Os valores 40, 80 e 100 mg não constam do RCM.",
+    "source": "NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.7.8); CADDRA, Guide to ADHD pharmacological treatments in Canada, maio de 2026, https://www.caddra.ca/wp-content/uploads/CADDRA_ADHD-Medication-Chart_EN_FINAL.pdf (doses das monografias canadianas, não do RCM português) (coluna 'Canadian ADHD Practice Guidelines Medication Classification': 1.ª linha = psicoestimulantes de longa ação, anfetamínicos e metilfenidato, aprovados para a idade); Coghill D, Banaschewski T et al. (European ADHD Guidelines Group), Eur Child Adolesc Psychiatry 2021, doi 10.1007/s00787-021-01871-x, https://pmc.ncbi.nlm.nih.gov/articles/PMC8532460/ (Tabela 4); BNFc 2020-2021 (NICE; edição de 2020-2021, pode estar desatualizada), p. 246, nice__BNFC-2020-2021.pdf.txt, linhas 33739-33750, 33789-33790",
+    "dose": true
+  },
+  {
+    "id": "farmaco-phda-tiques-10-q1",
+    "itemId": "farmaco-phda-tiques-10",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o RCM português da dexanfetamina, numa criança de 8 anos com PHDA cuja resposta ao metilfenidato foi inadequada, qual é a dose diária máxima habitual?",
+    "options": [
+      "10 mg por dia (raramente 20 mg, para titulação ótima)",
+      "20 mg por dia (raramente 40 mg, para titulação ótima)",
+      "30 mg por dia (raramente 60 mg, para titulação ótima)",
+      "60 mg por dia (raramente 80 mg, para titulação ótima)"
+    ],
+    "correct": 1,
+    "explanation": "O RCM indica início com 5 mg uma ou duas vezes por dia, aumentos semanais de 5 mg e dose máxima habitual de 20 mg por dia em crianças e adolescentes, raramente 40 mg. O BNFc concorda com este teto. Os outros tetos não constam da RCM (a monografia canadiana da CADDRA refere 20 a 30 mg/dia, mas a pergunta usa a RCM portuguesa).",
+    "source": "NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.7.9); Coghill D, Banaschewski T et al. (European ADHD Guidelines Group), Eur Child Adolesc Psychiatry 2021, doi 10.1007/s00787-021-01871-x, https://pmc.ncbi.nlm.nih.gov/articles/PMC8532460/ (Tabela 4, sequência da guideline holandesa); RCM dexanfetamina (INFOMED/Infarmed, med_id 711525), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=711525&tipo_doc=rcm, secções 4.1 e 4.2, consultado em 10/10/2026; BNFc 2020-2021 (NICE; edição de 2020-2021, pode estar desatualizada), p. 245-246, nice__BNFC-2020-2021.pdf.txt, linhas 33614-33622, 33642-33650, 33688-33696",
+    "dose": true
+  },
+  {
+    "id": "farmaco-phda-tiques-12-q1",
+    "itemId": "farmaco-phda-tiques-12",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapaz de 15 anos, com 45 kg, diagnosticado com PHDA, para quem os estimulantes não foram tolerados. Inicia guanfacina de libertação prolongada. Segundo o RCM português, qual é a dose máxima para o seu peso?",
+    "options": [
+      "4 mg por dia",
+      "6 mg por dia",
+      "5 mg por dia",
+      "7 mg por dia"
+    ],
+    "correct": 2,
+    "explanation": "Para adolescentes de 13 a 17 anos o RCM fixa o máximo conforme o peso: 4 mg (34 a 41,4 kg), 5 mg (41,5 a 49,4 kg), 6 mg (49,5 a 58,4 kg) e 7 mg (58,5 kg ou mais). Um adolescente de 45 kg está na faixa dos 5 mg. As outras doses correspondem a outras faixas de peso.",
+    "source": "NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.7.10); RCM guanfacina de libertação prolongada (INFOMED/Infarmed, med_id 600122), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=600122&tipo_doc=rcm, secções 4.1 e 4.2, consultado em 10/10/2026; CADDRA, Guide to ADHD pharmacological treatments in Canada, maio de 2026, https://www.caddra.ca/wp-content/uploads/CADDRA_ADHD-Medication-Chart_EN_FINAL.pdf (doses das monografias canadianas, não do RCM português); BNFc 2020-2021 (NICE; edição de 2020-2021, pode estar desatualizada), p. 247, nice__BNFC-2020-2021.pdf.txt, linhas 33870-33911",
+    "dose": true
+  },
+  {
+    "id": "farmaco-phda-tiques-28-q1",
+    "itemId": "farmaco-phda-tiques-28",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o BNFc 2020-2021 (Reino Unido; indicação do fabricante; pode estar desatualizado), como se ajusta a dose de atomoxetina em crianças com insuficiência hepática moderada?",
+    "options": [
+      "Reduzir para um quarto",
+      "Reduzir para três quartos",
+      "Manter a dose habitual com vigilância",
+      "Reduzir para metade"
+    ],
+    "correct": 3,
+    "explanation": "O BNFc indica reduzir para metade na insuficiência hepática moderada e para um quarto na grave. Reduzir para um quarto corresponde à insuficiência grave. Manter a dose habitual ignora a indicação do fabricante.",
+    "source": "RCM atomoxetina (genérico) (INFOMED/Infarmed, med_id 619907), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=619907&tipo_doc=rcm, secções 4.2 e 4.4, consultado em 10/10/2026; NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.8.15); AAP, Wolraich et al., Pediatrics 2019;144(4):e20192528, https://pmc.ncbi.nlm.nih.gov/articles/PMC7067282/ (secção 'Side Effects': aviso de caixa negra sobre pensamentos suicidas); BNFc 2020-2021 (NICE; edição de 2020-2021, pode estar desatualizada), p. 243, nice__BNFC-2020-2021.pdf.txt, linhas 33244-33264",
+    "dose": true
+  },
+  {
+    "id": "farmaco-humor-ansiedade-22-q1",
+    "itemId": "farmaco-humor-ansiedade-22",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a AACAP 2020, na titulação de um ISRS em crianças e adolescentes com perturbação de ansiedade, com que intervalo se aumenta a dose da fluoxetina, dada a sua semivida longa? (A AACAP não indica mg.)",
+    "options": [
+      "Cerca de 3 a 4 semanas",
+      "Cerca de 1 a 2 semanas",
+      "Cerca de 24 a 48 horas",
+      "Cerca de 8 a 12 semanas"
+    ],
+    "correct": 0,
+    "explanation": "A AACAP aconselha aumentos com intervalos de cerca de 1 a 2 semanas nos ISRS de semivida curta (sertralina, citalopram, escitalopram) e de cerca de 3 a 4 semanas na fluoxetina. O intervalo de 1 a 2 semanas é o dos ISRS de semivida curta. O efeito máximo é que pode surgir só às 12 semanas ou depois.",
+    "source": "AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (texto integral lido numa cópia PDF alojada em njaap.org; o site da JAACAP devolve 403) (Treatment Statement 2, Benefits and Harms e Implementation; Limitations); RCM Fluoxetina Farmoz (03-12-2021), RCM Sertralina Farmoz (25-02-2021) e RCM-modelo Infarmed escitalopram, URLs nos itens de depressão e TOC; BNFc 2020-2021, p. 253-254 (nice__BNFC-2020-2021.pdf.txt, linhas 34631-34895; sem indicação de ansiedade)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-humor-ansiedade-10-q1",
+    "itemId": "farmaco-humor-ansiedade-10",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o NICE NG134, qual é a posição sobre o hipericão (erva de São João) na depressão em crianças e jovens?",
+    "options": [
+      "Pode ser prescrito na depressão ligeira, desde que se avise da interação com contracetivos",
+      "Não deve ser prescrito; se já o toma, aconselhar a suspender com vigilância",
+      "Deve ser mantido se o jovem já o toma e está melhor, para não alterar o tratamento",
+      "Pode ser prescrito como 2.ª linha de tratamento depois do falhanço de um ISRS"
+    ],
+    "correct": 1,
+    "explanation": "O NICE desaconselha a prescrição por falta de ensaios em crianças, perfil de efeitos adversos desconhecido e interação com vários fármacos, incluindo contracetivos. Se já o toma, aconselha suspender com vigilância. As outras opções admitem uso que o NICE não aceita.",
+    "source": "NICE NG134 (depressão em crianças e jovens), 2019, última revisão 07/05/2024 (só simplificação, sem mudança de prática), https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.6.27, 1.6.30, 1.6.31); BNFc 2020-2021, Depression p. 251-252 (nice__BNFC-2020-2021.pdf.txt, linhas 34437-34445 e 34507-34509)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-humor-ansiedade-15-q1",
+    "itemId": "farmaco-humor-ansiedade-15",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapaz de 16 anos medicado com fluoxetina. Tomou um xarope com dextrometorfano e consumiu ecstasy numa festa. Cerca de 36 horas depois tem tremor, clonus, hiperreflexia, sudorese, taquicardia, vómitos e diarreia. Qual é a hipótese mais provável?",
+    "options": [
+      "Síndrome de descontinuação do ISRS",
+      "Agravamento da perturbação de ansiedade de base",
+      "Síndrome serotoninérgica por interação",
+      "Efeito adverso benigno e esperado, sem avaliação urgente"
+    ],
+    "correct": 2,
+    "explanation": "A síndrome serotoninérgica surge 24 a 48 horas depois de combinar fármacos serotoninérgicos (como ISRS, dextrometorfano e ecstasy), com hiperatividade neuromuscular (tremor, clonus, hiperreflexia) e autonómica. No caso descrito não há suspensão do ISRS, e as formas graves podem ter febre, convulsões e arritmias e exigem tratamento hospitalar, por isso não é um efeito benigno.",
+    "source": "AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Major and Persistent Depressive Disorders, JAACAP 2023;62(5):479-502, https://pubmed.ncbi.nlm.nih.gov/36273673/ (texto integral lido numa cópia PDF alojada em hscsnhealthplan.org; o site da JAACAP devolve 403) (Treatment Statement 2, Implementation: serotonin syndrome); AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (texto integral lido numa cópia PDF alojada em njaap.org; o site da JAACAP devolve 403) (Treatment Statement 2, Implementation: lista de fármacos e substâncias); RCM fluoxetina: RCM-modelo do Infarmed (campos por preencher, sem data de aprovação; metadados do ficheiro: 24/06/2016), https://www.infarmed.pt/documents/15786/1577857/Fluoxetina_RCM.doc/dbcd4bd7-4fea-4b70-bee4-4a0f2465c6f9 ; e RCM Fluoxetina Farmoz aprovado pelo Infarmed em 03-12-2021, https://www.tecnimede.com/sites/default/files/portfolio/dosages/FLUOXETINA%20FARMOZ_RCM.pdf (secção 4.3); BNFc 2020-2021, ISRS (classe) p. 252 (nice__BNFC-2020-2021.pdf.txt, linhas 34548-34566)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-humor-ansiedade-18-q1",
+    "itemId": "farmaco-humor-ansiedade-18",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o NICE, quando se suspende um antidepressivo em crianças e jovens, ao longo de quanto tempo deve fazer-se a redução da dose?",
+    "options": [
+      "2 a 3 dias, por os sintomas de descontinuação serem sempre ligeiros",
+      "2 a 3 semanas, igual para todos os antidepressivos",
+      "6 a 12 meses, igual para todos os antidepressivos",
+      "6 a 12 semanas, segundo os sintomas de descontinuação"
+    ],
+    "correct": 3,
+    "explanation": "O NICE recomenda a redução ao longo de 6 a 12 semanas, com a dose exata ajustada pelos sintomas de descontinuação. O RCM do ISRS e o BNFc apontam períodos mais curtos (1 a 2 semanas e cerca de 4 semanas), mas a pergunta refere o NICE. A suspensão brusca é desaconselhada.",
+    "source": "NICE NG134 (depressão em crianças e jovens), 2019, última revisão 07/05/2024 (só simplificação, sem mudança de prática), https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.6.28); AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Major and Persistent Depressive Disorders, JAACAP 2023;62(5):479-502, https://pubmed.ncbi.nlm.nih.gov/36273673/ (texto integral lido numa cópia PDF alojada em hscsnhealthplan.org; o site da JAACAP devolve 403) (Treatment Statement 2, Implementation: discontinuation syndrome); EMA, 'European Medicines Agency finalises review of antidepressants in children and adolescents', 25/04/2005, https://www.ema.europa.eu/en/news/european-medicines-agency-finalises-review-antidepressants-children-adolescents; RCM fluoxetina: RCM-modelo do Infarmed (campos por preencher, sem data de aprovação; metadados do ficheiro: 24/06/2016), https://www.infarmed.pt/documents/15786/1577857/Fluoxetina_RCM.doc/dbcd4bd7-4fea-4b70-bee4-4a0f2465c6f9 ; e RCM Fluoxetina Farmoz aprovado pelo Infarmed em 03-12-2021, https://www.tecnimede.com/sites/default/files/portfolio/dosages/FLUOXETINA%20FARMOZ_RCM.pdf (secção 4.2); RCM Sertralina Farmoz aprovado pelo Infarmed em 25-02-2021, https://www.tecnimede.com/sites/default/files/portfolio/dosages/SERTRALINA%20FARMOZ_RCM.pdf (secções 4.2 e 4.4); BNFc 2020-2021, ISRS p. 252 (nice__BNFC-2020-2021.pdf.txt, linhas 34607-34618), citalopram p. 253 (nice__BNFC-2020-2021.pdf.txt, linha 34667), fluvoxamina p. 254 (nice__BNFC-2020-2021.pdf.txt, linha 34802), sertralina p. 254 (nice__BNFC-2020-2021.pdf.txt, linha 34874)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-humor-ansiedade-23-q1",
+    "itemId": "farmaco-humor-ansiedade-23",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Na ansiedade social em crianças e jovens, o NICE CG159 e a AACAP 2020 divergem. Qual é a posição do NICE?",
+    "options": [
+      "Não oferecer rotineiramente intervenções farmacológicas",
+      "Oferecer um ISRS desde o início, com recomendação de grau 1B",
+      "Oferecer um IRSN como primeira opção farmacológica",
+      "Oferecer fluvoxamina como único fármaco aceitável"
+    ],
+    "correct": 0,
+    "explanation": "O NICE CG159 diz para não oferecer rotineiramente intervenções farmacológicas na ansiedade social pediátrica. A recomendação de ISRS com grau 1B é da AACAP 2020 e o IRSN tem apenas grau 2C na AACAP. A fonte mostra as duas posições sem escolher.",
+    "source": "NICE CG159 (ansiedade social), 2013, revista 21/05/2024 (sem mudança de prática), https://www.nice.org.uk/guidance/cg159/chapter/Recommendations (rec. 1.6.1); AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (texto integral lido numa cópia PDF alojada em njaap.org; o site da JAACAP devolve 403) (Treatment Statement 2)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-humor-ansiedade-40-q1",
+    "itemId": "farmaco-humor-ansiedade-40",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapariga de 15 anos com perturbação obsessivo-compulsiva, sem resposta a um primeiro ISRS com TCC. Segundo o NICE CG31, qual das seguintes opções não deve ser usada?",
+    "options": [
+      "Outro ISRS, com TCC e monitorização cuidadosa",
+      "Venlafaxina",
+      "Clomipramina",
+      "Manter o mesmo ISRS e a TCC, sem qualquer alteração"
+    ],
+    "correct": 1,
+    "explanation": "O NICE CG31 manda não usar no TOC pediátrico outros tricíclicos (exceto a clomipramina), IMAO e IRSN, como a venlafaxina; os RCM portugueses lidos também não admitem venlafaxina abaixo dos 18 anos. A recomendação sobre antipsicóticos refere-se ao uso isolado na rotina.",
+    "source": "NICE CG31 (TOC e BDD), 2005, https://www.nice.org.uk/guidance/cg31/chapter/Recommendations (página consultada em 10/10/2026: 'Last reviewed: 11 July 2024', 'Update in progress'; atualização parcial GID-NG10435 por publicar, prevista 16/02/2027, consulta pública do projeto 17/09/2026 a 21/10/2026, texto do projeto NÃO lido, https://www.nice.org.uk/guidance/indevelopment/gid-ng10435) (rec. 1.5.6.19 a 1.5.6.21); RCM Venlafaxina Desinax aprovado pelo Infarmed em 15-12-2020, https://www.tecnimede.com/sites/default/files/portfolio/dosages/VENLAFAXINA%20DESINAX_RCM.pdf; RCM Duloxetina Farmoz 60 mg aprovado pelo Infarmed em 10-12-2021, https://www.tecnimede.com/sites/default/files/portfolio/dosages/DULOXETINA%20FARMOZ%2060MG_RCM.pdf (extração do PDF degradada; confirmei a frase sobre menores de 18 anos)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-humor-ansiedade-42-q1",
+    "itemId": "farmaco-humor-ansiedade-42",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o NICE CG31, após remissão da perturbação obsessivo-compulsiva em crianças e jovens, durante quanto tempo se deve continuar o ISRS antes de tentar a retirada?",
+    "options": [
+      "Cerca de 4 semanas após a remissão completa",
+      "Cerca de 3 meses depois da remissão",
+      "Pelo menos 6 meses depois da remissão",
+      "Cerca de 2 anos depois da remissão"
+    ],
+    "correct": 2,
+    "explanation": "O CG31 manda continuar o ISRS pelo menos 6 meses depois da remissão e só então tentar retirar, se o doente o desejar, de forma gradual e mantendo a psicoterapia. A AACAP 2020 refere cerca de 12 meses na ansiedade, mas é outra perturbação. Os outros valores não são o tempo de continuação após remissão: as 12 semanas são o critério de remissão e os 12 meses são o período de revisão regular.",
+    "source": "NICE CG31 (TOC e BDD), 2005, https://www.nice.org.uk/guidance/cg31/chapter/Recommendations (página consultada em 10/10/2026: 'Last reviewed: 11 July 2024', 'Update in progress'; atualização parcial GID-NG10435 por publicar, prevista 16/02/2027, consulta pública do projeto 17/09/2026 a 21/10/2026, texto do projeto NÃO lido, https://www.nice.org.uk/guidance/indevelopment/gid-ng10435) (rec. 1.5.6.11, 1.5.6.16 a 1.5.6.18, 1.7.1.1); AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (texto integral lido numa cópia PDF alojada em njaap.org; o site da JAACAP devolve 403) (Treatment Statement 2, Implementation); RCM Sertralina Farmoz aprovado pelo Infarmed em 25-02-2021, https://www.tecnimede.com/sites/default/files/portfolio/dosages/SERTRALINA%20FARMOZ_RCM.pdf (secções 4.2 e 4.4); BNFc 2020-2021, p. 252-254 (nice__BNFC-2020-2021.pdf.txt, linhas 34607-34618, 34667, 34802, 34874)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-phda-tiques-27-q1",
+    "itemId": "farmaco-phda-tiques-27",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Como se descreve a vigilância de uma criança com PHDA medicada com guanfacina de libertação prolongada?",
+    "options": [
+      "Mensalmente durante a titulação e de 6 em 6 meses no primeiro ano, só com peso e sem pulso",
+      "Apenas antes de iniciar, sem vigilância posterior da tensão arterial, do pulso nem de sintomas",
+      "Diariamente durante todo o primeiro ano de tratamento, com ECG em todas as visitas e análises",
+      "Semanalmente na titulação (sonolência, hipotensão e bradicardia) e de 3 em 3 meses no 1.º ano"
+    ],
+    "correct": 3,
+    "explanation": "A vigilância descrita é semanal na titulação (sonolência e sedação, hipotensão, bradicardia) e trimestral no primeiro ano, com peso e IMC. Avalia-se também antes de iniciar o risco de prolongamento do QT. As outras opções propõem frequências ou âmbitos que a fonte não descreve.",
+    "source": "RCM guanfacina de libertação prolongada (INFOMED/Infarmed, med_id 600122), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=600122&tipo_doc=rcm, secções 4.2 e 4.4, consultado em 10/10/2026; ESSTS, Roessner V et al., European clinical guidelines for Tourette syndrome and other tic disorders, versão 2.0, Parte III (farmacológico), Eur Child Adolesc Psychiatry 2022;31(3):425-441, doi 10.1007/s00787-021-01899-z, https://pmc.ncbi.nlm.nih.gov/articles/PMC8940878/ (secção sobre guanfacina, QTc na formulação de libertação prolongada); AAN, Pringsheim T et al., Practice guideline recommendations summary: treatment of tics in people with Tourette syndrome and chronic tic disorders, Neurology 2019;92(19):896-906, https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/ (rec. 8d e 8e); BNFc 2020-2021 (NICE; edição de 2020-2021, pode estar desatualizada), p. 247-248, nice__BNFC-2020-2021.pdf.txt, linhas 33914-33917, 33967-33975",
+    "dose": false
+  },
+  {
+    "id": "farmaco-phda-tiques-31-q1",
+    "itemId": "farmaco-phda-tiques-31",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapaz de 13 anos com PHDA, sem resposta adequada ao metilfenidato, em quem se pondera lisdexanfetamina. Qual destes dados da história contraindica o fármaco segundo o RCM?",
+    "options": [
+      "Hipertensão moderada a grave",
+      "Tiques motores ligeiros",
+      "Antecedentes de abuso de substâncias",
+      "Perturbação bipolar estabilizada"
+    ],
+    "correct": 0,
+    "explanation": "O RCM contraindica a lisdexanfetamina na hipertensão moderada a grave, em doença cardiovascular sintomática, hipertiroidismo, estados agitados, glaucoma, feocromocitoma e com IMAO. Tiques e Tourette, antecedentes de abuso de substâncias e bipolaridade são cautelas no BNFc, não contraindicações.",
+    "source": "RCM lisdexanfetamina (genérico) (INFOMED/Infarmed, med_id 732004), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=732004&tipo_doc=rcm, secção 4.3, consultado em 10/10/2026; BNFc 2020-2021 (NICE; edição de 2020-2021, pode estar desatualizada), p. 246, nice__BNFC-2020-2021.pdf.txt, linhas 33751-33758",
+    "dose": false
+  },
+  {
+    "id": "farmaco-phda-tiques-32-q1",
+    "itemId": "farmaco-phda-tiques-32",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o RCM da atomoxetina, qual das seguintes situações é uma contraindicação (e não apenas uma cautela, como no BNFc)?",
+    "options": [
+      "Antecedentes de convulsões",
+      "Glaucoma de ângulo fechado",
+      "Prolongamento do intervalo QT",
+      "Hostilidade e labilidade emocional"
+    ],
+    "correct": 1,
+    "explanation": "O RCM contraindica a atomoxetina no glaucoma de ângulo fechado, com IMAO (ou nas 2 semanas seguintes), em doença cardiovascular ou cerebrovascular grave e no feocromocitoma. No BNFc o glaucoma de ângulo fechado é apenas cautela, tal como convulsões, QT longo e agressividade ou hostilidade.",
+    "source": "RCM atomoxetina (genérico) (INFOMED/Infarmed, med_id 619907), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=619907&tipo_doc=rcm, secção 4.3, consultado em 10/10/2026; BNFc 2020-2021 (NICE; edição de 2020-2021, pode estar desatualizada), p. 242, nice__BNFC-2020-2021.pdf.txt, linhas 33215-33222",
+    "dose": false
+  },
+  {
+    "id": "farmaco-phda-tiques-33-q1",
+    "itemId": "farmaco-phda-tiques-33",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapariga de 11 anos inicia guanfacina de libertação prolongada para PHDA. Segundo o RCM, que aconselhamento se deve dar?",
+    "options": [
+      "Tomar sempre com refeição rica em gordura, para melhorar a tolerabilidade",
+      "Dispensar cuidados com a hidratação, pois o fármaco não afeta a tensão arterial",
+      "Manter boa hidratação, evitar álcool e não andar de bicicleta até saber como reage",
+      "Andar de bicicleta normalmente desde o primeiro dia, por a sonolência ser rara em crianças"
+    ],
+    "correct": 2,
+    "explanation": "O RCM pede para aconselhar hidratação, evitar álcool e não conduzir nem andar de bicicleta até saber como reage, por risco de hipotensão, síncope e sonolência. O BNFc aconselha evitar refeições gordas e refere sonolência sobretudo nas primeiras 2 a 3 semanas e após aumentos.",
+    "source": "RCM guanfacina de libertação prolongada (INFOMED/Infarmed, med_id 600122), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=600122&tipo_doc=rcm, secções 4.3, 4.4 e 4.5, consultado em 10/10/2026; BNFc 2020-2021 (NICE; edição de 2020-2021, pode estar desatualizada), p. 247-248, nice__BNFC-2020-2021.pdf.txt, linhas 33914-33917, 33932-33935, 33980-33987",
+    "dose": false
+  },
+  {
+    "id": "farmaco-phda-tiques-38-q1",
+    "itemId": "farmaco-phda-tiques-38",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o RCM do metilfenidato, com que frequência mínima se recomenda suspender o fármaco para avaliar o estado da criança, e quando?",
+    "options": [
+      "Todos os fins de semana, para permitir recuperação do crescimento",
+      "De 3 em 3 meses, por ser o intervalo de segurança",
+      "Apenas se surgirem tiques, nunca como rotina anual",
+      "Pelo menos 1 vez por ano, de preferência nas férias escolares"
+    ],
+    "correct": 3,
+    "explanation": "O RCM recomenda suspender o metilfenidato pelo menos 1 vez por ano, de preferência nas férias escolares. As fontes lidas não recomendam pausas ao fim de semana e a fonte não propõe suspensão trimestral nem limitada aos tiques.",
+    "source": "RCM metilfenidato de libertação prolongada (INFOMED/Infarmed, med_id 34285), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=34285&tipo_doc=rcm, secção 4.2, Utilização a longo prazo, consultado em 10/10/2026; RCM lisdexanfetamina (genérico) (INFOMED/Infarmed, med_id 732004), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=732004&tipo_doc=rcm, secção 4.2, Utilização a longo prazo, consultado em 10/10/2026; RCM guanfacina de libertação prolongada (INFOMED/Infarmed, med_id 600122), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=600122&tipo_doc=rcm, secção 4.2, consultado em 10/10/2026; NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.8.6, 1.8.7 e 1.10.3); BNFc 2020-2021 (NICE; edição de 2020-2021, pode estar desatualizada), p. 242 (revisão anual), 245 (dexanfetamina), nice__BNFC-2020-2021.pdf.txt, linhas 33182-33185, 33647-33651",
+    "dose": false
+  },
+  {
+    "id": "farmaco-phda-tiques-13-q1",
+    "itemId": "farmaco-phda-tiques-13",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o NICE, em que situação não se deve oferecer clonidina a crianças com PHDA sem parecer de um serviço terciário de PHDA?",
+    "options": [
+      "Quando há perturbação do sono, ataques de raiva ou tiques",
+      "Quando há ansiedade ligeira sem outras comorbilidades",
+      "Quando o metilfenidato foi bem tolerado e eficaz",
+      "Quando a criança tem menos de 6 anos e nenhuma comorbilidade"
+    ],
+    "correct": 0,
+    "explanation": "O NICE manda não oferecer clonidina na PHDA com perturbação do sono, ataques de raiva ou tiques sem parecer terciário; o BNFc concorda. Em Portugal o uso é off-label, pois o RCM só indica hipertensão.",
+    "source": "NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.7.17 e 1.8.14); AAP, Wolraich et al., Pediatrics 2019;144(4):e20192528, https://pmc.ncbi.nlm.nih.gov/articles/PMC7067282/ (secção 'Medication for ADHD' e 'Adjunctive Therapy'); BNFc 2020-2021 (NICE; edição de 2020-2021, pode estar desatualizada), p. 242 (clonidina e PHDA), 106 (texto geral), 108 (monografia), nice__BNFC-2020-2021.pdf.txt, linhas 33159-33163, 14967-14973, 15189-15200",
+    "dose": false
+  },
+  {
+    "id": "farmaco-humor-ansiedade-41-q1",
+    "itemId": "farmaco-humor-ansiedade-41",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapaz de 13 anos com TOC inicia um ISRS. A mãe pergunta o que esperar. Segundo o NICE CG31, que informação se deve dar?",
+    "options": [
+      "O efeito surge em dias, pelo que se deve parar se não houver melhoria na primeira semana",
+      "O efeito pode demorar até 12 semanas e deve avisar-se de autolesão ou hostilidade possíveis",
+      "O risco de comportamento suicida existe só na depressão, logo no TOC não é preciso avisar",
+      "Não é necessário plano de seguimento registado, bastando consultas se a família ligar a pedir"
+    ],
+    "correct": 1,
+    "explanation": "O CG31 manda ver o jovem de forma cuidadosa e frequente, com plano acordado e registado, e informar sobre o atraso do efeito (até 12 semanas) e os efeitos adversos. Avisa também do risco de comportamento suicida, autolesão ou hostilidade, que não se pode excluir no TOC pelo parecer do Committee on Safety of Medicines.",
+    "source": "NICE CG31 (TOC e BDD), 2005, https://www.nice.org.uk/guidance/cg31/chapter/Recommendations (página consultada em 10/10/2026: 'Last reviewed: 11 July 2024', 'Update in progress'; atualização parcial GID-NG10435 por publicar, prevista 16/02/2027, consulta pública do projeto 17/09/2026 a 21/10/2026, texto do projeto NÃO lido, https://www.nice.org.uk/guidance/indevelopment/gid-ng10435) (rec. 1.5.6.3, 1.5.6.6, 1.5.6.7, 1.5.6.10 e secção 1.5 introdução); AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (texto integral lido numa cópia PDF alojada em njaap.org; o site da JAACAP devolve 403) (Treatment Statement 2, Implementation); FDA, rótulo ZOLOFT (DailyMed, setid fda754f6-d0f3-4dce-a17a-927d64f912f7, publicado 24/07/2025, texto revisto 8/2023), https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7 (secção 8.4)",
+    "dose": false
+  }
+]

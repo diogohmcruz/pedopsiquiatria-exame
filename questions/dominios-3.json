@@ -1,0 +1,478 @@
+[
+  {
+    "id": "ds-16-q1",
+    "itemId": "ds-16",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR, quantos dos quatro tipos de padrões restritos e repetitivos (critério B) são exigidos para o diagnóstico de autismo?",
+    "options": [
+      "Pelo menos um dos quatro",
+      "Pelo menos dois dos quatro",
+      "Pelo menos três dos quatro",
+      "Os quatro tipos, sem exceção"
+    ],
+    "correct": 1,
+    "explanation": "O critério B do DSM-5-TR exige pelo menos dois de quatro tipos de padrões restritos e repetitivos. Exigir apenas um, três ou os quatro não corresponde ao critério. Em contraste, o critério A exige os três domínios sociais e de comunicação; a CID-11 não faz contagem de sintomas.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6A02, p. 124-125); AAP, Hyman et al., 2020 (Executive Summary), https://doi.org/10.1542/peds.2019-3448 (dois domínios nucleares, DSM-5). DGS Norma 002/2019, ponto 3 (p. 4/31: duas áreas semiológicas no DSM-5); DSM-5-TR (APA, 2022), confirmado no texto do manual (Perturbação do Espectro do Autismo, F84.0: critérios A a E e especificadores, pp. 56-60, Tabela 2 de gravidade, pp. 58-59; código F84.0, p. 56; catatonia, F06.1 como código adicional, p. 58); CDDR 6A02, p. 124-126 (confirmado no texto): manifestações sociais e comportamentais 'podem incluir', sem número mínimo; início no período do desenvolvimento, podendo só ser pleno quando as exigências excedem as capacidades; prejuízo funcional (p. 125); especificadores de défice intelectual e de linguagem funcional e Tabela 6.5 com 6A02.0, .1, .2, .3, .5, .Y e .Z (p. 125-126); catatonia descrita (p. 127)",
+    "dose": false
+  },
+  {
+    "id": "ds-17-q1",
+    "itemId": "ds-17",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Uma criança de 20 meses é rastreada com o M-CHAT-R/F preenchido pelos pais e obtém uma pontuação de 5. Qual é o passo seguinte?",
+    "options": [
+      "Considerar risco baixo e não tomar mais medidas",
+      "Encaminhar de imediato, sem mais passos",
+      "Estabelecer o diagnóstico de autismo",
+      "Aplicar a entrevista de seguimento do rastreio"
+    ],
+    "correct": 3,
+    "explanation": "Uma pontuação de 3 a 7 pede a entrevista de seguimento; o rastreio só é positivo se 2 ou mais itens continuarem alterados nessa entrevista. O risco baixo corresponde a 0 a 2 e o encaminhamento imediato a 8 ou mais. O M-CHAT-R/F é um rastreio e não um diagnóstico.",
+    "source": "M-CHAT-R/F, https://mchatscreen.com/mchat-rf/scoring/ (cotação); Robins et al., 2014, https://pubmed.ncbi.nlm.nih.gov/24366990/ (resumo); idade 16-30 meses: Marvin et al., 2017, https://pmc.ncbi.nlm.nih.gov/articles/PMC5684265/; DGS Norma 002/2019, Anexo I confirmado no texto (p. 24-25/31: instrumento para 16-30 meses; 0-2 risco baixo, repetir aos 24 meses se tiver menos de 24 meses; 3-7 entrevista de seguimento, positivo se a pontuação continuar igual ou superior a 2; 8-20 pode dispensar a entrevista e encaminhar); o corpo da norma (ponto 1.d.ii.vii, p. 2/31) indica o M-CHAT-R/F aos 18 e 24 meses mas formula o limiar como superior a 3 ou 2 itens críticos (2, 7, 9, 13, 14, 15), regra do M-CHAT original, em desacordo com o seu próprio anexo; AAP 2020 (Executive Summary, p. 2): rastreio de autismo aos 18 e 24 meses",
+    "dose": false
+  },
+  {
+    "id": "ds-19-q1",
+    "itemId": "ds-19",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo a CID-11, como se classifica a perturbação da comunicação social (pragmática)?",
+    "options": [
+      "Como variante do autismo sem comportamentos restritos e repetitivos",
+      "Como perturbação de ansiedade social, com início na infância",
+      "Como perturbação da linguagem com défice sobretudo pragmático (6A01.22)",
+      "Como perturbação do desenvolvimento intelectual de grau ligeiro"
+    ],
+    "correct": 2,
+    "explanation": "Na CID-11 o quadro classifica-se como perturbação do desenvolvimento da linguagem com défice sobretudo pragmático (6A01.22) e não se atribui se houver autismo. O DSM-5-TR, ao contrário, tem uma perturbação própria (F80.82). As outras opções não correspondem à classificação descrita.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6A01.2, p. 119; 6A02, p. 131). DSM-5-TR (APA, 2022), confirmado no texto do manual (Perturbação da Comunicação Social (Pragmática), F80.82, critérios A a D, p. 54; desenvolvimento e curso, p. 55: diagnóstico raro antes dos 4 anos, formas ligeiras podem só surgir na adolescência precoce; diagnóstico diferencial, pp. 55-56 e 67: o autismo prevalece sempre que os seus critérios estão cumpridos e exclui-se pela ausência atual ou passada de comportamentos restritos e repetitivos); CDDR confirmado no texto: 6A01.22 'com défice sobretudo pragmático' (p. 119), não usar se o défice pragmático ocorre no contexto de autismo (p. 119); critérios essenciais da 6A01.2 incluem não ser melhor explicada por autismo (p. 118); fronteira com autismo: a criança com perturbação da linguagem inicia e responde a sinais sociais e não tem comportamentos restritos e repetitivos (p. 122 e 131); diagnóstico mais estável a partir dos 4 anos (p. 121)",
+    "dose": false
+  },
+  {
+    "id": "ds-21-q1",
+    "itemId": "ds-21",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Menina de 4 anos, com bom contacto ocular, sorrisos e afeto com a família, brincadeira de faz de conta referida e marcos de linguagem normais. A avaliação anterior foi negativa, mas a educadora traz agora informação nova sobre dificuldades persistentes de reciprocidade social. Qual é a conduta adequada?",
+    "options": [
+      "Excluir autismo, porque o afeto e o faz de conta da criança estão preservados",
+      "Manter a conclusão anterior, porque uma avaliação negativa não deve ser revista",
+      "Excluir autismo, porque a criança melhora em ambiente estruturado e rotinas",
+      "Não excluir autismo por estas características; reavaliar com a nova informação"
+    ],
+    "correct": 3,
+    "explanation": "Bom contacto ocular, afeto, faz de conta, marcos de linguagem normais, melhoria em ambiente estruturado e avaliação anterior negativa não excluem autismo, sobretudo quando há informação nova. As restantes opções usam exatamente esses argumentos para excluir o diagnóstico.",
+    "source": "NICE CG128, 2011 (atualizada 2017), https://www.nice.org.uk/guidance/cg128/chapter/Recommendations (rec. 1.2.7); DSM-5-TR (APA, 2022), confirmado no texto do manual (bom contacto ocular num modo isolado, p. 61; linguagem formal intacta não exclui, p. 60; um relato convincente de amizades recíprocas e boa comunicação não verbal ao longo da infância reduz a probabilidade, mas informação ausente ou ambígua não exclui, p. 64); NICE CG128 rec. 1.2.7 confirmada no texto (bom contacto ocular, sorrisos e afeto; faz de conta ou marcos de linguagem normais referidos; dificuldades que parecem resolver-se com intervenção por necessidades; avaliação anterior negativa se houver informação nova)",
+    "dose": false
+  },
+  {
+    "id": "ds-22-q1",
+    "itemId": "ds-22",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Que afirmação sobre o autismo nas raparigas é sustentada?",
+    "options": [
+      "Têm mais interesses e comportamentos repetitivos do que os rapazes",
+      "São sobrediagnosticadas, por causa do retraimento social e do isolamento",
+      "A compensação social protege a saúde mental das raparigas",
+      "Podem compensar com grande esforço, o que esconde as dificuldades"
+    ],
+    "correct": 3,
+    "explanation": "As raparigas são mais subdiagnosticadas, podem ter menos interesses e comportamentos repetitivos e compensar com grande esforço, o que esconde as dificuldades e pode afetar a saúde mental. As outras opções invertem estas ideias.",
+    "source": "NICE CG128, 2011 (atualizada 2017), https://www.nice.org.uk/guidance/cg128/chapter/Recommendations (rec. 1.2.5); ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6A02, confirmado no texto: p. 127, esforço excecional de compensação, mais típico nas mulheres; p. 130, diagnóstico quatro vezes mais frequente nos homens, nas mulheres menos interesses e comportamentos repetitivos e, na meia-infância, retraimento social e reação emocional em vez de agressividade reativa); DSM-5-TR (APA, 2022), confirmado no texto do manual (raparigas: menos comportamentos repetitivos evidentes, interesses de foco mais social, camuflagem e diagnóstico mais tardio, p. 65; custo e ansiedade da compensação, p. 61); NICE CG128 rec. 1.2.5 confirmada no texto (autismo subdiagnosticado nas raparigas, sinais mascarados por compensação)",
+    "dose": false
+  },
+  {
+    "id": "ds-23-q1",
+    "itemId": "ds-23",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 14 anos, com capacidades intelectuais altas e sem diagnóstico prévio, apresenta sintomas depressivos de início recente, numa fase de maiores exigências sociais. Que hipótese deve ser também considerada?",
+    "options": [
+      "Deficiência intelectual ligeira, não diagnosticada antes",
+      "Autismo excluído, por as capacidades intelectuais serem altas",
+      "Perturbação reativa da vinculação, por privação precoce",
+      "Autismo não reconhecido até as exigências sociais aumentarem"
+    ],
+    "correct": 3,
+    "explanation": "Em crianças com capacidades intelectuais médias ou altas o autismo pode só ser notado quando as exigências sociais aumentam, e na adolescência o sintoma depressivo pode ser a primeira apresentação. Capacidades altas não excluem o diagnóstico. As outras hipóteses não são sustentadas pelo quadro descrito.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6A02, confirmado no texto: p. 127, na meia-infância podem predominar sintomas de ansiedade, incluindo ansiedade social, recusa escolar e fobia específica, e na adolescência e idade adulta as perturbações depressivas são muitas vezes a apresentação; p. 129, na meia-infância rigidez do comportamento e do pensamento e sintomas de ansiedade, na adolescência sintomas depressivos como apresentação frequente; p. 130, nas raparigas retraimento e alterações emocionais); AAP, Hyman et al., 2020 (Executive Summary), https://doi.org/10.1542/peds.2019-3448 (texto lido: refere ansiedade entre as condições coocorrentes; não refere depressão como apresentação); DGS, Norma 002/2019 de 23/04/2019, https://normas.dgs.min-saude.pt/wp-content/uploads/2019/09/Abordagem-Diagnostica-e-Intervencao-na-Perturbacao-do-Espetro-do-Autismo-em-Idade-Pediatrica-e-no-Adulto_2019.pdf (ponto 1.e: sinais a partir dos 6 anos); DSM-5-TR (APA, 2022), confirmado no texto do manual (sem défice cognitivo ou da linguagem as manifestações podem ser mais subtis e mascaradas, p. 60; propensão a ansiedade e depressão, p. 64)",
+    "dose": false
+  },
+  {
+    "id": "ds-25-q1",
+    "itemId": "ds-25",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo a CID-11 (6A01.2), a ausência de frases simples de duas palavras a que idade torna mais provável uma perturbação do desenvolvimento da linguagem?",
+    "options": [
+      "Aos 18 meses",
+      "Aos 2 anos",
+      "Aos 3 anos",
+      "Aos 5 anos"
+    ],
+    "correct": 2,
+    "explanation": "Segundo a CID-11, a ausência de frases simples de duas palavras aos 3 anos torna mais provável a perturbação da linguagem (a ausência de palavras isoladas ou aproximações aos 2 anos é outro indicador). Os outros valores não são os descritos para as frases de duas palavras.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6A01.2, confirmado no texto: p. 118, critérios essenciais; p. 120, ausência de palavras isoladas aos 2 anos e de frases de duas palavras aos 3 anos, se persistentes, tornam mais provável a perturbação; p. 121, antes dos 4 anos é difícil distinguir variações típicas; 6A02, p. 131, fronteira com perturbação da linguagem pragmática); NICE CG128, 2011 (atualizada 2017), https://www.nice.org.uk/guidance/cg128/chapter/Recommendations (rec. 1.5.7, confirmada no texto: lista a perturbação ou atraso específico da linguagem no diferencial do autismo; não dá limiar de idade); DSM-5-TR (APA, 2022), confirmado no texto do manual (Perturbação da Linguagem, F80.2, critérios A a D, pp. 47-48; diferença para o autismo: comunicação não verbal normal e ausência de comportamentos restritos e repetitivos, p. 67; sem limiares numéricos, dificuldade em distinguir variações normais antes dos 4 anos, p. 49)",
+    "dose": false
+  },
+  {
+    "id": "ds-26-q1",
+    "itemId": "ds-26",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "O que distingue o mutismo seletivo ou a ansiedade social do autismo?",
+    "options": [
+      "No autismo a comunicação é adequada em situações familiares e sem ansiedade",
+      "Nos primeiros as dificuldades surgem em todas as situações e contextos sociais",
+      "Nos primeiros existem sempre padrões repetitivos de comportamento e interesses",
+      "Nos primeiros a comunicação é adequada em situações familiares, sem padrões repetitivos"
+    ],
+    "correct": 3,
+    "explanation": "Na ansiedade social e no mutismo seletivo a comunicação é adequada em situações familiares ou sem ansiedade e não há padrões repetitivos. No autismo as dificuldades surgem em vários contextos (DSM-5-TR) ou em todos (CID-11), ainda que variem com a exigência social.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6A02, p. 132, confirmado no texto: na ansiedade social não há défice quando se interage com pessoas familiares ou em situações sem ansiedade e não há comportamentos repetitivos; no mutismo seletivo a comunicação é normal em certos ambientes, ao passo que no autismo os défices e os padrões repetitivos são evidentes em todas as situações e contextos; p. 128: timidez e inibição comportamental); NICE CG128, 2011 (atualizada 2017), https://www.nice.org.uk/guidance/cg128/chapter/Recommendations (rec. 1.5.7); DSM-5-TR (APA, 2022), confirmado no texto do manual (mutismo seletivo: desenvolvimento precoce não perturbado, comunicação adequada em alguns contextos, reciprocidade preservada e sem padrões repetitivos, p. 67; ansiedade social: as competências sociais desenvolveram-se mas não são usadas por ansiedade, pp. 55-56; critério A \"em múltiplos contextos\", p. 56); NICE CG128 rec. 1.5.7 confirmada no texto (ansiedade e mutismo seletivo no diferencial)",
+    "dose": false
+  },
+  {
+    "id": "ds-28-q1",
+    "itemId": "ds-28",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Na perturbação reativa da vinculação (F94.1 no DSM-5-TR e 6B44 na CID-11), qual é a idade de desenvolvimento mínima exigida?",
+    "options": [
+      "6 meses",
+      "9 meses",
+      "18 meses",
+      "3 anos"
+    ],
+    "correct": 1,
+    "explanation": "Ambas as classificações exigem cuidados gravemente insuficientes, início antes dos 5 anos, idade de desenvolvimento de pelo menos 9 meses e ausência de autismo que explique o quadro. Os outros valores não são os da fonte.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6A02, p. 132-133, confirmado no texto: privação grave pode dar um quadro autista ('quase-autismo') que melhora de forma significativa com um ambiente mais nutritivo; a distinção é difícil sem evidência de desenvolvimento social intacto antes da negligência; 6B44, p. 355-356: cuidados gravemente insuficientes, sintomas antes dos 5 anos, idade de desenvolvimento de pelo menos 9 meses, não melhor explicada pelo autismo; com cuidados adequados é frequente remissão quase total ou total); NICE CG128, 2011 (atualizada 2017), https://www.nice.org.uk/guidance/cg128/chapter/Recommendations (rec. 1.2.5 e 1.5.7, confirmadas no texto: informação do desenvolvimento precoce pode faltar em crianças institucionalizadas ou acolhidas; perturbações da vinculação no diferencial); DSM-5-TR (APA, 2022), confirmado no texto do manual (Perturbação Reativa da Vinculação, F94.1, critérios A a G, pp. 295-296; diferença para o autismo (história de negligência, ausência de interesses restritos e rituais, comunicação social proporcional ao nível intelectual) e recuperação possível com cuidados normativos, pp. 296-298)",
+    "dose": false
+  },
+  {
+    "id": "ds-29-q1",
+    "itemId": "ds-29",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Criança de 7 anos com deficiência intelectual conhecida. As dificuldades sociais e de comunicação são maiores do que seria esperado para o nível intelectual. Qual é a interpretação adequada?",
+    "options": [
+      "Considerar apenas perturbação da comunicação social",
+      "Atribuir tudo à deficiência intelectual, pois os diagnósticos não coexistem",
+      "Excluir autismo, porque a deficiência intelectual o explica",
+      "Acrescentar o diagnóstico de autismo, podendo os dois coexistir"
+    ],
+    "correct": 3,
+    "explanation": "Acrescenta-se o autismo quando as dificuldades sociais e de comunicação excedem o esperado para o nível intelectual, e os dois diagnósticos podem coexistir. As outras opções negam essa coexistência ou ignoram o excesso de dificuldades.",
+    "source": "ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6A00, p. 99; 6A02, p. 130); NICE CG128, 2011 (atualizada 2017), https://www.nice.org.uk/guidance/cg128/chapter/Recommendations (rec. 1.5.7); DSM-5-TR (APA, 2022), confirmado no texto do manual (critério E e comorbilidade: a comunicação social deve estar abaixo do esperado para o nível de desenvolvimento, p. 58; diferencial com a deficiência intelectual, pp. 66-67); CDDR confirmado no texto: 6A00, p. 99 (autismo com défice intelectual: dois diagnósticos, com o especificador 'com perturbação do desenvolvimento intelectual'); 6A02, p. 130 (autismo se os défices sociais e de comunicação excedem o esperado para o nível intelectual); NICE CG128 rec. 1.5.7 (deficiência intelectual ou atraso global no diferencial) confirmada no texto",
+    "dose": false
+  },
+  {
+    "id": "ds-30-q1",
+    "itemId": "ds-30",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo a norma DGS 002/2019 sobre autismo, a pesquisa de PTEN justifica-se se o perímetro cefálico for superior a quantos desvios-padrão?",
+    "options": [
+      "1,5 desvios-padrão",
+      "2 desvios-padrão",
+      "2,5 desvios-padrão",
+      "3,5 desvios-padrão"
+    ],
+    "correct": 2,
+    "explanation": "A norma refere PTEN quando o perímetro cefálico é superior a 2,5 desvios-padrão. FMR1 nos rapazes é primeira linha, array CGH segunda linha e MECP2 nas raparigas se o array for normal. Os outros limiares não são os da fonte.",
+    "source": "NICE CG128, 2011 (atualizada 2017), https://www.nice.org.uk/guidance/cg128/chapter/Recommendations (rec. 1.5.6, 1.5.7, 1.7.1); DGS, Norma 002/2019 de 23/04/2019, https://normas.dgs.min-saude.pt/wp-content/uploads/2019/09/Abordagem-Diagnostica-e-Intervencao-na-Perturbacao-do-Espetro-do-Autismo-em-Idade-Pediatrica-e-no-Adulto_2019.pdf (pontos 3.c e 4); AAP, Hyman et al., 2020 (Executive Summary), https://doi.org/10.1542/peds.2019-3448 (avaliação etiológica e genética); AAP Executive Summary confirmado no texto (p. 3 do PDF: oferecer às famílias avaliação genética incluindo microarray cromossómico e pesquisa de X frágil; EEG, neuroimagem e testes metabólicos guiados pela história e pelo exame); DGS Norma 002/2019, pontos 3.c e 4 confirmados no texto (p. 4-5/31: EEG se regressão ou crise; RM se alterações do exame neurológico, da pigmentação ou do perímetro cefálico; testes genéticos só com fundamentação); DSM-5-TR (APA, 2022), confirmado no texto do manual (especificador de condição genética associada, com exemplos de Rett, X frágil, Down, esclerose tuberosa e epilepsia, p. 60; cerca de 15 % dos casos associados a mutação conhecida, p. 65); NICE CG128 confirmado no texto: rec. 1.5.6 (exame físico com procura de estigmas cutâneos de neurofibromatose ou esclerose tuberosa com lâmpada de Wood, anomalias congénitas, dismorfias e macro ou microcefalia), rec. 1.5.7 (síndrome de Rett e encefalopatia epilética no diferencial), rec. 1.7.1 (não fazer investigações de rotina); CDDR 6A02, p. 127 (condições associadas: esclerose tuberosa, X frágil, paralisia cerebral, encefalopatias epiléticas, neurofibromatose; alterações genómicas podem importar para aconselhamento genético)",
+    "dose": false
+  },
+  {
+    "id": "ds-32-q1",
+    "itemId": "ds-32",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Adolescente com autismo apresenta, nas últimas semanas, irritabilidade, agitação e agressividade novas. Qual é a abordagem adequada?",
+    "options": [
+      "Atribuir ao autismo, sem avaliação adicional de causas físicas ou do humor",
+      "Considerar depressão atípica e avaliar causas físicas, como dor ou cefaleia",
+      "Excluir depressão, porque o adolescente não refere tristeza nem desânimo",
+      "Avaliar só causas físicas, pois a depressão não se manifesta assim no autismo"
+    ],
+    "correct": 1,
+    "explanation": "No autismo a depressão pode manifestar-se por irritabilidade, impulsividade, agitação ou agressividade, e as alterações de comportamento podem ter causa física, que se avalia sempre. As outras opções ignoram uma das duas vias ou não avaliam.",
+    "source": "DGS, Norma 002/2019 de 23/04/2019, https://normas.dgs.min-saude.pt/wp-content/uploads/2019/09/Abordagem-Diagnostica-e-Intervencao-na-Perturbacao-do-Espetro-do-Autismo-em-Idade-Pediatrica-e-no-Adulto_2019.pdf (informação complementar, Clínica G e J); NICE CG170, 2013 (atualizada 2021), https://www.nice.org.uk/guidance/cg170/chapter/Recommendations (rec. 1.4.1: dor, problemas gastrointestinais, ansiedade e depressão como fatores de comportamento desafiante); DSM-5-TR (APA, 2022), confirmado no texto do manual (em quem não fala ou tem défice da linguagem, alterações do sono ou da alimentação e mais comportamento desafiante devem levar a avaliar ansiedade ou depressão e dor ou desconforto de problemas médicos ou dentários, p. 68); DGS Norma 002/2019, Clínica G e J confirmadas no texto (p. 15/31); NICE CG170 rec. 1.4.1 confirmada no texto (avaliar dor ou problemas gastrointestinais, ansiedade ou depressão e outras condições como fatores de comportamento desafiante); a apresentação atípica da depressão (irritabilidade, agitação, agressividade) vem da DGS e do DSM-5-TR, não do NICE",
+    "dose": false
+  },
+  {
+    "id": "ds-33-q1",
+    "itemId": "ds-33",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Criança de 4 anos perde linguagem que já tinha adquirido. Segundo o NICE CG128, para onde se encaminha primeiro?",
+    "options": [
+      "Equipa local de autismo",
+      "Pediatria ou neuropediatria",
+      "Equipa de intervenção precoce",
+      "Terapia da fala, sem avaliação médica"
+    ],
+    "correct": 1,
+    "explanation": "Segundo o NICE CG128, a regressão da linguagem depois dos 3 anos encaminha primeiro para pediatria ou neuropediatria; antes dos 3 anos, primeiro para a equipa de autismo. As outras opções não são o primeiro destino descrito.",
+    "source": "NICE CG128, 2011 (atualizada 2017), https://www.nice.org.uk/guidance/cg128/chapter/Recommendations (rec. 1.3.1, 1.3.2, 1.4.2, 1.4.3, 1.5.7, confirmadas no texto: antes dos 3 anos com regressão da linguagem ou social, encaminhar para a equipa de autismo e fazer a avaliação de autismo; depois dos 3 anos com regressão da linguagem ou com regressão motora a qualquer idade, primeiro pediatria ou neuropediatria; o carácter urgente é critério clínico); DGS, Norma 002/2019 de 23/04/2019, https://normas.dgs.min-saude.pt/wp-content/uploads/2019/09/Abordagem-Diagnostica-e-Intervencao-na-Perturbacao-do-Espetro-do-Autismo-em-Idade-Pediatrica-e-no-Adulto_2019.pdf (ponto 3.c.i: EEG na suspeita de regressão ou crise epilética); ICD-11 CDDR, OMS, 2024, https://www.who.int/publications/i/item/9789240077263 (6A01.2, p. 120 e 123, confirmado no texto: a regressão da linguagem não é característica da perturbação do desenvolvimento da linguagem; perda das primeiras palavras no segundo ano com declínio social, ou mais raramente depois dos 3 anos, pode ser autismo; perda de competências físicas com a linguagem pode indicar doença neurodegenerativa; síndromes de regressão como Landau-Kleffner; 6A02, p. 126 e 129, regressão no autismo sobretudo entre 1 e 2 anos, rara depois dos 3 anos); DSM-5-TR (APA, 2022), confirmado no texto do manual (desenvolvimento e curso, p. 63: regressão entre os 12 e os 24 meses é típica do autismo; regressão após pelo menos 2 anos normais, com perdas além da comunicação social como esfíncteres e motricidade, exige investigação de ponta-onda contínua no sono lento e Landau-Kleffner; perda da fala em qualquer idade exige avaliação neurológica e EEG, p. 49; Rett regride tipicamente entre 1 e 4 anos, p. 67); DGS Norma 002/2019, pontos 1.c e 3.c.i confirmados no texto (p. 1 e 4/31); NASEM, 2025 (NBK619283, .txt p. 334, citação de uma apólice, fonte secundária: perda de qualquer competência de linguagem ou social a qualquer idade)",
+    "dose": false
+  },
+  {
+    "id": "ds-34-q1",
+    "itemId": "ds-34",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo a norma DGS 002/2019 sobre autismo, acima dos 6 anos, em que prazo se pede a referenciação à consulta hospitalar perante sinais de autismo?",
+    "options": [
+      "15 dias",
+      "30 dias",
+      "60 dias",
+      "90 dias"
+    ],
+    "correct": 2,
+    "explanation": "Dos 0 aos 6 anos o prazo é de 30 dias; acima dos 6 anos é de 60 dias. Os 30 dias aplicam-se ao grupo mais novo e os outros valores não constam da fonte.",
+    "source": "NICE CG128, 2011 (atualizada 2017), https://www.nice.org.uk/guidance/cg128/chapter/Appendix-Features-suggesting-possible-autism (caixa 2); DGS, Norma 002/2019 de 23/04/2019, https://normas.dgs.min-saude.pt/wp-content/uploads/2019/09/Abordagem-Diagnostica-e-Intervencao-na-Perturbacao-do-Espetro-do-Autismo-em-Idade-Pediatrica-e-no-Adulto_2019.pdf (ponto 1.d e informação complementar, Organizacional A-C); DSM-5-TR (APA, 2022), confirmado no texto do manual (sintomas tipicamente reconhecidos no segundo ano de vida, 12 a 24 meses, p. 63); DGS Norma 002/2019 confirmada no texto: 12 meses sem gestos, sem resposta ao chamamento e sem atenção conjunta (ponto 1.d.ii, p. 2/31), 24 meses sem frases espontâneas de duas palavras (1.d.iii, p. 2-3/31), referenciação à equipa local de intervenção precoce e à consulta hospitalar em 30 dias dos 0 aos 6 anos e à consulta hospitalar em 60 dias acima dos 6 anos (Organizacional A a C, p. 11/31); NASEM, 2025 (NBK619283, .txt p. 334, fonte secundária: sem gestos aos 12 meses, sem frases de duas palavras aos 24 meses); CDDR 6A01.2, p. 120 (confirmado): ausência de palavras isoladas aos 2 anos como indício de perturbação da linguagem (não o limiar de 10 palavras); NICE CG128 caixas 2 a 4 (apêndice): não confirmado, o apêndice não consta do texto obtido (só as recomendações)",
+    "dose": false
+  },
+  {
+    "id": "dso-16-q1",
+    "itemId": "dso-16",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Qual é o sono recomendado para crianças dos 3 aos 5 anos por 24 horas, incluindo sestas?",
+    "options": [
+      "8 a 10 horas",
+      "9 a 12 horas",
+      "10 a 13 horas",
+      "11 a 14 horas"
+    ],
+    "correct": 2,
+    "explanation": "Dos 3 aos 5 anos recomendam-se 10 a 13 horas por 24 horas, incluindo sestas. Os 11 a 14 horas aplicam-se aos 1 a 2 anos. É uma referência de saúde, não um critério diagnóstico.",
+    "source": "AASM, Paruthi et al., J Clin Sleep Med 2016;12(6):785-786, https://pmc.ncbi.nlm.nih.gov/articles/PMC4877308/ [Relido em 10/2026: página PMC lida (Paruthi S et al., J Clin Sleep Med 2016;12(6):785-786, doi 10.5664/jcsm.5866); intervalos conferidos e idênticos aos da AACAP Facts for Families n.º 34 (2023); a própria declaração prevê revisões futuras mas não encontrei versão posterior]",
+    "dose": false
+  },
+  {
+    "id": "dso-17-q1",
+    "itemId": "dso-17",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Qual é o sono recomendado para crianças dos 6 aos 12 anos por 24 horas?",
+    "options": [
+      "9 a 12 horas",
+      "8 a 10 horas",
+      "10 a 13 horas",
+      "7 a 9 horas"
+    ],
+    "correct": 0,
+    "explanation": "Dos 6 aos 12 anos recomendam-se 9 a 12 horas por 24 horas. É uma referência de saúde, não um critério diagnóstico.",
+    "source": "AASM, Paruthi et al., J Clin Sleep Med 2016;12(6):785-786, https://pmc.ncbi.nlm.nih.gov/articles/PMC4877308/ [Relido em 10/2026: página PMC lida (Paruthi S et al., J Clin Sleep Med 2016;12(6):785-786, doi 10.5664/jcsm.5866); intervalos conferidos e idênticos aos da AACAP Facts for Families n.º 34 (2023); a própria declaração prevê revisões futuras mas não encontrei versão posterior]",
+    "dose": false
+  },
+  {
+    "id": "dso-18-q1",
+    "itemId": "dso-18",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Adolescente de 15 anos dorme menos nos dias de escola e compensa ao fim de semana. Como se deve avaliar o sono?",
+    "options": [
+      "Considerar apenas a média semanal de sono, sem distinguir os dias de escola",
+      "Distinguir dias de escola e fim de semana, pois o défice nos dias de escola é frequente",
+      "Concluir perturbação de insónia, por o sono ser irregular ao longo da semana",
+      "Ignorar o fim de semana, por não contar para a duração total do sono"
+    ],
+    "correct": 1,
+    "explanation": "Nos adolescentes (referência de 8 a 10 horas) o défice nos dias de escola, compensado ao fim de semana, é frequente, pelo que se distinguem os dois tipos de dia. Concluir insónia ou ignorar parte da semana não é o indicado, e a duração recomendada não é um critério diagnóstico.",
+    "source": "AASM, Paruthi et al., J Clin Sleep Med 2016;12(6):785-786, https://pmc.ncbi.nlm.nih.gov/articles/PMC4877308/ [Relido em 10/2026: página PMC lida (Paruthi S et al., J Clin Sleep Med 2016;12(6):785-786, doi 10.5664/jcsm.5866); intervalos conferidos e idênticos aos da AACAP Facts for Families n.º 34 (2023); a própria declaração prevê revisões futuras mas não encontrei versão posterior]",
+    "dose": false
+  },
+  {
+    "id": "dso-19-q1",
+    "itemId": "dso-19",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR, qual é a frequência e duração mínimas das dificuldades de sono para falar de perturbação de insónia?",
+    "options": [
+      "Pelo menos 1 noite por semana durante pelo menos 1 mês",
+      "Pelo menos 3 noites por semana durante pelo menos 3 meses",
+      "Pelo menos 5 noites por semana durante pelo menos 6 meses",
+      "Todas as noites durante pelo menos 1 mês seguido"
+    ],
+    "correct": 1,
+    "explanation": "O DSM-5-TR exige dificuldade em pelo menos 3 noites por semana durante pelo menos 3 meses, apesar de oportunidade adequada para dormir, com sofrimento ou prejuízo. Os outros limiares não são os da fonte.",
+    "source": "Carter, Hathaway, Lettieri, Am Fam Physician 2014;89(5):368-377, https://www.aafp.org/pubs/afp/issues/2014/0301/p368.html [Relido em 10/2026: AFP 2014 lido e conforme. Guidelines AASM encontradas são só de tratamento (parâmetros de 2006 para 0 a 4 anos, PubMed 17068980, só o resumo lido) ou em adultos (AASM 2021, PubMed 33164742, só o título visto); não encontrei guideline AASM ou AAP mais recente sobre insónia comportamental pediátrica]; DSM-5-TR (APA, 2022), confirmado no texto do manual (perturbação de insónia, p. 410-411 e 414-415; sem o rótulo \"insónia comportamental da infância\"); Coordenação Nacional para a Saúde Mental, Saúde Mental Infantil e Juvenil nos Cuidados de Saúde Primários, recomendações para a prática clínica (PDF lido, p. 35): regularizar horários, incentivar a criança a adormecer sozinha e estabelecer limites, sem usar este rótulo diagnóstico; CID-11, CDDR (OMS), perturbação de ansiedade de separação 6B05 (p. 289): relutância ou recusa em ir dormir sem estar perto da figura de vinculação, pesadelos recorrentes sobre separação, sintomas não transitórios (pelo menos vários meses); as perturbações do sono-vigília têm capítulo próprio na CID-11 (capítulo 7, CDDR p. 27-28), cujos critérios o CDDR não inclui",
+    "dose": false
+  },
+  {
+    "id": "dso-20-q1",
+    "itemId": "dso-20",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Adolescente de 16 anos adormece só por volta das 3 horas, tem muita dificuldade em acordar de manhã e acumula atrasos escolares. Com horário livre, dorme com boa qualidade e duração normal para a idade. Qual é a hipótese mais provável e como se confirma?",
+    "options": [
+      "Insónia comportamental; confirmar apenas pela entrevista ao adolescente e aos pais",
+      "Atraso de fase do sono; diário de sono ou actigrafia durante pelo menos 7 dias",
+      "Narcolepsia; confirmar por diário de sono de 3 dias úteis seguidos",
+      "Sono insuficiente por higiene do sono; confirmar por diário apenas nos dias de escola"
+    ],
+    "correct": 1,
+    "explanation": "O atraso do sono e do despertar, com sono normal em horário livre e prejuízo escolar, sugere atraso de fase, a confirmar por história e diário de sono ou actigrafia durante pelo menos 7 dias, incluindo fins de semana. As restantes opções propõem diagnósticos ou métodos de confirmação que a fonte não sustenta.",
+    "source": "Carter, Hathaway, Lettieri, Am Fam Physician 2014;89(5):368-377, https://www.aafp.org/pubs/afp/issues/2014/0301/p368.html [Relido em 10/2026: AFP 2014 lido (atraso de pelo menos 2 horas, diário do sono ou actigrafia por pelo menos 1 semana); ICSD-3-TR 2023 (resumo de alterações lido): diário do sono obrigatório, com actigrafia sempre que possível]; DSM-5-TR (APA, 2022), confirmado no texto do manual (perturbações do ritmo circadiano do sono-vigília, tipo de atraso de fase, G47.21; critérios p. 444, características p. 445, marcadores diagnósticos p. 446): atraso habitualmente superior a 2 horas; sofrimento ou prejuízo; especificadores episódico, persistente e recorrente; diário ou actigrafia durante pelo menos 7 dias, incluindo fins de semana",
+    "dose": false
+  },
+  {
+    "id": "dso-21-q1",
+    "itemId": "dso-21",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Em que momento da noite ocorrem habitualmente os terrores noturnos e o sonambulismo?",
+    "options": [
+      "No primeiro terço do sono principal",
+      "Sobretudo na segunda metade da noite",
+      "Imediatamente antes do despertar da manhã",
+      "Apenas durante as sestas diurnas"
+    ],
+    "correct": 0,
+    "explanation": "Os terrores noturnos e o sonambulismo ocorrem habitualmente no primeiro terço do sono principal, sem memória do episódio. Os pesadelos, em contraste, ocorrem sobretudo na segunda metade da noite, com recordação clara.",
+    "source": "Carter, Hathaway, Lettieri, Am Fam Physician 2014;89(5):368-377, https://www.aafp.org/pubs/afp/issues/2014/0301/p368.html [Relido em 10/2026: AFP 2014 lido (terrores e sonambulismo na primeira metade do sono, sem memória, com dificuldade em acordar; pesadelos na segunda metade, com memória e relutância em dormir; tabela 2 do AFP indica diagnóstico pela história). Sem guideline posterior encontrada]; DSM-5-TR (APA, 2022), confirmado no texto do manual (perturbações de despertar do sono NREM, F51.3 sonambulismo e F51.4 terrores do sono, critérios p. 453, características p. 453-454; perturbação de pesadelos, F51.5, critérios e gravidade por frequência p. 458, características p. 459); DGS, Programa Nacional de Saúde Infantil e Juvenil, norma 010/2013 (PDF lido): pesadelos frequentes e recorrentes como sinal de alerta; CID-11, CDDR (OMS), perturbação de stress pós-traumático 6B40 (p. 339): reexperiência pode incluir sonhos ou pesadelos repetitivos tematicamente ligados ao acontecimento; ansiedade de separação 6B05 (p. 289): pesadelos recorrentes sobre separação",
+    "dose": false
+  },
+  {
+    "id": "dso-22-q1",
+    "itemId": "dso-22",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR, qual é o limiar de anormalidade na polissonografia da criança para o índice de apneia-hipopneia obstrutiva?",
+    "options": [
+      "1 ou mais por hora",
+      "5 ou mais por hora",
+      "10 ou mais por hora",
+      "15 ou mais por hora"
+    ],
+    "correct": 0,
+    "explanation": "Na criança o DSM-5-TR usa 1 ou mais por hora; o valor de 5 ou mais por hora é o do adulto. O DSM-5-TR não define um número de noites de ronco. Os outros valores não constam da fonte.",
+    "source": "AAP, Marcus et al., Pediatrics 2012;130(3):576-584, https://publications.aap.org/pediatrics/article/130/3/576/30284/Diagnosis-and-Management-of-Childhood-Obstructive (Tabela 2 lida no PDF do artigo) [Relido em 10/2026: Tabela 2 e declaração de ação 1 da AAP 2012 conferidas (ronco pelo menos 3 noites por semana, enurese após pelo menos 6 meses de continência, PHDA e problemas de aprendizagem incluídos; a AAP recomenda perguntar por ronco nas consultas de vigilância); a história e o exame sozinhos não estabelecem o diagnóstico. Não encontrei guideline AAP, AASM ou ERS posterior; ICSD-3-TR, AASM 2023 (resumo das alterações lido): critérios pediátricos de AOS com ronco, respiração laboriosa, paradoxal ou obstruída, e sonolência, hiperatividade, problemas de comportamento ou de aprendizagem, mais evidência em polissonografia; BTS, Evans et al., Thorax 2023;78 (resumo da guideline lido no site da BTS, https://www.brit-thoracic.org.uk/clinical-resources/guidelines/paediatric-sleep-disordered-breathing/): questionários e avaliação clínica não bastam quando é preciso maior certeza, e pedem oximetria, estudo cardiorrespiratório ou polissonografia; CTS/CSS, MacLean et al., Chest 2026;170:565-582 (só o resumo lido): a polissonografia mantém-se como padrão; o questionário PSQ e a oximetria noturna não devem servir para diagnosticar]; DSM-5-TR (APA, 2022), confirmado no texto do manual (apneia obstrutiva do sono hipopneia, G47.33, p. 430-435): critérios pediátricos diferentes dos do adulto (índice de 1 ou mais por hora), prevalência de 1 a 4% nas crianças, sinais noturnos (apneias presenciadas, respiração laboriosa) nas crianças com menos de 5 anos e sonolência, problemas de comportamento, PHDA, dificuldades de aprendizagem e cefaleias matinais nas mais velhas (p. 433), enurese que reaparece (p. 433)",
+    "dose": false
+  },
+  {
+    "id": "dso-23-q1",
+    "itemId": "dso-23",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR, qual é a frequência e duração mínimas dos sintomas para a síndrome das pernas inquietas?",
+    "options": [
+      "Pelo menos 1 vez por semana, há pelo menos 1 mês",
+      "Pelo menos 2 vezes por semana, há pelo menos 6 meses",
+      "Pelo menos 3 vezes por semana, há pelo menos 3 meses",
+      "Todas as noites, há pelo menos 1 ano completo"
+    ],
+    "correct": 2,
+    "explanation": "O DSM-5-TR exige sintomas pelo menos 3 vezes por semana, há pelo menos 3 meses, com sofrimento ou prejuízo e sem explicação por desconforto posicional, cãibras, artrite, edema ou medicação. Os outros limiares não constam da fonte.",
+    "source": "IRLSSG, Picchietti et al., Sleep Med 2013;14:1253-1259, https://www.irlssg.org/wp-content/uploads/2025/04/Ped-RLS-dx-crit-2013.pdf [Relido em 10/2026: critérios (Tabela 1) e prevalência de 2 a 4% conferidos no PDF; o quinto critério exige excluir outras causas (mimetismos); AASM, Winkelman et al., J Clin Sleep Med 2025;21(1):137-152, PubMed 39324694 (só o resumo lido): guideline de tratamento da SPI/PLMD em adultos e crianças; o resumo não refere alteração dos critérios de diagnóstico. Não encontrei atualização dos critérios pediátricos posterior a 2013]; DSM-5-TR (APA, 2022), confirmado no texto do manual (síndrome das pernas inquietas, G25.81; critérios p. 465-466, crianças p. 467): critérios A (urgência de mexer as pernas, 3 características), B (pelo menos 3 vezes por semana e pelo menos 3 meses), C (sofrimento ou prejuízo), D e E (exclusões). Divergência: o IRLSSG 2013 não exige frequência nem duração; o DSM-5-TR sim. Prevalência: o DSM-5-TR dá 1,6% (3 vezes por semana com sofrimento moderado ou grave) e 2 a 3% (com prejuízo significativo) na população geral, não por idade pediátrica; os 2 a 4% são do IRLSSG",
+    "dose": false
+  },
+  {
+    "id": "dso-24-q1",
+    "itemId": "dso-24",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 11 anos tem sonolência diurna apesar de dormir o suficiente. Por vezes faz caretas, abre a boca com protrusão da língua ou fica hipotónico, sem desencadeante emocional óbvio. Qual é a hipótese a considerar e o passo seguinte?",
+    "options": [
+      "Higiene do sono inadequada; reforçar rotinas sem outra avaliação",
+      "Parassónia de despertar incompleto; tranquilizar a família",
+      "Atraso de fase do sono; ajustar apenas a hora de deitar e acordar",
+      "Narcolepsia com cataplexia atípica; confirmação pela medicina do sono"
+    ],
+    "correct": 3,
+    "explanation": "Sonolência apesar de sono suficiente, com cataplexia que na criança pode ser atípica (caretas, protrusão da língua, hipotonia), reforça a suspeita de narcolepsia, cuja confirmação é da medicina do sono. As restantes opções não explicam o quadro descrito.",
+    "source": "AACAP, Facts for Families n.º 34 Sleep Problems (atualizado março 2023), https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Childrens-Sleep-Problems-034.aspx; ICSD-3-TR, AASM, 2023 (resumo das alterações aos critérios), https://aasm.org/wp-content/uploads/2023/05/ICSD-3-Text-Revision-Supplemental-Material.pdf (critério B da narcolepsia tipo 1) [Relido em 10/2026: AACAP Facts for Families n.º 34 lida (\"Updated March 2023\"; sonolência diurna apesar de dormir o suficiente pode ser narcolepsia). ICSD-3-TR (resumo de alterações lido): critério B da narcolepsia tipo 1 passa a aceitar cataplexia com MSLT ou com SOREMP na polissonografia noturna, ou hipocretina-1 baixa no líquor; o texto continua consistente]; DSM-5-TR (APA, 2022), confirmado no texto do manual (narcolepsia, G47.411 e G47.419, critérios p. 423; cataplexia nas crianças p. 423 e p. 429; perturbação de hipersónia, F51.11, p. 418: sonolência apesar de sono principal de pelo menos 7 horas, 3 vezes por semana, 3 meses)",
+    "dose": false
+  },
+  {
+    "id": "dso-26-q1",
+    "itemId": "dso-26",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo a tabela resumo das recomendações da Sociedade Portuguesa de Neuropediatria (SPNP) sobre ecrãs, qual é o limite recomendado para crianças dos 7 aos 11 anos?",
+    "options": [
+      "Até 30 minutos por dia",
+      "Até 1 hora por dia",
+      "Até 2 horas por dia",
+      "Até 3 horas por dia"
+    ],
+    "correct": 1,
+    "explanation": "Dos 7 aos 11 anos o limite é de até 1 hora. Os 30 minutos aplicam-se aos 4 a 6 anos, as 2 horas aos 12 a 15 anos e 2 a 3 horas aos 16 a 18 anos.",
+    "source": "Sociedade Portuguesa de Neuropediatria (Proença dos Santos T, Sampaio M), Recomendações para a utilização de ecrãs e tecnologia digital em idade pediátrica, setembro de 2024, https://neuropediatria.pt/wp-content/uploads/Recomendacoes-SPNP-ecras-e-tecnologia-digital-2.pdf (PDF lido: recomendações 1 a 3 e 7, texto sobre o sono e tabela resumo com 16 a 18 anos: \"estabelecer limites de tempo (< 2-3h)\"); AAP, Munzer et al., policy statement 2026 (texto lido): evitar ecrãs na hora antes de deitar e dispositivos no quarto",
+    "dose": false
+  },
+  {
+    "id": "dso-28-q1",
+    "itemId": "dso-28",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 6 anos tem episódios noturnos sempre iguais, com posturas estranhas e movimentos repetitivos e estereotipados, várias vezes por noite. Que diagnóstico diferencial deve ser considerado?",
+    "options": [
+      "Pesadelos recorrentes",
+      "Insónia comportamental",
+      "Atraso de fase do sono",
+      "Epilepsia noturna"
+    ],
+    "correct": 3,
+    "explanation": "Movimentos repetitivos e estereotipados, posturas estranhas e episódios sempre iguais, repetidos várias vezes por noite, sugerem crises epiléticas noturnas e não parassónia. As outras hipóteses não explicam este padrão.",
+    "source": "Carter, Hathaway, Lettieri, Am Fam Physician 2014;89(5):368-377, https://www.aafp.org/pubs/afp/issues/2014/0301/p368.html (secção de parasomnias) [Relido em 10/2026: AFP 2014 lido; sem guideline posterior encontrada]; DSM-5-TR (APA, 2022), confirmado no texto do manual (perturbações de despertar do sono NREM, diagnóstico diferencial, p. 457): as convulsões relacionadas com o sono são mais estereotipadas, ocorrem várias vezes por noite e nas sestas diurnas, e podem surgir da vigília, o que não acontece nas parassónias NREM",
+    "dose": false
+  },
+  {
+    "id": "dso-29-q1",
+    "itemId": "dso-29",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Adolescente de 15 anos dorme muito pouco há dias, mas não se sente cansado e mantém muita energia. Qual é a hipótese diferente de insónia que deve ser considerada?",
+    "options": [
+      "Insónia comportamental, por dificuldade de adormecer",
+      "Atraso de fase do sono, com adormecer tardio",
+      "Apneia obstrutiva do sono, com sonolência diurna",
+      "Mania ou hipomania, com necessidade de dormir diminuída"
+    ],
+    "correct": 3,
+    "explanation": "Na mania ou hipomania a necessidade de dormir está diminuída sem sensação de cansaço, o que difere da insónia, em que se quer dormir e não se consegue. As outras opções não se caracterizam por essa ausência de cansaço.",
+    "source": "AACAP, Facts for Families n.º 34 Sleep Problems (atualizado março 2023), https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Childrens-Sleep-Problems-034.aspx (sono nos adolescentes, comorbilidades psiquiátricas) [Relido em 10/2026: folheto lido (problemas de sono nos adolescentes podem vir de perturbações do humor, PTSD, consumo de substâncias, PHDA e ansiedade). Folheto para famílias, não guideline]; AACAP, Practice Parameter PTSD 2010 (PDF lido, secção de diagnóstico diferencial): dificuldade em dormir e hipervigilância sobrepõem-se a sintomas de PHDA e de depressão, pelo que se deve perguntar pelo momento de início face a acontecimentos traumáticos; DSM-5-TR (APA, 2022), confirmado no texto do manual (insónia persistente como fator de risco para depressão, ansiedade e consumo de substâncias, p. 418; atraso de fase associado a depressão, PHDA e perturbação do espetro do autismo, p. 446); CID-11, CDDR (OMS): episódio depressivo (6A70, 6A71), grupo neurovegetativo, sono muito perturbado (dificuldade em adormecer, despertares, acordar cedo) ou sono excessivo (p. 213); episódio maníaco, diminuição da necessidade de sono distinta da insónia (p. 217); PHDA, perturbações do sono-vigília podem imitar ou interagir com os sintomas e é preciso avaliar se são secundários ou comorbilidade (p. 149); PSPT 6B40, pesadelos repetitivos (p. 339); AACAP, Practice Parameter bipolar (PDF lido): perturbação marcada do sono como sinal de mania",
+    "dose": false
+  },
+  {
+    "id": "dso-31-q1",
+    "itemId": "dso-31",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Que percentagem de crianças com PHDA cumpre critérios de síndrome das pernas inquietas?",
+    "options": [
+      "1 a 3%",
+      "5 a 8%",
+      "13 a 35%",
+      "60 a 75%"
+    ],
+    "correct": 2,
+    "explanation": "Cerca de 13 a 35% das crianças com PHDA cumprem critérios de pernas inquietas, pelo que se rastreiam também apneia e insónia e se revê a medicação. Os outros intervalos não constam da fonte.",
+    "source": "Carter, Hathaway, Lettieri, Am Fam Physician 2014;89(5):368-377, https://www.aafp.org/pubs/afp/issues/2014/0301/p368.html (apneia e PHDA como critério de referenciação a medicina do sono; maior prevalência de pernas inquietas no PHDA); IRLSSG, Picchietti et al., Sleep Med 2013;14:1253-1259, https://www.irlssg.org/wp-content/uploads/2025/04/Ped-RLS-dx-crit-2013.pdf (PHDA como comorbilidade da SPI: cerca de um quarto das crianças com SPI tem problemas de atenção e 13 a 35% das crianças com PHDA cumprem critérios de SPI); AASM, Winkelman et al., J Clin Sleep Med 2025;21(1):137-152, PubMed 39324694 (só o resumo lido): a apneia obstrutiva não tratada é fator agravante da SPI, o que justifica rastrear apneia; medicação: AAP, Wolraich et al., Pediatrics 2019 (PDF lido, secção Side Effects: perturbação do sono entre os efeitos adversos mais comuns dos estimulantes) [Relido em 10/2026]; NICE NG87, Attention deficit hyperactivity disorder: diagnosis and management, recomendação 1.8.17 (PDF lido, p. 34): monitorizar alterações do sono (por exemplo com diário do sono) e ajustar a medicação; DSM-5-TR (APA, 2022), confirmado no texto do manual (apneia obstrutiva e PHDA podem coexistir, p. 435; PHDA em mais de metade das pessoas com hipersónia, p. 422); CID-11, CDDR (OMS), PHDA 6A05 (p. 149): outras condições médicas, incluindo perturbações do sono-vigília, podem causar sintomas que se assemelham ou interagem com os da PHDA, devendo avaliar-se se são secundárias ou comorbilidade; NICE NG87 rec. 1.8.17 confirmada no PDF (p. 34 de 61)",
+    "dose": false
+  },
+  {
+    "id": "dso-34-q1",
+    "itemId": "dso-34",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Perante parassónias violentas, perigosas ou que não respondem ao tratamento conservador, ou episódios noturnos estereotipados com posturas ou movimentos repetitivos, que hipótese se deve considerar e que conduta adotar?",
+    "options": [
+      "Apneia obstrutiva do sono; tranquilizar",
+      "Atraso de fase do sono; ajustar horários",
+      "Narcolepsia; ajustar a higiene do sono",
+      "Convulsões noturnas; referenciar"
+    ],
+    "correct": 3,
+    "explanation": "Estes sinais de alerta fazem pensar em convulsões noturnas e justificam referenciação. As outras hipóteses não são as associadas a este sinal de alerta.",
+    "source": "Carter, Hathaway, Lettieri, Am Fam Physician 2014;89(5):368-377, https://www.aafp.org/pubs/afp/issues/2014/0301/p368.html [Relido em 10/2026: AFP 2014 lido (parasomnias atípicas, nocivas, violentas ou sem resposta ao tratamento conservador devem ser referenciadas; convulsões noturnas podem sobrepor-se a parasomnias)]; DSM-5-TR (APA, 2022), confirmado no texto do manual (perturbações de despertar do sono NREM, p. 457): convulsões noturnas mais estereotipadas, várias vezes por noite e nas sestas",
+    "dose": false
+  }
+]

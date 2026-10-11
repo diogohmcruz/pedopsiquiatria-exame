@@ -1,0 +1,478 @@
+[
+  {
+    "id": "da-14-q1",
+    "itemId": "da-14",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR (critério A), durante quanto tempo, no mínimo, têm de se manter os sintomas de desatenção e/ou hiperatividade-impulsividade para se considerar PHDA?",
+    "options": [
+      "Pelo menos 3 meses",
+      "Pelo menos 6 meses",
+      "Pelo menos 12 meses",
+      "Pelo menos 2 anos"
+    ],
+    "correct": 1,
+    "explanation": "O critério A do DSM-5-TR pede sintomas mantidos há pelo menos 6 meses e desajustados para o nível de desenvolvimento. Três meses ficam aquém do exigido; 12 meses e 2 anos excedem o mínimo previsto.",
+    "source": "DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Attention-Deficit/Hyperactivity Disorder, critério A: pelo menos 6 meses, desajustado do nível de desenvolvimento e com repercussão direta nas atividades sociais e escolares ou profissionais; .txt pág. 167); OMS, CDDR da CID-11 (Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders, https://www.who.int/publications/i/item/9789240077263), 6A05 Attention deficit hyperactivity disorder, confirmado no texto do manual (padrão persistente, p. ex. de pelo menos 6 meses, de desatenção e/ou hiperatividade-impulsividade fora dos limites normais para a idade e o nível de desenvolvimento intelectual; págs. 142 e 146 do manual, .txt págs. 159 e 163)",
+    "dose": false
+  },
+  {
+    "id": "da-15-q1",
+    "itemId": "da-15",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR, quantos sintomas num dos grupos (desatenção ou hiperatividade-impulsividade) são necessários numa pessoa de 18 anos?",
+    "options": [
+      "6 ou mais",
+      "4 ou mais",
+      "8 ou mais",
+      "5 ou mais"
+    ],
+    "correct": 3,
+    "explanation": "O DSM-5-TR pede 5 ou mais sintomas a partir dos 17 anos. O limiar de 6 ou mais aplica-se até aos 16 anos. Os valores de 4 e de 8 não correspondem a nenhuma das faixas etárias.",
+    "source": "DSM-5 (APA 2013) conforme Cabral et al., Transl Pediatr 2020, https://doi.org/10.21037/tp.2019.09.08 (texto lido: 6 sintomas em crianças e adolescentes mais novos, pelo menos 5 em adolescentes mais velhos e adultos; o DSM-5 original não foi consultado); NICE NG87, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.3.3: critérios do DSM-5 ou da CID-11); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Attention-Deficit/Hyperactivity Disorder, critério A: 6 ou mais sintomas em desatenção e/ou em hiperatividade-impulsividade, e 5 ou mais a partir dos 17 anos; .txt págs. 167-168; apresentações combinada F90.2, predominantemente desatenta F90.0 e hiperativa-impulsiva F90.1, .txt pág. 169); OMS, CDDR da CID-11 (Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders, https://www.who.int/publications/i/item/9789240077263), 6A05 Attention deficit hyperactivity disorder, confirmado no texto do manual (vários sintomas de desatenção e/ou hiperatividade-impulsividade por grupos, sem número mínimo; apresentações 6A05.0 desatenta, 6A05.1 hiperativa-impulsiva, 6A05.2 combinada, 6A05.Y e 6A05.Z; págs. 143-144 do manual, .txt págs. 160-161 e lista de categorias .txt pág. 54)",
+    "dose": false
+  },
+  {
+    "id": "da-16-q1",
+    "itemId": "da-16",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapariga de 16 anos, referenciada por desatenção e desorganização escolar que os pais situam só no último ano. Não há sintomas relevantes documentados antes dos 12 anos. Segundo o DSM-5-TR, como se interpreta o critério de início?",
+    "options": [
+      "Sem sintomas antes dos 12 anos não se diagnostica; o início tardio sugere outra perturbação ou substâncias",
+      "Diagnostica-se PHDA, porque o DSM-5-TR não exige idade de início para este diagnóstico em adolescentes",
+      "Diagnostica-se PHDA desde que os sintomas tenham começado antes dos 18 anos, mesmo sem registo anterior",
+      "O critério de início aplica-se só a crianças pequenas, pelo que nos adolescentes se dispensa a sua verificação"
+    ],
+    "correct": 0,
+    "explanation": "O critério B do DSM-5-TR exige vários sintomas antes dos 12 anos, e sem eles não se diagnostica. Um início aparente tardio é mais provavelmente outra perturbação ou efeito de substâncias. As outras opções negam ou deslocam um critério que o manual mantém.",
+    "source": "AAP (Wolraich et al.), Pediatrics 2019;144(4):e20192528, https://doi.org/10.1542/peds.2019-2528 (KAS 2: o DSM-5 exige início antes dos 12 anos; Special Circumstances: Adolescents); NICE NG87, 2018, https://www.nice.org.uk/guidance/ng87 (rec. 1.3.3: a incerteza sobre o início não deve levar a excluir); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Attention-Deficit/Hyperactivity Disorder, critério B e Diagnostic Features; .txt págs. 168 e 170); OMS, CDDR da CID-11 (Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders, https://www.who.int/publications/i/item/9789240077263), 6A05 Attention deficit hyperactivity disorder, confirmado no texto do manual (evidência de sintomas significativos antes dos 12 anos, com apresentação clínica possivelmente mais tardia; história antes dos 12 anos corrobora, e sem ela o diagnóstico em adolescentes mais velhos e adultos faz-se com cautela; págs. 143, 145 e 146 do manual, .txt págs. 160, 162 e 163)",
+    "dose": false
+  },
+  {
+    "id": "da-17-q1",
+    "itemId": "da-17",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 8 anos com desatenção marcada que a professora descreve em todas as aulas, mas que os pais não observam em casa, onde cumpre rotinas e tarefas sem dificuldade. O que falta para cumprir o critério de contextos?",
+    "options": [
+      "Basta a informação da professora, por ser o contexto de maior exigência escolar",
+      "Basta um único contexto se o prejuízo escolar for claro e bem documentado",
+      "Sintomas em 2 ou mais contextos importantes, com informação de pais e professores",
+      "Basta a autoavaliação da criança para confirmar o segundo contexto de sintomas"
+    ],
+    "correct": 2,
+    "explanation": "Os sintomas têm de existir em 2 ou mais contextos importantes (por exemplo casa e escola), com informação de pais e professores e não de um só informador. Um único contexto, mesmo com prejuízo escolar, não cumpre esse critério.",
+    "source": "NICE NG87, 2018, https://www.nice.org.uk/guidance/ng87 (rec. 1.3.3); AAP (Wolraich et al.), Pediatrics 2019;144(4):e20192528, https://doi.org/10.1542/peds.2019-2528 (KAS 2: sintomas e prejuízo em mais de um contexto principal); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Attention-Deficit/Hyperactivity Disorder, critério C: sintomas em dois ou mais contextos; Diagnostic Features: informantes dos vários contextos; .txt págs. 168 e 170); OMS, CDDR da CID-11 (Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders, https://www.who.int/publications/i/item/9789240077263), 6A05 Attention deficit hyperactivity disorder, confirmado no texto do manual (manifestações evidentes em múltiplas situações ou contextos (casa, escola, trabalho, amigos ou familiares), com variação segundo a estrutura e as exigências do contexto; pág. 143 do manual, .txt pág. 160)",
+    "dose": false
+  },
+  {
+    "id": "da-18-q1",
+    "itemId": "da-18",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o NICE (1.3.3), que grau de prejuízo deve existir para o diagnóstico de PHDA?",
+    "options": [
+      "Qualquer grau de prejuízo, mesmo ligeiro, num único contexto",
+      "Apenas prejuízo grave, em vários contextos",
+      "Pelo menos prejuízo moderado, em vários contextos",
+      "Prejuízo ligeiro, desde que os pais o refiram"
+    ],
+    "correct": 2,
+    "explanation": "O NICE (1.3.3) pede pelo menos prejuízo moderado em vários contextos. O DSM-5-TR e a CID-11 exigem prejuízo claro sem fixar um grau mínimo, mas o NICE é mais específico. Exigir só prejuízo grave ou aceitar prejuízo ligeiro num contexto não corresponde ao NICE.",
+    "source": "NICE NG87, 2018, https://www.nice.org.uk/guidance/ng87 (rec. 1.3.3); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Attention-Deficit/Hyperactivity Disorder, critério D: evidência clara de que os sintomas interferem com o funcionamento social, académico ou ocupacional, ou reduzem a sua qualidade; gravidade ligeira, moderada ou grave como especificador; .txt págs. 168-169); OMS, CDDR da CID-11 (Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders, https://www.who.int/publications/i/item/9789240077263), 6A05 Attention deficit hyperactivity disorder, confirmado no texto do manual (sintomas persistentes e suficientemente graves para terem impacto negativo direto no funcionamento académico, ocupacional ou social, sem grau numérico; pág. 143 e 146 do manual, .txt págs. 160 e 163)",
+    "dose": false
+  },
+  {
+    "id": "da-20-q1",
+    "itemId": "da-20",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Menino de 3 anos, com hiperatividade e desatenção descritas em casa e na creche, cujos pais pedem um diagnóstico e medicação. Segundo o AAP, qual a abordagem?",
+    "options": [
+      "Evidência insuficiente para diagnosticar ou tratar abaixo dos 4 anos; oferecer treino parental",
+      "Aplicar os critérios habituais, diagnosticar PHDA e iniciar tratamento farmacológico de imediato",
+      "Diagnosticar PHDA com os critérios habituais, mas tratar apenas com treino parental",
+      "Não oferecer qualquer intervenção, nem treino parental, até aos 4 anos, e reavaliar depois"
+    ],
+    "correct": 0,
+    "explanation": "O AAP considera a evidência insuficiente para diagnosticar ou tratar abaixo dos 4 anos, com a exceção do treino parental, que não exige diagnóstico. Não se aplica por isso o diagnóstico habitual nesta idade. Também não se deixa a família sem intervenção, pois o treino parental não exige diagnóstico.",
+    "source": "AAP (Wolraich et al.), Pediatrics 2019;144(4):e20192528, https://doi.org/10.1542/peds.2019-2528 (KAS 1, KAS 5a: treino parental como primeira linha dos 4 anos ao 6.º aniversário, grau A; Special Circumstances: Preschool-Aged Children: os critérios podem aplicar-se a pré-escolares); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Attention-Deficit/Hyperactivity Disorder, Development and Course: sintomas difíceis de distinguir antes dos 4 anos, hiperatividade predominante em pré-escolares; .txt pág. 171); NICE NG87, 2018 (rec. 1.3.5: critérios ajustados à idade; .txt pág. 11 do PDF); OMS, CDDR da CID-11 (Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders, https://www.who.int/publications/i/item/9789240077263), 6A05 Attention deficit hyperactivity disorder, confirmado no texto do manual (em pré-escolares predomina a hiperatividade; pág. 145 do manual, .txt pág. 162)",
+    "dose": false
+  },
+  {
+    "id": "da-21-q1",
+    "itemId": "da-21",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR, como pode manifestar-se a hiperatividade no adolescente com PHDA?",
+    "options": [
+      "Mantém-se igual à da idade escolar, com corridas e subidas constantes",
+      "Desaparece por completo, ficando apenas sintomas de desatenção persistentes",
+      "Transforma-se em agressividade física dirigida aos pares e à família",
+      "Reduz-se a inquietação ou agitação interior, com menos hiperatividade visível"
+    ],
+    "correct": 3,
+    "explanation": "No adolescente a hiperatividade visível tende a ser menos evidente e pode reduzir-se a inquietação ou agitação interior. Além disso, a autoavaliação costuma minimizar as dificuldades. As outras opções descrevem evoluções que a fonte não refere.",
+    "source": "AAP (Wolraich et al.), Pediatrics 2019;144(4):e20192528, https://doi.org/10.1542/peds.2019-2528 (Special Circumstances: Adolescents: a hiperatividade é menos evidente e os adolescentes tendem a minimizar os seus comportamentos; é preciso estabelecer manifestações antes dos 12 anos); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Attention-Deficit/Hyperactivity Disorder, Development and Course: na adolescência os sinais de hiperatividade são menos comuns; critério B; .txt págs. 168 e 171)",
+    "dose": false
+  },
+  {
+    "id": "da-22-q1",
+    "itemId": "da-22",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 10 anos, com desatenção e inquietação na escola, em quem se suspeita de ansiedade e de uma perturbação de aprendizagem. Qual a abordagem correta ao diferencial?",
+    "options": [
+      "A presença de ansiedade exclui PHDA, pelo que se descarta esse diagnóstico",
+      "Considerar essas explicações e o que pode coexistir, pois uma não exclui a outra",
+      "Diagnosticar PHDA sem mais avaliação, porque desatenção e inquietação são específicas dela",
+      "Diagnosticar apenas a perturbação de aprendizagem, por ser a mais explicativa"
+    ],
+    "correct": 1,
+    "explanation": "A ansiedade, a depressão, o trauma, a perturbação de aprendizagem e o consumo de substâncias tanto podem imitar a PHDA como existir a par dela, e a presença de uma não exclui a outra. Por isso nem se descarta a PHDA nem se dispensa o diferencial.",
+    "source": "AAP (Wolraich et al.), Pediatrics 2019;144(4):e20192528, https://doi.org/10.1542/peds.2019-2528 (KAS 2, KAS 3 e texto de adolescentes); Cabral et al., Transl Pediatr 2020, https://doi.org/10.21037/tp.2019.09.08; NICE NG87, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.3.4: avaliar condições coexistentes e saúde física); World Federation of ADHD International Consensus Statement, Neurosci Biobehav Rev 2021 (PubMed 33549739, texto em https://pmc.ncbi.nlm.nih.gov/articles/PMC8328933/: depressão, ansiedade, perturbação de oposição, perturbações por uso de substâncias, entre outras, coexistem frequentemente e a sua presença não exclui o diagnóstico de PHDA); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Attention-Deficit/Hyperactivity Disorder, Differential Diagnosis: oposição, perturbação explosiva intermitente, tiques, aprendizagem, deficiência intelectual, autismo, vinculação, ansiedade, PTSD, depressão, bipolar, DMDD, substâncias, personalidade, psicose, medicação; Comorbidity; .txt págs. 173-176); OMS, CDDR da CID-11 (Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders, https://www.who.int/publications/i/item/9789240077263), 6A05 Attention deficit hyperactivity disorder, confirmado no texto do manual (fronteiras com deficiência intelectual, autismo, aprendizagem, coordenação motora, humor e ansiedade, perturbação explosiva intermitente, oposição, conduta, personalidade, substâncias e medicação, outras condições médicas; coexistência frequente; págs. 147-149 do manual, .txt págs. 164-166)",
+    "dose": false
+  },
+  {
+    "id": "da-23-q1",
+    "itemId": "da-23",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Porque se pergunta por roncopatia, apneia, insónia e horários de sono na avaliação de uma criança com suspeita de PHDA?",
+    "options": [
+      "Porque o sono insuficiente pode parecer desatenção e hiperatividade",
+      "Porque a roncopatia é um critério diagnóstico de PHDA",
+      "Porque qualquer perturbação do sono exclui o diagnóstico de PHDA",
+      "Porque só interessa saber do sono quando se vai prescrever medicação"
+    ],
+    "correct": 0,
+    "explanation": "O sono insuficiente pode imitar desatenção e hiperatividade, por isso entra no diferencial. Não é critério de PHDA, nem exclui o diagnóstico, nem depende de uma decisão de prescrever.",
+    "source": "AAP (Wolraich et al.), Pediatrics 2019;144(4):e20192528, https://doi.org/10.1542/peds.2019-2528 (KAS 3, apneia do sono); roncopatia, insónia e horários: ver DSM-5-TR abaixo; DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Attention-Deficit/Hyperactivity Disorder, Comorbidity: um quarto a metade referem dificuldades de sono, com insónia, perturbação do ritmo circadiano, respiração desordenada no sono e síndrome das pernas inquietas; o sono comórbido associa-se a desatenção diurna; .txt pág. 176); Cabral et al., Transl Pediatr 2020, https://doi.org/10.21037/tp.2019.09.08 (secção Clinical evaluation: rastrear outras causas de sintomas parecidos com PHDA, incluindo sono deficiente, depressão, ansiedade, aprendizagem e consumo); OMS, CDDR da CID-11 (Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders, https://www.who.int/publications/i/item/9789240077263), 6A05 Attention deficit hyperactivity disorder, confirmado no texto do manual (condições médicas, incluindo perturbações do sono-vigília, podem assemelhar-se à PHDA ou interagir com ela; avaliar se os sintomas são secundários; pág. 149 do manual, .txt pág. 166)",
+    "dose": false
+  },
+  {
+    "id": "da-24-q1",
+    "itemId": "da-24",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Quanto à coexistência de autismo e PHDA, o que refere o DSM-5-TR?",
+    "options": [
+      "O autismo exclui o diagnóstico de PHDA em qualquer idade",
+      "Só permite os dois diagnósticos em adultos, não em crianças",
+      "Exige tratar o autismo primeiro e só depois avaliar a PHDA",
+      "Já não exclui o autismo e permite os dois diagnósticos"
+    ],
+    "correct": 3,
+    "explanation": "O DSM-5-TR já não lista o autismo entre as exclusões e permite os dois diagnósticos, e a CID-11 refere que a coexistência é frequente. As restantes opções impõem exclusões ou condições que a fonte não contém.",
+    "source": "AAP (Wolraich et al.), Pediatrics 2019;144(4):e20192528, https://doi.org/10.1542/peds.2019-2528 (KAS 3); Cabral et al., Transl Pediatr 2020; NICE NG87, 2018, https://www.nice.org.uk/guidance/ng87 (rec. 1.3.3: não excluir PHDA por perturbação global do desenvolvimento); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Attention-Deficit/Hyperactivity Disorder, critério E, Differential Diagnosis (autismo) e Comorbidity (autismo, perturbações da linguagem); .txt págs. 169, 174 e 176); Abordagem Diagnóstica e Intervenção na PEA (2019): a PHDA está entre as comorbilidades psiquiátricas mais comuns no autismo (.txt pág. 13); OMS, CDDR da CID-11 (Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders, https://www.who.int/publications/i/item/9789240077263), 6A05 Attention deficit hyperactivity disorder, confirmado no texto do manual (a PHDA não mostra os défices persistentes de comunicação e interação social nem os padrões restritos e repetitivos do autismo, mas a coexistência é frequente; pág. 147 do manual, .txt pág. 164)",
+    "dose": false
+  },
+  {
+    "id": "da-26-q1",
+    "itemId": "da-26",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Menina de 7 anos em acolhimento, com história de negligência e instabilidade em casa, hipervigilante e com dificuldade de atenção. Como se deve ver o quadro?",
+    "options": [
+      "O quadro é típico de PHDA e dispensa considerar outras explicações, como o trauma",
+      "Trauma e negligência podem imitar a PHDA, pelo que entram no diferencial",
+      "A hipervigilância exclui PHDA, que ficaria assim afastada como hipótese diagnóstica",
+      "A desatenção por trauma só se pode avaliar a partir da adolescência, não antes"
+    ],
+    "correct": 1,
+    "explanation": "Experiências de trauma, stress tóxico, negligência ou instabilidade em casa podem produzir hipervigilância e desatenção semelhantes a PHDA, e têm de ser consideradas no diferencial. As outras opções fecham a avaliação sem sustentação na fonte.",
+    "source": "AAP (Wolraich et al.), Pediatrics 2019;144(4):e20192528, https://doi.org/10.1542/peds.2019-2528 (texto, trauma e stress tóxico); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Attention-Deficit/Hyperactivity Disorder, Differential Diagnosis, PTSD: em menores de 6 anos o PTSD manifesta-se com inquietação, irritabilidade e desatenção que imitam a PHDA, e os pais podem minimizar os sintomas; .txt pág. 174); AAP, atenção informada pelo trauma, Pediatrics 2021 (texto lido: dificuldades escolares, como má atenção, podem ser apresentação precoce de trauma, e o trauma pode ser confundido com PHDA; .txt págs. 7 e 10); OMS, CDDR da CID-11 (Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders, https://www.who.int/publications/i/item/9789240077263), 6A05 Attention deficit hyperactivity disorder, confirmado no texto do manual (sintomas de desatenção ou hiperatividade-impulsividade podem surgir em resposta a eventos traumáticos e a luto na infância, sobretudo em populações vulneráveis; ponderar se o diagnóstico se justifica; pág. 147 do manual, .txt pág. 164)",
+    "dose": false
+  },
+  {
+    "id": "da-29-q1",
+    "itemId": "da-29",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Qual dos seguintes grupos tem maior prevalência de PHDA?",
+    "options": [
+      "Crianças sem familiar próximo com PHDA nem outras perturbações",
+      "Crianças nascidas a termo e sem outras perturbações do neurodesenvolvimento",
+      "Crianças com epilepsia ou com lesão cerebral adquirida",
+      "Crianças sem consumo de substâncias nem contacto com a justiça juvenil"
+    ],
+    "correct": 2,
+    "explanation": "A fonte inclui a epilepsia entre as condições com maior prevalência de PHDA, a par de prematuridade, acolhimento, lesão cerebral adquirida, familiar próximo com PHDA e outras perturbações do neurodesenvolvimento. As restantes opções descrevem grupos sem esses fatores.",
+    "source": "NICE NG87, 2018, https://www.nice.org.uk/guidance/ng87 (rec. 1.2.1); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Attention-Deficit/Hyperactivity Disorder, Prevalence e Risk and Prognostic Factors: mais frequente em crianças em acolhimento, muito baixo peso e prematuridade, epilepsia idiopática; .txt págs. 170-171); NICE NG87 rec. 1.2.1 relida no texto (a lista inclui também adultos com problema de saúde mental, que não se aplica à criança; .txt págs. 7-8 do PDF)",
+    "dose": false
+  },
+  {
+    "id": "da-32-q1",
+    "itemId": "da-32",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 9 anos referenciado por suspeita de PHDA, cujos pais descrevem perda de competências já adquiridas e episódios de ausências. Qual a conduta?",
+    "options": [
+      "Atribuir tudo à PHDA e iniciar tratamento sem mais investigação neurológica",
+      "Excluir PHDA, porque a presença de sinais neurológicos a torna impossível",
+      "Aguardar sem intervenção até a perda de competências se estabilizar sozinha",
+      "Investigar em paralelo e ponderar avaliação neurológica, sem excluir a PHDA"
+    ],
+    "correct": 3,
+    "explanation": "Perda de competências adquiridas, crises ou ausências e sinais neurológicos pedem investigação em paralelo e avaliação neurológica, e a coexistência não exclui PHDA. Atribuir tudo à PHDA ignora o alerta, e excluí-la ou esperar não decorre da fonte.",
+    "source": "NICE NG87, 2018, https://www.nice.org.uk/guidance/ng87 (rec. 1.2.1: epilepsia e lesão cerebral adquirida com maior prevalência de PHDA; rec. 1.3.4: a coexistência não exclui); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Attention-Deficit/Hyperactivity Disorder, Differential Diagnosis, perturbações neurocognitivas: a desatenção na PHDA não representa declínio do funcionamento anterior, pelo que a perda de competências adquiridas não é típica; Comorbidity e Risk: epilepsia mais frequente; sinais neurológicos menores podem ocorrer; .txt págs. 171, 175 e 176); AAP (Wolraich et al.), Pediatrics 2019;144(4):e20192528, https://doi.org/10.1542/peds.2019-2528 (KAS 3: crises epiléticas entre as condições comórbidas a rastrear); Cabral et al., Transl Pediatr 2020 (Tabela 3: perturbação convulsiva entre as condições coexistentes); OMS, CDDR da CID-11 (Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders, https://www.who.int/publications/i/item/9789240077263), 6A05 Attention deficit hyperactivity disorder, confirmado no texto do manual (os sintomas não devem ser devidos a doença do sistema nervoso (pág. 143); o início agudo de hiperatividade em idade escolar deve levantar a possibilidade de outra perturbação ou condição médica (pág. 146); taxas elevadas de epilepsia e sinais neurológicos minor são comuns (pág. 145); págs. 143, 145 e 146 do manual, .txt págs. 160, 162 e 163); ausências a imitar desatenção e investigação neurológica antes ou em paralelo: prática clínica (sem fonte)",
+    "dose": false
+  },
+  {
+    "id": "da-33-q1",
+    "itemId": "da-33",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o NICE (1.2.8), dirigido ao encaminhamento a partir dos cuidados primários, o que se deve considerar perante prejuízo grave?",
+    "options": [
+      "Considerar avaliação especializada prioritária",
+      "Manter a vigilância em cuidados primários durante 6 meses",
+      "Aplicar só escalas de rastreio e aguardar a evolução",
+      "Iniciar tratamento em cuidados primários sem referenciação"
+    ],
+    "correct": 0,
+    "explanation": "O NICE 1.2.8 recomenda considerar avaliação especializada prioritária perante prejuízo grave. Manter a vigilância, limitar-se a escalas ou tratar sem referenciar vão contra essa prioridade.",
+    "source": "NICE NG87, 2018, https://www.nice.org.uk/guidance/ng87 (rec. 1.2.8)",
+    "dose": false
+  },
+  {
+    "id": "dh-6-q1",
+    "itemId": "dh-6",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "O que é a Preschool Feelings Checklist?",
+    "options": [
+      "Um questionário curto, preenchido pelos pais, de apoio ao rastreio de depressão pré-escolar",
+      "Uma escala de autorrelato do adolescente que confirma o diagnóstico de depressão major",
+      "Uma entrevista clínica estruturada que substitui a avaliação pelo médico em consulta",
+      "Um questionário preenchido pelos professores para rastrear PHDA em idade escolar"
+    ],
+    "correct": 0,
+    "explanation": "A Preschool Feelings Checklist é um questionário curto preenchido pelos pais, de apoio ao rastreio de depressão em idade pré-escolar, e não é diagnóstico. A USPSTF, citada pela AACAP, não recomenda rastreio sistemático em crianças com 11 anos ou menos por provas insuficientes.",
+    "source": "AACAP, Clinical Practice Guideline for Major and Persistent Depressive Disorders (Walter et al.), JAACAP 2023;62(5):479-502, https://www.jaacap.org/article/S0890-8567(22)01852-4/fulltext; AACAP 2023, p. 485: refere a Preschool Feelings Checklist como escala gratuita de apoio (confirmado no texto); OMS, CID-11 CDDR (Clinical Descriptions and Diagnostic Requirements for ICD-11 Mental, Behavioural or Neurodevelopmental Disorders), p. 214 (f. 232): na criança pequena a avaliação do episódio depressivo depende sobretudo dos informadores (pais); o CDDR e a NICE NG134 não mencionam esta escala",
+    "dose": false
+  },
+  {
+    "id": "dh-7-q1",
+    "itemId": "dh-7",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Menino de 5 anos com irritabilidade crónica e explosões frequentes, sem períodos distintos de humor elevado e com trauma precoce documentado. Os pais perguntam se é bipolar. Qual a abordagem coerente com a fonte?",
+    "options": [
+      "Diagnosticar perturbação bipolar de imediato, pela gravidade e frequência das explosões de irritabilidade",
+      "Diagnosticar perturbação bipolar após uma única consulta com os pais, sem monitorização prolongada",
+      "Descartar qualquer outra hipótese, porque a irritabilidade crónica é específica de mania na infância",
+      "Avaliar neurodesenvolvimento, trauma e stress psicossocial; o NICE exige monitorização longitudinal prospetiva"
+    ],
+    "correct": 3,
+    "explanation": "Na criança pequena, antes de pensar em bipolaridade avaliam-se perturbações do neurodesenvolvimento, trauma precoce, stress psicossocial e outras causas de irritabilidade. O NICE só admite o diagnóstico de bipolaridade após monitorização longitudinal prospetiva e intensiva, por profissionais com experiência. As outras opções saltam esse passo.",
+    "source": "NICE CG185 (Bipolar disorder: assessment and management; publicada 24/09/2014, última atualização 02/09/2025), https://www.nice.org.uk/guidance/cg185/chapter/Recommendations (rec. 1.11.4, 1.11.7 com 1.3.2 e 1.3.3); CANMAT/ISBD 2018 guidelines for the management of patients with bipolar disorder (Yatham et al.), Bipolar Disord 2018;20(2):97-170, https://pubmed.ncbi.nlm.nih.gov/29536616/ (secção 7.2 e tabela 22); Rao U, DSM-5: Disruptive Mood Dysregulation Disorder, Asian J Psychiatry 2014, https://pmc.ncbi.nlm.nih.gov/articles/PMC4254488/ (idade mínima de 6 anos da DDHM); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Disruptive Mood Dysregulation Disorder, critério G e Development and Course: não aplicar com idade de desenvolvimento inferior a 6 anos); NICE CG185 rec. 1.11.4, 1.11.7, 1.3.2 e 1.3.3 confirmadas no texto; Rao 2014 confirmado no texto (DDHM não diagnosticada pela primeira vez antes dos 6 anos); OMS, CID-11 CDDR (Clinical Descriptions and Diagnostic Requirements for ICD-11 Mental, Behavioural or Neurodevelopmental Disorders), Manic episode, Developmental presentations, p. 219 (f. 237)",
+    "dose": false
+  },
+  {
+    "id": "dh-14-q1",
+    "itemId": "dh-14",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo a NICE NG134 (rec. 1.1.13), qual o papel do MFQ de autorrelato?",
+    "options": [
+      "Substituto da entrevista clínica no diagnóstico de depressão",
+      "Complemento do juízo clínico na monitorização em cuidados secundários",
+      "Instrumento com um ponto de corte único, válido para todas as versões",
+      "Rastreio sistemático obrigatório em todas as crianças com menos de 12 anos"
+    ],
+    "correct": 1,
+    "explanation": "A NICE NG134 considera o MFQ de autorrelato um complemento do juízo clínico na monitorização em cuidados secundários. O MFQ não substitui a entrevista, o ponto de corte depende da versão e da validação em português, e a USPSTF não recomenda rastreio sistemático abaixo dos 12 anos.",
+    "source": "AACAP, Clinical Practice Guideline for Major and Persistent Depressive Disorders (Walter et al.), JAACAP 2023;62(5):479-502, https://www.jaacap.org/article/S0890-8567(22)01852-4/fulltext; AACAP 2023, p. 482 e p. 485: refere o SMFQ (curto, sem itens de suicidalidade) e o MFQ, versões para a criança e para os pais (confirmado no texto); NICE NG134 (Depression in children and young people; publicada 25/06/2019), https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.1.13 e 1.4.1 confirmadas no texto; a NG134 não dá pontos de corte)",
+    "dose": false
+  },
+  {
+    "id": "dh-19-q1",
+    "itemId": "dh-19",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Quanto aos sintomas do episódio depressivo, em que difere a CID-11 do DSM-5-TR?",
+    "options": [
+      "A CID-11 conta a desesperança como sintoma separado (10 sintomas, contra 9)",
+      "A CID-11 exige 4 semanas de duração, contra 2 no DSM-5-TR",
+      "A CID-11 não admite a irritabilidade como sintoma afetivo em crianças e adolescentes",
+      "A CID-11 dispensa o sintoma do grupo afetivo e basta qualquer sintoma associado"
+    ],
+    "correct": 0,
+    "explanation": "Ambas pedem 5 sintomas e 2 semanas, mas a CID-11 usa 10 sintomas por contar a desesperança em separado, enquanto o DSM-5-TR tem 9. Ambas aceitam a irritabilidade em crianças e adolescentes e exigem pelo menos 1 sintoma afetivo.",
+    "source": "AACAP, Clinical Practice Guideline for Major and Persistent Depressive Disorders (Walter et al.), JAACAP 2023;62(5):479-502, https://www.jaacap.org/article/S0890-8567(22)01852-4/fulltext; DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Major Depressive Disorder, critérios A a E e nota sobre perdas significativas); OMS, CID-11 CDDR (Clinical Descriptions and Diagnostic Requirements for ICD-11 Mental, Behavioural or Neurodevelopmental Disorders), Depressive episode (6A70, 6A71), p. 212-214 (f. 230-232) e p. 244-246 (f. 262-264) (confirmado no texto)",
+    "dose": false
+  },
+  {
+    "id": "dh-20-q1",
+    "itemId": "dh-20",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 14 anos com humor irritável na maior parte do dia, em mais dias do que não, há 14 meses, sem períodos de mais de 2 meses sem sintomas, com autoestima baixa e alterações do sono, e sem história de mania ou hipomania. Quanto à duração, segundo o DSM-5-TR, o quadro de perturbação depressiva persistente",
+    "options": [
+      "não cumpre, porque exige pelo menos 2 anos tal como nos adultos",
+      "não cumpre, porque exige pelo menos 3 anos nos adolescentes",
+      "não cumpre, porque a irritabilidade só conta como humor depressivo em adultos",
+      "cumpre o critério, porque em crianças e adolescentes basta pelo menos 1 ano"
+    ],
+    "correct": 3,
+    "explanation": "No DSM-5-TR a duração exigida é de pelo menos 1 ano em crianças e adolescentes (2 anos em adultos), com pelo menos 2 sintomas adicionais e sem períodos de mais de 2 meses sem sintomas. A irritabilidade conta como humor deprimido em crianças e adolescentes.",
+    "source": "AACAP, Clinical Practice Guideline for Major and Persistent Depressive Disorders (Walter et al.), JAACAP 2023;62(5):479-502, https://www.jaacap.org/article/S0890-8567(22)01852-4/fulltext; DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Persistent Depressive Disorder, critérios A a E); OMS, CID-11 CDDR (Clinical Descriptions and Diagnostic Requirements for ICD-11 Mental, Behavioural or Neurodevelopmental Disorders), Dysthymic disorder (6A72), p. 255-256 (f. 273-274) (confirmado no texto)",
+    "dose": false
+  },
+  {
+    "id": "dh-21-q1",
+    "itemId": "dh-21",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Segundo o DSM-5-TR, em que faixa etária pode a perturbação de desregulação disruptiva do humor ser diagnosticada pela primeira vez?",
+    "options": [
+      "Não antes dos 3 nem depois dos 12 anos",
+      "Não antes dos 6 nem depois dos 18 anos",
+      "Apenas a partir dos 10 anos, sem limite superior",
+      "Não antes dos 12 nem depois dos 21 anos"
+    ],
+    "correct": 1,
+    "explanation": "O DSM-5-TR não permite o primeiro diagnóstico antes dos 6 nem depois dos 18 anos, com início dos sintomas antes dos 10. A CID-11 não tem esta categoria como diagnóstico autónomo.",
+    "source": "NIMH, Disruptive Mood Dysregulation Disorder: The Basics (rev. 2023), https://www.nimh.nih.gov/health/publications/disruptive-mood-dysregulation-disorder; Rao U, DSM-5: Disruptive Mood Dysregulation Disorder, Asian J Psychiatry 2014, https://pmc.ncbi.nlm.nih.gov/articles/PMC4254488/; DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Disruptive Mood Dysregulation Disorder, critérios A a K; código F34.81); OMS, CID-11 CDDR (Clinical Descriptions and Diagnostic Requirements for ICD-11 Mental, Behavioural or Neurodevelopmental Disorders), Oppositional defiant disorder (6C90.0 e 6C90.1), p. 538-540 (f. 556-558); Other specified mood disorder (6A8Y), p. 263 (f. 281); não há entrada para desregulação disruptiva do humor (pesquisa no texto sem resultados); Rao 2014 confirmado no texto (critérios: 3 ou mais explosões por semana, 12 meses, 2 de 3 contextos, primeira vez entre os 6 e os 18 anos, início antes dos 10; sem coexistência com oposição e desafio, perturbação explosiva intermitente ou bipolar); a fonte NIMH não foi fornecida",
+    "dose": false
+  },
+  {
+    "id": "dh-22-q1",
+    "itemId": "dh-22",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Adolescente de 15 anos com humor deprimido e mais um sintoma depressivo há 3 semanas, com sofrimento e prejuízo, sem cumprir critérios de episódio depressivo major. Segundo o DSM-5-TR, que categoria se pondera?",
+    "options": [
+      "Perturbação depressiva major, em episódio único",
+      "Perturbação depressiva persistente (distimia)",
+      "Outra perturbação depressiva especificada",
+      "Perturbação de desregulação disruptiva do humor"
+    ],
+    "correct": 2,
+    "explanation": "Quando há sofrimento e prejuízo sem critérios completos, o DSM-5-TR prevê outra perturbação depressiva especificada, por exemplo o episódio com sintomas insuficientes (humor deprimido mais pelo menos um dos outros oito sintomas durante 2 semanas ou mais). Os outros diagnósticos exigem critérios completos ou durações maiores.",
+    "source": "AACAP, Clinical Practice Guideline for Major and Persistent Depressive Disorders (Walter et al.), JAACAP 2023;62(5):479-502, https://www.jaacap.org/article/S0890-8567(22)01852-4/fulltext; AACAP 2023, p. 480: a depressão manifesta-se num espectro de subsindromática a grave (confirmado no texto; a diretriz não trata a depressão subsindromática); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Other Specified Depressive Disorder, exemplos 2 e 3; código F32.89)",
+    "dose": false
+  },
+  {
+    "id": "dh-24-q1",
+    "itemId": "dh-24",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Quanto à irritabilidade como critério de mania na criança e no jovem, o que diverge entre as fontes?",
+    "options": [
+      "O DSM-5-TR e a CID-11 exigem euforia, e só o NICE aceita humor irritável",
+      "As três fontes consideram suficiente a irritabilidade crónica, mesmo sem episódio distinto",
+      "O NICE aceita humor irritável como critério central, e o DSM-5-TR e a CID-11 não",
+      "O NICE não a considera critério central; o DSM-5-TR e a CID-11 aceitam humor irritável"
+    ],
+    "correct": 3,
+    "explanation": "O NICE exige euforia na maior parte dos dias durante pelo menos 7 dias e não considera a irritabilidade um critério central, enquanto o DSM-5-TR e a CID-11 aceitam humor irritável. Em todas é preciso um episódio distinto, diferente do habitual; a irritabilidade crónica não basta.",
+    "source": "NICE CG185 (Bipolar disorder: assessment and management; publicada 24/09/2014, última atualização 02/09/2025), https://www.nice.org.uk/guidance/cg185/chapter/Recommendations (rec. 1.11.5, 1.11.7); CANMAT/ISBD 2018 guidelines for the management of patients with bipolar disorder (Yatham et al.), Bipolar Disord 2018;20(2):97-170, https://pubmed.ncbi.nlm.nih.gov/29536616/ (secção 7.2 e tabela 22); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Bipolar I Disorder, Manic Episode, critérios A e B, Diagnostic Features e Differential Diagnosis: em crianças com irritabilidade grave só se aplica com episódio claro, e a irritabilidade persistente e grave aponta para desregulação disruptiva do humor); NICE CG185 rec. 1.11.5 e 1.11.7 confirmadas no texto (mania presente; euforia na maior parte dos dias e do tempo durante pelo menos 7 dias; a irritabilidade não é critério diagnóstico central); OMS, CID-11 CDDR (Clinical Descriptions and Diagnostic Requirements for ICD-11 Mental, Behavioural or Neurodevelopmental Disorders), Manic episode, p. 217-219 (f. 235-237) e Hypomanic episode, p. 222-223 (f. 240-241) (confirmado no texto); Rao 2014 não confirma o critério DSM de mania com humor irritável e foi retirado desta fonte",
+    "dose": false
+  },
+  {
+    "id": "dh-26-q1",
+    "itemId": "dh-26",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Numa depressão pré-pubertária, qual dos seguintes é apontado como sinal de maior risco de evolução para bipolaridade?",
+    "options": [
+      "Presença de sintomas psicóticos na depressão",
+      "Ausência de história familiar de bipolaridade",
+      "Início mais tardio do episódio depressivo",
+      "Insónia inicial isolada, sem outros sintomas"
+    ],
+    "correct": 0,
+    "explanation": "A fonte aponta como sinais de maior risco a hipomania espontânea ou induzida por antidepressivo, os sintomas psicóticos, a hipersónia e a história familiar de bipolaridade. A CID-11 refere ainda o início mais precoce, e não mais tardio, como fator de vulnerabilidade.",
+    "source": "AACAP, Clinical Practice Guideline for Major and Persistent Depressive Disorders (Walter et al.), JAACAP 2023;62(5):479-502, https://www.jaacap.org/article/S0890-8567(22)01852-4/fulltext, p. 480 (risco de 10 a 20% e preditores, incluindo hipersónia: confirmado no texto); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Bipolar I Disorder, Hypomanic Episode, nota sobre antidepressivos; Major Depressive Disorder, Development and Course e Differential Diagnosis: início na adolescência, características psicóticas e história familiar aumentam o risco); OMS, CID-11 CDDR (Clinical Descriptions and Diagnostic Requirements for ICD-11 Mental, Behavioural or Neurodevelopmental Disorders), p. 236 (f. 254) e p. 251 (f. 269) (confirmado no texto); NICE CG185 rec. 1.11.6 (não diagnosticar bipolaridade em jovens com depressão e história familiar, mas seguir) confirmada",
+    "dose": false
+  },
+  {
+    "id": "dh-27-q1",
+    "itemId": "dh-27",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 15 anos com um primeiro quadro psicótico, que refere noites seguidas a dormir muito pouco sem cansaço no dia seguinte e um tio com bipolaridade. Em cuidados primários, o que recomenda o NICE perante a suspeita de bipolaridade?",
+    "options": [
+      "Manter em cuidados primários, sem encaminhamento, e reavaliar passados 12 meses",
+      "Encaminhar para intervenção precoce em psicose ou para CAMHS com experiência em bipolaridade",
+      "Excluir mania, porque a presença de psicose a torna improvável neste adolescente",
+      "Tratar como psicose isolada, sem investigar sono nem história familiar de bipolaridade"
+    ],
+    "correct": 1,
+    "explanation": "Um primeiro quadro psicótico no adolescente pode ser mania, e convém perguntar pela redução da necessidade de sono, pelas mudanças de humor e energia e pela história familiar. A partir dos 14 anos o NICE recomenda encaminhar para intervenção precoce em psicose ou para CAMHS com experiência em bipolaridade, depois de excluir psicose por substâncias ou condição médica.",
+    "source": "NICE CG185 (Bipolar disorder: assessment and management; publicada 24/09/2014, última atualização 02/09/2025), https://www.nice.org.uk/guidance/cg185/chapter/Recommendations (rec. 1.3.3, 1.11.3); CANMAT/ISBD 2018 guidelines for the management of patients with bipolar disorder (Yatham et al.), Bipolar Disord 2018;20(2):97-170, https://pubmed.ncbi.nlm.nih.gov/29536616/ (secção 7.2: sono reduzido, alucinações e delírios na mania da criança; tabela 6: história familiar); AACAP, Practice Parameter for the Assessment and Treatment of Children and Adolescents With Bipolar Disorder (McClellan et al.), JAACAP 2007, ficheiro p. 9 (psicose no adolescente pode ser a primeira apresentação de mania; avaliar diminuição marcada da necessidade de sono, labilidade afetiva e história familiar positiva: confirmado no texto); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Bipolar I Disorder, Manic Episode, critério C: características psicóticas); NICE CG185 rec. 1.11.2 (menos de 14 anos: CAMHS), 1.11.3 (14 anos ou mais: serviço de intervenção precoce em psicose ou equipa CAMHS com experiência) e 1.3.3 confirmadas no texto; OMS, CID-11 CDDR (Clinical Descriptions and Diagnostic Requirements for ICD-11 Mental, Behavioural or Neurodevelopmental Disorders), Manic episode, p. 218 (f. 236): os episódios maníacos podem ter sintomas psicóticos (delírios de grandeza, persecutórios e de referência são os mais comuns)",
+    "dose": false
+  },
+  {
+    "id": "dh-29-q1",
+    "itemId": "dh-29",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Menina de 5 anos que no jogo repete temas de morte, diz 'não quero estar aqui' e por vezes bate com a cabeça na parede. Como se deve interpretar?",
+    "options": [
+      "Frases passivas sem intenção explícita não têm significado de risco",
+      "A triagem de risco só se justifica a partir do início da adolescência",
+      "As autolesões só são relevantes se forem explicitamente suicidas",
+      "Podem traduzir ideação ou autolesão, e justificam abrir a triagem de risco"
+    ],
+    "correct": 3,
+    "explanation": "Na criança pequena a ideação pode surgir como frases passivas ou temas de morte no jogo, e podem ocorrer autolesões não explicitamente suicidas, como bater com a cabeça ou arranhar. Perante a suspeita abre-se a triagem de risco. As outras opções minimizam esses sinais.",
+    "source": "NICE NG134, 2019, https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.1.7); GLAD-PC Part I (Zuckerbrot et al.), Pediatrics 2018;141(3):e20174081, https://publications.aap.org/pediatrics/article/141/3/e20174081/37626/Guidelines-for-Adolescent-Depression-in-Primary; NICE NG134, rec. 1.1.7 e 1.3.14 (ideação ou planos suicidas ativos: critério de referenciação a CAMHS), https://www.nice.org.uk/guidance/ng134/chapter/Recommendations; NICE NG134 rec. 1.1.7 (perguntar sempre à criança e aos pais sobre álcool e drogas, maus-tratos ou bullying, autolesão e ideação suicida, com oportunidade de falar em privado) e 1.3.14 (ideias ou planos suicidas ativos) confirmadas no texto; OMS, CID-11 CDDR (Clinical Descriptions and Diagnostic Requirements for ICD-11 Mental, Behavioural or Neurodevelopmental Disorders), Depressive episode, Developmental presentations, p. 214-215 (f. 232-233): suicidalidade como frases passivas ou temas de morte no jogo nas crianças pequenas; autolesão não suicida (bater com a cabeça, arranhar; cortar, queimar nos adolescentes)",
+    "dose": false
+  },
+  {
+    "id": "dh-32-q1",
+    "itemId": "dh-32",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Num estudo longitudinal comunitário, o que tendeu a predizer a irritabilidade episódica?",
+    "options": [
+      "Aparecimento de mania",
+      "Depressão e ansiedade",
+      "Perturbação de oposição e desafio",
+      "Défice intelectual"
+    ],
+    "correct": 0,
+    "explanation": "Nesse estudo a irritabilidade episódica tendeu a predizer mania, e a crónica tendeu a predizer depressão e ansiedade. Os dois tipos de irritabilidade são distintos.",
+    "source": "Rao U, DSM-5: Disruptive Mood Dysregulation Disorder, Asian J Psychiatry 2014, https://pmc.ncbi.nlm.nih.gov/articles/PMC4254488/; DSM-5-TR (APA, 2022), confirmado no texto do manual apenas para a irritabilidade crónica (secção Disruptive Mood Dysregulation Disorder, Development and Course: conversão para bipolar muito rara, maior risco de depressão unipolar e ansiedade); a parte sobre a irritabilidade episódica e a mania não consta do manual, mas consta de Rao 2014 (confirmado no texto: Leibenluft et al. 2006, 776 jovens da comunidade, a irritabilidade crónica na adolescência predisse depressão major em jovem adulto e a episódica predisse mania; Stringaris 2009: crónica predisse depressão e perturbação de ansiedade generalizada aos 33 anos)",
+    "dose": false
+  },
+  {
+    "id": "dh-33-q1",
+    "itemId": "dh-33",
+    "category": "dominios",
+    "type": "memoria",
+    "text": "Que proporção de jovens com depressão tem outra perturbação associada (ansiedade, comportamento disruptivo, TDAH, consumo de substâncias)?",
+    "options": [
+      "Menos de 10%",
+      "Cerca de 20% a 30%",
+      "Entre 40% e 90%",
+      "Praticamente todos, mais de 95%"
+    ],
+    "correct": 2,
+    "explanation": "A fonte refere entre 40% e 90% de jovens com depressão com outra perturbação, e cada uma pode precisar de plano próprio. Valores abaixo de 30% ou acima de 95% ficam fora dessa faixa.",
+    "source": "AACAP, Clinical Practice Guideline for Major and Persistent Depressive Disorders (Walter et al.), JAACAP 2023;62(5):479-502, https://www.jaacap.org/article/S0890-8567(22)01852-4/fulltext; GLAD-PC Part I (Zuckerbrot et al.), Pediatrics 2018;141(3):e20174081, https://publications.aap.org/pediatrics/article/141/3/e20174081/37626/Guidelines-for-Adolescent-Depression-in-Primary; NICE NG134, rec. 1.1.6 e 1.1.25 (comorbilidades a avaliar e tratar em sequência ou em paralelo com a depressão), https://www.nice.org.uk/guidance/ng134/chapter/Recommendations; AACAP 2023, p. 484: \"as many as 40% to 90%\" dos jovens com depressão têm comorbilidades psiquiátricas (ansiedade, comportamento disruptivo, TDAH, consumo de substâncias) e cada uma pode precisar de plano de tratamento próprio (confirmado no texto); NICE NG134 rec. 1.1.6 e 1.1.25 confirmadas no texto (avaliar e registar comorbilidades; tratar em sequência ou em paralelo); OMS, CID-11 CDDR (Clinical Descriptions and Diagnostic Requirements for ICD-11 Mental, Behavioural or Neurodevelopmental Disorders), p. 251 (f. 269): coocorrência comum com ansiedade, perturbação de sofrimento corporal, obsessivo-compulsivas, oposição e desafio, substâncias, alimentação e personalidade",
+    "dose": false
+  },
+  {
+    "id": "dh-34-q1",
+    "itemId": "dh-34",
+    "category": "dominios",
+    "type": "caso",
+    "text": "Rapaz de 11 anos com TDAH, distraibilidade e hiperatividade constantes, cujos pais pensam em mania. Segundo a fonte, quando contam esses sintomas para mania?",
+    "options": [
+      "Sempre, porque distração e hiperatividade são sintomas centrais de mania",
+      "Nunca, porque a presença de TDAH exclui mania segundo a CID-11",
+      "Só se piorarem nos períodos de euforia ou irritabilidade",
+      "Sempre que persistirem mais de 6 meses, mesmo sem relação com o humor"
+    ],
+    "correct": 2,
+    "explanation": "Os sintomas comuns (distração, hiperatividade) só contam para mania se piorarem nos períodos de euforia ou irritabilidade. Na CID-11 o TDAH tem início antes dos 12 anos, é persistente e não está ligado a mudanças de humor ou energia, e os dois diagnósticos podem coexistir.",
+    "source": "NICE CG185 (Bipolar disorder: assessment and management; publicada 24/09/2014, última atualização 02/09/2025), https://www.nice.org.uk/guidance/cg185/chapter/Recommendations (rec. 1.1.2, 1.3.2, 1.3.3, 1.11.7); CANMAT/ISBD 2018 guidelines for the management of patients with bipolar disorder (Yatham et al.), Bipolar Disord 2018;20(2):97-170, https://pubmed.ncbi.nlm.nih.gov/29536616/ (secção 7.2 e tabela 22; comorbilidades); DSM-5-TR (APA, 2022), confirmado no texto do manual (secção Bipolar I Disorder, Differential Diagnosis: os sintomas do TDAH sobrepõem-se à mania, mas a mania ocorre em episódios distintos; na irritabilidade persistente grave é mais adequada a desregulação disruptiva do humor); NICE CG185 rec. 1.1.2 (coexistência com TDAH, ansiedade e abuso de substâncias), 1.3.2 (trauma precoce e perturbação do desenvolvimento), 1.3.3 e 1.11.7 confirmadas no texto; OMS, CID-11 CDDR (Clinical Descriptions and Diagnostic Requirements for ICD-11 Mental, Behavioural or Neurodevelopmental Disorders), Manic episode, Boundary with ADHD, p. 220 (f. 238), e Bipolar disorders, p. 238 (f. 256), e Boundary with oppositional defiant disorder, p. 239 (f. 257) (confirmado no texto)",
+    "dose": false
+  }
+]
