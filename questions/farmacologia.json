@@ -1,0 +1,376 @@
+[
+  {
+    "id": "farmaco-bipolar-psicose-6-q1",
+    "itemId": "farmaco-bipolar-psicose-6",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a RCM europeia do Abilify (EMA), num adolescente de 13 anos com mania moderada a grave em perturbação bipolar I, qual é a dose diária de aripiprazol a atingir?",
+    "options": [
+      "15 mg/dia numa toma diária",
+      "20 mg/dia numa toma diária",
+      "10 mg/dia numa toma diária",
+      "25 mg/dia numa toma diária"
+    ],
+    "correct": 2,
+    "explanation": "Segundo a RCM europeia do Abilify, a partir dos 13 anos na mania bipolar I a dose recomendada é 10 mg/dia numa toma, após início com 2 mg e 5 mg, durante um máximo de 12 semanas. Não há maior eficácia acima de 10 mg/dia; 30 mg/dia associa-se a mais sintomas extrapiramidais, sonolência, fadiga e aumento de peso, e doses acima de 10 mg só em casos excecionais com monitorização. Por isso 15, 20 ou 25 mg/dia não são a dose-alvo.",
+    "source": "NICE CG185, 2014 (última atualização 02/09/2025, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg185/chapter/Recommendations, rec. 1.11.9; CANMAT/ISBD 2018 guidelines for the management of patients with bipolar disorder (Bipolar Disord 2018; PubMed 29536616), texto integral lido via Europe PMC https://pmc.ncbi.nlm.nih.gov/articles/PMC5947163/ , secção 7.2 (crianças e adolescentes) (7.2.2); EMA, RCM do Abilify em português, https://www.ema.europa.eu/pt/documents/product-information/abilify-epar-product-information_pt.pdf (lida a 10/10/2026), secção 4.1, 4.2 (População pediátrica) e 4.4",
+    "dose": true
+  },
+  {
+    "id": "farmaco-bipolar-psicose-34-q1",
+    "itemId": "farmaco-bipolar-psicose-34",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a RCM do Haldol, num adolescente de 15 anos com esquizofrenia (13 a 17 anos), qual é o intervalo de dose diária oral de haloperidol?",
+    "options": [
+      "0,5 a 3 mg/dia, de preferência em 2 a 3 tomas",
+      "1 a 6 mg/dia, de preferência numa só toma",
+      "5 a 10 mg/dia, de preferência em 2 a 3 tomas",
+      "0,1 a 0,5 mg/dia, de preferência numa só toma"
+    ],
+    "correct": 0,
+    "explanation": "A RCM do Haldol (tabela 3), para esquizofrenia dos 13 aos 17 anos, indica 0,5 a 3 mg/dia por via oral, de preferência em 2 a 3 tomas; acima de 3 mg/dia avalia-se o risco-benefício individual e o máximo recomendado é 5 mg/dia. As outras faixas ou ficam acima do máximo recomendado ou ficam abaixo do intervalo indicado.",
+    "source": "NICE CG155, 2013 (última atualização 26/10/2016, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg155/chapter/Recommendations, rec. 1.5.15; RCM Infarmed obtida via INFOMED (https://extranet.infarmed.pt/INFOMED-fo/, pesquisa avançada, sem URL estável) a 10/10/2026 (RCM Haldol, 4.1, 4.2 Tabela 3, 4.3 e 4.4)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-phda-tiques-11-q1",
+    "itemId": "farmaco-phda-tiques-11",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a RCM da atomoxetina, numa criança de 10 anos com PHDA e peso inferior a 70 kg, qual é a dose de manutenção aproximada, acima da qual não há benefício adicional?",
+    "options": [
+      "Cerca de 2,4 mg/kg/dia",
+      "Cerca de 3,6 mg/kg/dia",
+      "Cerca de 4,8 mg/kg/dia",
+      "Cerca de 1,2 mg/kg/dia"
+    ],
+    "correct": 3,
+    "explanation": "Segundo a RCM, até 70 kg inicia-se com cerca de 0,5 mg/kg/dia durante pelo menos 7 dias e a manutenção é cerca de 1,2 mg/kg/dia, sem benefício adicional acima disso. Os valores de 2,4 mg/kg/dia ou mais duplicam, triplicam ou quadruplicam a dose de manutenção e excedem o limiar de 1,8 mg/kg/dia cuja segurança não foi sistematicamente avaliada. A CADDRA canadiana tem um teto algo diferente, mas a pergunta usa a RCM.",
+    "source": "NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.7.10); CADDRA, Guide to ADHD pharmacological treatments in Canada, maio de 2026, https://www.caddra.ca/wp-content/uploads/CADDRA_ADHD-Medication-Chart_EN_FINAL.pdf (doses das monografias canadianas, não da RCM português); Coghill D, Banaschewski T et al. (European ADHD Guidelines Group), Eur Child Adolesc Psychiatry 2021, doi 10.1007/s00787-021-01871-x, https://pmc.ncbi.nlm.nih.gov/articles/PMC8532460/ (Tabela 4); AAP, Wolraich et al., Pediatrics 2019;144(4):e20192528, https://pmc.ncbi.nlm.nih.gov/articles/PMC7067282/ (secção 'Medication for ADHD': evidência 'suficiente mas menos forte' para atomoxetina, depois guanfacina e clonidina de libertação prolongada)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-phda-tiques-8-q1",
+    "itemId": "farmaco-phda-tiques-8",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a RCM do metilfenidato de libertação prolongada (osmótico), numa criança de 8 anos com PHDA, qual é a dose inicial diária?",
+    "options": [
+      "9 mg, 1 vez ao dia, de manhã",
+      "18 mg, 1 vez ao dia, de manhã",
+      "36 mg, 1 vez ao dia, de manhã",
+      "54 mg, 1 vez ao dia, de manhã"
+    ],
+    "correct": 1,
+    "explanation": "A RCM indica 18 mg 1 vez ao dia de manhã como dose inicial, com aumentos de 18 mg com cerca de 1 semana de intervalo e máximo de 54 mg/dia em crianças. 36 mg e 54 mg são doses de passos seguintes ou do teto, não de início, e 9 mg fica abaixo da dose inicial indicada.",
+    "source": "NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.7.7, 1.7.8, 1.7.20 a 1.7.22); AAP, Wolraich et al., Pediatrics 2019;144(4):e20192528, https://pmc.ncbi.nlm.nih.gov/articles/PMC7067282/ (KAS 5b e 5c, secção 'Medication for ADHD'); Coghill D, Banaschewski T et al. (European ADHD Guidelines Group), Eur Child Adolesc Psychiatry 2021, doi 10.1007/s00787-021-01871-x, https://pmc.ncbi.nlm.nih.gov/articles/PMC8532460/ (Tabela 4, sequência de medicação); RCM Infarmed do metilfenidato de libertação prolongada, consultado 10/10/2026",
+    "dose": true
+  },
+  {
+    "id": "farmaco-sono-outros-16-q1",
+    "itemId": "farmaco-sono-outros-16",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a RCM da desmopressina em comprimidos sublinguais (60/120 µg), numa criança de 8 anos com enurese noturna primária, qual é a dose inicial ao deitar?",
+    "options": [
+      "60 µg",
+      "180 µg",
+      "120 µg",
+      "360 µg"
+    ],
+    "correct": 2,
+    "explanation": "Nos RCM dos comprimidos sublinguais a dose inicial é 120 µg ao deitar, aumentável para 240 µg, em crianças a partir dos 5 anos com enurese noturna primária. O tratamento dura até 3 meses e suspende-se se não houver efeito após 4 semanas de ajuste adequado. As outras doses não correspondem ao esquema da RCM.",
+    "source": "NICE CG111, Bedwetting in under 19s (publicada 27/10/2010; 'Last reviewed 21/11/2018': sem nova evidência que altere as recomendações), https://www.nice.org.uk/guidance/cg111/chapter/Recommendations; RCM Desmopressina Sandoz 60/120 µg comprimidos sublinguais (aprovado 15/11/2023), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=690804&tipo_doc=rcm; RCM Desmopressina Teva 0,1/0,2 mg comprimidos (aprovado 14/07/2024), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=47593&tipo_doc=rcm; RCM Minirin liofilizado oral (aprovado 14/09/2011), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=38487&tipo_doc=rcm; RCM Desmopressina Teva 60/120 µg sublingual (INFOMED; revisão do texto 06-2025), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=696084&tipo_doc=rcm",
+    "dose": true
+  },
+  {
+    "id": "farmaco-sono-outros-4-q1",
+    "itemId": "farmaco-sono-outros-4",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a RCM do Slenyto (melatonina de libertação prolongada), numa criança de 6 anos com perturbação do espetro do autismo e insónia, qual é a dose inicial?",
+    "options": [
+      "2 mg, 30 min a 1 h antes de deitar",
+      "0,5 mg, 30 min a 1 h antes de deitar",
+      "4 mg, 30 min a 1 h antes de deitar",
+      "8 mg, 30 min a 1 h antes de deitar"
+    ],
+    "correct": 0,
+    "explanation": "A RCM do Slenyto (2 a 18 anos, PEA ou doenças neurogenéticas) indica início com 2 mg, passando a 5 mg se a resposta for inadequada, com máximo de 10 mg/dia, numa toma 30 min a 1 h antes de deitar. As doses de 4 e 8 mg não fazem parte do esquema e 0,5 mg fica abaixo do início indicado.",
+    "source": "RCM do Slenyto no INFOMED/Infarmed (descarregado a 10/10/2026; 1.ª autorização 20/09/2018, renovação 05/06/2023; secção 10 sem data preenchida no PDF), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=638506&tipo_doc=rcm; EMA, Slenyto EPAR (visão geral; 'Last updated 01/04/2025'), https://www.ema.europa.eu/en/medicines/human/EPAR/slenyto",
+    "dose": true
+  },
+  {
+    "id": "farmaco-humor-ansiedade-36-q1",
+    "itemId": "farmaco-humor-ansiedade-36",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a RCM da sertralina (Sertralina Farmoz), numa criança de 8 anos com perturbação obsessivo-compulsiva (6 a 12 anos), qual é a dose inicial?",
+    "options": [
+      "10 mg, 1 vez por dia",
+      "75 mg, 1 vez por dia",
+      "100 mg, 1 vez por dia",
+      "25 mg, 1 vez por dia"
+    ],
+    "correct": 3,
+    "explanation": "A RCM indica, dos 6 aos 12 anos, 25 mg 1 vez por dia no início, que pode passar a 50 mg após 1 semana; dos 13 aos 17 anos o início é 50 mg. A dose máxima é 200 mg/dia, mas valores de 75 ou 100 mg não servem de início e 10 mg não consta do esquema.",
+    "source": "NICE CG31 (TOC e BDD), 2005, https://www.nice.org.uk/guidance/cg31/chapter/Recommendations (página consultada em 10/10/2026: 'Last reviewed: 11 July 2024', 'Update in progress'; atualização parcial GID-NG10435 por publicar, prevista 16/02/2027, consulta pública do projeto 17/09/2026 a 21/10/2026, texto do projeto NÃO lido, https://www.nice.org.uk/guidance/indevelopment/gid-ng10435) (rec. 1.5.5, 1.5.6.4); RCM Sertralina Farmoz aprovado pelo Infarmed em 25-02-2021, https://www.tecnimede.com/sites/default/files/portfolio/dosages/SERTRALINA%20FARMOZ_RCM.pdf (secções 4.1, 4.2, 4.4 e 5.1); FDA, rótulo ZOLOFT (DailyMed, setid fda754f6-d0f3-4dce-a17a-927d64f912f7, publicado 24/07/2025, texto revisto 8/2023), https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7 (secção 2.1, tabela 1)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-humor-ansiedade-8-q1",
+    "itemId": "farmaco-humor-ansiedade-8",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o rótulo FDA do escitalopram (Lexapro, não é dose portuguesa), num adolescente de 15 anos com depressão, qual é o máximo recomendado por dia?",
+    "options": [
+      "15 mg por dia",
+      "20 mg por dia",
+      "30 mg por dia",
+      "40 mg por dia"
+    ],
+    "correct": 1,
+    "explanation": "O rótulo FDA indica, na depressão a partir dos 12 anos, início com 10 mg/dia e subida até ao máximo de 20 mg/dia com intervalo de pelo menos 3 semanas. Em Portugal a RCM-modelo não autoriza o escitalopram abaixo dos 18 anos, pelo que esta dose não é portuguesa nem recomendação NICE ou AACAP. 30 e 40 mg excedem o máximo e 15 mg não é o teto indicado.",
+    "source": "NICE NG134 (depressão em crianças e jovens), 2019, última revisão 07/05/2024 (só simplificação, sem mudança de prática), https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.6.16, 1.6.22); AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Major and Persistent Depressive Disorders, JAACAP 2023;62(5):479-502, https://pubmed.ncbi.nlm.nih.gov/36273673/ (texto integral lido numa cópia PDF alojada em hscsnhealthplan.org; o site da JAACAP devolve 403) (Treatment Statement 2, Additional Support; Implementation: aprovação FDA); FDA, rótulo LEXAPRO (DailyMed, setid 13bb8267-1cab-43e5-acae-55a4d957630a, publicado 01/01/2026, texto revisto 4/2024), https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13bb8267-1cab-43e5-acae-55a4d957630a (secção 2.1); RCM-modelo Infarmed escitalopram (gotas), sem data de aprovação, https://www.infarmed.pt/documents/15786/1577857/Escitalopram_Gotas_RCM.doc/9bf0d52a-675f-440a-b94a-b2535019e6da (secções 4.2 e 4.4)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-phda-tiques-39-q1",
+    "itemId": "farmaco-phda-tiques-39",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a RCM da guanfacina de libertação prolongada, numa criança de 9 anos com PHDA que vai suspender o fármaco, como deve ser feita a descida?",
+    "options": [
+      "Decréscimos de no máximo 1 mg a cada 3 a 7 dias, com tensão arterial e pulso monitorizados",
+      "Decréscimos de até 2 mg a cada 3 a 7 dias, com tensão arterial e pulso monitorizados",
+      "Decréscimos de no máximo 1 mg a cada 1 a 2 dias, com tensão arterial e pulso monitorizados",
+      "Decréscimos de até 2 mg a cada 1 a 2 dias, com tensão arterial e pulso monitorizados"
+    ],
+    "correct": 0,
+    "explanation": "A RCM manda descer em decréscimos de no máximo 1 mg a cada 3 a 7 dias, com tensão arterial e pulso monitorizados, porque a suspensão abrupta pode causar subida da tensão arterial e da frequência cardíaca (muito rara encefalopatia hipertensiva). Os outros esquemas não são o da RCM.",
+    "source": "RCM guanfacina de libertação prolongada (INFOMED/Infarmed, med_id 600122), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=600122&tipo_doc=rcm, secção 4.2, Titulação decrescente e descontinuação, consultado em 10/10/2026; AAP, Wolraich et al., Pediatrics 2019;144(4):e20192528, https://pmc.ncbi.nlm.nih.gov/articles/PMC7067282/ (secção 'Side Effects': hipertensão de ressalto após suspensão abrupta de guanfacina e clonidina, que devem ser reduzidas e não suspensas de repente); AAN, Pringsheim T et al., Practice guideline recommendations summary: treatment of tics in people with Tourette syndrome and chronic tic disorders, Neurology 2019;92(19):896-906, https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/ (rec. 8f)",
+    "dose": true
+  },
+  {
+    "id": "farmaco-sono-outros-39-q1",
+    "itemId": "farmaco-sono-outros-39",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a RCM do adesivo de nicotina Niquitin Clear, num adolescente de 15 anos que fuma 15 cigarros por dia (não é fumador moderado, ou seja, com menos de 10 cigarros/dia), qual é a fase 1 do esquema?",
+    "options": [
+      "21 mg/24 h durante 2 semanas",
+      "28 mg/24 h durante 6 semanas",
+      "21 mg/24 h durante 6 semanas",
+      "21 mg/24 h durante 12 semanas"
+    ],
+    "correct": 2,
+    "explanation": "Os adolescentes de 12 a 17 anos seguem o esquema do adulto: fase 1 com 21 mg/24 h durante 6 semanas, fase 2 com 14 mg durante 2 semanas e fase 3 com 7 mg durante 2 semanas. A duração máxima em adolescentes é 12 semanas para o conjunto do tratamento, não para a fase 1, e 28 mg não existe no esquema.",
+    "source": "RCM Niquitin Clear 7/14/21 mg/24 h (INFOMED; data do texto não legível no PDF), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=34250&tipo_doc=rcm",
+    "dose": true
+  },
+  {
+    "id": "farmaco-sono-outros-15-q1",
+    "itemId": "farmaco-sono-outros-15",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapaz de 8 anos com enurese noturna, com 4 noites molhadas por semana. Os conselhos sobre líquidos, idas à casa de banho e recompensas não resultaram. Os pais estão motivados e sem raiva ou culpabilização. Segundo o NICE CG111, qual é a abordagem de 1.ª linha?",
+    "options": [
+      "Anticolinérgico isolado, como a oxibutinina",
+      "Alarme de enurese",
+      "Aguardar mais 6 meses sem tratamento",
+      "Desmopressina obrigatória antes de qualquer alarme"
+    ],
+    "correct": 1,
+    "explanation": "Segundo o NICE CG111, quando os conselhos não bastam deve oferecer-se o alarme de enurese, salvo se for indesejado ou inapropriado (por exemplo, muito poucas camas molhadas por semana ou pais com raiva ou culpabilização), o que não é o caso. O item não prevê anticolinérgico isolado como 1.ª linha, e a desmopressina é alternativa e não passo obrigatório prévio.",
+    "source": "NICE CG111, Bedwetting in under 19s (publicada 27/10/2010; 'Last reviewed 21/11/2018': sem nova evidência que altere as recomendações), https://www.nice.org.uk/guidance/cg111/chapter/Recommendations; ICCS, Neveus et al., J Pediatr Urol 2020;16(1):10-19 (só li o resumo no PubMed; texto integral pago, não acedido), https://pubmed.ncbi.nlm.nih.gov/32278657/",
+    "dose": false
+  },
+  {
+    "id": "farmaco-humor-ansiedade-35-q1",
+    "itemId": "farmaco-humor-ansiedade-35",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapariga de 14 anos com TOC, incapacidade moderada a grave e sem resposta adequada à TCC com exposição e prevenção de resposta, sem depressão comórbida significativa. Segundo o NICE CG31, após revisão multidisciplinar e mantendo a TCC, qual é a conduta farmacológica?",
+    "options": [
+      "Oferecer fluoxetina, mesmo sem depressão comórbida",
+      "Oferecer um antipsicótico isolado",
+      "Adiar qualquer ISRS até aos 18 anos",
+      "Oferecer um ISRS licenciado, como a sertralina ou a fluvoxamina"
+    ],
+    "correct": 3,
+    "explanation": "Aos 12 a 18 anos o NICE CG31 diz que a adição de ISRS deve ser oferecida, com medicamento licenciado (sertralina ou fluvoxamina), em combinação com TCC concomitante. A fluoxetina reserva-se para depressão comórbida significativa, o item só prevê ISRS licenciado em combinação com TCC e não prevê antipsicótico isolado, e não há razão para esperar pelos 18 anos.",
+    "source": "NICE CG31 (TOC e BDD), 2005, https://www.nice.org.uk/guidance/cg31/chapter/Recommendations (página consultada em 10/10/2026: 'Last reviewed: 11 July 2024', 'Update in progress'; atualização parcial GID-NG10435 por publicar, prevista 16/02/2027, consulta pública do projeto 17/09/2026 a 21/10/2026, texto do projeto NÃO lido, https://www.nice.org.uk/guidance/indevelopment/gid-ng10435) (rec. 1.5.5.2, 1.5.5.3, 1.5.6.1, 1.5.6.2, 1.5.6.4, 1.5.6.6)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-phda-tiques-18-q1",
+    "itemId": "farmaco-phda-tiques-18",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Menino de 9 anos com PHDA vai iniciar um estimulante. Não tem sintomas cardíacos, história cardíaca pessoal ou familiar de morte súbita, nem toma fármaco de risco cardíaco. Segundo o NICE NG87, qual é a conduta antes de iniciar?",
+    "options": [
+      "Não é necessário ECG de rotina",
+      "Fazer sempre ECG de 12 derivações",
+      "Pedir sempre parecer de cardiologia",
+      "Fazer ECG e ecocardiograma de rotina"
+    ],
+    "correct": 0,
+    "explanation": "O NICE NG87 diz que o ECG não é necessário antes de estimulantes, atomoxetina ou guanfacina, salvo se existirem sinais de alarme cardíacos (por exemplo cardiopatia congénita, morte súbita precoce de familiar, síncope de esforço, sopro) ou condição tratada com fármaco de risco cardíaco. Sem nenhum destes, o ECG, o ecocardiograma e o parecer de cardiologia de rotina não estão indicados.",
+    "source": "NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.7.4, 1.7.5 e 1.7.6); concordância sobre história cardíaca e familiar e ausência de ECG de rotina nas guidelines comparadas em Coghill D, Banaschewski T et al. (European ADHD Guidelines Group), Eur Child Adolesc Psychiatry 2021, doi 10.1007/s00787-021-01871-x, https://pmc.ncbi.nlm.nih.gov/articles/PMC8532460/ (Tabela 5); AAP, Wolraich et al., Pediatrics 2019;144(4):e20192528, https://pmc.ncbi.nlm.nih.gov/articles/PMC7067282/ (secção 'Side Effects': história de sintomas cardíacos e antecedentes familiares de morte súbita, síndrome de Wolff-Parkinson-White, miocardiopatia hipertrófica e QT longo; se houver fatores de risco, avaliação adicional e, antes de não estimulantes, ECG e eventual cardiologia pediátrica)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-phda-tiques-47-q1",
+    "itemId": "farmaco-phda-tiques-47",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapaz de 11 anos com tiques motores e vocais crónicos que o incomodam, já com psicoeducação feita, e com terapia comportamental acessível. Segundo a AAN, qual é a opção a oferecer antes da medicação?",
+    "options": [
+      "Aripiprazol em dose de início baixa",
+      "Haloperidol em dose de início baixa",
+      "CBIT (treino de reversão de hábito com relaxamento e intervenção funcional)",
+      "Topiramato em dose de início baixa"
+    ],
+    "correct": 2,
+    "explanation": "A AAN manda oferecer CBIT antes da medicação quando acessível; é a 1.ª linha comportamental, com protocolo de 8 sessões nos ensaios, e a manutenção dos ganhos está documentada a partir dos 9 anos, idade que este doente cumpre. Os fármacos citados ficam para quando a abordagem comportamental não for acessível ou não bastar.",
+    "source": "AAN, Pringsheim T et al., Practice guideline recommendations summary: treatment of tics in people with Tourette syndrome and chronic tic disorders, Neurology 2019;92(19):896-906, https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/ (rec. 7a, 7b, 7c e texto de racional 'Behavioral treatments'); ESSTS, Andrén P et al., versão 2.0, Parte II (intervenções psicológicas), Eur Child Adolesc Psychiatry 2022;31(3):403-423, doi 10.1007/s00787-021-01845-z, https://pmc.ncbi.nlm.nih.gov/articles/PMC8314030/ (secção de recomendações finais: HRT/CBIT e ERP como 1.ª linha quando a psicoeducação não basta)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-humor-ansiedade-12-q1",
+    "itemId": "farmaco-humor-ansiedade-12",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapariga de 15 anos com depressão moderada a grave que acabou de iniciar um ISRS. Segundo o NICE NG134, que monitorização é exigida sobretudo no início do tratamento?",
+    "options": [
+      "Monitorização mensal do ECG e das provas hepáticas, sem foco em sintomas psíquicos",
+      "Monitorização apertada de ideação suicida, autolesão, hostilidade e ativação, pelo prescritor e pelo psicoterapeuta",
+      "Vigilância só do apetite e do sono, sem foco no risco suicida",
+      "Sem monitorização especial se não houver ideação suicida prévia"
+    ],
+    "correct": 1,
+    "explanation": "O NICE NG134 exige monitorização apertada de ideação suicida, autolesão, hostilidade e ativação, sobretudo no início, pelo médico prescritor e pelo profissional que faz a psicoterapia, informando o jovem e os pais de que devem contactar urgentemente o prescritor perante sintomas novos. A AACAP 2023 refere o aviso em caixa para pensamento e comportamento suicida até aos 24 anos. A monitorização é exigida mesmo sem ideação prévia.",
+    "source": "NICE NG134 (depressão em crianças e jovens), 2019, última revisão 07/05/2024 (só simplificação, sem mudança de prática), https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.6.17, 1.6.18); AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Major and Persistent Depressive Disorders, JAACAP 2023;62(5):479-502, https://pubmed.ncbi.nlm.nih.gov/36273673/ (texto integral lido numa cópia PDF alojada em hscsnhealthplan.org; o site da JAACAP devolve 403) (Treatment Statement 2, Implementation: boxed warning, NNH/NNT, ativação vs mania)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-bipolar-psicose-23-q1",
+    "itemId": "farmaco-bipolar-psicose-23",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapariga de 15 anos, já com menarca, com perturbação bipolar sem resposta a outras opções, em que se pondera valproato. Segundo a RCM do Diplexil-R e a circular do Infarmed de 2018, qual é a cautela essencial?",
+    "options": [
+      "Uso sem restrições adicionais, desde que a idade seja superior a 12 anos",
+      "Contraindicação absoluta, sem exceção em nenhuma circunstância",
+      "Um único teste de gravidez antes de iniciar, sem seguimento posterior",
+      "Só com programa de prevenção da gravidez: teste de gravidez, contraceção eficaz e revisão especializada anual"
+    ],
+    "correct": 3,
+    "explanation": "A RCM contraindica o valproato na bipolar em mulheres em idade fértil, a não ser que as condições do programa de prevenção da gravidez sejam cumpridas: teste de gravidez antes e durante o tratamento, aconselhamento sobre contraceção eficaz, revisão por especialista pelo menos anual e formulário de reconhecimento de riscos. Não é uma contraindicação sem exceções, mas também não se usa sem restrições. Em menores de 18 anos o uso na bipolar é off-label em Portugal.",
+    "source": "RCM Infarmed obtida via INFOMED (https://extranet.infarmed.pt/INFOMED-fo/, pesquisa avançada, sem URL estável) a 10/10/2026 (RCM Diplexil-R, 4.2, 4.3 e 4.4); Infarmed, Circular Informativa 054/CD/550.20.001, 29/03/2018, https://www.infarmed.pt/documents/15786/2409571/Valproato+e+%C3%81cido+Valproico+-+novas+medidas+para+evitar+exposi%C3%A7%C3%A3o+na+gravidez/8674040d-5633-46c5-90ab-0e341f8c8b61 ; MHRA, Valproate - reproductive risks, publicada 10/06/2025, atualizada 23/09/2025, https://www.gov.uk/guidance/valproate-use-by-women-and-girls ; NICE CG185, 2014 (última atualização 02/09/2025, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg185/chapter/Recommendations, caixa 1 e rec. 1.10.27",
+    "dose": false
+  },
+  {
+    "id": "farmaco-bipolar-psicose-61-q1",
+    "itemId": "farmaco-bipolar-psicose-61",
+    "category": "farmacologia",
+    "type": "caso",
+    "text": "Rapaz de 16 anos com esquizofrenia resistente ao tratamento vai iniciar clozapina. Segundo a RCM do Leponex, qual é a monitorização hematológica no início?",
+    "options": [
+      "CAN basal igual ou superior a 1500/mm3 e controlo semanal nas primeiras 18 semanas",
+      "CAN basal igual ou superior a 1500/mm3 e controlo anual desde o início",
+      "CAN só se surgir febre, sem controlos programados",
+      "CAN mensal desde o início e semanal só após 12 meses"
+    ],
+    "correct": 0,
+    "explanation": "A RCM do Leponex pede contagem absoluta de neutrófilos basal igual ou superior a 1500/mm3 e controlo semanal nas primeiras 18 semanas, depois mensal nas 34 semanas seguintes. Faz-se também CAN de imediato se surgirem sinais de infeção, mas não só nessa circunstância. A AACAP 2013 propõe um calendário diferente (semanal nos primeiros 6 meses), pelo que a pergunta usa a RCM.",
+    "source": "RCM Infarmed obtida via INFOMED (https://extranet.infarmed.pt/INFOMED-fo/, pesquisa avançada, sem URL estável) a 10/10/2026 (RCM Leponex, quadro de advertência inicial); AACAP Practice Parameter esquizofrenia, JAACAP 2013;52(9) (série descontinuada pela AACAP), https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/Schizophrenia_Sept13.pdf (rec. 7); AACAP Practice Parameter for the Use of Atypical Antipsychotic Medications in Children and Adolescents, aprovado 02/08/2011, https://www.aacap.org/App_Themes/AACAP/docs/practice_parameters/Atypical_antipsychotic_Medications_Web.pdf (rec. 17)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-humor-ansiedade-45-q1",
+    "itemId": "farmaco-humor-ansiedade-45",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o NICE NG116, qual é a recomendação sobre tratamento farmacológico do PTSD em crianças e jovens com menos de 18 anos?",
+    "options": [
+      "Oferecer sertralina como 1.ª linha em todos os casos",
+      "Oferecer venlafaxina se o jovem preferir medicação",
+      "Não oferecer tratamentos farmacológicos para prevenção ou tratamento",
+      "Oferecer um ISRS após duas sessões de TCC sem resposta"
+    ],
+    "correct": 2,
+    "explanation": "O NICE NG116 diz para não oferecer tratamentos farmacológicos para a prevenção ou o tratamento do PTSD abaixo dos 18 anos, por haver muito pouca evidência e os dados limitados não mostrarem benefício significativo. As opções farmacológicas para adultos (venlafaxina ou ISRS como a sertralina, se o adulto preferir medicação) não se aplicam a menores de 18 anos.",
+    "source": "NICE NG116 (PTSD), 2018, página consultada em 10/10/2026 ('Last reviewed: 23 July 2026'; as recomendações de tratamento farmacológico em jovens não foram alteradas na versão lida), https://www.nice.org.uk/guidance/ng116/chapter/Recommendations (rec. 1.6.14; Rationale and impact, 'Drug treatments for children and young people'; https://www.nice.org.uk/guidance/ng116/chapter/Rationale-and-impact); NICE, Evidence review E, não lida; RCM Sertralina Farmoz aprovado pelo Infarmed em 25-02-2021, https://www.tecnimede.com/sites/default/files/portfolio/dosages/SERTRALINA%20FARMOZ_RCM.pdf (secção 4.4, população pediátrica); FDA, rótulo ZOLOFT (DailyMed, setid fda754f6-d0f3-4dce-a17a-927d64f912f7, publicado 24/07/2025, texto revisto 8/2023), https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7 (secção 8.4: segurança e eficácia não estabelecidas em doentes pediátricos exceto TOC)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-humor-ansiedade-9-q1",
+    "itemId": "farmaco-humor-ansiedade-9",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o NICE NG134, que dois antidepressivos não devem ser usados no tratamento da depressão em crianças e jovens?",
+    "options": [
+      "Fluoxetina e citalopram",
+      "Paroxetina e venlafaxina",
+      "Sertralina e citalopram",
+      "Fluoxetina e sertralina"
+    ],
+    "correct": 1,
+    "explanation": "O NICE NG134 (rec. 1.6.26) diz que a paroxetina e a venlafaxina não devem ser usadas na depressão pediátrica; a AACAP 2023 exclui a paroxetina por maior ideação suicida e abandono, e as RCM portuguesas vão no mesmo sentido. Fluoxetina, sertralina e citalopram não são citados neste item como fármacos a evitar, logo não estão nesta proibição.",
+    "source": "NICE NG134 (depressão em crianças e jovens), 2019, última revisão 07/05/2024 (só simplificação, sem mudança de prática), https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.6.26); AACAP, Walter et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Major and Persistent Depressive Disorders, JAACAP 2023;62(5):479-502, https://pubmed.ncbi.nlm.nih.gov/36273673/ (texto integral lido numa cópia PDF alojada em hscsnhealthplan.org; o site da JAACAP devolve 403) (Treatment Statement 2, Benefits and Harms: 'Insufficient rigorous evidence of benefit for other classes (SNRIs...)'; paroxetina; Implementation: 'Paroxetine has been associated with increased risk of suicidal thinking or behavior compared to other SSRIs'); RCM Paroxetina Farmoz aprovado pelo Infarmed em 03-12-2021, https://www.tecnimede.com/sites/default/files/portfolio/dosages/PAROXETINA%20FARMOZ_RCM.pdf (secções 4.2 e 4.4); RCM Venlafaxina Desinax aprovado pelo Infarmed em 15-12-2020, https://www.tecnimede.com/sites/default/files/portfolio/dosages/VENLAFAXINA%20DESINAX_RCM.pdf (secções 4.2 e 4.4); RCM Duloxetina Farmoz 60 mg aprovado pelo Infarmed em 10-12-2021, https://www.tecnimede.com/sites/default/files/portfolio/dosages/DULOXETINA%20FARMOZ%2060MG_RCM.pdf (extração do PDF degradada; confirmei a frase sobre menores de 18 anos)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-phda-tiques-30-q1",
+    "itemId": "farmaco-phda-tiques-30",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a RCM do metilfenidato, qual das seguintes situações é uma contraindicação?",
+    "options": [
+      "Epilepsia",
+      "Idade de 6 anos, já autorizada",
+      "PHDA com comorbilidade de ansiedade",
+      "Glaucoma"
+    ],
+    "correct": 3,
+    "explanation": "A RCM contraindica o metilfenidato, entre outros, em glaucoma, feocromocitoma, hipertiroidismo, uso de IMAO não seletivos, depressão grave, anorexia nervosa, psicose, mania e doença cardiovascular grave preexistente. A partir dos 6 anos está autorizado em Portugal, e epilepsia e ansiedade não constam da lista de contraindicações do item.",
+    "source": "RCM metilfenidato de libertação prolongada (INFOMED/Infarmed, med_id 34285), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=34285&tipo_doc=rcm, secção 4.3, consultado em 10/10/2026",
+    "dose": false
+  },
+  {
+    "id": "farmaco-bipolar-psicose-21-q1",
+    "itemId": "farmaco-bipolar-psicose-21",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo o NICE CG185 (texto geral do capítulo), com que frequência se faz a litemia, depois de estabilizada e a partir do 2.º ano de tratamento, sem fatores de risco adicionais?",
+    "options": [
+      "De 6 em 6 meses",
+      "De 3 em 3 meses",
+      "Todos os meses",
+      "Uma vez por ano"
+    ],
+    "correct": 0,
+    "explanation": "O NICE indica litemia 1 semana após iniciar e após cada alteração de dose, semanal até estabilizar, de 3 em 3 meses no 1.º ano e depois de 6 em 6 meses (de 3 em 3 meses se houver idosos, interações, risco renal ou tiroideu, mau controlo, má adesão ou litemia anterior igual ou superior a 0,8 mmol/L). Há divergência com a RCM do Priadel, que não aceita intervalos superiores a 2 a 3 meses, mas a pergunta usa o NICE.",
+    "source": "NICE CG185, 2014 (última atualização 02/09/2025, página lida a 10/10/2026), https://www.nice.org.uk/guidance/cg185/chapter/Recommendations, rec. 1.10.14 a 1.10.24; RCM Infarmed obtida via INFOMED (https://extranet.infarmed.pt/INFOMED-fo/, pesquisa avançada, sem URL estável) a 10/10/2026 (RCM Priadel, 4.2, 4.3 e 4.4)",
+    "dose": false
+  },
+  {
+    "id": "farmaco-sono-outros-21-q1",
+    "itemId": "farmaco-sono-outros-21",
+    "category": "farmacologia",
+    "type": "memoria",
+    "text": "Segundo a RCM da desmopressina para enurese noturna, que restrição de líquidos se deve aplicar para prevenir a hiponatremia?",
+    "options": [
+      "Restringir apenas durante 1 hora depois da toma",
+      "Aumentar a ingestão à noite para proteger os rins",
+      "Restringir desde 1 hora antes da toma ao deitar até à manhã seguinte, e pelo menos 8 horas depois",
+      "Restringir só se surgirem sinais de retenção de líquidos"
+    ],
+    "correct": 2,
+    "explanation": "A RCM manda restringir os líquidos tanto quanto possível desde 1 hora antes da toma ao deitar até à manhã seguinte, e em qualquer caso pelo menos 8 horas depois, porque sem restrição pode haver retenção de líquidos e hiponatremia, com raros casos de edema cerebral em crianças e adolescentes. A restrição é preventiva e deve ser explicada aos pais e à criança, não reativa.",
+    "source": "RCM Desmopressina Sandoz 60/120 µg comprimidos sublinguais (aprovado 15/11/2023), https://extranet.infarmed.pt/INFOMED-fo/download-ficheiro.xhtml?med_id=690804&tipo_doc=rcm; NICE CG111, Bedwetting in under 19s (publicada 27/10/2010; 'Last reviewed 21/11/2018': sem nova evidência que altere as recomendações), https://www.nice.org.uk/guidance/cg111/chapter/Recommendations",
+    "dose": false
+  }
+]

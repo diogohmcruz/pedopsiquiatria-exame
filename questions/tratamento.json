@@ -1,0 +1,342 @@
+[
+  {
+    "id": "tx-monitorizacao-ativa-depressao-q1",
+    "itemId": "tx-monitorizacao-ativa-depressao",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a NICE NG134, qual é a atitude inicial na depressão ligeira em que o doente não quer intervenção ou pode recuperar sem ela?",
+    "options": [
+      "Início imediato de antidepressivo para prevenir o agravamento",
+      "Reavaliação marcada, normalmente dentro de 2 semanas, sem intervenção específica",
+      "Início imediato de psicoterapia estruturada, sem período de vigilância",
+      "Alta sem seguimento, com reavaliação apenas se a família voltar a pedir consulta"
+    ],
+    "correct": 1,
+    "explanation": "A NG134 prevê monitorização ativa na depressão ligeira, com nova avaliação normalmente em 2 semanas (rec. 1.5.1), e manda contactar quem falta às consultas (rec. 1.5.2). O antidepressivo não deve ser usado como tratamento inicial (rec. 1.5.3), e a psicoterapia só é discutida se a depressão persistir às 2 semanas. Dar alta sem seguimento contraria a própria lógica da vigilância.",
+    "source": "NICE NG134 (depressão em crianças e jovens), publicada 25/06/2019, última revisão 07/05/2024, https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.5.1, 1.5.2, 1.5.3, 1.5.6, 1.5.7, 1.5.10, 1.5.11); AACAP, Walter HJ et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Major and Persistent Depressive Disorders, JAACAP 2023;62(5):479-502, https://pubmed.ncbi.nlm.nih.gov/36273673/ (texto integral lido numa cópia PDF alojada em hscsnhealthplan.org) (nota de rodapé d dos Treatment Statements: educação/apoio breve para formas subsindrómicas e ligeiras)",
+    "dose": false
+  },
+  {
+    "id": "tx-tcc-digital-depressao-q1",
+    "itemId": "tx-tcc-digital-depressao",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Na depressão ligeira que persiste após vigilância, sem comorbilidade significativa nem ideação ou plano suicida ativos, durante quanto tempo se oferece psicoterapia aos 12-18 anos (NG134 rec. 1.5.7)?",
+    "options": [
+      "Cerca de 2 a 3 meses",
+      "Cerca de 2 semanas",
+      "Cerca de 6 meses",
+      "Cerca de 12 meses"
+    ],
+    "correct": 0,
+    "explanation": "Para os 12-18 anos, a NG134 manda oferecer a escolha entre TCC digital, TCC em grupo, apoio não diretivo em grupo ou terapia interpessoal em grupo por cerca de 2 a 3 meses (rec. 1.5.7). As 2 semanas correspondem ao período de vigilância que precede a psicoterapia, não à sua duração. A fonte não dá os restantes períodos.",
+    "source": "NICE NG134 (depressão em crianças e jovens), publicada 25/06/2019, última revisão 07/05/2024, https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.5.6, 1.5.7; secção 'Terms used in this guideline', Digital CBT)",
+    "dose": false
+  },
+  {
+    "id": "tx-tip-familiar-esc-depressao-q1",
+    "itemId": "tx-tip-familiar-esc-depressao",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "A terapia interpessoal de base familiar (TIP-F), com os pais nas sessões, é uma das opções a considerar na depressão moderada a grave em que faixa etária (NG134 rec. 1.6.4)?",
+    "options": [
+      "3 a 5 anos",
+      "12 a 18 anos",
+      "5 a 11 anos",
+      "16 a 21 anos"
+    ],
+    "correct": 2,
+    "explanation": "A NG134 (rec. 1.6.4) manda considerar, nos 5-11 anos com depressão moderada a grave, TIP de base familiar, terapia familiar, psicoterapia psicodinâmica ou TCC individual. A evidência da TIP-F na fonte é só um ensaio aberto pequeno, com 16 pré-adolescentes. As outras faixas não correspondem à adaptação familiar descrita.",
+    "source": "Dietz LJ, Mufson L, Irvine H, Brent DA, Family-based interpersonal psychotherapy for depressed preadolescents: an open-treatment trial, Early Interv Psychiatry 2008;2(3):154-161, https://pmc.ncbi.nlm.nih.gov/articles/PMC3551579/ (secções de métodos e resultados); NICE NG134 (depressão em crianças e jovens), publicada 25/06/2019, última revisão 07/05/2024, https://www.nice.org.uk/guidance/ng134/chapter/Recommendations (rec. 1.6.4)",
+    "dose": false
+  },
+  {
+    "id": "tx-fft-a-bipolar-q1",
+    "itemId": "tx-fft-a-bipolar",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Qual é a estrutura do tratamento focado na família para adolescentes com perturbação bipolar (FFT-A) na sua versão completa?",
+    "options": [
+      "12 sessões em 4 meses, todas semanais",
+      "16 sessões em 6 meses, todas quinzenais",
+      "8 sessões em 10 semanas, com 3 sessões de reforço mensais",
+      "21 sessões em 9 meses: 12 semanais, 6 quinzenais e 3 mensais"
+    ],
+    "correct": 3,
+    "explanation": "O FFT-A completo tem 21 sessões em 9 meses (12 semanais, 6 quinzenais e 3 mensais), dado com tratamento farmacológico em paralelo (Miklowitz 2012). A versão de 12 sessões em 4 meses é a versão curta para jovens de alto risco dos 9 aos 17 anos. O esquema de 8 sessões com reforços mensais pertence ao CBIT nos tiques, não ao FFT-A.",
+    "source": "Miklowitz DJ, Family-Focused Treatment for Children and Adolescents with Bipolar Disorder, Isr J Psychiatry Relat Sci 2012;49(2):95-101, https://pmc.ncbi.nlm.nih.gov/articles/PMC3869947/ (lido por resumo do WebFetch, não em texto integral); NICE CG185 (perturbação bipolar), publicada 24/09/2014, última revisão 02/09/2025, https://www.nice.org.uk/guidance/cg185/chapter/Recommendations (rec. 1.7.2, 1.7.3, 1.11.17)",
+    "dose": false
+  },
+  {
+    "id": "tx-coping-cat-q1",
+    "itemId": "tx-coping-cat",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Como se divide o programa Coping Cat de TCC, com 16 sessões, para a ansiedade?",
+    "options": [
+      "8 sessões de psicoeducação e competências, seguidas de 8 de exposição graduada",
+      "4 sessões de psicoeducação e 12 de exposição graduada",
+      "12 sessões de psicoeducação e 4 de exposição graduada",
+      "8 sessões de exposição graduada, seguidas de 8 de psicoeducação e competências"
+    ],
+    "correct": 0,
+    "explanation": "O Coping Cat tem 16 sessões: as primeiras 8 de psicoeducação e competências (plano mnemónico FEAR) e as segundas 8 de exposição graduada (Beidas et al. 2010). As outras divisões e a ordem invertida não correspondem ao que a fonte descreve. O programa foi concebido para crianças dos 7 aos 13 anos.",
+    "source": "Beidas RS, Benjamin CL, Puleo CM, Edmunds JM, Kendall PC, Flexible Applications of the Coping Cat Program for Anxious Youth, Cogn Behav Pract 2010;17(2):142-153, https://pmc.ncbi.nlm.nih.gov/articles/PMC2950324/ (texto lido: descrição do programa de 16 sessões de Kendall e Hedtke 2006, plano FEAR, sessão 1 e adaptação a adolescentes); AACAP, Walter HJ et al., Clinical Practice Guideline for the Assessment and Treatment of Children and Adolescents With Anxiety Disorders, JAACAP 2020;59(10):1107-1124, https://pubmed.ncbi.nlm.nih.gov/32439401/ (texto integral lido numa cópia PDF alojada em njaap.org)",
+    "dose": false
+  },
+  {
+    "id": "tx-intervencao-comportamental-mutismo-q1",
+    "itemId": "tx-intervencao-comportamental-mutismo",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Na intervenção comportamental e sistémica do mutismo seletivo (exposição gradual e esbatimento de estímulos), em que faixa etária os resultados são mais promissores, com evidência limitada?",
+    "options": [
+      "6 a 12 anos",
+      "3 a 9 anos",
+      "10 a 14 anos",
+      "12 a 17 anos"
+    ],
+    "correct": 1,
+    "explanation": "A revisão de Hipolito et al. 2023 refere resultados mais promissores dos 3 aos 9 anos, com evidência limitada: só 6 dos 25 estudos foram ensaios aleatorizados. Não há guideline NICE nem AACAP lida para o mutismo seletivo. As restantes faixas não são as indicadas pela fonte.",
+    "source": "Hipolito G, Pagnamenta E, Stacey H, Wright E, Joffe V, Murayama K, Creswell C, A systematic review and meta-analysis of nonpharmacological interventions for children and adolescents with selective mutism, JCPP Advances 2023;3(3):e12166, https://pmc.ncbi.nlm.nih.gov/articles/PMC10501694/ (texto lido, via Europe PMC); Selective Mutism Association, Treating Selective Mutism, https://www.selectivemutism.org/treating-selective-mutism/ (página sem data, lida por resumo do WebFetch); NICE CG159 (perturbação de ansiedade social), publicada 22/05/2013, última revisão 21/05/2024, https://www.nice.org.uk/guidance/cg159/chapter/Recommendations (rec. sobre comunicação com crianças com possível mutismo seletivo)",
+    "dose": false
+  },
+  {
+    "id": "tx-emdr-pstp-q1",
+    "itemId": "tx-emdr-pstp",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a NICE NG116 (rec. 1.6.13), em que situação se considera o EMDR nos 7-17 anos com perturbação de stress pós-traumático que se apresentam mais de 3 meses após o trauma?",
+    "options": [
+      "Como primeira linha, em alternativa equivalente à TCC focada no trauma",
+      "Como primeira linha, quando a família prefere uma terapia sem trabalho de casa",
+      "Apenas se a criança não responder ou não aderir à TCC focada no trauma",
+      "Em associação obrigatória com a TCC focada no trauma desde o início"
+    ],
+    "correct": 2,
+    "explanation": "A NG116 só manda considerar o EMDR nos 7-17 anos com PSPT apresentados mais de 3 meses após o trauma se não houver resposta ou adesão à TCC focada no trauma. A fonte acrescenta que os dados em crianças são limitados e que o EMDR é menos eficaz e custo-efetivo do que as TCC individuais focadas no trauma. Por isso não é primeira linha nem combinação inicial.",
+    "source": "NICE NG116 (PSPT), publicada 05/12/2018, última revisão 23/07/2026 (sem atualização das recomendações), https://www.nice.org.uk/guidance/ng116/chapter/Recommendations (rec. 1.6.13; Rationale and impact)",
+    "dose": false
+  },
+  {
+    "id": "tx-pact-q1",
+    "itemId": "tx-pact",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "O PACT, tratamento de comunicação mediado pelos pais com feedback em vídeo, foi estudado em ensaio aleatorizado em que população?",
+    "options": [
+      "Crianças autistas dos 6 aos 12 anos",
+      "Adolescentes autistas dos 12 aos 17 anos",
+      "Crianças dos 0 aos 18 meses com sinais precoces de perturbação da comunicação",
+      "Crianças autistas dos 2 anos aos 4 anos e 11 meses"
+    ],
+    "correct": 3,
+    "explanation": "O estudo do PACT incluiu crianças autistas dos 2 anos aos 4 anos e 11 meses, com o terapeuta a trabalhar com os pais e a usar feedback em vídeo sobre a interação pais-criança. A NICE não nomeia programas; o PACT é um exemplo publicado de intervenção mediada pelos pais. As outras populações não correspondem ao estudo.",
+    "source": "Green et al., Lancet 2010;375:2152, doi 10.1016/S0140-6736(10)60587-9, https://pmc.ncbi.nlm.nih.gov/articles/PMC2890859/ (secção Intervention)",
+    "dose": false
+  },
+  {
+    "id": "tx-multimodal-mst-conduta-q1",
+    "itemId": "tx-multimodal-mst-conduta",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Para que faixa etária a NICE recomenda a intervenção multimodal (terapia multissistémica) no tratamento da perturbação de conduta?",
+    "options": [
+      "11 a 17 anos",
+      "3 a 11 anos",
+      "9 a 14 anos",
+      "3 a 7 anos"
+    ],
+    "correct": 0,
+    "explanation": "A NICE indica a terapia multissistémica dos 11 aos 17 anos, como intervenção intensiva centrada na família, com gestores de caso treinados e atuação em vários níveis (individual, familiar, escolar, justiça e comunidade). As outras faixas não são as indicadas para esta intervenção.",
+    "source": "NICE CG158, publicada 27/03/2013, última atualização 19/04/2017, https://www.nice.org.uk/guidance/cg158/chapter/Recommendations (rec. 1.5.13 e 1.5.14)",
+    "dose": false
+  },
+  {
+    "id": "tx-fbt-arfid-q1",
+    "itemId": "tx-fbt-arfid",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "O tratamento baseado na família adaptado ao ARFID (FBT-ARFID) foi superior a uma terapia individual para aumentar o peso, num ensaio aleatorizado, em que população?",
+    "options": [
+      "Jovens de 10 a 17 anos com ARFID e peso estável",
+      "Crianças de 6 a 12 anos com ARFID e baixo peso",
+      "Adolescentes de 14 a 17 anos com ARFID e baixo peso",
+      "Crianças de 3 a 5 anos com ARFID e baixo peso"
+    ],
+    "correct": 1,
+    "explanation": "O ensaio (JAACAP 2026, só resumo) incluiu crianças de 6 a 12 anos com ARFID e baixo peso, com 14 sessões por telessaúde ao longo de 4 meses. A faixa dos 10 aos 17 anos é a dos estudos de CBT-AR, outro tratamento. As restantes populações não são as da fonte.",
+    "source": "Family vs individual treatment for children with ARFID: a randomized clinical trial, J Am Acad Child Adolesc Psychiatry 2026, https://pubmed.ncbi.nlm.nih.gov/42019720/ (só li o resumo); Couturier et al., Canadian practice guidelines for the treatment of children and adolescents with eating disorders, J Eat Disord 2020, https://pmc.ncbi.nlm.nih.gov/articles/PMC6995106/ (texto integral lido via Europe PMC), secção de FBT noutras populações; Fonseca et al., J Eat Disord 2024, https://pmc.ncbi.nlm.nih.gov/articles/PMC11157884/",
+    "dose": false
+  },
+  {
+    "id": "tx-treino-parental-phda-pre-q1",
+    "itemId": "tx-treino-parental-phda-pre",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "Segundo a NICE, qual é a primeira linha de tratamento em menores de 5 anos com PHDA?",
+    "options": [
+      "Metilfenidato, com monitorização apertada",
+      "TCC individual dirigida à criança",
+      "Programa de treino de pais em grupo centrado na PHDA",
+      "Treino de competências de organização para a criança"
+    ],
+    "correct": 2,
+    "explanation": "A NICE põe como primeira linha, em menores de 5 anos, o treino parental em grupo centrado na PHDA (a AAP faz o mesmo dos 4 anos até ao 6.º aniversário). Sem parecer de serviço especializado em PHDA no pré-escolar não se oferece medicação abaixo dos 5 anos. Intervenções dirigidas diretamente à criança não são a primeira linha nesta idade.",
+    "source": "NICE NG87, publicada 14/03/2018, última atualização 13/09/2019, https://www.nice.org.uk/guidance/ng87/chapter/Recommendations (rec. 1.5.7 a 1.5.9); AAP, Wolraich et al., Pediatrics 2019;144(4):e20192528, https://pmc.ncbi.nlm.nih.gov/articles/PMC7067282/ (KAS 5a e secção de pré-escolares)",
+    "dose": false
+  },
+  {
+    "id": "tx-cbt-ar-arfid-q1",
+    "itemId": "tx-cbt-ar-arfid",
+    "category": "tratamento",
+    "type": "memoria",
+    "text": "O que a fonte conclui sobre a recomendação da TCC para ARFID (CBT-AR) em jovens dos 10 aos 17 anos?",
+    "options": [
+      "É recomendada em primeira linha pela guideline canadiana de 2020",
+      "É recomendada pela NICE, com apoio de vários ensaios aleatorizados",
+      "É recomendada apenas quando há supressão de peso, com 20 a 30 sessões de grupo",
+      "Não há guideline lida que a recomende; é uma opção a ponderar com evidência preliminar"
+    ],
+    "correct": 3,
+    "explanation": "A guideline canadiana de 2020 só encontrou relatos de caso de TCC no ARFID e uma revisão de 2024 refere evidência limitada. O CBT-AR foi estudado com resultados de viabilidade e prova de conceito, sem ensaio aleatorizado lido, pelo que é uma opção a ponderar. Também não é um formato de grupo: é individual ou com apoio da família.",
+    "source": "CBT-AR em crianças e adolescentes (Thomas et al.), Int J Eat Disord 2020, https://pubmed.ncbi.nlm.nih.gov/32776570/ (só li o resumo); Dietetic-led CBT-AR, Int J Eat Disord 2026, https://pmc.ncbi.nlm.nih.gov/articles/PMC13349403/ (texto integral, secção de métodos, onde se descrevem os 4 estágios); Couturier et al., Canadian practice guidelines for the treatment of children and adolescents with eating disorders, J Eat Disord 2020, https://pmc.ncbi.nlm.nih.gov/articles/PMC6995106/ (texto integral lido via Europe PMC), secção de TCC no ARFID; Fonseca et al., J Eat Disord 2024, https://pmc.ncbi.nlm.nih.gov/articles/PMC11157884/. SAHM 2022 só no resumo (inclui o ARFID entre as perturbações restritivas).",
+    "dose": false
+  },
+  {
+    "id": "tx-tcc-epr-familiar-toc-5-8-q1",
+    "itemId": "tx-tcc-epr-familiar-toc-5-8",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Rapaz de 6 anos com perturbação obsessivo-compulsiva, com rituais de lavagem e verificação que ocupam grande parte do dia. Vai iniciar TCC com EPR de base familiar (POTS Jr, 12 sessões). Como devem ser organizadas as primeiras sessões?",
+    "options": [
+      "Todas as sessões conjuntas de 60 minutos, com a criança presente desde a primeira",
+      "As duas primeiras sessões só com a criança, e os pais entram a partir da terceira",
+      "As duas primeiras sessões, de 90 minutos, só com os pais, para explicar o TOC e o racional antes de a criança ser introduzida",
+      "Uma primeira sessão só com os pais e uma segunda já com a exposição à criança"
+    ],
+    "correct": 2,
+    "explanation": "No POTS Jr (5 a 8 anos), as sessões 1 e 2 são de 90 minutos e só com os pais, para explicar o TOC e o racional antes de a criança ser introduzida; as restantes, de 60 minutos, são conjuntas. A NICE CG31 (rec. 1.5.1.9) pede TCC com EPR com envolvimento da família e adaptada à idade. As outras opções não respeitam esta estrutura.",
+    "source": "Freeman J, Garcia A, Benito K, Conelea C, Sapyta J, Khanna M, March J, Franklin M, The Pediatric Obsessive Compulsive Disorder Treatment Study for Young Children (POTS Jr): developmental considerations in the rationale, design, and methods, J Obsessive Compuls Relat Disord 2012;1(4):294-300, https://pmc.ncbi.nlm.nih.gov/articles/PMC3501965/ (texto lido, secção 2.8; lista de autores completa não confirmada: primeira autora Jennifer Freeman); NICE CG31 (PEOC e perturbação dismórfica corporal), publicada 29/11/2005, última revisão 11/07/2024, https://www.nice.org.uk/guidance/cg31/chapter/Recommendations (rec. 1.5.1.9)",
+    "dose": false
+  },
+  {
+    "id": "tx-alarme-enurese-q1",
+    "itemId": "tx-alarme-enurese",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Rapaz de 8 anos com enurese noturna quase todas as noites. Os pais já aplicaram conselhos sobre líquidos e idas à casa de banho e recompensas, sem resposta. A família está motivada e sem dificuldades emocionais em relação à criança. Qual é a intervenção de primeira linha seguinte (NICE CG111)?",
+    "options": [
+      "Alarme da enurese, com apoio acordado do serviço",
+      "Manter só as recompensas e aguardar a maturação espontânea",
+      "Terapia familiar sistémica semanal",
+      "Programa de grupo de resolução de problemas para a criança"
+    ],
+    "correct": 0,
+    "explanation": "A NICE CG111 (1.8.1) põe o alarme como primeira linha nas crianças cuja enurese não respondeu a conselhos sobre líquidos, idas à casa de banho e recompensas. Aqui não há contraindicações: a enurese é frequente e a família colabora, sem raiva nem culpa. Avalia-se a resposta às 4 semanas e continua-se até 2 semanas seguidas de noites secas.",
+    "source": "NICE CG111, https://www.nice.org.uk/guidance/cg111/chapter/Recommendations, secções 1.4, 1.8, 1.9, 1.11 e 1.12 (publicada em 27/10/2010)",
+    "dose": false
+  },
+  {
+    "id": "tx-tcc-luto-grief-help-q1",
+    "itemId": "tx-tcc-luto-grief-help",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Rapariga de 12 anos com luto prolongado após a morte da mãe. O terapeuta escolhe a intervenção que foi a única testada em mais de um estudo numa revisão sistemática de 2025, com psicoeducação, reestruturação cognitiva, exposição e exercícios de escrita. Que estrutura de sessões tem?",
+    "options": [
+      "12 sessões, com psicoeducação, narrativa do trauma, atribuição de sentido e competências parentais",
+      "9 sessões individuais com a criança e 5 sessões separadas com os pais ou cuidadores",
+      "5 sessões individuais com a criança e 9 sessões com os pais ou cuidadores",
+      "9 sessões de grupo com outras crianças enlutadas, sem envolvimento dos pais"
+    ],
+    "correct": 1,
+    "explanation": "A CBT Grief-Help (8 a 18 anos) tem 9 sessões individuais com a criança mais 5 com os pais (Bondy e Scott 2025) e foi a única intervenção testada em mais de um estudo. A opção de 12 sessões descreve o CBT-CTG, a outra intervenção da revisão, para luto traumático. Não há guideline lida para o luto prolongado em crianças e os resultados são preliminares.",
+    "source": "Bondy S, Scott H, Interventions for Prolonged Grief Disorder in Children and Adolescents: A Systematic Review, J Child Adolesc Trauma 2025;18(3):517-527, https://pmc.ncbi.nlm.nih.gov/articles/PMC12433411/ (lido por resumo do WebFetch)",
+    "dose": false
+  },
+  {
+    "id": "tx-cbit-q1",
+    "itemId": "tx-cbit",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Rapaz de 11 anos com perturbação de tiques, em que a psicoeducação foi insuficiente. Está motivado e a equipa opta pelo CBIT. Os pais perguntam como decorre o programa. Qual é a resposta que a fonte sustenta?",
+    "options": [
+      "21 sessões ao longo de 9 meses, com sessões semanais, quinzenais e mensais",
+      "16 sessões semanais, metade de psicoeducação e metade de exposição graduada",
+      "8 sessões todas semanais, sem sessões de reforço",
+      "8 sessões ao longo de 10 semanas (6 semanais e 2 quinzenais), com 3 sessões de reforço mensais nos respondedores"
+    ],
+    "correct": 3,
+    "explanation": "O CBIT decorre em 8 sessões ao longo de 10 semanas (as 6 primeiras semanais, as 2 últimas quinzenais) e 3 sessões de reforço mensais nos respondedores (Piacentini 2010; ESSTS 2022). Os 11 anos estão dentro da faixa do ensaio principal (9 a 17 anos). O esquema de 21 sessões é o do FFT-A e o de 16 sessões é o do Coping Cat.",
+    "source": "Piacentini et al., JAMA 2010;303(19):1929-1937, doi 10.1001/jama.2010.607, https://pmc.ncbi.nlm.nih.gov/articles/PMC2993317/ (Methods, descrição das sessões e dos componentes); ESSTS parte II (psicológico), Andrén et al., Eur Child Adolesc Psychiatry 2022;31:403-423, doi 10.1007/s00787-021-01845-z, https://pmc.ncbi.nlm.nih.gov/articles/PMC8314030/ (Table 1, secção Recommendations); AAN, Pringsheim et al., Neurology 2019;92(19):896-906, doi 10.1212/WNL.0000000000007466, https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133/ (rec. 1d, 7a a 7c e racional); sequência por sessões adaptada de Kang et al., J Korean Acad Child Adolesc Psychiatry 2022;33(4):91, doi 10.5765/jkacap.220013, https://pmc.ncbi.nlm.nih.gov/articles/PMC9513408/ e Blount et al., World J Clin Cases 2014;2(10):569, doi 10.12998/wjcc.v2.i10.569, https://pmc.ncbi.nlm.nih.gov/articles/PMC4198411/ (o manual de Woods et al., Oxford University Press 2008, não foi lido)",
+    "dose": false
+  },
+  {
+    "id": "tx-incredible-years-q1",
+    "itemId": "tx-incredible-years",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Pais de um rapaz de 4 anos com diagnóstico de PHDA e de oposição procuram um programa de grupo de pais, com vinhetas em vídeo, que comece pela brincadeira e pelo elogio antes da disciplina. Que protocolo do Incredible Years BASIC é indicado pelo desenvolvedor para crianças com diagnóstico?",
+    "options": [
+      "Protocolo de tratamento de 20 sessões semanais de 2 a 2,5 horas, em grupo de pais",
+      "Versão preventiva de 14 a 16 sessões, pensada para populações sem diagnóstico",
+      "Versão para a idade escolar, com outro manual, por ser a indicada para PHDA",
+      "Programa individual da criança, sem sessões de pais"
+    ],
+    "correct": 0,
+    "explanation": "O desenvolvedor indica o protocolo de 20 sessões semanais de 2 a 2,5 horas para crianças com diagnóstico (PHDA, oposição) e populações de alto risco; a versão preventiva tem 14 a 16 sessões. A versão para a idade escolar (6 a 12 anos) tem outro manual e é para essa faixa etária, não para os 4 anos. O BASIC é um programa de grupo para pais.",
+    "source": "The Incredible Years, Agendas and Checklists from Preschool Basic (nov. 2019), https://www.incredibleyears.com/hubfs/The%20Incredible%20Years-%20Resources%20and%20Files/Resources%20for%20Group%20Leaders/Resources%20for%20parent%20group%20leaders/Preschool%20program/Agendas-and-Checklists-from-Preschool-Basic-Nov-2019.pdf; Blueprints for Healthy Youth Development, Incredible Years Parent, https://www.blueprintsprograms.org/programs/29999999/incredible-years-parent/print/",
+    "dose": false
+  },
+  {
+    "id": "tx-tcci-adolescentes-q1",
+    "itemId": "tx-tcci-adolescentes",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Rapariga de 15 anos com insónia crónica, que os pais querem tratar com TCC para a insónia (TCC-I). O que se pode dizer sobre os resultados esperados, segundo a meta-análise de 2018 (Ma et al.)?",
+    "options": [
+      "Melhora o tempo total de sono, mas não a latência nem a eficiência do sono",
+      "Melhora o tempo total de sono e o tempo de vigília depois do início do sono",
+      "Melhora a latência e a eficiência do sono, sem melhoria significativa do tempo total de sono",
+      "Não melhora nenhum parâmetro do sono em adolescentes"
+    ],
+    "correct": 2,
+    "explanation": "A meta-análise de Ma et al. (2018) mostra melhoria da latência e da eficiência do sono, sem melhoria significativa do tempo de vigília depois do início do sono nem do tempo total de sono. A TCC-I inclui educação sobre o sono, diário do sono, restrição do tempo na cama, controlo de estímulos, relaxamento, mindfulness e reestruturação cognitiva. Não há guideline pediátrica que defina a ordem dos módulos.",
+    "source": "Digital treatment for insomnia in adolescents: study protocol for a randomized controlled trial (somnio junior, 14 a 17 anos), Front Child Adolesc Psychiatry 2026, https://pmc.ncbi.nlm.nih.gov/articles/PMC13176156/, Tabela 1 (protocolo de ensaio, não guideline); Ma et al., Efficacy of CBT in children and adolescents with insomnia: systematic review and meta-analysis, Braz J Med Biol Res 2018, https://pmc.ncbi.nlm.nih.gov/articles/PMC6002144/; Digital CBT-I for adolescents with mental health problems, JMIR Ment Health 2020, https://pmc.ncbi.nlm.nih.gov/articles/PMC7078631/; i-Sleep youth, Trials 2021, https://pmc.ncbi.nlm.nih.gov/articles/PMC8077706/. AAN 2020 (resumo): https://pubmed.ncbi.nlm.nih.gov/32051244/",
+    "dose": false
+  },
+  {
+    "id": "tx-comportamental-sono-pequenos-q1",
+    "itemId": "tx-comportamental-sono-pequenos",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Criança de 3 anos que resiste a ir para a cama e acorda várias vezes por noite, sem outra patologia. Qual é a abordagem de primeira linha segundo os parâmetros de prática da AASM (2006)?",
+    "options": [
+      "TCC para a insónia com restrição do tempo na cama e mindfulness dirigidos à criança",
+      "Psicoterapia individual de apoio com a criança, sem envolvimento dos pais",
+      "Vigilância sem intervenção até aos 5 anos, por ser um problema que passa com a idade",
+      "Intervenções comportamentais com os pais, como a extinção com presença dos pais e a educação parental preventiva"
+    ],
+    "correct": 3,
+    "explanation": "Para problemas ao deitar e despertares noturnos até aos 4 anos e 11 meses, a AASM classifica a extinção, a extinção com presença dos pais e a educação parental preventiva como eficazes. Numa revisão de 52 estudos, mais de 80% das crianças tratadas melhoraram de forma clinicamente significativa, mantida 3 a 6 meses. A intervenção passa pelos pais, não pela criança.",
+    "source": "Practice parameters for behavioral treatment of bedtime problems and night wakings in infants and young children, Sleep 2006, https://pubmed.ncbi.nlm.nih.gov/17068980/ (só li o resumo); Behavioral treatment of bedtime problems and night wakings in infants and young children (revisão de 52 estudos), Sleep 2006, https://pubmed.ncbi.nlm.nih.gov/17068979/ (só li o resumo)",
+    "dose": false
+  },
+  {
+    "id": "tx-programa-crianca-resolucao-problemas-q1",
+    "itemId": "tx-programa-crianca-resolucao-problemas",
+    "category": "tratamento",
+    "type": "caso",
+    "text": "Rapaz de 9 anos com perturbação de oposição e comportamento de conduta, cujos pais já estão em treino parental. A equipa quer acrescentar uma intervenção dirigida à própria criança, em grupo, com modelação, ensaio e feedback. Qual a escolha, segundo a NICE?",
+    "options": [
+      "Terapia multissistémica, com gestores de caso e atuação ao nível da justiça e da comunidade",
+      "Programa de grupo de resolução de problemas social e cognitivo, em encontros semanais de 2 horas",
+      "Programa de prevenção escolar, desenhado para crianças dos 3 aos 7 anos",
+      "Incredible Years BASIC, programa de grupo para pais de crianças dos 3 aos 6 anos"
+    ],
+    "correct": 1,
+    "explanation": "A NICE indica o programa de grupo de resolução de problemas para a criança dos 9 aos 14 anos com oposição ou conduta, tipicamente em 10 a 18 encontros semanais de 2 horas, e ele complementa o treino parental. A terapia multissistémica destina-se dos 11 aos 17 anos e o Incredible Years BASIC é um programa para pais de crianças de 3 a 6 anos; nenhuma é o programa de grupo dirigido à criança.",
+    "source": "NICE CG158, publicada 27/03/2013, última atualização 19/04/2017, https://www.nice.org.uk/guidance/cg158/chapter/Recommendations (rec. 1.5.11 e 1.5.12)",
+    "dose": false
+  }
+]
