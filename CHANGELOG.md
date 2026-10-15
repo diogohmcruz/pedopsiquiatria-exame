@@ -1,5 +1,16 @@
 # Alterações
 
+## 1.1.0
+- Telemóvel: o ecrã é preenchido na altura toda, sem espaço em branco no fundo.
+- Durante o quiz, o topo fica compacto e fixo (tema, "Pergunta N de 10" e progresso) e o botão de ação fica preso ao fundo, na zona do polegar.
+- Opções maiores para tocar (letra num círculo, 56px de altura) e textos secundários com pelo menos 14px.
+- Respeita as zonas seguras do ecrã (entalhe e barras do sistema) quando instalada.
+- Samsung Flip em modo Flex (meio dobrado): enunciado e explicação em cima, opções e botão em baixo.
+- Mostra "Pergunta N de 10" e a barra de progresso também no portátil.
+
+### Ideias futuras
+- Modo escuro (`prefers-color-scheme: dark`): exige uma paleta nova, incluindo os verdes e vermelhos de certo e errado.
+
 ## 1.0.0
 - Site instalável (PWA) com funcionamento offline e ícone novo (barco).
 - Guardar e carregar o progresso num ficheiro, para não o perder se o browser limpar os dados.

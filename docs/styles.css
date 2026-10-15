@@ -13,6 +13,14 @@
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body { background: var(--paper); font-family: -apple-system, "Segoe UI", sans-serif; color: var(--ink); font-size: 16px; line-height: 1.55; }
 button, select, input, textarea { font: inherit; color: inherit; }
+button { touch-action: manipulation; -webkit-tap-highlight-color: transparent; }
+body { min-height: 100dvh; display: flex; flex-direction: column; }
+.band-bottom { flex: 1; display: flex; }
+.band-bottom .inner { flex: 1; }
+.dock-wait { display: none; }
+.opt .letter { flex: none; }
+.opt.right .letter { color: var(--sage); }
+.opt.wrong .letter { color: var(--alert); }
 .band-top { background: var(--paper-top); border-bottom: 1px solid var(--line-top); }
 .inner { max-width: 760px; margin: 0 auto; padding: 40px 24px 32px; }
 .band-bottom .inner { padding-bottom: 72px; }
@@ -71,7 +79,6 @@ h2 { font-family: 'Fraunces', Georgia, serif; font-weight: 600; font-size: 22px;
 .score { font-family: 'Fraunces', Georgia, serif; font-size: 40px; font-weight: 600; }
 
 #toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); background: var(--ink); color: var(--paper); padding: 10px 18px; border-radius: 999px; font-size: 14px; z-index: 20; }
-@media (max-width: 600px) { .headline { font-size: 26px; } .inner { padding: 28px 16px 24px; } .qtext { font-size: 17px; } }
 
 /* gráficos de linha: subtis, sem eixos nem fundo, como o resumo da manhã */
 .chart { width: 100%; height: auto; display: block; margin: 6px 0 10px; overflow: visible; }
@@ -90,3 +97,68 @@ button.toggle { all: unset; display: block; cursor: pointer; font-size: 13px; fo
 button.toggle span { font-weight: 400; color: var(--muted); }
 button.toggle:hover span { color: var(--ink); }
 button.toggle:focus-visible { outline: 2px solid var(--clay); outline-offset: 3px; }
+
+/* telemóvel: ecrã inteiro, hero compacto no quiz, ação principal presa ao fundo (zona do polegar) */
+@media (max-width: 600px) {
+  :root { --pl: max(16px, env(safe-area-inset-left)); --pr: max(16px, env(safe-area-inset-right)); }
+  .headline { font-size: 26px; }
+  .inner { padding: 28px var(--pr) 24px var(--pl); }
+  .band-bottom .inner { display: flex; flex-direction: column; padding-top: 20px; padding-bottom: 0; }
+  main { flex: 1; display: flex; flex-direction: column; padding-bottom: 24px; }
+  body[data-screen=question] main, body[data-screen=review] main { padding-bottom: 0; }
+
+  /* mínimos de leitura e de toque */
+  .day-date, .sub, .source, .stat span, .lg-sub, .flagged-note, .review-item .ans { font-size: 14px; }
+  .tag { font-size: 13px; padding: 2px 10px; }
+  .lg-name { font-size: 14.5px; }
+  button { min-height: 48px; }
+  button.toggle { min-height: 0; }
+  button.ghost { padding: 10px 14px; }
+  .qtext { font-size: 18px; margin: 10px 0 20px; }
+  .opts { gap: 12px; }
+  .opt { min-height: 56px; padding: 14px 16px; gap: 14px; align-items: center; font-size: 17px; line-height: 1.4; }
+  .opt .letter { width: 30px; height: 30px; border: 1.5px solid var(--line); border-radius: 50%; display: grid; place-items: center; font-size: 14px; }
+  .opt:not(:disabled):active { background: var(--sand-soft); border-color: var(--ink); }
+  .feedback { font-size: 16px; }
+
+  /* hero compacto e fixo durante o quiz */
+  .band-top { position: sticky; top: 0; z-index: 10; }
+  body[data-screen=question] .band-top .inner { padding: 10px var(--pr) 10px var(--pl); }
+  body[data-screen=question] .day-date { display: none; }
+  body[data-screen=question] #hero { display: grid; grid-template-columns: 1fr auto; align-items: baseline; column-gap: 12px; }
+  body[data-screen=question] .headline { font-size: 18px; margin: 0; }
+  body[data-screen=question] .progress-bar { grid-column: 1 / -1; margin: 8px 0 0; }
+
+  /* barra de ação: ao fundo do ecrã, e presa ao fundo se o conteúdo for longo */
+  .dock { position: sticky; bottom: 0; z-index: 5; margin: auto calc(-1 * var(--pr)) 0 calc(-1 * var(--pl)); padding: 12px var(--pr) calc(12px + env(safe-area-inset-bottom)) var(--pl);
+    background: var(--paper); border-top: 1px solid var(--line); flex-wrap: nowrap; }
+  .dock .primary { flex: 1; }
+  .dock-wait { display: flex; }
+  .bar-tight { margin-top: 8px; gap: 0; }
+  .bar-tight .spacer { display: none; }
+  #toast { bottom: calc(96px + env(safe-area-inset-bottom)); }
+}
+
+/* ecrã baixo (landscape no telemóvel): hero compacto no quiz e sem barras fixas */
+@media (max-height: 500px) {
+  .band-top, .dock { position: static; }
+  body[data-screen=question] .band-top .inner { padding: 8px 24px; }
+  body[data-screen=question] .day-date { display: none; }
+  body[data-screen=question] #hero { display: grid; grid-template-columns: 1fr auto; align-items: baseline; column-gap: 12px; }
+  body[data-screen=question] .headline { font-size: 18px; margin: 0; }
+  body[data-screen=question] .progress-bar { grid-column: 1 / -1; margin: 6px 0 0; }
+  .dock-wait { display: none; }
+}
+
+/* Samsung Flip em modo Flex (meio dobrado): enunciado em cima, opções e ação em baixo, junto ao polegar */
+@media (max-width: 600px) and ((device-posture: folded) or (vertical-viewport-segments: 2)) {
+  body[data-screen=question] { height: 100dvh; overflow: hidden; --dock-h: calc(72px + env(safe-area-inset-bottom)); }
+  body[data-screen=question] .band-bottom { min-height: 0; }
+  body[data-screen=question] main { display: grid; grid-template-rows: auto minmax(0, 1fr) calc(50dvh - var(--dock-h)) var(--dock-h); padding: 0; min-height: 0; }
+  body[data-screen=question] .live { display: none; }
+  body[data-screen=question] .qhead { grid-row: 1; }
+  body[data-screen=question] .feedback { grid-row: 2; overflow-y: auto; margin-top: 0; }
+  body[data-screen=question] .opts { grid-row: 3; overflow-y: auto; align-content: start; }
+  body[data-screen=question] .dock { grid-row: 4; margin-top: 0; height: var(--dock-h); }
+  body[data-screen=question] .qhead { overflow-y: auto; }
+}

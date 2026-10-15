@@ -1,6 +1,6 @@
 (function () {
   'use strict';
-  const VERSION = '1.0.0';
+  const VERSION = '1.1.0';
   const QUIZ_SIZE = 10;
   const KEY = 'exame.v1';
   const BANK = window.BANK || [];
@@ -173,7 +173,8 @@
   const screen = document.getElementById('screen');
   const hero = document.getElementById('hero');
 
-  function setHero(title, sub, pct) {
+  function setHero(title, sub, pct, mode) {
+    document.body.dataset.screen = mode || 'home';
     put(hero, 
       h('div', { class: 'headline' }, title),
       sub ? h('div', { class: 'sub' }, sub) : null,
@@ -192,8 +193,9 @@
       h('div', { class: 'stats' },
         stat(available, 'perguntas no banco'), stat(seen, 'já vistas'), stat(wrongN, 'no histórico de erradas'), stat(flagN, 'sinalizadas')),
       historyChart(),
-      h('div', { class: 'bar' },
-        h('button', { class: 'primary', disabled: available === 0, onclick: start }, 'Começar quiz'),
+      h('div', { class: 'bar dock' },
+        h('button', { class: 'primary', disabled: available === 0, onclick: start }, 'Começar quiz')),
+      h('div', { class: 'bar bar-tight' },
         h('span', { class: 'spacer' }),
         h('button', { class: 'ghost', onclick: exportWrong }, 'Exportar erradas'),
         h('button', { class: 'ghost', onclick: exportFlags }, 'Exportar sinalizadas')),
@@ -226,8 +228,8 @@
 
   function question() {
     const it = run.items[run.i], q = it.q;
-    setHero(LABEL[q.category]);
     const answered = it.picked !== null;
+    setHero(LABEL[q.category], 'Pergunta ' + (run.i + 1) + ' de ' + run.items.length, pct(run.i + (answered ? 1 : 0), run.items.length), 'question');
     const opts = it.order.map((orig, pos) => {
       const isRight = orig === q.correct;
       const cls = !answered ? '' : isRight ? ' right' : pos === it.picked ? ' wrong' : ' faded';
@@ -236,8 +238,7 @@
     });
     const parts = [
       run.live.el,
-      h('div', {}, h('span', { class: 'tag' }, q.type === 'caso' ? 'Caso clínico' : 'Memória')),
-      h('div', { class: 'qtext' }, q.text),
+      h('div', { class: 'qhead' }, h('span', { class: 'tag' }, q.type === 'caso' ? 'Caso clínico' : 'Memória'), h('div', { class: 'qtext' }, q.text)),
       h('div', { class: 'opts' }, opts)];
     if (answered) {
       const ok = it.order[it.picked] === q.correct, last = run.i === run.items.length - 1;
@@ -246,8 +247,10 @@
         h('div', {}, q.explanation),
         h('div', { class: 'source' }, 'Fonte: ' + q.source),
         flagControl(q)),
-        h('div', { class: 'bar' }, h('span', { class: 'spacer' }),
+        h('div', { class: 'bar dock' }, h('span', { class: 'spacer' }),
           h('button', { class: 'primary', onclick: () => { if (last) review(); else { run.i++; question(); } } }, last ? 'Ver revisão final' : 'Seguinte')));
+    } else {
+      parts.push(h('div', { class: 'bar dock dock-wait' }, h('span', { class: 'spacer' }), h('button', { class: 'primary', disabled: true }, 'Escolhe uma resposta')));
     }
     put(screen, ...parts);
   }
@@ -300,7 +303,7 @@
   // ---------- revisão final: erradas abertas, depois certas colapsadas ----------
   function review() {
     const ok = run.items.filter(it => it.order[it.picked] === it.q.correct), ko = run.items.filter(it => !ok.includes(it));
-    put(hero, h('div', { class: 'headline' }, grade(pct(ok.length, run.items.length))), h('div', { class: 'sub' }, ok.length + ' de ' + run.items.length + ' certas'));
+    setHero(grade(pct(ok.length, run.items.length)), ok.length + ' de ' + run.items.length + ' certas', null, 'review');
     const card = (it, right) => {
       const q = it.q;
       const body = [
@@ -320,7 +323,7 @@
       ko.map(it => card(it, false)),
       ok.length ? h('div', { class: 'section-heading' }, 'Certas (' + ok.length + ')') : null,
       ok.map(it => card(it, true)),
-      h('div', { class: 'bar' }, h('span', { class: 'spacer' }),
+      h('div', { class: 'bar dock' }, h('span', { class: 'spacer' }),
         h('button', { onclick: home }, 'Início'), h('button', { class: 'primary', onclick: start }, 'Novo quiz')));
   }
 
