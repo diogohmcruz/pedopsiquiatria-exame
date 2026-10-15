@@ -1,6 +1,6 @@
 (function () {
   'use strict';
-  const VERSION = '1.1.0';
+  const VERSION = '1.2.0';
   const QUIZ_SIZE = 10;
   const KEY = 'exame.v1';
   const BANK = window.BANK || [];
@@ -68,13 +68,14 @@
   const NS = 'http://www.w3.org/2000/svg';
   function sv(tag, attrs, ...kids) {
     const el = document.createElementNS(NS, tag);
-    for (const [k, v] of Object.entries(attrs || {})) el.setAttribute(k, v);
+    for (const [k, v] of Object.entries(attrs || {})) { if ((k === 'fill' || k === 'stroke') && v !== 'none') el.style[k] = v; else el.setAttribute(k, v); }
     for (const kid of kids) if (kid != null) el.append(kid.nodeType ? kid : document.createTextNode(kid));
     return el;
   }
   // linhas suaves como no resumo da manhã: traço de 2px, pontos cheios, sem eixos nem grelha.
   // series: [{ color, extend, pts: [{ x: 0..1, y: 0..100, muted?, tip }] }]
-  const INK = '#2E2C27', FAINT = '#B4B3A8', CLAY = '#C6613F', SAGE = '#5E7F5A';
+  // cores do tema (claro/escuro) vêm das variáveis CSS; em SVG têm de ir por style, não por atributo
+  const INK = 'var(--ink)', FAINT = 'var(--faint)', CLAY = 'var(--clay)', SAGE = 'var(--sage)';
   // curva com tangente horizontal em cada ponto (sem laços, sempre da esquerda para a direita), como o resumo da manhã
   function smooth(P) {
     let d = 'M ' + P[0][0].toFixed(1) + ' ' + P[0][1].toFixed(1);
@@ -104,7 +105,7 @@
   }
   const pct = (n, t) => Math.round((n / t) * 100);
   const fmtDate = iso => new Date(iso).toLocaleDateString('pt-PT', { day: 'numeric', month: 'short' });
-  const THEME_COLOR = { hipoteses: INK, tratamento: CLAY, farmacologia: SAGE, dominios: '#8A6D1E' };
+  const THEME_COLOR = { hipoteses: INK, tratamento: CLAY, farmacologia: SAGE, dominios: 'var(--sand)' };
   const GRADES = [[90, 'Excelente'], [70, 'Satisfaz bastante'], [50, 'Satisfaz'], [30, 'Fraco'], [0, 'Muito fraco']];
   const grade = p => GRADES.find(([min]) => p >= min)[1];
 
@@ -156,7 +157,7 @@
       path.setAttribute('d', P.length > 1 ? smooth(P) : '');
     };
     function reveal(i, target, ok, tip) {
-      dots[i].setAttribute('r', 5.5); dots[i].setAttribute('fill', ok ? INK : FAINT); dots[i].setAttribute('fill-opacity', 1);
+      dots[i].setAttribute('r', 5.5); dots[i].style.fill = ok ? INK : FAINT; dots[i].setAttribute('fill-opacity', 1);
       titles[i].textContent = tip;
       const t0 = performance.now(), D = 500;
       const step = now => {

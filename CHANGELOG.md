@@ -1,5 +1,8 @@
 # Alterações
 
+## 1.2.0
+- Modo escuro, que segue a definição do sistema (sem botão para trocar): paleta nova, incluindo os verdes e vermelhos de certo e errado, gráficos e cor da barra do browser.
+
 ## 1.1.0
 - Telemóvel: o ecrã é preenchido na altura toda, sem espaço em branco no fundo.
 - Durante o quiz, o topo fica compacto e fixo (tema, "Pergunta N de 10" e progresso) e o botão de ação fica preso ao fundo, na zona do polegar.
@@ -7,9 +10,6 @@
 - Respeita as zonas seguras do ecrã (entalhe e barras do sistema) quando instalada.
 - Samsung Flip em modo Flex (meio dobrado): enunciado e explicação em cima, opções e botão em baixo.
 - Mostra "Pergunta N de 10" e a barra de progresso também no portátil.
-
-### Ideias futuras
-- Modo escuro (`prefers-color-scheme: dark`): exige uma paleta nova, incluindo os verdes e vermelhos de certo e errado.
 
 ## 1.0.0
 - Site instalável (PWA) com funcionamento offline e ícone novo (barco).

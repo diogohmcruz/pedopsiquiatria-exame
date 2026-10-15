@@ -1,6 +1,6 @@
 // Service worker: guarda o site no dispositivo para funcionar offline.
 // Estratégia: devolve logo o que está em cache e atualiza em segundo plano (a versão nova aparece na visita seguinte).
-const CACHE = 'exame-v1.1.0'; // mudar a cada versão: o service worker novo avisa a página
+const CACHE = 'exame-v1.2.0'; // mudar a cada versão: o service worker novo avisa a página
 const SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'bank.js', 'manifest.webmanifest',
   'fonts/fraunces-latin-600-normal.woff2', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png'];
 

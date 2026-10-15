@@ -9,6 +9,18 @@
   --ink: #2E2C27; --muted: #6B6A63; --faint: #B4B3A8;
   --clay: #C6613F; --clay-soft: #F7E9E3; --alert: #A63D1F;
   --sage: #5E7F5A; --sage-soft: #E8EFE5; --sand-soft: #F3EFE3; --sand: #8A6D1E;
+  --card: #fff; --ink-hover: #46433a;
+  color-scheme: light dark;
+}
+/* modo escuro: segue a definição do sistema */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #1B1A17; --paper-top: #211F1B; --line: #36342E; --line-top: #2E2C27;
+    --ink: #ECEAE2; --muted: #A5A39A; --faint: #6A685F;
+    --clay: #E0805E; --clay-soft: #3A2620; --alert: #EE7F5E;
+    --sage: #8FB58A; --sage-soft: #1F2D1E; --sand-soft: #2B271C; --sand: #D6B35A;
+    --card: #25231F; --ink-hover: #FFFFFF;
+  }
 }
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body { background: var(--paper); font-family: -apple-system, "Segoe UI", sans-serif; color: var(--ink); font-size: 16px; line-height: 1.55; }
@@ -33,19 +45,19 @@ body { min-height: 100dvh; display: flex; flex-direction: column; }
 button { padding: 8px 18px; border: 1px solid var(--line); background: var(--paper); border-radius: 999px; cursor: pointer; transition: border-color .15s, background .15s; }
 button:hover { border-color: var(--ink); }
 button.primary { background: var(--ink); color: var(--paper); border-color: var(--ink); }
-button.primary:hover { background: #46433a; }
+button.primary:hover { background: var(--ink-hover); }
 button.ghost { border-color: transparent; color: var(--muted); background: none; padding: 6px 10px; font-size: 14px; }
 button.ghost:hover { color: var(--ink); border-color: var(--line); }
 button:disabled { opacity: .45; cursor: default; }
 :focus-visible { outline: 2px solid var(--clay); outline-offset: 2px; }
-textarea { width: 100%; min-height: 56px; padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; background: #fff; resize: vertical; }
+textarea { width: 100%; min-height: 56px; padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--card); resize: vertical; }
 
 .bar { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-top: 18px; }
 .spacer { flex: 1; }
 h2 { font-family: 'Fraunces', Georgia, serif; font-weight: 600; font-size: 22px; line-height: 1.3; margin-bottom: 14px; }
 .section-heading { font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; margin: 32px 0 14px; }
 .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin: 8px 0 8px; }
-.stat { border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; background: #fff; }
+.stat { border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; background: var(--card); }
 .stat b { display: block; font-family: 'Fraunces', Georgia, serif; font-size: 26px; font-weight: 600; }
 .stat span { color: var(--muted); font-size: 13.5px; }
 .empty { color: var(--muted); }
@@ -53,7 +65,7 @@ h2 { font-family: 'Fraunces', Georgia, serif; font-weight: 600; font-size: 22px;
 .tag { display: inline-block; font-size: 12px; padding: 1px 9px; border-radius: 999px; background: var(--sand-soft); color: var(--sand); margin-right: 6px; }
 .qtext { font-size: 18px; line-height: 1.5; margin: 10px 0 18px; }
 .opts { display: grid; gap: 10px; }
-.opt { text-align: left; border-radius: 12px; padding: 12px 16px; display: flex; gap: 12px; background: #fff; }
+.opt { text-align: left; border-radius: 12px; padding: 12px 16px; display: flex; gap: 12px; background: var(--card); }
 .opt .letter { font-weight: 700; color: var(--muted); }
 .opt.right { border-color: var(--sage); background: var(--sage-soft); }
 .opt.wrong { border-color: var(--alert); background: var(--clay-soft); }
@@ -66,7 +78,7 @@ h2 { font-family: 'Fraunces', Georgia, serif; font-weight: 600; font-size: 22px;
 .flagged-note { font-size: 13px; color: var(--alert); margin-top: 8px; }
 .flagbox { margin-top: 10px; }
 
-.review-item { border: 1px solid var(--line); border-radius: 12px; background: #fff; margin-bottom: 12px; padding: 14px 16px; }
+.review-item { border: 1px solid var(--line); border-radius: 12px; background: var(--card); margin-bottom: 12px; padding: 14px 16px; }
 .review-item.ko { border-left: 4px solid var(--alert); }
 .review-item.ok { border-left: 4px solid var(--sage); }
 .review-item summary { cursor: pointer; list-style: none; }
